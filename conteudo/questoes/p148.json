@@ -1,0 +1,489 @@
+{
+  "prova": {
+    "id": "p148",
+    "titulo": "Prova 148 (24.1)",
+    "temas": "Linfomas e Tireoide",
+    "periodo": "2024.1",
+    "gabarito_fonte": "aluno",
+    "paginas": [
+      24,
+      31
+    ]
+  },
+  "questoes": [
+    {
+      "id": "p148-q01",
+      "numero": "1",
+      "tipo": "multipla",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-hashimoto"
+      ],
+      "enunciado": "Qual dos seguintes achados laboratoriais é mais comum na Tireoidite de Hashimoto?",
+      "pontos": 0.7,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Níveis elevados de T3 e T4 com níveis baixos de TSH"
+        },
+        {
+          "letra": "B",
+          "texto": "Níveis elevados de anticorpos anti-TPO (antiperoxidase tireoidiana) com transformação oncocítica do epitélio folicular"
+        },
+        {
+          "letra": "C",
+          "texto": "Hipertireoidismo com aumento da captação de iodo radioativo"
+        },
+        {
+          "letra": "D",
+          "texto": "Presença de nódulos tireoidianos frios, sólidos muito vascularizados sem traves fibrosas"
+        }
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "Hashimoto é a tireoidite **autoimune** e a causa mais comum de hipotireoidismo: formam-se anticorpos **anti-TPO** e anti-tireoglobulina, e a microscopia mostra os cinco elementos — infiltrado linfoplasmocitário, nódulos linfoides, traves fibrosas, atrofia folicular e a **célula oncocítica (Hürthle)**, sem a qual não se fala em Hashimoto. A e C descrevem hipertireoidismo (padrão de Graves: T3/T4 altos e TSH baixo); no Hashimoto o esperado é **TSH alto com T4 baixo**. D não serve: Hashimoto é doença difusa de toda a glândula e cursa justamente **com** traves fibrosas.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Gabarito do aluno (imagem da pág. 28): B. A aluna também marcou B e riscou a alternativa A. Resposta coerente com o resumo das aulas."
+    },
+    {
+      "id": "p148-q02",
+      "numero": "2",
+      "tipo": "multipla",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-folicular"
+      ],
+      "enunciado": "Qual das seguintes características é mais indicativa de Carcinoma Folicular da tireoide?",
+      "pontos": 0.7,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Formação de padrões papilíferos com núcleos em “corpos psamomatosos” e áreas de necrose"
+        },
+        {
+          "letra": "B",
+          "texto": "Presença de padrões foliculares e capacidade de invasão vascular e capsular sem evidência de metástases linfáticas"
+        },
+        {
+          "letra": "C",
+          "texto": "Tumor com predominância de células pequenas e redondas com numerosas mitoses e ausência de comprometimento da cápsula glandular"
+        },
+        {
+          "letra": "D",
+          "texto": "Presença de células anaplásicas e rápida progressão com infiltração local extensa"
+        }
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "O carcinoma folicular forma **folículos bem diferenciados**, parecidos com tireoide normal; o que o define (e o separa do adenoma) é a **invasão da cápsula e/ou dos vasos** — por isso não se fecha o diagnóstico na punção, só na peça. A disseminação é **hematogênica** (osso, fígado, pulmão, cérebro), **sem metástase linfonodal**. A descreve o papilífero (papilas e corpos psamomatosos); D descreve o anaplásico; C contradiz o folicular, que tem mitoses raras e justamente compromete a cápsula.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Gabarito do aluno: B; a aluna também marcou B e circulou a palavra “sem” (sem metástases linfáticas). Ao lado do enunciado ela anotou os marcadores do folicular (“TTF-1, TTF-2, PAX8+”) e a morfologia (folículos bem diferenciados, com pleomorfismo)."
+    },
+    {
+      "id": "p148-q03",
+      "numero": "3",
+      "tipo": "multipla",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-graves",
+        "tir-bocio-nodular"
+      ],
+      "enunciado": "Qual dos seguintes achados é característico da Doença de Graves?",
+      "pontos": 0.7,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Presença de anticorpos anti-tireoidianos de tipo anti-TPO elevados em todos os casos"
+        },
+        {
+          "letra": "B",
+          "texto": "Hiperplasia difusa da glândula tireoide com aumento da pinocitose e produção excessiva de hormônios tireoidianos"
+        },
+        {
+          "letra": "C",
+          "texto": "Formação de nódulos tireoidianos adenomatosos sem hiperplasia do revestimento folicular e frios em exames de imagem"
+        },
+        {
+          "letra": "D",
+          "texto": "Aumento isolado dos níveis de TSH com níveis normais de T3 e T4"
+        }
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "Graves é o **bócio difuso tóxico**: autoanticorpos **antirreceptor de TSH** estimulam a glândula inteira, o epitélio folicular fica alto e forma papilas simples, há **muita pinocitose** (reabsorção do coloide) e os hormônios sobem — T3/T4 altos e TSH baixo. Em A o anticorpo típico está trocado (anti-TPO lembra Hashimoto) e “em todos os casos” é absoluto demais. C descreve o bócio nodular atóxico, que **não** tem hiperplasia do epitélio nem pinocitose. D é o padrão de hipotireoidismo subclínico (TSH alto com T3/T4 normais).",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Gabarito do aluno: B; a aluna também marcou B e riscou “Aumento” e “TSH” na alternativa D."
+    },
+    {
+      "id": "p148-q04",
+      "numero": "4",
+      "tipo": "multipla",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-papilifero",
+        "tir-medular",
+        "tir-anaplasico"
+      ],
+      "enunciado": "Qual das seguintes características é tipicamente associada ao Carcinoma Papilífero diferenciado da tireoide?",
+      "pontos": 0.7,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Presença de células gigantes multinucleadas, numerosas mitoses e áreas de necrose central"
+        },
+        {
+          "letra": "B",
+          "texto": "Formação de estruturas em “ninho” com infiltração em tecidos adjacentes e produção de amiloide"
+        },
+        {
+          "letra": "C",
+          "texto": "Presença de padrões papilíferos em biópsias, com células em “inclusão intranuclear” e “corpos psamomatosos”"
+        },
+        {
+          "letra": "D",
+          "texto": "Tumor com metástase para os pulmões e osso como primeira manifestação da doença"
+        }
+      ],
+      "correta": "C",
+      "pede": "correta",
+      "explicacao": "O papilífero clássico tem papilas com eixo fibrovascular, mas quem dá o diagnóstico é o **núcleo**: cromatina clara, contorno irregular (fendas) e **pseudoinclusões intranucleares**; os **corpos psamomatosos** são achado frequente. A é o perfil do anaplásico (pleomorfismo, mitoses, necrose). B é o medular (células C, ninhos e **amiloide**). D aponta para o folicular, que dissemina por via hematogênica para osso e pulmão — o papilífero vai por via **linfática** para os linfonodos cervicais.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Gabarito do aluno: C; a aluna também marcou C e anotou “→ medular” ao lado da alternativa B."
+    },
+    {
+      "id": "p148-q05",
+      "numero": "5",
+      "tipo": "multipla",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-geral",
+        "lfa-drenagem-clinica",
+        "tir-papilifero"
+      ],
+      "enunciado": "Paciente feminina, 22 anos, com metástase linfonodal cervical associada à neoplasia epitelial papilífera tireoidiana. Qual a melhor caracterização morfológica para este linfonodo? Explique a sua resposta.",
+      "pontos": 1.0,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Linfadenopatia primária"
+        },
+        {
+          "letra": "B",
+          "texto": "Linfadenopatia por continuidade"
+        },
+        {
+          "letra": "C",
+          "texto": "Linfadenite metastática"
+        },
+        {
+          "letra": "D",
+          "texto": "Linfadenopatia secundária"
+        }
+      ],
+      "correta": "D",
+      "pede": "correta",
+      "resposta_modelo": "**Linfadenopatia secundária (D).** O linfonodo está aumentado por uma neoplasia que não se originou nele: são células epiteliais do carcinoma papilífero da tireoide que chegaram pela via linfática — a disseminação linfática para os linfonodos cervicais é a regra nesse tumor. Linfadenopatia tumoral **primária** é o linfoma, que nasce das próprias células linfoides do linfonodo; a **metástase** é a linfadenopatia tumoral **secundária**.",
+      "checklist": [
+        "Alternativa D — linfadenopatia secundária",
+        "Secundária = metástase: neoplasia originada fora do linfonodo (aqui, carcinoma papilífero da tireoide)",
+        "Primária seria o linfoma (origem nas células linfoides do próprio linfonodo)",
+        "O carcinoma papilífero dissemina por via linfática para os linfonodos cervicais"
+      ],
+      "explicacao": "Na classificação das linfadenopatias pelo tipo de estímulo, as **tumorais** se dividem em **primárias (linfomas)** e **secundárias (metástases)**. Aqui o tumor é epitelial e veio da tireoide, logo é secundária. “Linfadenite” (C) é termo para processo infeccioso/inflamatório, não para metástase; “por continuidade” (B) seria invasão direta a partir do órgão vizinho, e o papilífero chega ao linfonodo pelos vasos linfáticos; “primária” (A) seria um linfoma.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Questão mista: alternativa (0,5) + explicação escrita (0,5), conforme a foto da prova — por isso inclui também resposta_modelo e checklist. Gabarito do aluno: “D - Explicação de ser secundária pq é oriunda de metástase do carcinoma da tireoide e não originária das células linfoides”. A aluna também marcou D e sublinhou “Linfadenite” na alternativa C."
+    },
+    {
+      "id": "p148-q06",
+      "numero": "6",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral",
+        "lin-dgcb",
+        "lin-burkitt",
+        "lfa-padrao-paracortical"
+      ],
+      "enunciado": "A correlação com os dados clínicos e laboratoriais é fundamental durante a análise anatomopatológica dos materiais de biópsia ou peças cirúrgicas, garantindo um diagnóstico mais preciso. Em casos onde há perda da arquitetura histológica normal do linfonodo e presença de células grandes, com citoplasma amplo, núcleos bilobados com cromatina dispersa e nucléolos eosinofílicos evidentes, devem ser considerados no diagnóstico diferencial, **exceto**:",
+      "pontos": 0.7,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Linfoma de Hodgkin"
+        },
+        {
+          "letra": "B",
+          "texto": "Linfoma não-Hodgkin, tipo difuso de grandes células B"
+        },
+        {
+          "letra": "C",
+          "texto": "Mononucleose infecciosa"
+        },
+        {
+          "letra": "D",
+          "texto": "Linfoma de Burkitt"
+        }
+      ],
+      "correta": "D",
+      "pede": "incorreta",
+      "explicacao": "A descrição é a da **célula de Reed-Sternberg**: grande, bilobada (“em espelho”), com nucléolos grandes e eosinofílicos. Entram no diferencial o próprio linfoma de Hodgkin e as condições com células parecidas com a RS: **mononucleose infecciosa** e **linfoma difuso de grandes células B** (grandes células blásticas com nucléolos evidentes). O **Burkitt** não cabe: suas células são de **tamanho médio**, monomórficas, com núcleos redondos, nucléolos pequenos e citoplasma basofílico, no padrão de céu estrelado.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Gabarito do aluno: D; a aluna também marcou D, circulou “exceto” e anotou ao lado a morfologia e a IHQ do LDGCB. Confirmação indireta por gabarito oficial: na Prova 150 (q10), os dois diagnósticos diferenciais das células de Reed-Sternberg aceitos são “mononucleose infecciosa, linfoma difuso de grandes células B”."
+    },
+    {
+      "id": "p148-q07",
+      "numero": "7",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-dgcb"
+      ],
+      "enunciado": "Linfoma difuso de grandes células B (LDGB), o tipo mais comum de linfoma não-Hodgkin, compreende um grupo heterogêneo de doenças com diferentes biologias, apresentações clínicas e resposta ao tratamento. Sobre esta patologia é correto afirmar:",
+      "pontos": 0.7,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Alterações dos genes BCL2, BCL6, MYC e EZH2 podem contribuir para a progressão do LDGB"
+        },
+        {
+          "letra": "B",
+          "texto": "Células neoplásicas expressam CD4, CD15, CD22, CD79, PAX5, CD45RO+, TCR β"
+        },
+        {
+          "letra": "C",
+          "texto": "A perda de CD2 ou CD5 favorece a variante neoplásica que apresenta alterações no gene MYC"
+        },
+        {
+          "letra": "D",
+          "texto": "As células neoplásicas em quase todos os casos de LDGCB, sem outras especificações (NOS) expressam CD25"
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "Dá para resolver por eliminação com a IHQ do resumo: o LDGCB é de **células B** — CD20+, Pax5+, CD22+, CD79a+ e ciclina D1 negativa. B mistura marcadores de linfócito T (CD4, CD45RO, TCR β) e o CD15 do Hodgkin clássico; C fala em perda de CD2/CD5, que são marcadores T; D atribui ao tumor um marcador (CD25) que não faz parte do seu perfil. Sobra A. Complemento: rearranjos de BCL2, BCL6 e MYC e mutações de EZH2 são alterações genéticas reconhecidas no LDGCB.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Gabarito do aluno: A. A aluna NÃO marcou alternativa nesta questão (apenas circulou o número — ficou em dúvida). A parte genética (BCL2/BCL6/MYC/EZH2) não está no resumo das aulas; a resposta se sustenta pela eliminação das demais. O banco de questões compilado no fim do arquivo de provas também dá A. Texto corrigido pela foto da prova: “diferentes biologias” (a transcrição traz “biológicas”) e “TCR β” (a transcrição traz “TCR B”)."
+    },
+    {
+      "id": "p148-q08",
+      "numero": "8",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-estadiamento",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Paciente com diagnóstico de Linfoma de Hodgkin e linfonodomegalia limitada a três linfonodos da cadeia cervical esquerda nível II, apresenta na classificação de Ann Arbor o seguinte estádio:",
+      "pontos": 0.7,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "IV"
+        },
+        {
+          "letra": "B",
+          "texto": "III"
+        },
+        {
+          "letra": "C",
+          "texto": "II"
+        },
+        {
+          "letra": "D",
+          "texto": "I"
+        }
+      ],
+      "correta": "D",
+      "pede": "correta",
+      "explicacao": "Ann Arbor conta **cadeias (grupos) linfonodais**, não o número de linfonodos: três linfonodos na **mesma** cadeia cervical = uma única cadeia = **estádio I**. Estádio II exige duas ou mais cadeias do mesmo lado do diafragma; III, os dois lados do diafragma ou o baço; IV, acometimento difuso de órgão extralinfático. Pegadinhas do enunciado: “três linfonodos” e “nível II” (nível cervical, que nada tem a ver com o estádio).",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Gabarito do aluno: D (estádio I); a aluna também marcou D. Na foto da prova a questão aparece numerada “8. 7.” — vestígio de reaproveitamento: no gabarito oficial da Prova 147 (23.2), a questão 7 tem como resposta “Estádio I”, muito provavelmente esta mesma questão."
+    },
+    {
+      "id": "p148-q09",
+      "numero": "9",
+      "tipo": "multipla",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-hiperplasia-vs-linfoma-folicular",
+        "lfa-padrao-folicular",
+        "lin-folicular"
+      ],
+      "enunciado": "Paciente feminina, 65 anos, com linfonodo de tamanho aumentado, firme e doloroso. Este exibe camada cortical espessada às custas de numerosos folículos linfoides com centros germinativos proeminentes onde são visualizadas células pequenas com núcleos hipercromáticos e células grandes e claras, com restos nucleares fagocitados no citoplasma, além de figuras de mitose. A zona paracortical mostra-se pouco aparente enquanto a zona medular e a cápsula linfonodal encontram-se preservadas. A descrição morfológica acima é compatível com o diagnóstico:",
+      "pontos": 0.7,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Hiperplasia linfoide folicular"
+        },
+        {
+          "letra": "B",
+          "texto": "Linfoma folicular"
+        },
+        {
+          "letra": "C",
+          "texto": "Linfoma de Burkitt"
+        },
+        {
+          "letra": "D",
+          "texto": "Linfoma de Hodgkin, tipo rico em linfócitos"
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "É o padrão folicular **reacional**: muitos folículos com centros germinativos proeminentes e população mista (células pequenas e grandes, mitoses, macrófagos com restos nucleares fagocitados), com **arquitetura preservada** — cápsula e medular íntegras. No linfoma folicular os folículos têm tamanho parecido, a **coroa linfocitária desaparece**, há invasão da gordura perilinfonodal e BCL-2 positivo. Burkitt é proliferação difusa de células médias monótonas; o Hodgkin rico em linfócitos apaga a arquitetura e exige célula de Reed-Sternberg. Cuidado: macrófagos com restos celulares dentro do centro germinativo reacional lembram “céu estrelado”, mas não significam Burkitt.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Gabarito do aluno: A; a aluna também marcou A e sublinhou os achados (cortical espessada, numerosos folículos, centros germinativos proeminentes, cápsula e medular preservadas)."
+    },
+    {
+      "id": "p148-q10",
+      "numero": "10",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-micose-fungoide"
+      ],
+      "enunciado": "Masculino, 56 anos, com história de dermatite atópica. Ao exame físico apresenta várias lesões cutâneas eritematosas e descamativas, localizadas principalmente na parte superior do tronco e braços que vem se acentuando nos últimos dois anos. Relata também coceira persistente nas áreas afetadas. A biópsia revelou infiltrado linfocitário, espongiose, linfócitos intraepidérmicos CD4 positivo, pleomorfismo nuclear variável e citomorfologia cerebriforme. Considerando os dados do texto assinale a alternativa correta:",
+      "pontos": 0.7,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A lesão tem microabscessos de Munro compostos de células T CD4+"
+        },
+        {
+          "letra": "B",
+          "texto": "A lesão tem microabscessos de Pautrier"
+        },
+        {
+          "letra": "C",
+          "texto": "A categoria M é baseada na presença de linfadenopatia dermatopática"
+        },
+        {
+          "letra": "D",
+          "texto": "Translocações cromossômicas recorrentes são frequentes em comparação com os linfomas de células B"
+        }
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "O caso é de **micose fungoide** (linfoma não Hodgkin T cutâneo): lesões eritematosas na parte superior do tronco, linfócitos **T CD4+** que sobem para a epiderme (epidermotropismo) e têm núcleo **cerebriforme**. Os agregados desses linfócitos dentro da epiderme são os **microabscessos de Pautrier**; IHQ: CD3+, CD4+, CD5+. Complemento: microabscesso de Munro é coleção de neutrófilos da psoríase (A); linfonodo entra na categoria N, não na M (C); translocações recorrentes são marca dos linfomas B, como MYC no Burkitt e BCL-2 no folicular (D).",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Gabarito do aluno: B; a aluna também marcou B, riscou “Munro” na alternativa A e anotou: “micose fungoide / síndrome de Sézary → infiltrado de linfócitos cerebriformes na derme, formando microabscessos de Pautrier. CD3+, CD4+, CD5+”. Pequena correção de redação no enunciado (“Relata também reportar coceira” → “Relata também coceira”)."
+    },
+    {
+      "id": "p148-q11",
+      "numero": "11",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lnh-geral",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Sobre os linfomas não Hodgkin assinale a alternativa correta:",
+      "pontos": 0.7,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A progressão da doença não se faz necessariamente por contiguidade, sendo mais frequentes os casos com acometimento sistêmico ao diagnóstico, inclusive com leucemização"
+        },
+        {
+          "letra": "B",
+          "texto": "Tem faixa etária bimodal, com pico de acometimento em crianças e adultos jovens e um pico menor nas faixas etárias mais avançadas"
+        },
+        {
+          "letra": "C",
+          "texto": "As células neoplásicas são a minoria <1% com microambiente reativo constituído por linfócitos, plasmócitos, eosinófilos, na maioria dos casos"
+        },
+        {
+          "letra": "D",
+          "texto": "Células T ocorrem com frequência no mundo ocidental, células B e NK (natural killer) são exemplos de fenótipo null (não B-não T)"
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "A alternativa A é praticamente a linha “progressão da doença” da tabela LH × LNH do resumo: no **LNH** a progressão **não** se faz necessariamente por contiguidade e o acometimento sistêmico pode existir já ao diagnóstico, inclusive com leucemização. B e C são características do **Hodgkin**: distribuição bimodal e células neoplásicas em minoria num fundo inflamatório reativo. D está errada — Complemento: no mundo ocidental a grande maioria dos LNH é de **células B** (os de células T são minoria), e célula B não é “fenótipo null”.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Gabarito do aluno: A; a aluna também marcou A e fez um “x” ao final da alternativa B."
+    },
+    {
+      "id": "p148-q12",
+      "numero": "12",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral",
+        "lin-lh-esclerose-nodular",
+        "lin-lh-celularidade-mista",
+        "lin-estadiamento"
+      ],
+      "enunciado": "Assinale verdadeiro (V) ou falso (F) sobre os linfomas de Hodgkin:",
+      "pontos": 2.0,
+      "itens": [
+        {
+          "texto": "Apresentam distribuição bimodal com picos entre 15-35 anos e 50 e 70 anos",
+          "resposta": true,
+          "justificativa": "O Hodgkin tem distribuição **bimodal**: um pico em jovens e outro em mais velhos. Item confirmado como V no gabarito oficial da Prova 147."
+        },
+        {
+          "texto": "A célula de Reed-Sternberg é derivada das células B do centro germinativo",
+          "resposta": true,
+          "justificativa": "Confirmado como V no gabarito oficial da Prova 147. Apesar de ser CD20 negativa no LH clássico, a célula de Reed-Sternberg tem origem em linfócito B (PAX-5 positivo fraco)."
+        },
+        {
+          "texto": "A localização mediastinal é típica do subtipo esclerose nodular",
+          "resposta": true,
+          "justificativa": "O comprometimento do mediastino é relativamente frequente no LH, principalmente na forma de **esclerose nodular**. Confirmado como V no gabarito oficial da Prova 147."
+        },
+        {
+          "texto": "A positividade imuno-histoquímica dos marcadores indicados para o seu diagnóstico deve ser observada em todas as células que compõem a massa tumoral",
+          "resposta": false,
+          "justificativa": "A marcação (CD30+, CD15+) é procurada **em cima da célula de Hodgkin/Reed-Sternberg**, que é minoria na massa; o restante é fundo inflamatório reativo, que não precisa marcar. Confirmado como F no gabarito oficial da Prova 147."
+        },
+        {
+          "texto": "Nos pacientes com linfonodomegalia cervical, sudorese, febre e perda de peso, um dos principais diagnósticos diferenciais é a tuberculose",
+          "resposta": true,
+          "justificativa": "Linfonodo cervical com febre, sudorese e emagrecimento (sintomas B) tem três grandes diferenciais: linfoma, metástase (tireoide) e **tuberculose**. Confirmado como V no gabarito oficial da Prova 145 — Linfomas."
+        },
+        {
+          "texto": "Alguns casos são associados à infecção pelo Vírus Epstein-Barr",
+          "resposta": true,
+          "justificativa": "O EBV é uma das causas de linfoma; no Hodgkin, o tipo **celularidade mista** é o mais associado. Confirmado como V no gabarito oficial da Prova 147."
+        },
+        {
+          "texto": "O linfoma de Hodgkin, tipo esclerose nodular, apresenta fundo inflamatório predominantemente linfocitário",
+          "resposta": false,
+          "justificativa": "Na esclerose nodular há traves de fibrose, células **lacunares** e fundo inflamatório **misto** e abundante (linfócitos, eosinófilos, plasmócitos e macrófagos). Fundo predominantemente linfocitário é do tipo **rico em linfócitos**. Confirmado como F no gabarito oficial da Prova 145 — Linfomas."
+        },
+        {
+          "texto": "Em casos de positividade imuno-histoquímica para o vírus Epstein-Barr deve-se descartar a possibilidade de mononucleose infecciosa, principalmente em adolescentes",
+          "resposta": true,
+          "justificativa": "Item polêmico (ver observação). Lido como “é preciso excluir a mononucleose antes de fechar Hodgkin”, é verdadeiro: a mononucleose é causada pelo EBV, é comum em adolescentes e tem células semelhantes às de Reed-Sternberg."
+        },
+        {
+          "texto": "O estágio III da doença cursa com leucemização",
+          "resposta": false,
+          "justificativa": "Estádio III = linfonodos dos **dois lados do diafragma** ou baço acometido. Leucemização é a presença de células neoplásicas no sangue após infiltração de medula óssea/baço — não é o que define o estádio III. Confirmado como F no gabarito oficial da Prova 145 — Linfomas."
+        },
+        {
+          "texto": "As células neoplásicas características do tipo celularidade mista são as de Reed-Sternberg, variante linfo-histiocitária",
+          "resposta": false,
+          "justificativa": "A variante **linfo-histiocitária (“pipoca”)** é a do tipo **predominância linfocítica nodular** (LH não clássico). Na celularidade mista predominam as variantes diagnóstica (clássica) e mononuclear. Confirmado como F no gabarito oficial da Prova 145 — Linfomas."
+        }
+      ],
+      "explicacao": "Sequência: **V, V, V, F, V, V, F, V, F, F**. Os dez itens são reaproveitados de provas anteriores: cinco vêm da Prova 147 e cinco da Prova 145 — Linfomas, ambas com gabarito oficial (um dos itens foi anulado na 145 — ver observação). Os erros clássicos: exigir marcação IHQ em todas as células (marca-se a célula de Reed-Sternberg), dar fundo linfocitário à esclerose nodular (é misto), ligar estádio III a leucemização e trocar a variante da celularidade mista pela linfo-histiocitária (que é do PLN).",
+      "gabarito_fonte": "aluno",
+      "confianca": "media",
+      "observacao": "Gabarito do aluno: V, V, V, F, V, V, F, V, F, F — idêntico ao que a aluna marcou à mão (págs. 27–28) e ao gabarito do banco compilado no fim do arquivo. Nove itens são confirmados por gabaritos OFICIAIS (itens 1, 2, 3, 4 e 6 pela Prova 147; itens 5, 7, 9 e 10 pela Prova 145 — Linfomas). DIVERGÊNCIA no item 8 (EBV positivo → “descartar” mononucleose): o gabarito do aluno dá V, mas na Prova 145 — Linfomas o gabarito oficial mandou DESCONSIDERAR esse mesmo item (pontos redistribuídos), provavelmente pela ambiguidade de “descartar” (excluir como diferencial × desprezar a hipótese). A própria aluna marcou V aqui e F na Prova 145, riscando a palavra “descartar” nas duas. Adotado V (gabarito do aluno + raciocínio: a mononucleose é diferencial que precisa ser excluído), com confiança média por causa desse item. Valor: 2,0 (0,2 por item)."
+    }
+  ]
+}

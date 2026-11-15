@@ -1,0 +1,19 @@
+# segredos — a chave da API é digitada no app, nunca versionada
+env.json
+*.env
+.env*
+
+# caches de build do conteúdo
+conteudo/md/.cache/
+__pycache__/
+*.pyc
+
+# editores / SO
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# material bruto de terceiros (PDFs e fotos de provas) — não versionado
+/*.pdf
+conteudo/imagens/

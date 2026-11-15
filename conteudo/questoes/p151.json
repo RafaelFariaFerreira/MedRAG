@@ -1,0 +1,112 @@
+{
+  "prova": {
+    "id": "p151",
+    "titulo": "Prova 151 (25.2)",
+    "temas": "Linfomas e Tireoide",
+    "periodo": "2025.2",
+    "gabarito_fonte": "notebooklm",
+    "paginas": [5, 12]
+  },
+  "questoes": [
+    {
+      "id": "p151-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-lh-esclerose-nodular", "lin-lh-geral"],
+      "enunciado": "Paciente de 19 anos procura atendimento médico devido ao aparecimento de um nódulo indolor na região cervical há dois meses, associado à sudorese noturna intensa e febre esporádica. A tomografia computadorizada revela linfonodomegalia mediastinal. A biópsia do linfonodo cervical mostra uma arquitetura nodular delimitada por densas traves de colágeno. Em meio a um infiltrado inflamatório composto por linfócitos, eosinófilos e plasmócitos. Presença de células grandes, com citoplasma claro e retraído e nucléolo evidente. Discutir seu diagnóstico, a morfologia, o perfil imuno-histoquímico, a evolução e os diagnósticos diferenciais com perfil imuno-histoquímico.",
+      "pontos": 2.0,
+      "resposta_modelo": "**Diagnóstico:** Linfoma de Hodgkin clássico, tipo esclerose nodular. Sustentam o diagnóstico: adulto jovem (19 anos), linfonodomegalia cervical indolor com extensão ao mediastino (cadeias contíguas), sintomas B (febre e sudorese noturna), arquitetura nodular delimitada por traves densas de colágeno e células grandes de citoplasma claro e retraído (células lacunares).\n\n**Morfologia:** a arquitetura do linfonodo é substituída por nódulos separados por bandas (traves) de colágeno — nódulo + esclerose (fibrose). O fundo é inflamatório, reacional e não neoplásico: linfócitos, eosinófilos, plasmócitos e macrófagos. As células neoplásicas são as células de Reed-Sternberg (células de Hodgkin) na variante **lacunar**: o citoplasma claro se retrai no processamento e o núcleo fica dentro de um espaço vazio (lacuna). A forma clássica especular (dois núcleos em espelho, com nucléolos grandes e eosinofílicos) também é encontrada.\n\n**Perfil imuno-histoquímico** (pesquisado na célula de Hodgkin/Reed-Sternberg): CD15 + e CD30 +; CD20 − e CD45 −.\n\n**Evolução:** a disseminação é por contiguidade, obedecendo à sequência das cadeias linfonodais (cervical, supraclavicular, mediastinal); o comprometimento do mediastino é frequente nesse tipo. É o tipo mais comum de linfoma de Hodgkin e o de melhor prognóstico, com boa resposta ao tratamento. O estadiamento (Ann Arbor) norteia o tratamento: cervical + mediastinal são cadeias do mesmo lado do diafragma (estádio II), aqui com sintomas B.\n\n**Diagnósticos diferenciais com perfil imuno-histoquímico:** (1) Linfoma Não Hodgkin difuso de grandes células B — células grandes, de nucléolos evidentes, que podem simular a célula de Reed-Sternberg, mas com marcadores B fortes: CD20 +, Pax5 +, CD79a +. (2) Mononucleose infecciosa (EBV) — hiperplasia paracortical com linfócitos atípicos que imitam a célula de Reed-Sternberg; são células reacionais CD45 +, sem a coexpressão CD15/CD30, e o EBV pode ser demonstrado (LMP-1). (3) Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular — também forma nódulos, mas a célula é em pipoca e os marcadores são o contrário: CD20 + e CD45 +; CD15 − e CD30 −.",
+      "checklist": [
+        "Diagnóstico completo: Linfoma de Hodgkin clássico, tipo esclerose nodular (não escrever só “esclerose nodular”)",
+        "Nódulos delimitados por bandas/traves de colágeno (fibrose) com fundo inflamatório misto reacional",
+        "Célula de Reed-Sternberg na variante lacunar (citoplasma claro e retraído)",
+        "IHQ positivos: CD15 + e CD30 +",
+        "IHQ negativos: CD20 − e CD45 −",
+        "Evolução: disseminação por contiguidade; tipo mais comum e de melhor prognóstico",
+        "Diferencial 1 com IHQ: LNH difuso de grandes células B (CD20 +)",
+        "Diferencial 2 com IHQ: mononucleose infecciosa (CD45 +, sem CD15/CD30; EBV) ou LH predominância linfocítica nodular (CD20 +/CD45 +, CD15 −/CD30 −)"
+      ],
+      "explicacao": "O enunciado entrega as três pistas do tipo esclerose nodular: **nódulos**, **traves de colágeno** e célula de **citoplasma claro e retraído** (lacunar). Jovem com linfonodo cervical + mediastino + sintomas B é a apresentação típica de Hodgkin, que progride por contiguidade. O professor exige o nome completo — Hodgkin ou não Hodgkin, clássico ou não, e o tipo — e marcadores sempre com + e −. Os diferenciais são as doenças cujas células imitam a Reed-Sternberg; a imuno-histoquímica separa: no Hodgkin clássico CD15/CD30 +, CD20/CD45 −.",
+      "gabarito_fonte": "notebooklm",
+      "confianca": "alta",
+      "observacao": "Não há gabarito oficial desta prova; o gabarito do compilado é do NotebookLM. O diagnóstico e o perfil CD15 +/CD30 +, CD20 −/CD45 − conferem com o resumo das aulas. Os dois diferenciais principais (mononucleose infecciosa e LDGCB) são os mesmos do gabarito oficial da questão 10 da Prova 150. O NotebookLM cita ainda CMV (inclusão em “olho de coruja” na célula endotelial) como diferencial. Na foto da prova original a questão vale (2,0) e alguém anotou “LH” à margem.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p151-q02",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-burkitt"],
+      "enunciado": "Paciente masculino, de 8 anos, residente em uma região endêmica para malária na África, é levado ao hospital com um tumor de crescimento extremamente rápido na mandíbula. A biópsia da lesão revela uma proliferação difusa de linfócitos B de tamanho médio, com citoplasma basofílico, múltiplos nucléolos e altíssima taxa mitótica e aspecto de “céu estrelado”. Discutir seu diagnóstico, a morfologia, o perfil imuno-histoquímico, a evolução e os diagnósticos diferenciais com perfil imuno-histoquímico.",
+      "pontos": 2.0,
+      "resposta_modelo": "**Diagnóstico:** Linfoma Não Hodgkin, tipo de Burkitt (forma endêmica). Sustentam: criança do sexo masculino, África equatorial, tumor de mandíbula de crescimento muito rápido e padrão em céu estrelado. A forma endêmica tem relação de 100% com o EBV.\n\n**Morfologia:** proliferação difusa de células linfoides B de tamanho médio, monomórficas, com núcleos redondos e nucléolos pequenos, citoplasma basofílico com numerosos microvacúolos e alto índice mitótico. De permeio há numerosos macrófagos com corpos tingíveis, que fagocitam restos celulares — os macrófagos claros sobre o fundo escuro de células tumorais dão o aspecto de **céu estrelado**. É uma neoplasia de linfócitos B maduros do centro germinativo, com alteração da via do oncogene MYC.\n\n**Perfil imuno-histoquímico:** CD20 +, Pax5 +, CD10 + e BCL-6 +; CD5 −, CD23 − e BCL-2 −. O índice de proliferação celular (Ki-67) é próximo de 100%.\n\n**Evolução:** linfoma altamente agressivo, de curso extremamente rápido (pode levar à morte em semanas ou meses), com infiltração frequente da medula óssea já ao diagnóstico. Apesar disso, responde bem à quimioterapia agressiva, justamente pelo alto índice proliferativo.\n\n**Diagnósticos diferenciais com perfil imuno-histoquímico:** (1) Linfoma Não Hodgkin difuso de grandes células B — também agressivo, mas de células grandes (3 a 4 vezes um linfócito), com nucléolos evidentes, mais comum por volta dos 60 anos; CD20 +, Pax5 +, CD79a +, com índice de proliferação alto, porém sem chegar a 100%. (2) Linfoma Não Hodgkin folicular — também de células B do centro germinativo (CD20 +, BCL-6 +), mas indolente, de idosos, com arranjo nodular e **BCL-2 +** (o Burkitt é BCL-2 −).",
+      "checklist": [
+        "Diagnóstico completo: Linfoma Não Hodgkin, tipo de Burkitt (forma endêmica, associada ao EBV)",
+        "Células B de tamanho médio, monomórficas, citoplasma basofílico, alto índice mitótico",
+        "Céu estrelado = macrófagos com corpos tingíveis que fagocitam restos celulares",
+        "IHQ positivos: CD20 + e CD10 + (também Pax5 + e BCL-6 +)",
+        "IHQ negativos: BCL-2 − (também CD5 − e CD23 −)",
+        "Índice de proliferação (Ki-67) próximo de 100% — citado como índice, não como marcador",
+        "Evolução: altamente agressivo, medula óssea frequentemente infiltrada, mas responde bem à quimioterapia",
+        "Dois diferenciais com IHQ: LNH difuso de grandes células B (CD20 +, proliferação menor) e LNH folicular (BCL-2 +)"
+      ],
+      "explicacao": "Criança + África/malária + mandíbula + **céu estrelado** é o retrato do Burkitt endêmico. O céu estrelado traduz a proliferação altíssima: muitas células morrem e os macrófagos (as “estrelas”) fagocitam os restos. O dado imuno-histoquímico que o professor destaca é a **ausência de BCL-2** com proliferação de ~100%; é isso que o separa do linfoma folicular (BCL-2 +, indolente). Lembre o recado do professor: Ki-67 é índice de proliferação, não entra na lista de “marcadores”.",
+      "gabarito_fonte": "notebooklm",
+      "confianca": "alta",
+      "observacao": "Sem gabarito oficial; gabarito do NotebookLM conferido com o resumo das aulas. Ajustes feitos: (1) o NotebookLM lista o Ki-67 dentro do perfil imuno-histoquímico — o professor disse que Ki-67 NÃO entra como marcador, é índice de proliferação; (2) o NotebookLM afirma que a maioria dos pacientes atinge a cura e cita acometimento do SNC com profilaxia — o resumo das aulas diz apenas que responde bem à quimioterapia, com sobrevida em torno de 50% nos linfomas altamente agressivos; (3) o enunciado fala em “múltiplos nucléolos”, o resumo descreve “pequenos nucléolos”. O NotebookLM cita ainda o linfoma de células do manto como diferencial (Complemento: ciclina D1 + e CD5 +, CD10 −), que não foi dado em aula. Na foto da prova original a questão vale (2,0).",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p151-q03",
+      "numero": "3",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": ["tir-papilifero", "tir-folicular", "tir-medular"],
+      "enunciado": "Discutir as principais neoplasias primárias epiteliais diferenciadas da tireoide quanto à: morfologia, disseminação e prognóstico.",
+      "pontos": 4.0,
+      "resposta_modelo": "As principais neoplasias primárias epiteliais diferenciadas da tireoide são o carcinoma papilífero, o carcinoma folicular e o carcinoma medular.\n\n**Carcinoma papilífero** (o mais comum). *Morfologia:* lesão brancacenta; na forma clássica há papilas com eixo fibrovascular revestidas por células cúbicas ou cilíndricas. O que define o diagnóstico é o **núcleo**: cromatina clara, contorno irregular e pseudoinclusões (citoplasma que entra no núcleo); as mitoses são raras. São frequentes os corpos psamomatosos (microcalcificações em camadas concêntricas). *Disseminação:* linfática — a invasão de vasos linfáticos é a regra — com metástase para linfonodos cervicais, que pode ser a primeira manifestação. *Prognóstico:* evolução lenta e prognóstico favorável, mesmo com metástase linfonodal.\n\n**Carcinoma folicular** (o segundo mais comum). *Morfologia:* macroscopicamente pode ser nodular e circunscrito (menos maligno) ou difuso/invasivo. Na microscopia é formado por folículos bem diferenciados com coloide, que lembram a tireoide normal, com pleomorfismo discreto e raras mitoses; não tem o núcleo do papilífero. O diagnóstico de malignidade depende da **invasão da cápsula e/ou dos vasos** — é o que o diferencia do adenoma folicular. *Disseminação:* hematogênica, para ossos, pulmão, fígado e cérebro; não faz metástase linfonodal. No osso, o tecido neoplásico substitui o tecido ósseo e pode causar fratura patológica. *Prognóstico:* melhor na forma circunscrita, com invasão mínima; pior na forma difusa/invasiva, pelas metástases à distância.\n\n**Carcinoma medular.** *Morfologia:* origina-se das células C (parafoliculares), produtoras de calcitonina — é um tumor neuroendócrino, esporádico (solitário, em um lobo) ou familial (múltiplo, bilateral, em mais jovens, associado à neoplasia endócrina múltipla). Forma massa firme, branco-acinzentada, circunscrita mas não encapsulada. Na microscopia há grupos, ilhotas ou trabéculas de células redondas, poliédricas ou fusiformes, com núcleos pequenos, hipercromáticos e uniformes e raras mitoses, entremeadas por estroma com **substância amiloide** e calcificações. Imuno-histoquímica positiva para calcitonina e marcadores neuroendócrinos (cromogranina, sinaptofisina). *Disseminação:* metástase em linfonodos cervicais e disseminação hematogênica mais tardia e menos frequente (pulmão, fígado e ossos). *Prognóstico:* malignidade intermediária, com evolução lenta e sobrevida longa; é mais favorável quando há células poliédricas, calcificação e amiloide, e pior quando há células fusiformes, muitas mitoses e necrose.",
+      "checklist": [
+        "Discutiu os três tumores: carcinoma papilífero, carcinoma folicular e carcinoma medular",
+        "NÃO discutiu o carcinoma anaplásico (é indiferenciado — quem falou dele perdeu a questão inteira)",
+        "Papilífero — morfologia: papilas com eixo fibrovascular; núcleo claro, irregular, com pseudoinclusões; corpos psamomatosos",
+        "Papilífero — disseminação linfática para linfonodos cervicais; evolução lenta, prognóstico favorável",
+        "Folicular — morfologia: folículos bem diferenciados parecidos com a tireoide normal; diagnóstico pela invasão de cápsula e/ou vasos",
+        "Folicular — disseminação hematogênica (osso, pulmão, fígado, cérebro), sem metástase linfonodal; fratura patológica",
+        "Medular — morfologia: células C produtoras de calcitonina (neuroendócrino), estroma com substância amiloide",
+        "Medular — metástase em linfonodos cervicais e hematogênica tardia; malignidade intermediária, evolução lenta"
+      ],
+      "explicacao": "A palavra-chave do enunciado é **diferenciadas**: entram papilífero, folicular e medular; o anaplásico é o carcinoma **indiferenciado** e não pode aparecer. A questão vale 4 dos 10 pontos e cobra exatamente o que o compilado avisa na capa: em tireoide, além de macro e micro, saber **disseminação** e **prognóstico**. O eixo de comparação é: papilífero → núcleo + via linfática + ótimo prognóstico; folicular → invasão de cápsula/vaso + via hematogênica (osso); medular → célula C, calcitonina e amiloide + as duas vias + malignidade intermediária.",
+      "gabarito_fonte": "notebooklm",
+      "confianca": "media",
+      "observacao": "Sem gabarito oficial. O gabarito do NotebookLM só discutiu papilífero e folicular (e com morfologia pobre). Nota de aluno no compilado: “o Notebook LM não registrou, mas tinha que falar sobre o carcinoma medular também; quem falasse sobre o carcinoma anaplásico perdia a questão inteira”. A resposta-modelo segue essa nota e foi escrita a partir do resumo das aulas. Atenção: no resumo, o carcinoma medular é descrito como tumor neuroendócrino de células C (não folicular) e marcado como “estudar sozinho”; ainda assim foi exigido nesta prova. O prognóstico do carcinoma folicular não está explícito no resumo (apenas “forma nodular, circunscrita e menos maligna”). Na foto da prova original a questão vale (4,0).",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p151-q04",
+      "numero": "4",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-folicular", "lfa-hiperplasia-vs-linfoma-folicular"],
+      "enunciado": "Paciente masculino, 60 anos, HIV positivo com história de febre, perda de peso e linfadenomegalia axilar e inguinal. Relata convivência com animais (seis gatos e três cachorros) de estimação. Submetido à biópsia encontram-se numerosas e predominantes estruturas foliculares com desaparecimento da coroa linfocitária e comprometimento do tecido adiposo peri linfonodal. Na imuno-histoquímica, CD20 foi positivo e CD3 mostrou-se negativo. Discutir seu diagnóstico, a morfologia, o perfil imuno-histoquímico, a evolução e os diagnósticos diferenciais com perfil imuno-histoquímico.",
+      "pontos": 2.0,
+      "resposta_modelo": "**Diagnóstico:** Linfoma Não Hodgkin folicular (linfoma de células B, indolente). Sustentam: predomínio de estruturas foliculares, desaparecimento da coroa linfocitária, invasão do tecido adiposo perilinfonodal, CD20 + com CD3 − (linhagem B), paciente de 60 anos, sintomas B (febre e perda de peso) e linfonodos em cadeias distantes (axilar e inguinal), sem contiguidade.\n\n**Morfologia:** arranjo nodular, com numerosos folículos de tamanho mais ou menos igual, sem coroa linfocitária, que ultrapassam a cápsula e invadem a gordura perilinfonodal; pode haver áreas difusas. Os folículos são compostos por mistura de centrócitos (células B pequenas a médias) e centroblastos (células B grandes). É um linfoma de células B do centro germinativo com hiperexpressão de BCL-2, proteína antiapoptótica: as células não morrem, por isso o crescimento é lento.\n\n**Perfil imuno-histoquímico:** BCL-2 + no centro folicular (principal característica), CD20 +, Pax5 + e BCL-6 +; CD3 −, CD5 − e ciclina D1 −.\n\n**Evolução:** linfoma indolente, de curso arrastado. Ao diagnóstico costuma estar disseminado (estádios III e IV de Ann Arbor — aqui há cadeias dos dois lados do diafragma), com acometimento frequente da medula óssea; por isso se faz biópsia de medula óssea (crista ilíaca) no estadiamento. Responde mal ao tratamento pela baixa taxa de proliferação, e 25 a 50% dos casos evoluem para linfoma difuso de grandes células B.\n\n**Diagnósticos diferenciais com perfil imuno-histoquímico:** (1) Hiperplasia folicular reacional — principal diferencial, inclusive a linfadenopatia do HIV em fase 1 (padrão A, folicular florida): folículos de tamanhos bem diferentes, coroa linfocitária presente, sem invasão da gordura perilinfonodal e **BCL-2 −** no centro germinativo. (2) Linfadenites relacionadas ao contato com gatos: doença da arranhadura do gato (bartonelose) — necrose supurativa com microabscessos neutrofílicos no centro e células epitelioides em paliçada na periferia; toxoplasmose — hiperplasia folicular com agregados de macrófagos epitelioides, sem necrose; em ambas os folículos são reacionais (BCL-2 −). (3) Linfoma Não Hodgkin de Burkitt — também de células B do centro germinativo (CD20 +, CD10 +), mas altamente agressivo, com céu estrelado e BCL-2 −.",
+      "checklist": [
+        "Diagnóstico completo: Linfoma Não Hodgkin folicular (de células B)",
+        "Folículos numerosos, de tamanho semelhante, com desaparecimento da coroa linfocitária",
+        "Invasão do tecido adiposo perilinfonodal; mistura de centrócitos e centroblastos",
+        "IHQ positivos: BCL-2 + (principal) e CD20 + (também Pax5 + e BCL-6 +)",
+        "IHQ negativos: CD3 −, CD5 − e ciclina D1 −",
+        "Evolução: indolente, disseminado ao diagnóstico, medula óssea acometida, pode evoluir para LDGCB",
+        "Diferencial principal: hiperplasia folicular reacional (BCL-2 −, coroa preservada, folículos de tamanhos variados, sem invasão da gordura)",
+        "Outro diferencial: arranhadura do gato / toxoplasmose / linfadenopatia do HIV, ou Burkitt (BCL-2 −)"
+      ],
+      "explicacao": "HIV e gatos são iscas para você pensar em linfadenopatia reacional (HIV fase 1, toxoplasmose, arranhadura do gato). O que decide é a morfologia: **folículos sem coroa linfocitária + invasão da gordura perilinfonodal**, com CD20 + — o conjunto que o professor ensinou para separar linfoma folicular de hiperplasia folicular (“poderia ser questão de prova”). O marcador que fecha é o **BCL-2 +**; só invadir gordura não basta. Escreva o nome completo: Linfoma Não Hodgkin folicular.",
+      "gabarito_fonte": "notebooklm",
+      "confianca": "alta",
+      "observacao": "Sem gabarito oficial; gabarito do NotebookLM conferido com o resumo das aulas (a tríade folículos de mesmo tamanho + sem coroa + invasão da gordura, com BCL-2 +, é literalmente o que o professor descreve). Diferenças: o NotebookLM descreve a população como “principalmente centrócitos”, o resumo diz “composição mista de centroblastos e centrócitos”; o NotebookLM acrescenta marcadores que não estão no resumo (CD10 +, CD19 +, CD22 +, CD79a +; CD11c −, CD43 −) e o linfoma de células do manto como diferencial (ciclina D1 + e CD5 +, CD10 −). O professor pede pelo menos 2 marcadores com + e −. Na foto da prova original a questão vale (2,0).",
+      "fora_do_escopo": false
+    }
+  ]
+}

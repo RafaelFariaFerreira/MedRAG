@@ -1,0 +1,174 @@
+{
+  "prova": {
+    "id": "p136",
+    "titulo": "Prova 136 (18.1)",
+    "temas": "Tireoide e SNC",
+    "periodo": "2018.1",
+    "gabarito_fonte": "aluno",
+    "paginas": [
+      73,
+      75
+    ]
+  },
+  "questoes": [
+    {
+      "id": "p136-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-papilifero"
+      ],
+      "enunciado": "Caso clínico: homem, 89 anos, internado por abaulamento em região cervical e obstrução das vias respiratórias; a lesão atual tinha muito pleomorfismo e mitoses. A história clínica revelava que ele já tinha tido um nódulo na tireoide na década de 80, com acometimento linfonodal; depois, em 2000, teve outro nódulo, com células poliédricas, fusiformes etc.; e, em 2008, um nódulo com características semelhantes a esse último no fígado. **Pergunta:** Qual o diagnóstico provável da lesão de 80? Explique.",
+      "resposta_modelo": "**Carcinoma papilífero da tireoide.** É a neoplasia maligna mais comum da tireoide e aquela em que a invasão de vasos linfáticos é a regra: dá metástase por **via linfática para os linfonodos cervicais** — exatamente o \"nódulo com acometimento linfonodal\" da história. Tem evolução lenta e prognóstico favorável, o que combina com um paciente que seguiu vivo por décadas. Na microscopia do tipo clássico esperam-se papilas com eixo fibrovascular e, principalmente, as alterações do **núcleo** que fazem o diagnóstico (cromatina clara, contorno irregular, pseudoinclusões), além de corpos psamomatosos. Imuno-histoquímica: TTF-1 + (origem tireoidiana), CK-19 +, galectina-3 + e HBME-1 +.",
+      "checklist": [
+        "Carcinoma papilífero da tireoide",
+        "É o carcinoma mais comum da tireoide",
+        "Dissemina por via linfática → metástase em linfonodos cervicais (o acometimento linfonodal do caso)",
+        "Evolução lenta e prognóstico favorável (compatível com a longa sobrevida)",
+        "Morfologia: núcleo de cromatina clara, irregular, com pseudoinclusão; papilas com eixo fibrovascular; corpos psamomatosos"
+      ],
+      "explicacao": "A pista do enunciado é o **acometimento linfonodal**: papilífero = via linfática = linfonodos cervicais; o folicular dissemina por via hematogênica e não dá metástase linfonodal. O \"explique\" pede que você ligue o dado da história ao comportamento biológico do tumor, e não apenas dê o nome. Lembre que só o papilífero clássico é cobrado e que quem faz o diagnóstico é o núcleo, não a papila.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "observacao": "Prova sem foto (no drive só há um docx com as questões transcritas de memória). Na transcrição original, quem transcreveu embutiu os diagnósticos entre parênteses no próprio caso — \"(mais características de Carcinoma Anaplásico)\", \"(Carcinoma Papilífero)\", \"(Carcinoma medular)\" —; esses parênteses foram retirados do enunciado para não entregar a resposta. Resposta do chat (\"carcinoma papilífero — alta frequência, tendência a metástase linfonodal cervical\"), coerente com o resumo das aulas e com o parêntese de quem transcreveu.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p136-q02",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-medular"
+      ],
+      "enunciado": "Caso clínico: homem, 89 anos, internado por abaulamento em região cervical e obstrução das vias respiratórias; a lesão atual tinha muito pleomorfismo e mitoses. A história clínica revelava que ele já tinha tido um nódulo na tireoide na década de 80, com acometimento linfonodal; depois, em 2000, teve outro nódulo, com células poliédricas, fusiformes etc.; e, em 2008, um nódulo com características semelhantes a esse último no fígado. **Pergunta:** Qual o diagnóstico provável da lesão de 2000? Explique.",
+      "resposta_modelo": "**Carcinoma medular da tireoide.** A microscopia com células poliédricas e fusiformes é a descrita para esse tumor: grupos de células redondas, poliédricas ou fusiformes, entremeadas por **substância amiloide**. Ele se origina das **células C (parafoliculares)**, produtoras de **calcitonina** — é um tumor neuroendócrino, de malignidade intermediária e evolução lenta. Reforça a hipótese o nódulo hepático de 2008 com as mesmas características: o medular pode dar disseminação hematogênica, mais tardia, para pulmão, fígado e ossos (além de metástase em linfonodos cervicais). Imuno-histoquímica: calcitonina +, antígeno carcinoembrionário +, sinaptofisina + e cromogranina +.",
+      "checklist": [
+        "Carcinoma medular da tireoide",
+        "Células poliédricas e fusiformes (com substância amiloide no estroma)",
+        "Origem nas células C (parafoliculares), produtoras de calcitonina — tumor neuroendócrino",
+        "Disseminação hematogênica tardia (pulmão, fígado, ossos), compatível com o nódulo hepático de 2008",
+        "IHQ: calcitonina +, CEA +, sinaptofisina/cromogranina +"
+      ],
+      "explicacao": "\"Células poliédricas, fusiformes\" é a descrição microscópica do carcinoma **medular** no resumo, e o fígado está entre os alvos da sua disseminação hematogênica. Não confunda com o folicular, que também vai para fígado, osso, cérebro e pulmão por via hematogênica, mas é formado por folículos parecidos com tireoide normal. Marcadores do medular são os de tumor neuroendócrino, com a calcitonina à frente.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "observacao": "Prova sem foto (no drive só há um docx com as questões transcritas de memória). Na transcrição original, quem transcreveu embutiu os diagnósticos entre parênteses no próprio caso — \"(mais características de Carcinoma Anaplásico)\", \"(Carcinoma Papilífero)\", \"(Carcinoma medular)\" —; esses parênteses foram retirados do enunciado para não entregar a resposta. Resposta do chat (\"carcinoma medular — células poliédricas/fusiformes e posterior metástase hepática\"), coerente com o resumo das aulas e com o parêntese de quem transcreveu. No resumo consta que o medular era para \"estudar sozinho\".",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p136-q03",
+      "numero": "3",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-medular"
+      ],
+      "enunciado": "Caso clínico: homem, 89 anos, internado por abaulamento em região cervical e obstrução das vias respiratórias; a lesão atual tinha muito pleomorfismo e mitoses. A história clínica revelava que ele já tinha tido um nódulo na tireoide na década de 80, com acometimento linfonodal; depois, em 2000, teve outro nódulo, com células poliédricas, fusiformes etc.; e, em 2008, um nódulo com características semelhantes a esse último no fígado. **Pergunta:** Como explicar o nódulo hepático?",
+      "resposta_modelo": "É uma **metástase** do carcinoma medular da tireoide de 2000: o nódulo do fígado tem as mesmas características histológicas (células poliédricas e fusiformes) da lesão tireoidiana. A via é a **disseminação hematogênica**, que no carcinoma medular é mais tardia e menos frequente que a linfonodal (aqui apareceu 8 anos depois) e atinge pulmão, fígado e ossos.",
+      "checklist": [
+        "Metástase (neoplasia secundária), e não tumor primário do fígado",
+        "Origem no carcinoma medular de 2000 — mesmas características histológicas",
+        "Disseminação por via hematogênica",
+        "No medular a via hematogênica é mais tardia e atinge pulmão, fígado e ossos"
+      ],
+      "explicacao": "A frase do enunciado \"características semelhantes a esse último\" é a chave: tumor com a mesma morfologia em outro órgão, anos depois, é **metástase**. O fígado se alcança pelo sangue, daí a via **hematogênica**. Vale escrever de qual tumor veio e por qual via — é isso que o professor quer ler.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Prova sem foto (no drive só há um docx com as questões transcritas de memória). Na transcrição original, quem transcreveu embutiu os diagnósticos entre parênteses no próprio caso — \"(mais características de Carcinoma Anaplásico)\", \"(Carcinoma Papilífero)\", \"(Carcinoma medular)\" —; esses parênteses foram retirados do enunciado para não entregar a resposta. Gabarito de aluno: \"Metástase por disseminação hematogênica\". A resposta-modelo foi ampliada com base no resumo das aulas.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p136-q04",
+      "numero": "4",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-anaplasico"
+      ],
+      "enunciado": "Caso clínico: homem, 89 anos, internado por abaulamento em região cervical e obstrução das vias respiratórias; a lesão atual tinha muito pleomorfismo e mitoses. A história clínica revelava que ele já tinha tido um nódulo na tireoide na década de 80, com acometimento linfonodal; depois, em 2000, teve outro nódulo, com células poliédricas, fusiformes etc.; e, em 2008, um nódulo com características semelhantes a esse último no fígado. **Pergunta:** Qual o diagnóstico provável da lesão atual? Explique.",
+      "resposta_modelo": "**Carcinoma indiferenciado (anaplásico) da tireoide.** Sustentam o diagnóstico: paciente idoso com aumento do volume cervical e **obstrução das vias respiratórias** (o tumor cresce de forma abrupta e mata por insuficiência respiratória); histologia com **pleomorfismo acentuado e elevado índice mitótico**; e a história típica de lesões e cirurgias prévias de tireoide. É o carcinoma menos comum e o mais agressivo: dissemina por via linfática e hematogênica e não responde a cirurgia, quimioterapia, iodo ou radioterapia. Imuno-histoquímica: PAX8 + em cerca de 75% dos casos; ceratinas (CK7, CAM, panceratina) com positividade fraca e focal.",
+      "checklist": [
+        "Carcinoma indiferenciado (anaplásico) da tireoide",
+        "Histologia: pleomorfismo acentuado e elevado índice mitótico",
+        "Clínica: aumento cervical abrupto com obstrução de vias aéreas, em idoso",
+        "História de neoplasias/cirurgias prévias de tireoide (o paciente típico)",
+        "Alta agressividade: não responde a tratamento; morte por insuficiência respiratória"
+      ],
+      "explicacao": "O resumo avisa que \"a história do paciente é sempre a mesma\": homem com várias lesões/cirurgias de tireoide no passado e crescimento cervical abrupto. Histologia de **pleomorfismo + muitas mitoses** fecha o **anaplásico**. Papilífero e folicular bem diferenciados têm mitoses raras e Ki-67 baixo — o contrário do que o caso descreve.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "observacao": "Prova sem foto (no drive só há um docx com as questões transcritas de memória). Na transcrição original, quem transcreveu embutiu os diagnósticos entre parênteses no próprio caso — \"(mais características de Carcinoma Anaplásico)\", \"(Carcinoma Papilífero)\", \"(Carcinoma medular)\" —; esses parênteses foram retirados do enunciado para não entregar a resposta. Resposta do chat (carcinoma anaplásico — idoso, crescimento cervical rápido com obstrução de vias aéreas, pleomorfismo e mitoses), coerente com o resumo das aulas e com o parêntese de quem transcreveu.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p136-q05",
+      "numero": "5",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-anaplasico",
+        "tir-papilifero",
+        "tir-geral"
+      ],
+      "enunciado": "Caso clínico: homem, 89 anos, internado por abaulamento em região cervical e obstrução das vias respiratórias; a lesão atual tinha muito pleomorfismo e mitoses. A história clínica revelava que ele já tinha tido um nódulo na tireoide na década de 80, com acometimento linfonodal; depois, em 2000, teve outro nódulo, com células poliédricas, fusiformes etc.; e, em 2008, um nódulo com características semelhantes a esse último no fígado. **Pergunta:** Qual a relação entre as neoplasias?",
+      "resposta_modelo": "As lesões antigas eram carcinomas **diferenciados** da tireoide que não foram erradicados por completo: na década de 80 costumava-se retirar só o nódulo, e não o lobo, sem margem livre — a neoplasia residual ficava na glândula e, com os anos, foi **se indiferenciando** até originar o **carcinoma indiferenciado (anaplásico)** atual. Ou seja, o anaplásico não é uma doença nova e independente: é o ponto final da perda de diferenciação de uma neoplasia prévia da tireoide (papilífero → anaplásico), com piora progressiva do comportamento biológico. O nódulo hepático de 2008, por sua vez, é metástase hematogênica da lesão de 2000.",
+      "checklist": [
+        "O anaplásico surge da indiferenciação (desdiferenciação) de um carcinoma prévio da tireoide",
+        "Tratamento antigo só com retirada do nódulo, sem margem livre → neoplasia residual na glândula",
+        "Sequência: carcinoma diferenciado (papilífero) → carcinoma indiferenciado (anaplásico), cada vez mais agressivo",
+        "O nódulo hepático é metástase da lesão de 2000 (mesma neoplasia em outro sítio)"
+      ],
+      "explicacao": "É a história que o professor conta em aula para o carcinoma anaplásico: neoplasias diferenciadas tratadas de forma incompleta que \"foram se indiferenciando\". A relação pedida é de **progressão/indiferenciação**, não de coincidência de três tumores. Mencionar que o nódulo do fígado é metástase amarra o caso inteiro.",
+      "gabarito_fonte": "aluno",
+      "confianca": "media",
+      "observacao": "Prova sem foto (no drive só há um docx com as questões transcritas de memória). Na transcrição original, quem transcreveu embutiu os diagnósticos entre parênteses no próprio caso — \"(mais características de Carcinoma Anaplásico)\", \"(Carcinoma Papilífero)\", \"(Carcinoma medular)\" —; esses parênteses foram retirados do enunciado para não entregar a resposta. Gabarito de aluno, muito resumido: \"Papilífero evolui para anaplásico etc\". O resumo das aulas dá como exemplo carcinomas papilífero e folicular que \"foram se indiferenciando\" e, para o medular, registra que formas com células fusiformes, muitas mitoses e necrose correspondem a uma \"variante anaplásica\" de alta malignidade. Não há gabarito oficial sobre qual papel o professor esperava para o carcinoma medular nessa sequência — daí a confiança média.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p136-q06",
+      "numero": "6",
+      "tipo": "discursiva",
+      "modulo": "outros",
+      "topicos": [
+        "fora-escopo"
+      ],
+      "enunciado": "Fases do Astrocitoma em ordem crescente de malignidade.",
+      "resposta_modelo": "Astrocitoma pilocítico → astrocitoma difuso → astrocitoma anaplásico → glioblastoma. Complemento: correspondem, nessa ordem, aos graus I, II, III e IV.",
+      "checklist": [
+        "Astrocitoma pilocítico (o menos maligno)",
+        "Astrocitoma difuso",
+        "Astrocitoma anaplásico",
+        "Glioblastoma (o mais maligno)"
+      ],
+      "explicacao": "Questão de sistema nervoso central — **fora do escopo da P2** (Tireoide, Linfadenopatias reacionais e Linfomas). Está aqui apenas para manter a prova completa; não gaste tempo de estudo com ela agora. A resposta é a sequência de quatro degraus, do pilocítico ao glioblastoma.",
+      "gabarito_fonte": "aluno",
+      "confianca": "media",
+      "observacao": "Gabarito de aluno: \"Pilocítico, difuso, anaplásico e glioblastoma\". Tema (SNC) não coberto pelo resumo das aulas desta P2; não foi possível conferir com a fonte do professor.",
+      "fora_do_escopo": true
+    },
+    {
+      "id": "p136-q07",
+      "numero": "7",
+      "tipo": "discursiva",
+      "modulo": "outros",
+      "topicos": [
+        "fora-escopo"
+      ],
+      "enunciado": "Cite 3 características do mais maligno.",
+      "resposta_modelo": "O mais maligno é o **glioblastoma**. Características: (1) microscopia similar à do astrocitoma anaplásico, à qual se somam (2) **necrose** — que costuma ocorrer em padrão de serpentinas em áreas hipercelulares, com as células tumorais dispostas na borda das faixas necróticas (aspecto de **pseudopaliçada**) — e (3) **proliferação celular endotelial ou vascular**.",
+      "checklist": [
+        "Identificar o glioblastoma como o mais maligno",
+        "Necrose em serpentina com células tumorais em pseudopaliçada",
+        "Proliferação endotelial/vascular",
+        "Base microscópica semelhante à do astrocitoma anaplásico"
+      ],
+      "explicacao": "Questão de sistema nervoso central — **fora do escopo da P2** (Tireoide, Linfadenopatias reacionais e Linfomas). Está aqui apenas para manter a prova completa; não gaste tempo de estudo com ela agora. O que separa o glioblastoma do astrocitoma anaplásico é a soma de necrose (em pseudopaliçada) e proliferação vascular.",
+      "gabarito_fonte": "aluno",
+      "confianca": "media",
+      "observacao": "Gabarito de aluno (resposta longa transcrita no compilado). Depende da questão anterior (o \"mais maligno\" é o glioblastoma). Tema (SNC) não coberto pelo resumo das aulas desta P2.",
+      "fora_do_escopo": true
+    }
+  ]
+}

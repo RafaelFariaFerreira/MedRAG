@@ -1,0 +1,446 @@
+{
+  "prova": {
+    "id": "pd1",
+    "titulo": "Ano desconhecido 1",
+    "temas": "Linfadenopatias e Linfomas",
+    "periodo": "desconhecido",
+    "gabarito_fonte": "oficial",
+    "paginas": [82, 89]
+  },
+  "questoes": [
+    {
+      "id": "pd1-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-lh-deplecao", "lin-lh-geral", "lin-estadiamento"],
+      "enunciado": "Indivíduo do sexo masculino, 55 anos, com sudorese noturna e perda de peso, apresenta linfonodomegalia cervical, indolor, bilateral. Submetido à biópsia excisional de um dos linfonodos e enviado material ao laboratório de Anatomia Patológica. O exame microscópico revelou apagamento da arquitetura nodal às custas de proliferação difusa de pequenos linfócitos espaçados entre si por trama colágena e em meio aos quais eram identificadas células grandes de citoplasma abundante e um ou dois núcleos grandes, atípicos e com nucléolos eosinofílicos evidentes.",
+      "pontos": 2.5,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o provável diagnóstico (nome completo da doença)? (0,5)",
+          "resposta_modelo": "**Linfoma de Hodgkin clássico, tipo depleção linfocitária.**",
+          "checklist": [
+            "Escrever \"Linfoma de Hodgkin\" antes do tipo",
+            "Tipo (subtipo) depleção linfocitária"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite cinco marcadores imuno-histoquímicos e os resultados, os quais em conjunto corroborariam o diagnóstico acima. (0,5)",
+          "resposta_modelo": "**CD15 positivo; CD30 positivo; CD45 negativo; CD20 (ou CD19) negativo — ou PAX5 positivo fraco; BCL-6 negativo.** A marcação é pesquisada nas células de Reed-Sternberg/Hodgkin.",
+          "checklist": [
+            "CD15 positivo e CD30 positivo",
+            "CD45 negativo",
+            "CD20 ou CD19 negativo (ou PAX5 positivo fraco)",
+            "BCL-6 negativo — sempre dizer se é positivo ou negativo"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Qual é o estadiamento do paciente? (0,5)",
+          "resposta_modelo": "**Estádio I** de Ann Arbor: há comprometimento de um único grupo/cadeia de linfonodos (cervical).",
+          "checklist": [
+            "Estádio I (Ann Arbor)",
+            "Justificativa: uma única cadeia linfonodal (cervical) acometida"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Qual é o tipo de disseminação mais comum nesta doença? (0,5)",
+          "resposta_modelo": "**Disseminação por contiguidade**, para as cadeias linfonodais adjacentes (cervical → supraclavicular → mediastinal…).",
+          "checklist": [
+            "Por contiguidade",
+            "Para cadeias linfonodais adjacentes"
+          ]
+        },
+        {
+          "letra": "e",
+          "pergunta": "Quais são os nomes (completos) das células grandes descritas no texto? (0,5)",
+          "resposta_modelo": "**Célula de Reed-Sternberg, variante clássica** (a de dois núcleos, \"em espelho\") **e célula de Hodgkin** (a de um núcleo, forma mononuclear da célula de Reed-Sternberg).",
+          "checklist": [
+            "Célula de Reed-Sternberg, variante clássica (binucleada)",
+            "Célula de Hodgkin (mononucleada)"
+          ]
+        }
+      ],
+      "explicacao": "O texto descreve células grandes com **um ou dois núcleos** e nucléolos eosinofílicos evidentes (células de Hodgkin e de Reed-Sternberg) em um linfonodo com a arquitetura apagada: é linfoma de Hodgkin. Os linfócitos **espaçados entre si por trama colágena** (poucos linfócitos, fibrose difusa) apontam para o tipo depleção linfocitária. Como é uma forma clássica, vale o perfil CD15+/CD30+ com CD20−/CD45−. Só a cadeia cervical está acometida, logo estádio I, e o LH caminha por contiguidade.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito conferido na foto da folha-gabarito manuscrita (pág. 87). No item e, o gabarito escreve literalmente \"célula de Reed Sternberg variante clássica e célula de Reed Sternberg variante clássica (ou célula de Hodgkin)\" — a mesma expressão duas vezes; entende-se a forma binucleada (clássica) e a mononucleada (célula de Hodgkin). Para a prova o professor trata célula de RS e célula de Hodgkin como a mesma célula. No item c o gabarito diz apenas \"Estádio I\" (o paciente tem sintomas B, mas o sufixo não foi exigido)."
+    },
+    {
+      "id": "pd1-q02",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-folicular", "lfa-hiperplasia-vs-linfoma-folicular"],
+      "enunciado": "Paciente masculino, 60 anos, HIV positivo com história de febre, perda de peso e linfadenomegalia axilar e inguinal. Relata convivência com animais (seis gatos e três cachorros) de estimação. Submetido à biópsia encontram-se numerosas e predominantes estruturas foliculares com desaparecimento da coroa linfocitária e comprometimento do tecido adiposo perilinfonodal. Na imuno-histoquímica, CD20 foi positivo e CD3 mostrou-se negativo.",
+      "pontos": 1.0,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o diagnóstico morfológico (completo) segundo a descrição apresentada? (0,2)",
+          "resposta_modelo": "**Linfoma não Hodgkin, tipo folicular.**",
+          "checklist": [
+            "Escrever \"Linfoma não Hodgkin\" antes do tipo",
+            "Tipo folicular"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite duas características morfológicas que dão suporte ao seu diagnóstico. (0,4)",
+          "resposta_modelo": "Numerosas e predominantes **estruturas foliculares**; **desaparecimento da coroa linfocitária**; **invasão da gordura perilinfonodal**; imuno-histoquímica compatível com célula B (CD20+, CD3−).",
+          "checklist": [
+            "Numerosas estruturas foliculares",
+            "Desaparecimento da coroa linfocitária",
+            "Invasão do tecido adiposo perilinfonodal"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Cite outros dois marcadores imuno-histoquímicos relevantes que podem contribuir para o diagnóstico. (0,2)",
+          "resposta_modelo": "**BCL-2 positivo** (o principal: separa o linfoma da hiperplasia folicular) e **CD10 positivo**; também valem CD19 e CD79a positivos (marcadores B).",
+          "checklist": [
+            "BCL-2 positivo",
+            "CD10 positivo (ou CD19 / CD79a positivos)",
+            "Informar positividade"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Cite um diagnóstico diferencial (COMPLETO), inespecífico. (0,2)",
+          "resposta_modelo": "**Hiperplasia folicular reacional** (linfadenopatia crônica inespecífica de padrão folicular).",
+          "checklist": [
+            "Hiperplasia folicular reacional",
+            "É a linfadenopatia crônica inespecífica que faz diferencial com o linfoma folicular"
+          ]
+        }
+      ],
+      "explicacao": "Folículos numerosos **sem coroa linfocitária** e **invadindo a gordura perilinfonodal**, com CD20+ e CD3−, formam o conjunto do linfoma folicular (célula B do centro germinativo). Na hiperplasia folicular reacional os folículos têm tamanhos diferentes, a coroa está presente, não há invasão da gordura e o BCL-2 é negativo. HIV e gatos são distratores (linfadenopatia do HIV, toxoplasmose, arranhadura do gato): a morfologia decide. Lembre: só invadir gordura não basta; o BCL-2 positivo é a principal característica.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Na folha impressa as letras dos itens saíram como a), a), b), c); aqui foram normalizadas para a–d. Item d: a transcrição do compilado traz \"Hiperplasia folicular hormonal (não deu pra ler direito)\"; na foto do gabarito (pág. 87) lê-se \"Hiperplasia folicular reacional\", que foi a resposta adotada."
+    },
+    {
+      "id": "pd1-q03",
+      "numero": "3",
+      "tipo": "discursiva",
+      "modulo": "linfadenopatias",
+      "topicos": ["lfa-granulomatosas"],
+      "enunciado": "Paciente feminina, 25 anos, com tosse, febre e linfadenomegalia mediastinal. Ao exame de imagem encontram-se estruturas cavitárias no pulmão. A biópsia linfonodal mostra necrose, células gigantes e esboço granulomatoso.",
+      "pontos": 0.8,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o principal diagnóstico para o caso? (0,2)",
+          "resposta_modelo": "**Tuberculose** (linfadenite granulomatosa tuberculosa).",
+          "checklist": [
+            "Tuberculose"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Em que fase encontra-se a possível doença, de acordo com o caso até o momento? (0,2)",
+          "resposta_modelo": "**Segunda fase** (tuberculose secundária). Complemento: as cavidades pulmonares são o achado típico da tuberculose secundária/pós-primária.",
+          "checklist": [
+            "Segunda fase (2ª)",
+            "Pista do caso: lesões cavitárias no pulmão"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Cite um diagnóstico diferencial? Explique sua escolha. (0,4)",
+          "resposta_modelo": "**Paracoccidioidomicose (blastomicose sul-americana).** Também é uma linfadenite granulomatosa com necrose (supurativa) e células gigantes; o que diferencia é o encontro do fungo em \"roda de leme\" nas colorações de PAS e Grocott.",
+          "checklist": [
+            "Paracoccidioidomicose ou blastomicose sul-americana",
+            "Justificar: também é granulomatosa, com necrose e células gigantes",
+            "Diferencia-se pelo fungo em roda de leme (PAS/Grocott)"
+          ]
+        }
+      ],
+      "explicacao": "Linfadenomegalia **mediastinal** no Brasil faz pensar primeiro em tuberculose, e o granuloma com **necrose** e **células gigantes** (de Langhans) confirma a suspeita. O granuloma da tuberculose tem centro de necrose caseosa, células gigantes de Langhans e histiócitos, e halo linfocitário — o professor avisou que vai perguntar de novo. Todas as granulomatoses são diferenciais entre si; a paracoccidioidomicose é a que o gabarito aceita. A sarcoidose também dá linfonodo mediastinal, mas o granuloma dela não tem necrose.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "O gabarito oficial traz só \"2ª\" (segunda fase) no item b e só o nome da doença no item c, sem a explicação pedida; a justificativa foi montada a partir do resumo das aulas."
+    },
+    {
+      "id": "pd1-q04",
+      "numero": "4",
+      "tipo": "discursiva",
+      "modulo": "linfadenopatias",
+      "topicos": ["lfa-padrao-sinusal"],
+      "enunciado": "Paciente masculino, 12 anos, com febre e grandes linfadenomegalias cervicais. Submetido à biópsia. No histopatológico encontrou-se proliferação histiocitária com núcleos frouxos e abundante citoplasma contendo linfócitos íntegros. Presença de plasmócitos e eosinófilos.",
+      "pontos": 0.6,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o provável diagnóstico (completo)? (0,2)",
+          "resposta_modelo": "**Doença de Rosai-Dorfman.**",
+          "checklist": [
+            "Doença de Rosai-Dorfman"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Qual o compartimento linfonodal afetado? (0,2)",
+          "resposta_modelo": "Compartimento **sinusal** (ou histiocitário) — padrão sinusal, reação histiocitária.",
+          "checklist": [
+            "Sinusal (ou histiocitário)"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Cite dois marcadores imuno-histoquímicos relevantes para o diagnóstico. (0,2)",
+          "resposta_modelo": "**Proteína S100 positiva** e **CD68 positivo** (ou CD163 positivo) nos histiócitos.",
+          "checklist": [
+            "Proteína S100 positiva",
+            "CD68 e/ou CD163 positivos (marcadores macrofágicos)"
+          ]
+        }
+      ],
+      "explicacao": "Criança/jovem com linfonodos cervicais **gigantes** e histiócitos de citoplasma amplo com **linfócitos íntegros dentro** (emperipolese) é doença de Rosai-Dorfman. A reação é histiocitária, portanto do padrão sinusal. Os histiócitos expressam proteína S100 e marcadores macrofágicos (CD68 e CD163).",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "O gabarito oficial lista \"Ptn S100, CD1a, CD68 e CD163\" sem dizer positivo/negativo. O resumo registra que, pelo Bogliolo mais recente, o CD1a é NEGATIVO na doença de Rosai-Dorfman (dúvida anotada: confirmar quais marcadores o professor quer). Na dúvida, cite S100+ e CD68+ (ou CD163+)."
+    },
+    {
+      "id": "pd1-q05",
+      "numero": "5",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-burkitt"],
+      "enunciado": "Paciente masculino, 48 anos, HIV positivo com febre, anemia, leucopenia, linfadenomegalias generalizadas e acometimento extranodal. No estudo histopatológico foi encontrado proliferação de células de tamanho médio com núcleos redondos e citoplasma basofílico. Presença de numerosos macrófagos fagocitando restos celulares, alto índice mitótico e índice de proliferação celular próximo a 100%.",
+      "pontos": 0.8,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o provável diagnóstico (COMPLETO)? (0,4)",
+          "resposta_modelo": "**Linfoma não Hodgkin, tipo de Burkitt** (forma associada à imunodeficiência/HIV).",
+          "checklist": [
+            "Escrever \"Linfoma não Hodgkin\" antes do tipo",
+            "Tipo de Burkitt"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite um painel imuno-histoquímico (quatro marcadores principais) para o caso, relatando sua positividade ou negatividade. (0,4)",
+          "resposta_modelo": "**CD20 positivo, CD10 positivo, BCL-6 positivo e BCL-2 negativo.** Gabarito completo: marcadores B (CD20, CD19, CD22, CD79a) positivos; marcadores T (CD3, CD4, CD5) negativos; BCL-6 e CD10 positivos; CD23 e BCL-2 negativos; Ki-67 ≈ 100%.",
+          "checklist": [
+            "Marcador B positivo (CD20, CD19, CD22 ou CD79a)",
+            "CD10 e BCL-6 positivos",
+            "BCL-2 negativo (e CD23 negativo)",
+            "Dizer positivo/negativo em cada marcador"
+          ]
+        }
+      ],
+      "explicacao": "Células de **tamanho médio**, núcleos redondos, citoplasma basofílico, muitos macrófagos fagocitando restos celulares (o **céu estrelado**) e proliferação de quase 100% definem o linfoma de Burkitt; o HIV aponta a forma associada à imunodeficiência. É neoplasia de célula B madura do centro germinativo: marcadores B, CD10 e BCL-6 positivos, com a notável **ausência de BCL-2**. Atenção: o professor avisou que o Ki-67 é índice de proliferação e não conta como marcador — não gaste um dos quatro com ele.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "O gabarito oficial inclui \"Ki67 ≅ 100%\" na resposta, mas o resumo registra o recado do professor de que o Ki-67 NÃO entra como marcador (é índice de proliferação). Use-o só como dado adicional."
+    },
+    {
+      "id": "pd1-q06",
+      "numero": "6",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": ["tir-papilifero", "tir-hashimoto", "tir-folicular", "tir-anaplasico"],
+      "enunciado": "Paciente masculino, 80 anos, chega à emergência com abaulamento da região cervical anterior e insuficiência respiratória. À palpação encontra-se massa endurecida, aderida a planos profundos em topografia da tireoide. Realizada biópsia da massa, onde são achados: extensa necrose, acentuado pleomorfismo celular e alto índice mitótico. Sua filha relata que foi operado em 1987 por lesão nodular constituída por células com cromatina clara, ranhuras nucleares e pseudo-inclusões. O restante do parênquima mostrava moderado infiltrado linfoplasmocitário, atrofia acinar, traves fibrosas e transformação oxifílica citoplasmática. No mesmo ato cirúrgico, foi encontrado linfonodo cervical aumentado com o mesmo aspecto da lesão nodular. Em 2000 volta a ser operado por outra lesão nodular. O exame microscópico evidenciou células com núcleos hipercromáticos. A lesão comprometia a cápsula da glândula e infiltrava os vasos sanguíneos.",
+      "pontos": 2.5,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Quais os prováveis diagnósticos da cirurgia de 1987? (0,2)",
+          "resposta_modelo": "**Carcinoma papilífero da tireoide e tireoidite de Hashimoto.**",
+          "checklist": [
+            "Carcinoma papilífero",
+            "Tireoidite de Hashimoto"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Explique os seus diagnósticos de acordo com as características do texto. (0,4)",
+          "resposta_modelo": "O **carcinoma papilífero** caracteriza-se pelo núcleo: células com cromatina clara, ranhuras (fendas) nucleares e pseudo-inclusões. A **tireoidite de Hashimoto** caracteriza-se por moderado infiltrado linfoplasmocitário, atrofia acinar (folicular), traves fibrosas e transformação oxifílica citoplasmática (células oncocíticas/de Hürthle).",
+          "checklist": [
+            "Papilífero: cromatina clara, ranhuras nucleares e pseudo-inclusões",
+            "Hashimoto: infiltrado linfoplasmocitário",
+            "Hashimoto: atrofia acinar e traves fibrosas",
+            "Hashimoto: transformação oxifílica (célula de Hürthle)"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Explique o achado do linfonodo cervical. (0,2)",
+          "resposta_modelo": "O carcinoma papilífero apresenta **disseminação linfática** e, portanto, acomete os linfonodos cervicais: é metástase linfonodal do papilífero.",
+          "checklist": [
+            "Disseminação linfática do carcinoma papilífero",
+            "Metástase em linfonodo cervical"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Qual o provável quadro laboratorial do paciente em 1987, quanto aos hormônios (T3, T4 e TSH)? (0,3)",
+          "resposta_modelo": "**T3 e T4 baixos e TSH alto** — hipotireoidismo (pela tireoidite de Hashimoto).",
+          "checklist": [
+            "T3 e T4 baixos",
+            "TSH alto",
+            "Hipotireoidismo"
+          ]
+        },
+        {
+          "letra": "e",
+          "pergunta": "Qual é o provável diagnóstico da cirurgia de 2000? (0,2)",
+          "resposta_modelo": "**Carcinoma folicular da tireoide.**",
+          "checklist": [
+            "Carcinoma folicular"
+          ]
+        },
+        {
+          "letra": "g",
+          "pergunta": "Existe relação entre as lesões tireoidianas? Explique. (0,4)",
+          "resposta_modelo": "**Sim.** O carcinoma anaplásico originou-se das neoplasias anteriores, que eram diferenciadas (papilífero e folicular) e se indiferenciaram.",
+          "checklist": [
+            "Sim, há relação",
+            "O anaplásico originou-se das neoplasias diferenciadas anteriores",
+            "Elas se indiferenciaram"
+          ]
+        },
+        {
+          "letra": "h",
+          "pergunta": "Cite 2 possíveis sítios principais de metástase da lesão tireoidiana operada em 2000. (0,2)",
+          "resposta_modelo": "**Osso e fígado** (também cérebro e pulmão) — disseminação hematogênica do carcinoma folicular.",
+          "checklist": [
+            "Dois entre: osso, fígado, cérebro (pulmão)",
+            "Via hematogênica"
+          ]
+        },
+        {
+          "letra": "i",
+          "pergunta": "Qual o provável diagnóstico da lesão atual? (0,2)",
+          "resposta_modelo": "**Carcinoma anaplásico (indiferenciado) da tireoide.**",
+          "checklist": [
+            "Carcinoma anaplásico ou indiferenciado"
+          ]
+        },
+        {
+          "letra": "j",
+          "pergunta": "Justifique o seu diagnóstico da lesão atual. (0,4)",
+          "resposta_modelo": "Massa endurecida, aderida a planos profundos, em topografia da tireoide, cuja biópsia mostra **extensa necrose, acentuado pleomorfismo celular e alto índice mitótico**.",
+          "checklist": [
+            "Massa endurecida aderida a planos profundos",
+            "Extensa necrose",
+            "Acentuado pleomorfismo celular",
+            "Alto índice mitótico"
+          ]
+        }
+      ],
+      "explicacao": "É a história clássica do carcinoma anaplásico que o professor conta: homem idoso, várias cirurgias de tireoide, crescimento cervical abrupto e insuficiência respiratória. Em 1987, o núcleo (cromatina clara, ranhuras, pseudo-inclusões) dá o papilífero, que vai por via **linfática** ao linfonodo cervical; o parênquima restante tem os elementos do Hashimoto, daí o hipotireoidismo. Em 2000, a invasão de **cápsula e vasos** define o carcinoma folicular, que metastatiza por via **hematogênica** (osso, fígado, cérebro, pulmão). A lesão atual, com necrose, pleomorfismo e muitas mitoses, é o anaplásico, fruto da indiferenciação das neoplasias anteriores.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "O item f foi CANCELADO (na foto, pág. 89, a linha impressa \"Qual o provável diagnóstico da lesão atual?\" está riscada, com \"CANCELADA\" escrito ao lado). O item g aparece como \"MANTIDA (0,4)\" e o valor do item j foi alterado à mão de 0,3 para 0,4. À margem, os itens foram re-letrados (g→f, h→g, i→h, j→i) e uma seta leva a pergunta sobre a relação entre as lesões para o fim — mesma ordem usada na prova \"Ano desconhecido 5\" (pd5), que repete este caso."
+    },
+    {
+      "id": "pd1-q07",
+      "numero": "7",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": ["lin-lh-geral"],
+      "enunciado": "Assinale verdadeiro (V) ou falso (F) nas afirmativas abaixo.",
+      "pontos": 1.8,
+      "itens": [
+        {
+          "texto": "Os linfomas de Hodgkin compreendem um grupo de neoplasias linfoides que difere dos Linfomas não-Hodgkin em vários aspectos: características morfológicas, localização dos linfonodos acometidos, forma de disseminação e frequência de acometimento de sítios extranodais.",
+          "resposta": true,
+          "justificativa": "É a tabela LH × LNH: o LH tem célula de Reed-Sternberg, começa em geral nos linfonodos cervicais, progride por contiguidade e quase nunca é primário extranodal; no LNH o acometimento extranodal primário chega a 40% dos casos."
+        },
+        {
+          "texto": "Cada subtipo de Linfoma de Hodgkin apresenta um perfil imuno-histoquímico específico.",
+          "resposta": false,
+          "justificativa": "Os quatro subtipos clássicos (esclerose nodular, celularidade mista, rico em linfócitos e depleção linfocitária) têm o mesmo perfil: CD15+ e CD30+, CD20− e CD45−. Só a forma não clássica (predominância linfocítica nodular) tem perfil diferente, invertido."
+        },
+        {
+          "texto": "Os linfomas de Hodgkin devem ser diferenciados de outras condições que exibem células semelhantes às de Reed-Sternberg como a mononucleose infecciosa, certas neoplasias de tecidos sólidos e o linfoma difuso de grandes células.",
+          "resposta": true,
+          "justificativa": "Células grandes parecidas com a de Reed-Sternberg não são exclusivas do LH; por isso o diagnóstico exige o contexto (fundo inflamatório) e a imuno-histoquímica."
+        },
+        {
+          "texto": "A disseminação da doença de Hodgkin é notavelmente estereotipada: primeiramente doença nodal, seguida por doença esplênica, doença hepática e finalmente o acometimento da medula óssea e de outros tecidos.",
+          "resposta": true,
+          "justificativa": "O LH se dissemina de forma ordenada, por contiguidade, obedecendo a distribuição das cadeias linfonodais antes de atingir baço, fígado e medula óssea."
+        },
+        {
+          "texto": "Os sobreviventes de longa duração da quimioterapia e da radioterapia apresentam um maior risco de desenvolvimento de neoplasias malignas secundárias como a leucemia mieloide aguda, câncer de mama, câncer pulmonar, câncer gástrico, sarcoma e melanoma.",
+          "resposta": true,
+          "justificativa": "O tratamento cura a maioria, mas quimio e radioterapia aumentam o risco de segundas neoplasias a longo prazo."
+        },
+        {
+          "texto": "O diagnóstico dos linfomas de Hodgkin é fundamentado nas características histopatológicas que determinam os seus subtipos histológicos.",
+          "resposta": false,
+          "justificativa": "A histopatologia sozinha não basta: são necessários também os marcadores imuno-histoquímicos, inclusive para o diferencial com outros linfomas, principalmente o difuso de grandes células B. \"Não existe linfoma sem imuno-histoquímica.\""
+        }
+      ],
+      "explicacao": "Gabarito: V – F – V – V – V – F. As duas falsas giram em torno da imuno-histoquímica: os subtipos **clássicos** compartilham o mesmo perfil (CD15+/CD30+, CD20−/CD45−), e o diagnóstico nunca se apoia só na morfologia. As verdadeiras resumem o comportamento do LH: disseminação ordenada, por contiguidade, e necessidade de afastar outras doenças com células semelhantes às de Reed-Sternberg.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Vale 1,8 (0,3 cada item). V/F conferidos na foto da folha-gabarito (pág. 89). As justificativas das falsas vêm do gabarito comentado do \"Compilado de questões de Linfomas\" (questão 04, mesma questão)."
+    },
+    {
+      "id": "pd1-q08",
+      "numero": "8",
+      "tipo": "discursiva",
+      "modulo": "outros",
+      "topicos": ["fora-escopo"],
+      "enunciado": "QUESTÃO EXTRA. Mulher de 70 anos, com lesão ulcerada no estômago, é submetida à endoscopia digestiva alta. A biópsia mostrou destruição da arquitetura gástrica normal por numerosas células em anel de sinete. A paciente foi submetida à gastrectomia total. Na microscopia da peça cirúrgica, foi encontrada lesão infiltrante, com células atípicas comprometendo até a serosa. Do tecido adiposo perigástrico foram isolados 11 linfonodos comprometidos.",
+      "pontos": 1.0,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o diagnóstico e a diferenciação da lesão ulcerada? (0,4)",
+          "resposta_modelo": "**Carcinoma difuso de Lauren, com células em anel de sinete, pouco diferenciado.**",
+          "checklist": [
+            "Carcinoma (adenocarcinoma) gástrico difuso de Lauren",
+            "Com células em anel de sinete",
+            "Pouco diferenciado"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Classifique a lesão ulcerada segundo a profundidade. (0,2)",
+          "resposta_modelo": "**Avançado** (compromete até a serosa).",
+          "checklist": [
+            "Avançado"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Classifique a lesão ulcerada segundo o padrão macroscópico. (0,2)",
+          "resposta_modelo": "**Borrmann III.** Complemento: é o tipo ulcerado e infiltrante da classificação macroscópica de Borrmann.",
+          "checklist": [
+            "Borrmann III"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Classifique a lesão ulcerada segundo o tipo histológico. (0,2)",
+          "resposta_modelo": "**Difuso** (classificação de Lauren).",
+          "checklist": [
+            "Difuso"
+          ]
+        }
+      ],
+      "explicacao": "Questão extra de patologia gástrica, fora do conteúdo da P2 (tireoide, linfadenopatias e linfomas). Células em anel de sinete caracterizam o carcinoma gástrico do tipo difuso de Lauren, pouco diferenciado; como invade até a serosa é um câncer avançado, e o gabarito classifica a lesão ulcerada e infiltrante como Borrmann III.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Assunto fora do escopo da P2 (estômago). Na foto (pág. 89), a resposta do item d tinha \"Adenocarcinoma\" riscado e substituído por \"DIFUSO\".",
+      "fora_do_escopo": true
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "id": "tir-05",
+  "modulo": "tireoide",
+  "ordem": 5,
+  "titulo": "Carcinomas diferenciados: papilífero × folicular",
+  "minutos": 18,
+  "prioridade": "alta",
+  "topicos": [
+    "tir-papilifero",
+    "tir-folicular"
+  ],
+  "resumo": "Você vai discutir papilífero e folicular pelos três eixos que o professor cobra — morfologia, disseminação e prognóstico — sem trocar linfática por hematogênica.",
+  "objetivos": [
+    "Descrever o núcleo do carcinoma papilífero e os corpos psamomatosos",
+    "Explicar por que o diagnóstico do papilífero é nuclear e o do folicular é arquitetural (invasão)",
+    "Diferenciar carcinoma folicular de adenoma folicular",
+    "Associar papilífero à via linfática e folicular à via hematogênica, com os sítios de metástase",
+    "Citar a imuno-histoquímica de cada um dizendo positivo ou negativo"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai — é o coração da prova",
+      "md": "**Prova 151, questão 3 (valia 4 pontos):** *\"Discutir as principais neoplasias primárias epiteliais diferenciadas da tireoide quanto à morfologia, disseminação e prognóstico.\"* **Prova 150:** fratura de úmero com \"estruturas foliculares com material róseo\" no osso → **carcinoma folicular, disseminação hematogênica**; jovem com linfonodo cervical + nódulo com microcalcificações → **carcinoma papilífero, disseminação linfática**; V ou F: \"papilífero tem disseminação hematogênica para pulmão e osso\" → **F**. **Prova 148:** uma questão de múltipla escolha para cada um. **Provas 145 e 147:** o caso longitudinal papilífero → folicular → anaplásico."
+    },
+    {
+      "id": "b02",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "A regra que zerou a questão de 4 pontos",
+      "md": "Anotação dos alunos na Prova 151: **quem falou do carcinoma anaplásico perdeu a questão inteira** — ele é *indiferenciado*, e a pergunta era sobre os *diferenciados*. E **tinha que falar também do carcinoma medular** (capítulo 6). Leia o adjetivo do enunciado antes de escrever."
+    },
+    {
+      "id": "b03",
+      "tipo": "titulo",
+      "texto": "1. O mapa antes do detalhe"
+    },
+    {
+      "id": "b04",
+      "tipo": "texto",
+      "md": "Ordem de frequência, como o professor apresentou: **papilífero** (mais comum) → **folicular** (2º) → **medular** → **anaplásico** (menos comum). Papilífero e folicular nascem da célula folicular e são os bem diferenciados. Neste capítulo, só os dois; cada um na sua gaveta e depois lado a lado."
+    },
+    {
+      "id": "b05",
+      "tipo": "titulo",
+      "texto": "2. Carcinoma papilífero"
+    },
+    {
+      "id": "b06",
+      "tipo": "cartoes",
+      "titulo": "Identidade do papilífero",
+      "itens": [
+        {
+          "titulo": "O mais comum",
+          "texto": "É o carcinoma de tireoide mais frequente.",
+          "emoji": "🥇"
+        },
+        {
+          "titulo": "Diagnóstico no núcleo",
+          "texto": "Não é a papila que define; é o núcleo.",
+          "emoji": "🔬"
+        },
+        {
+          "titulo": "Via linfática",
+          "texto": "Invasão de vasos linfáticos é regra; metástase em linfonodos cervicais.",
+          "emoji": "🕸️"
+        },
+        {
+          "titulo": "Evolução lenta",
+          "texto": "Prognóstico favorável.",
+          "emoji": "🐢"
+        }
+      ]
+    },
+    {
+      "id": "b07",
+      "tipo": "subtitulo",
+      "texto": "O núcleo é o diagnóstico"
+    },
+    {
+      "id": "b08",
+      "tipo": "figura",
+      "ref": "fig_papilifero_nucleo",
+      "legenda": "Papila com eixo fibrovascular e, em detalhe, o núcleo do papilífero: cromatina clara, fenda (ranhura), pseudoinclusão; ao lado, um corpo psamomatoso."
+    },
+    {
+      "id": "b09",
+      "tipo": "cartoes",
+      "titulo": "O núcleo do papilífero",
+      "itens": [
+        {
+          "titulo": "Cromatina clara",
+          "texto": "Núcleo pálido, \"vazio\".",
+          "emoji": "⚪"
+        },
+        {
+          "titulo": "Contorno irregular",
+          "texto": "As \"ranhuras nucleares\" (fendas) do gabarito oficial.",
+          "emoji": "〰️"
+        },
+        {
+          "titulo": "Pseudoinclusão",
+          "texto": "Material do citoplasma que entra para dentro do núcleo.",
+          "emoji": "🫧"
+        },
+        {
+          "titulo": "Mitoses raras",
+          "texto": "Tumor bem diferenciado, de baixa proliferação.",
+          "emoji": "🧘"
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Não é a papila",
+      "md": "\"**Não é a papila que faz diagnóstico, mas o núcleo, independente da forma em que esteja!**\" O papilífero tem 18 subtipos e nem todos formam papila; existe até o subtipo folicular, que faz folículo mas tem núcleo de papilífero. Para a prova: **só o clássico cai**."
+    },
+    {
+      "id": "b11",
+      "tipo": "subtitulo",
+      "texto": "A arquitetura do clássico"
+    },
+    {
+      "id": "b12",
+      "tipo": "texto",
+      "md": "**Papilas com eixo fibrovascular**, revestidas por células cúbicas ou cilíndricas (o professor disse que podem se apresentar das duas formas). Na macroscopia, a lesão é **branca** em um parênquima vermelho. A paciente pode já se apresentar com metástase."
+    },
+    {
+      "id": "b13",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Corpos psamomatosos",
+      "md": "Microcalcificações **arredondadas**, em **camadas concêntricas** de cálcio e proteínas, como uma cebola. São basófilos, não refringentes e medem de 5 a 100 μm. Achado frequente e importante do papilífero — e também é comum encontrá-los nas **metástases linfonodais**."
+    },
+    {
+      "id": "b14",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Palavras-gatilho do papilífero nos enunciados",
+      "md": "\"Células com **cromatina clara, ranhuras nucleares e pseudo-inclusões**\" (Provas 145 e 147). \"Padrões papilíferos, **inclusão intranuclear** e **corpos psamomatosos**\" (Prova 148). \"Nódulo irregular, sólido, com **microcalcificações**\" + \"**linfonodo cervical** aumentado\" (Prova 150). \"Linfonodo cervical com o **mesmo aspecto** da lesão nodular\" (caso longitudinal)."
+    },
+    {
+      "id": "b15",
+      "tipo": "subtitulo",
+      "texto": "Disseminação e clínica"
+    },
+    {
+      "id": "b16",
+      "tipo": "texto",
+      "md": "Metástase por **via linfática para os linfonodos cervicais** — por isso se pede ultrassom e punção do linfonodo. A evolução é lenta. Se o tumor comprimir estruturas vizinhas: disfagia, tosse, rouquidão e dor."
+    },
+    {
+      "id": "b17",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Como chamar esse linfonodo (Prova 148, questão 5)",
+      "md": "Pergunta: melhor caracterização morfológica do linfonodo com metástase de neoplasia papilífera. Gabarito (de aluno): **linfadenopatia secundária** — \"secundária porque é oriunda de metástase do carcinoma da tireoide e não originária das células linfoides\". As erradas eram: primária, por continuidade e linfadenite metastática."
+    },
+    {
+      "id": "b18",
+      "tipo": "quiz",
+      "pergunta": "V ou F da Prova 150: \"O carcinoma papilífero tem preferencialmente disseminação hematogênica para pulmão e osso.\" Qual a correção certa?",
+      "opcoes": [
+        "Verdadeiro, não há o que corrigir",
+        "Falso: a disseminação é por contiguidade para a traqueia",
+        "Falso: a disseminação é linfática, para linfonodos cervicais",
+        "Falso: o papilífero não dá metástase"
+      ],
+      "correta": 2,
+      "explicacao": "O gabarito oficial corrige com duas palavras: \"linfática e linfonodos\". Hematogênica para osso e pulmão é o comportamento do carcinoma folicular."
+    },
+    {
+      "id": "b19",
+      "tipo": "titulo",
+      "texto": "3. Carcinoma folicular"
+    },
+    {
+      "id": "b20",
+      "tipo": "cartoes",
+      "titulo": "Identidade do folicular",
+      "itens": [
+        {
+          "titulo": "2º mais comum",
+          "texto": "Vem logo depois do papilífero.",
+          "emoji": "🥈"
+        },
+        {
+          "titulo": "Via hematogênica",
+          "texto": "Invade vasos sanguíneos e viaja pelo sangue.",
+          "emoji": "🩸"
+        },
+        {
+          "titulo": "Sem linfonodo",
+          "texto": "Não há metástase linfonodal.",
+          "emoji": "🚫"
+        },
+        {
+          "titulo": "Osso, fígado, cérebro, pulmão",
+          "texto": "Os sítios de metástase; no osso, pode dar fratura patológica.",
+          "emoji": "🦴"
+        },
+        {
+          "titulo": "Invasão",
+          "texto": "Da cápsula, dos vasos capsulares ou de ambos: é o que o define.",
+          "emoji": "🧱"
+        }
+      ]
+    },
+    {
+      "id": "b21",
+      "tipo": "subtitulo",
+      "texto": "Microscopia: parece tireoide normal"
+    },
+    {
+      "id": "b22",
+      "tipo": "texto",
+      "md": "A lesão é feita de **folículos** com quantidade variável de coloide. Os folículos são bem diferenciados e lembram uma glândula normal ou até um bócio tóxico. Pleomorfismo discreto, raras mitoses. Nas palavras do professor: a célula parece a da tireoide normal — **não se vê malignidade na célula**."
+    },
+    {
+      "id": "b23",
+      "tipo": "tabela",
+      "titulo": "Adenoma folicular × carcinoma folicular",
+      "colunas": [
+        "Critério",
+        "Adenoma folicular",
+        "Carcinoma folicular"
+      ],
+      "linhas": [
+        [
+          "Natureza",
+          "Neoplasia benigna",
+          "Neoplasia maligna"
+        ],
+        [
+          "Arquitetura",
+          "Folículos",
+          "Folículos"
+        ],
+        [
+          "Células",
+          "Parecem de tireoide normal",
+          "Parecem de tireoide normal"
+        ],
+        [
+          "Cápsula",
+          "Íntegra",
+          "**Invadida**"
+        ],
+        [
+          "Vasos",
+          "Livres",
+          "**Invadidos**"
+        ],
+        [
+          "PAAF distingue?",
+          "Não",
+          "Não — só o histopatológico da peça"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b24",
+      "tipo": "foto",
+      "ref": "foto_folicular_invasao",
+      "legenda": "Carcinoma folicular: tumor de padrão folicular ultrapassando a cápsula — a invasão é o critério de malignidade."
+    },
+    {
+      "id": "b25",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "Papilífero se reconhece pela cara; folicular, pelo comportamento",
+      "md": "O papilífero é maligno pelo que o **núcleo mostra**. O folicular é maligno pelo que o tumor **faz**: romper a cápsula e entrar no vaso. Isso explica tudo — por que a PAAF serve para um e não para o outro, e por que um vai para o linfonodo e o outro para o osso."
+    },
+    {
+      "id": "b26",
+      "tipo": "fluxo",
+      "titulo": "Do folículo à fratura",
+      "passos": [
+        {
+          "titulo": "Invade a cápsula",
+          "texto": "O tumor rompe a cápsula."
+        },
+        {
+          "titulo": "Invade o vaso",
+          "texto": "Entra nos vasos sanguíneos capsulares."
+        },
+        {
+          "titulo": "Viaja pelo sangue",
+          "texto": "Disseminação hematogênica."
+        },
+        {
+          "titulo": "Implanta-se à distância",
+          "texto": "Osso, fígado, cérebro e pulmão."
+        },
+        {
+          "titulo": "Fratura patológica",
+          "texto": "O tecido ósseo é substituído por tecido neoplásico e quebra com facilidade."
+        }
+      ]
+    },
+    {
+      "id": "b27",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "\"Bócio metastático\"",
+      "md": "Nome que os livros antigos davam à metástase da tireoide. Na verdade, era um **carcinoma folicular** que invadiu a cápsula e o vaso e foi para o osso. Faz sentido o engano: o tumor é tão bem diferenciado que, na metástase, continua parecendo tireoide."
+    },
+    {
+      "id": "b28",
+      "tipo": "revelar",
+      "pergunta": "Prova 150, questão 1: paciente de 60 anos cai na rua e fratura o úmero. No histopatológico, junto aos fragmentos ósseos, há estruturas foliculares com material róseo em seu interior. Qual o provável diagnóstico? Explique.",
+      "resposta": "**Metástase óssea de carcinoma folicular da tireoide.** Folículos com material róseo (coloide) dentro do osso = tecido tireoidiano bem diferenciado onde não deveria estar. O folicular invade cápsula e vasos e dissemina por **via hematogênica**, principalmente para osso; a substituição do osso pelo tumor causou a **fratura patológica**. Gabarito oficial: \"Carcinoma folicular. Disseminação hematogênica.\""
+    },
+    {
+      "id": "b29",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: macroscopia do folicular",
+      "blocos": [
+        {
+          "id": "b30",
+          "tipo": "texto",
+          "md": "Duas formas: **nodular, circunscrita** — menos maligna — e **difusa ou invasiva**, com aumento volumétrico irregular da tireoide. No caso longitudinal das provas, o enunciado ainda descreve o folicular com \"células com núcleos hipercromáticos\"; o que fecha o diagnóstico, porém, é a frase seguinte: comprometia a cápsula e infiltrava os vasos sanguíneos."
+        }
+      ]
+    },
+    {
+      "id": "b31",
+      "tipo": "titulo",
+      "texto": "4. Lado a lado"
+    },
+    {
+      "id": "b32",
+      "tipo": "figura",
+      "ref": "fig_disseminacao_tireoide",
+      "legenda": "Papilífero → via linfática → linfonodos cervicais. Folicular → via hematogênica → osso, pulmão, fígado e cérebro."
+    },
+    {
+      "id": "b33",
+      "tipo": "tabela",
+      "titulo": "Papilífero × folicular",
+      "colunas": [
+        "Critério",
+        "Papilífero",
+        "Folicular"
+      ],
+      "linhas": [
+        [
+          "Frequência",
+          "O mais comum",
+          "2º mais comum"
+        ],
+        [
+          "Arquitetura",
+          "Papilas com eixo fibrovascular (no clássico)",
+          "Folículos com coloide; lembra tireoide normal"
+        ],
+        [
+          "Núcleo",
+          "**Cromatina clara, ranhuras, pseudoinclusões**",
+          "Sem as alterações do papilífero; \"núcleos hipercromáticos\" no enunciado do caso"
+        ],
+        [
+          "Achado-assinatura",
+          "Corpos psamomatosos",
+          "Invasão de cápsula e de vasos"
+        ],
+        [
+          "O que define o diagnóstico",
+          "O **núcleo**",
+          "A **invasão**"
+        ],
+        [
+          "PAAF",
+          "Fecha (Bethesda 5 ou 6)",
+          "Não fecha; precisa da peça"
+        ],
+        [
+          "Via de disseminação",
+          "**Linfática**",
+          "**Hematogênica**"
+        ],
+        [
+          "Metástases",
+          "**Linfonodos cervicais**",
+          "**Osso, fígado, cérebro, pulmão**"
+        ],
+        [
+          "Linfonodo cervical",
+          "Frequente; pode ser a apresentação",
+          "Não há metástase linfonodal"
+        ],
+        [
+          "Complicação típica",
+          "Compressão local: disfagia, tosse, rouquidão",
+          "Fratura patológica"
+        ],
+        [
+          "Prognóstico",
+          "Evolução lenta, **favorável**",
+          "Tumor diferenciado; a forma circunscrita é menos maligna. Complemento: em geral bom, mas pior que o do papilífero pelas metástases à distância"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b34",
+      "tipo": "destaque",
+      "estilo": "mnemonico",
+      "titulo": "Duas cadeias de letras",
+      "md": "**PapiLífero → Linfática → Linfonodo.** O \"L\" segue junto. **FoliCular → Corrente sanguínea → Cápsula e vaso invadidos → Fratura.** E os \"P\" do papilífero: **P**álido (cromatina clara), **P**seudoinclusão, **P**samoma, **P**rognóstico bom, **P**AAF."
+    },
+    {
+      "id": "b35",
+      "tipo": "quiz",
+      "pergunta": "Qual característica é mais indicativa de carcinoma folicular? (formato da Prova 148)",
+      "opcoes": [
+        "Padrões papilíferos com corpos psamomatosos e áreas de necrose",
+        "Padrões foliculares com invasão vascular e capsular, sem metástases linfáticas",
+        "Células pequenas e redondas com numerosas mitoses, sem comprometimento da cápsula",
+        "Células anaplásicas com rápida progressão e infiltração local extensa"
+      ],
+      "correta": 1,
+      "explicacao": "Folicular = folículos + invasão de cápsula e vasos + ausência de metástase linfonodal. Papilas e psamomas são do papilífero; células anaplásicas com progressão rápida, do anaplásico."
+    },
+    {
+      "id": "b36",
+      "tipo": "titulo",
+      "texto": "5. Imuno-histoquímica"
+    },
+    {
+      "id": "b37",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Como estudar IHQ para esta prova",
+      "md": "Ele disse que o **Ki-67 é índice de proliferação celular — não entra** como marcador. O que decorar: **TTF-1 positivo (indica tireoide)** e os outros que estão no livro, \"indicando se é positivo ou negativo, sempre\"."
+    },
+    {
+      "id": "b38",
+      "tipo": "tabela",
+      "titulo": "Imuno-histoquímica: papilífero × folicular",
+      "colunas": [
+        "Marcador",
+        "Papilífero",
+        "Folicular"
+      ],
+      "linhas": [
+        [
+          "TTF-1",
+          "**+** (diz que é de tireoide)",
+          "**+** (identifica metástase de tireoide)"
+        ],
+        [
+          "Tireoglobulina",
+          "Complemento: +",
+          "**+** — define a linhagem"
+        ],
+        [
+          "PAX8",
+          "Complemento: +",
+          "**+**"
+        ],
+        [
+          "CK19, galectina-3, HBME-1",
+          "**+** (galectina-3 e HBME-1 também marcam as metástases)",
+          "Não citados para o folicular"
+        ],
+        [
+          "TTF-2, panceratina (AE1/AE3), CK7, CAM, vimentina",
+          "Não citados para o papilífero",
+          "**+**"
+        ],
+        [
+          "Calcitonina",
+          "Complemento: −",
+          "Complemento: −"
+        ],
+        [
+          "Ki-67 (índice, não marcador)",
+          "Baixo",
+          "Baixo"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b39",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Um erro de digitação na fonte",
+      "md": "O resumo lista, para o folicular, \"pancreatina (AE1/AE2)\". O termo correto é **panceratina** (pancitoceratina), cujo coquetel de anticorpos é AE1/AE3. Outro detalhe do resumo: nas formas pouco diferenciadas, o Ki-67 é um pouco mais alto do que nas bem diferenciadas."
+    },
+    {
+      "id": "b40",
+      "tipo": "titulo",
+      "texto": "6. Escrevendo a discursiva"
+    },
+    {
+      "id": "b41",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo: papilífero (morfologia, disseminação, prognóstico)",
+      "md": "\"O carcinoma papilífero é o mais comum. **Morfologia:** papilas com eixo fibrovascular revestidas por células de núcleos com cromatina clara, contornos irregulares (ranhuras) e pseudoinclusões; corpos psamomatosos são frequentes. **Disseminação:** linfática, para linfonodos cervicais. **Prognóstico:** evolução lenta e prognóstico favorável.\""
+    },
+    {
+      "id": "b42",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo: folicular (morfologia, disseminação, prognóstico)",
+      "md": "\"O carcinoma folicular é o segundo mais comum. **Morfologia:** folículos bem diferenciados com coloide, células semelhantes às da tireoide normal; diferencia-se do adenoma pela invasão da cápsula e/ou dos vasos. **Disseminação:** hematogênica, para osso, fígado, cérebro e pulmão, sem metástase linfonodal; pode causar fratura patológica. **Prognóstico:** tumor diferenciado, com pleomorfismo discreto e raras mitoses; a forma circunscrita é menos maligna, e o prognóstico piora com a invasão e as metástases à distância.\""
+    },
+    {
+      "id": "b43",
+      "tipo": "revelar",
+      "pergunta": "Sem olhar: complete a questão de 4 pontos para papilífero e folicular — morfologia, disseminação e prognóstico de cada um, em uma linha por eixo.",
+      "resposta": "**Papilífero** — morfologia: papilas + núcleo de cromatina clara, ranhuras, pseudoinclusões, psamomas; disseminação: linfática, linfonodos cervicais; prognóstico: favorável, evolução lenta. **Folicular** — morfologia: folículos de aspecto normal + invasão capsular/vascular; disseminação: hematogênica (osso, fígado, cérebro, pulmão), sem linfonodo; prognóstico: diferenciado, depende das metástases. Falta o **medular** (capítulo 6) — e **nunca** o anaplásico."
+    },
+    {
+      "id": "b44",
+      "tipo": "resumo",
+      "itens": [
+        "Papilífero: o mais comum; diagnóstico pelo **núcleo** (cromatina clara, ranhuras, pseudoinclusões); psamomas.",
+        "Papilífero → **linfática → linfonodos cervicais**; evolução lenta, prognóstico favorável.",
+        "Folicular: parece tireoide normal; é carcinoma pela **invasão de cápsula e vasos** (é o que o separa do adenoma).",
+        "Folicular → **hematogênica → osso, fígado, cérebro, pulmão**; sem linfonodo; fratura patológica; \"bócio metastático\".",
+        "IHQ: **TTF-1 +** nos dois; tireoglobulina define linhagem; CK19, galectina-3 e HBME-1 no papilífero. Ki-67 não é marcador.",
+        "Na questão das \"diferenciadas\": papilífero + folicular + medular. **Anaplásico zera.**"
+      ]
+    }
+  ]
+}

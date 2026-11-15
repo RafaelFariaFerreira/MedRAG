@@ -1,0 +1,137 @@
+{
+  "prova": {
+    "id": "pd2",
+    "titulo": "Ano desconhecido 2",
+    "temas": "Linfomas",
+    "periodo": "desconhecido",
+    "gabarito_fonte": "oficial",
+    "paginas": [90, 94]
+  },
+  "questoes": [
+    {
+      "id": "pd2-q01",
+      "numero": "1 (itens a–i)",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": ["lin-lnh-geral", "lin-geral"],
+      "enunciado": "Marque V ou F, justifique as falsas. (Itens a–i: linfomas não-Hodgkin.)",
+      "itens": [
+        {
+          "texto": "a) Nos linfomas não-Hodgkin a progressão da doença se faz necessariamente por contiguidade.",
+          "resposta": false,
+          "justificativa": "Nos linfomas não Hodgkin a progressão da doença NÃO se faz necessariamente por contiguidade. Quem progride por contiguidade, de cadeia em cadeia, é o linfoma de Hodgkin."
+        },
+        {
+          "texto": "b) Os casos de linfomas não-Hodgkin com acometimento sistêmico ao diagnóstico são menos frequentes, inclusive leucemização.",
+          "resposta": false,
+          "justificativa": "Os casos de LNH com acometimento sistêmico ao diagnóstico são MAIS frequentes, inclusive com leucemização."
+        },
+        {
+          "texto": "c) Nos LNH não é infrequente o acometimento primário de órgãos extranodais, podendo ocorrer em até 40% dos casos.",
+          "resposta": true,
+          "justificativa": "Em até 40% dos LNH o tumor primário é extranodal; no LH o tumor primário é quase sempre nodal."
+        },
+        {
+          "texto": "d) Os sítios extranodais mais frequentes são o estômago, o anel de Waldeyer e a pele.",
+          "resposta": true,
+          "justificativa": "São exatamente os três sítios extranodais mais frequentes dos LNH: estômago, anel linfático de Waldeyer e pele."
+        },
+        {
+          "texto": "e) Os LNH indolentes e altamente agressivos apresentam leucemização ao diagnóstico.",
+          "resposta": false,
+          "justificativa": "Os LNH indolentes, POR VEZES, e os altamente agressivos, FREQUENTEMENTE, apresentam leucemização ao diagnóstico — a frase está errada por afirmar isso de forma absoluta."
+        },
+        {
+          "texto": "f) O estudo de biologia molecular demonstrou que nos LNH 80-90% são de células B (maioria no mundo ocidental) e 10-20% são de células B ou NK (natural killer, raros).",
+          "resposta": false,
+          "justificativa": "80–90% são de células B (maioria no mundo ocidental) e 10–20% são de células T ou NK (natural killer, raros). O erro é \"B ou NK\" no lugar de \"T ou NK\"."
+        },
+        {
+          "texto": "g) Na maioria dos casos de LNH as células neoplásicas correspondem a 15% no tecido acometido, com células inflamatórias reativas em grandes quantidades.",
+          "resposta": false,
+          "justificativa": "Na maioria dos LNH as células neoplásicas DISTRIBUEM-SE POR TODO o tecido acometido, com células inflamatórias reativas em PEQUENAS quantidades. Poucas células neoplásicas em fundo reativo abundante é o padrão do linfoma de Hodgkin."
+        },
+        {
+          "texto": "h) Os LNH podem acometer todas as faixas etárias, com predomínio de diferentes subtipos histológicos nas diversas idades.",
+          "resposta": true,
+          "justificativa": "Altamente agressivos (Burkitt, linfoblástico) predominam em crianças e jovens; o difuso de grandes células B e os indolentes (folicular) aumentam com a idade."
+        },
+        {
+          "texto": "i) Os LNH têm distribuição etária bimodal, com pico de acometimento em crianças e adultos jovens e um pico menor nas faixas etárias mais avançadas.",
+          "resposta": false,
+          "justificativa": "Distribuição bimodal é dos LINFOMAS DE HODGKIN. Os LNH distribuem-se POR TODAS AS FAIXAS ETÁRIAS, com PREDOMÍNIO DE DIFERENTES SUBTIPOS HISTOLÓGICOS NAS DIVERSAS IDADES."
+        }
+      ],
+      "explicacao": "Gabarito: a F, b F, c V, d V, e F, f F, g F, h V, i F. Todos os itens saem da tabela comparativa LH × LNH: o LNH não segue contiguidade, costuma ser sistêmico ao diagnóstico, tem tumor primário extranodal em até 40% dos casos (estômago, anel de Waldeyer, pele) e ocorre em todas as idades. As pegadinhas atribuem ao LNH o que é do Hodgkin: contiguidade, distribuição bimodal e poucas células neoplásicas em fundo inflamatório abundante.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Na prova original a questão 1 é um único bloco de V/F com 15 itens (a–o). Ela foi dividida aqui em duas partes: itens a–i (linfomas não Hodgkin, dentro da P2) e itens j–o (baço, fora do escopo da P2 — ver pd2-q02). V/F e correções conferidos na foto do gabarito impresso (pág. 94)."
+    },
+    {
+      "id": "pd2-q02",
+      "numero": "1 (itens j–o)",
+      "tipo": "vf",
+      "modulo": "outros",
+      "topicos": ["fora-escopo"],
+      "enunciado": "Marque V ou F, justifique as falsas. (Itens j–o: patologia do baço.)",
+      "itens": [
+        {
+          "texto": "j) Na anemia falciforme o infarto esplênico é decorrente da obstrução das vênulas pós-capilares.",
+          "resposta": true,
+          "justificativa": "Verdadeiro segundo o gabarito oficial."
+        },
+        {
+          "texto": "k) Na histologia do baço as áreas perifoliculares correspondem a 10% e estão relacionadas com a lenta passagem de sangue permitindo filtragem e atividade imunológica.",
+          "resposta": true,
+          "justificativa": "Verdadeiro segundo o gabarito oficial."
+        },
+        {
+          "texto": "l) Os nódulos de Gamna-Gandy correspondem a depósitos de hemossiderina, cristais impregnados de ferro e cálcio em fibras colágenas e elásticas.",
+          "resposta": true,
+          "justificativa": "Verdadeiro segundo o gabarito oficial."
+        },
+        {
+          "texto": "m) A doença de Gaucher tem caráter recessivo, decorre da escassez de glicocerebrosidase, com depósito de glicocerebrosídeo no sistema retículo endotelial.",
+          "resposta": false,
+          "justificativa": "Correção do gabarito oficial: a doença de Gaucher tem caráter recessivo, decorre da escassez de glicocerebrosidase, com ACÚMULO DE ESFINGOLIPÍDEOS EM MACRÓFAGOS."
+        },
+        {
+          "texto": "n) A obstrução é uma causa pouco frequente no hiperesplenismo e a citopenia é causa secundária.",
+          "resposta": false,
+          "justificativa": "Correção do gabarito oficial: a obstrução é uma causa frequente (tira o \"pouco\") no hiperesplenismo e a citopenia é CONSEQUÊNCIA secundária, não causa."
+        },
+        {
+          "texto": "o) São causas de esplenomegalia congestiva: insuficiência cardíaca, síndrome de Budd-Chiari, cirrose com hipertensão portal, trombose da veia portal ou esplênica e sarcoidose.",
+          "resposta": false,
+          "justificativa": "Correção do gabarito oficial: são causas de esplenomegalia congestiva insuficiência cardíaca, DOENÇA DE GAUCHER, cirrose com hipertensão portal, trombose da veia portal ou esplênica e ESQUISTOSSOMOSE."
+        }
+      ],
+      "explicacao": "Gabarito: j V, k V, l V, m F, n F, o F. Estes itens são de patologia do baço (infarto esplênico, nódulos de Gamna-Gandy, doença de Gaucher, hiperesplenismo e esplenomegalia congestiva), assunto que não faz parte da P2 e não aparece no resumo das aulas. Ficam registrados apenas para manter a prova completa.",
+      "gabarito_fonte": "oficial",
+      "confianca": "media",
+      "observacao": "Continuação da questão 1 da prova original (itens j–o), separada por tratar de baço — fora do escopo da P2. Não há como conferir estes itens no resumo das aulas; valem as correções impressas no gabarito (foto da pág. 94), mesmo as discutíveis (itens m e o).",
+      "fora_do_escopo": true
+    },
+    {
+      "id": "pd2-q03",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "linfadenopatias",
+      "topicos": ["lfa-hiperplasia-vs-linfoma-folicular", "lin-folicular", "lfa-padrao-folicular"],
+      "enunciado": "Qual é a diferença entre a Hiperplasia folicular e o Linfoma folicular?",
+      "resposta_modelo": "No **linfoma (não Hodgkin) folicular** a coroa linfocitária está reduzida, praticamente extinta, os folículos têm mais ou menos o mesmo tamanho e a lesão sai do linfonodo, invadindo a gordura perilinfonodal e o seio periférico; o **BCL-2 é positivo**. Na **hiperplasia folicular** (reacional) a coroa linfocitária é bem visível, os folículos têm tamanhos diferentes e não há invasão da gordura nem do seio periférico; o BCL-2 é negativo. Além disso, na hiperplasia há preservação da arquitetura do linfonodo, figuras mitóticas frequentes, macrófagos e zonas claras (centrócitos) e escuras (centroblastos) detectáveis — características ausentes nos folículos do linfoma.",
+      "checklist": [
+        "Coroa linfocitária: reduzida/ausente no linfoma; bem visível na hiperplasia",
+        "Invasão da gordura perilinfonodal e do seio periférico só no linfoma",
+        "Arquitetura do linfonodo preservada na hiperplasia",
+        "Hiperplasia: mitoses frequentes, macrófagos, zonas clara (centrócitos) e escura (centroblastos)",
+        "Tamanho dos folículos: semelhantes no linfoma; variados na hiperplasia",
+        "BCL-2 positivo no linfoma folicular e negativo na hiperplasia"
+      ],
+      "explicacao": "O professor avisou em aula que essa comparação poderia ser questão de prova — e ela volta em várias provas, também embutida em casos clínicos. Pense em três eixos: **coroa linfocitária** (some no linfoma), **limites** (o linfoma invade gordura e seio periférico) e **BCL-2** (positivo só no linfoma, porque a célula não morre). Não basta invadir a gordura para ser linfoma: precisa do conjunto, principalmente o BCL-2 positivo.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "O texto do gabarito oficial (foto da pág. 94) está cortado na última linha: \"macrófagos [trecho ilegível] claras (centrócitos) e escuras (centroblastos) detectáveis - características ausentes nos folículos…\". O gabarito não cita BCL-2 nem o tamanho dos folículos; esses dois pontos foram acrescentados a partir do resumo das aulas."
+    }
+  ]
+}

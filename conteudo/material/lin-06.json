@@ -1,0 +1,391 @@
+{
+  "id": "lin-06",
+  "modulo": "linfomas",
+  "ordem": 6,
+  "titulo": "LNH agressivos e altamente agressivos: grandes células B e Burkitt",
+  "minutos": 20,
+  "prioridade": "alta",
+  "topicos": ["lin-dgcb", "lin-burkitt", "lin-lnh-geral"],
+  "resumo": "Você vai separar de vez o difuso de grandes células B do Burkitt — tamanho da célula, Ki-67, BCL-2 e MYC — e sair com a resposta-modelo do caso do menino africano.",
+  "objetivos": [
+    "Explicar o que o Ki-67 mede e por que ele não conta como marcador",
+    "Descrever o linfoma difuso de grandes células B: morfologia, subtipos, IHQ e fatores de pior prognóstico",
+    "Reconhecer as três variantes do Burkitt e a relação de cada uma com o EBV",
+    "Explicar o céu estrelado: o que é o céu e o que são as estrelas",
+    "Comparar folicular, grandes células B e Burkitt pelos mesmos critérios",
+    "Escrever a resposta-modelo do caso de Burkitt com painel de quatro marcadores"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "**Burkitt é presença quase garantida.** Caiu como caso discursivo na Prova 145 (homem de 48 anos, HIV positivo), em duas provas sem data (uma com criança e tumor de mandíbula) e na **Prova 151 (25.2)**: menino de 8 anos, África, mandíbula, “céu estrelado”. Pedem diagnóstico completo, painel de quatro marcadores com + e − e a explicação do céu estrelado. O **difuso de grandes células B** aparece em múltipla escolha (BCL2/P53, genes) e como diferencial da célula de Reed-Sternberg."
+    },
+    {
+      "id": "b02",
+      "tipo": "revelar",
+      "pergunta": "Aquecimento (capítulo anterior): como está a **medula óssea** ao diagnóstico nos agressivos e nos altamente agressivos? E a resposta à quimioterapia?",
+      "resposta": "**Agressivos** (difuso de grandes células B): medula geralmente **livre**; respondem à quimioterapia agressiva, com sobrevida de 40 a 50%. **Altamente agressivos** (Burkitt): medula **frequentemente positiva**; respondem à terapêutica altamente agressiva, com sobrevida em torno de 50%. Os dois proliferam muito — por isso respondem."
+    },
+    {
+      "id": "b03",
+      "tipo": "titulo",
+      "texto": "Ki-67: índice, não marcador"
+    },
+    {
+      "id": "b04",
+      "tipo": "texto",
+      "md": "O Ki-67 marca a célula que está **no ciclo celular** (G1, S, G2 e M). Só não marca a que está parada em G0. Na lâmina, núcleo marrom é positivo (em ciclo) e núcleo azul é negativo (G0). Quanto mais marrom, maior o índice de proliferação. É a régua que separa as três gavetas."
+    },
+    {
+      "id": "b05",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Recado do professor",
+      "md": "**Ki-67 NÃO entra como marcador** — nem em tireoide, nem em linfoma. Ele é um **índice de proliferação**. Se a questão pedir dois marcadores, escolha dois dos que estão no livro e diga se cada um é positivo ou negativo. O Ki-67 você cita à parte: *“índice de proliferação celular (Ki-67) alto”*."
+    },
+    {
+      "id": "b06",
+      "tipo": "titulo",
+      "texto": "Difuso de grandes células B: a gaveta"
+    },
+    {
+      "id": "b07",
+      "tipo": "cartoes",
+      "titulo": "Ficha do linfoma difuso de grandes células B (LDGCB)",
+      "itens": [
+        {"titulo": "Comportamento", "texto": "Agressivo; medula óssea geralmente livre; responde à quimioterapia.", "emoji": "⚡"},
+        {"titulo": "Célula de origem", "texto": "Linfócito B: do centro germinativo ou B ativado pós-centro germinativo.", "emoji": "🎯"},
+        {"titulo": "Palavra-gatilho", "texto": "Células grandes, blásticas, com nucléolos evidentes, em padrão difuso.", "emoji": "🔬"},
+        {"titulo": "Imuno-histoquímica", "texto": "CD20+ e PAX-5+ (CD22, CD79a). Ciclina D1 negativa. Ki-67 alto.", "emoji": "🧪"},
+        {"titulo": "Genética (já caiu)", "texto": "BCL2, BCL6, MYC e EZH2 contribuem para a progressão.", "emoji": "🧬"},
+        {"titulo": "Evolução", "texto": "Massa de crescimento rápido; sobrevida de 40 a 50% após tratamento.", "emoji": "📈"}
+      ]
+    },
+    {
+      "id": "b08",
+      "tipo": "lista",
+      "itens": [
+        "É o **linfoma mais comum**: 30 a 40% dos LNH.",
+        "Acomete mais na **década dos 60 anos**, mas tem ampla distribuição etária.",
+        "Clínica: **massa localizada, de crescimento rápido**, nodal ou extranodal, em qualquer região.",
+        "Medula óssea geralmente **não** acometida.",
+        "Enorme variação morfológica, imunofenotípica e prognóstica — por isso existem subtipos."
+      ]
+    },
+    {
+      "id": "b09",
+      "tipo": "texto",
+      "md": "**Morfologia:** proliferação difusa de células **grandes, blásticas**, com 3 a 4 vezes o tamanho de um linfócito maduro. São volumosas, com cromatina frouxa, **nucléolos evidentes junto à membrana nuclear** e citoplasma basofílico. Lembram centroblastos e imunoblastos (células B grandes, de um estágio pós-centro germinativo)."
+    },
+    {
+      "id": "b10",
+      "tipo": "foto",
+      "ref": "foto_dgcb",
+      "legenda": "Linfoma difuso de grandes células B: tapete de células grandes, de cromatina frouxa e nucléolos evidentes, sem formar folículos."
+    },
+    {
+      "id": "b11",
+      "tipo": "tabela",
+      "titulo": "Os dois subtipos (separados pelo perfil genético)",
+      "comparacao": true,
+      "colunas": ["Critério", "Tipo centro germinativo", "Tipo B ativada"],
+      "linhas": [
+        ["Semelhante a", "Células B do centro germinativo", "Células B ativadas, pós-centro germinativo"],
+        ["Prognóstico", "**Melhor**", "**Mais reservado**"],
+        ["Macete", "Ainda parece a célula do centro germinativo: comporta-se melhor", "Já saiu do centro germinativo: comporta-se pior"]
+      ]
+    },
+    {
+      "id": "b12",
+      "tipo": "tabela",
+      "titulo": "Imuno-histoquímica do LDGCB",
+      "comparacao": false,
+      "colunas": ["Grupo", "Marcadores", "Leitura"],
+      "linhas": [
+        ["Positivos", "**CD20** (difusamente), **PAX-5**, CD22, CD79a", "Linhagem B"],
+        ["Negativo", "**Ciclina D1**", "Afasta células do manto"],
+        ["Índice de proliferação", "Ki-67 **alto**", "Não conta como marcador. Alto, mas sem chegar aos quase 100% do Burkitt (resposta da Prova 151, NotebookLM)"],
+        ["Prognóstico (já caiu)", "Expressão aumentada de **BCL2 e P53**", "Indicador **desfavorável** (gabarito oficial, Prova 150)"]
+      ]
+    },
+    {
+      "id": "b13",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Já caiu: genética e prognóstico do LDGCB",
+      "md": "Prova 150 (gabarito oficial): *“A expressão aumentada de BCL2 e de P53 é um indicador prognóstico desfavorável no linfoma de grandes células B”* — correta. Prova 148: *“Alterações dos genes **BCL2, BCL6, MYC e EZH2** podem contribuir para a progressão”* — correta (gabarito de aluno). Erradas na mesma questão: expressar CD4 e CD15 (CD4 é de linfócito T) e expressar CD25."
+    },
+    {
+      "id": "b14",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "O grande imitador da célula de Reed-Sternberg",
+      "md": "Célula grande, atípica, com nucléolo evidente não é só Hodgkin. O gabarito oficial da Prova 150 dá os dois diferenciais da célula de Reed-Sternberg: **mononucleose infecciosa e linfoma difuso de grandes células B**. O desempate é a imuno-histoquímica: no LDGCB, **CD20 difusamente positivo** e índice de proliferação alto; no Hodgkin clássico, CD15+ e CD30+, com CD20− e CD45−."
+    },
+    {
+      "id": "b15",
+      "tipo": "quiz",
+      "pergunta": "Perda da arquitetura do linfonodo e células **grandes**, de citoplasma amplo, **núcleos bilobados** e nucléolos eosinofílicos evidentes. Qual diagnóstico **não** entra no diferencial?",
+      "opcoes": [
+        "Linfoma de Hodgkin",
+        "Linfoma não Hodgkin, tipo difuso de grandes células B",
+        "Mononucleose infecciosa",
+        "Linfoma não Hodgkin, tipo de Burkitt"
+      ],
+      "correta": 3,
+      "explicacao": "Prova 148 (gabarito de aluno: D). O Burkitt fica de fora: suas células são de tamanho **médio**, com núcleo único e redondo e citoplasma basofílico — nada de célula grande bilobada. Os outros três produzem células grandes que lembram a de Reed-Sternberg."
+    },
+    {
+      "id": "b16",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "Três caminhos que terminam em grandes células B",
+      "md": "O LDGCB pode surgir já como tal ou ser o **destino de um indolente**: o **folicular** se transforma em 25 a 50% dos casos; a **LLC** se transforma na síndrome de Richter (já caiu; explicação do chat). Pista de prova: paciente com linfoma indolente antigo que passa a mostrar *células grandes CD20+*."
+    },
+    {
+      "id": "b17",
+      "tipo": "titulo",
+      "texto": "Burkitt: a gaveta"
+    },
+    {
+      "id": "b18",
+      "tipo": "cartoes",
+      "titulo": "Ficha do linfoma de Burkitt",
+      "itens": [
+        {"titulo": "Comportamento", "texto": "Altamente agressivo, faixa pediátrica — mas responde bem à quimioterapia.", "emoji": "🚀"},
+        {"titulo": "Célula de origem", "texto": "Linfócito B maduro do centro germinativo.", "emoji": "🎯"},
+        {"titulo": "Palavra-gatilho", "texto": "Céu estrelado; células médias e monótonas; proliferação próxima de 100%.", "emoji": "🌌"},
+        {"titulo": "Imuno-histoquímica", "texto": "CD20+, CD10+, BCL-6+. Negativos: BCL-2 e CD3.", "emoji": "🧪"},
+        {"titulo": "Genética", "texto": "Via do oncogene MYC; t(8;14) (já caiu).", "emoji": "🧬"},
+        {"titulo": "Evolução", "texto": "Medula óssea frequentemente infiltrada; SNC (já caiu); boa resposta à quimioterapia.", "emoji": "📈"}
+      ]
+    },
+    {
+      "id": "b19",
+      "tipo": "tabela",
+      "titulo": "As três variantes clínico-epidemiológicas",
+      "comparacao": true,
+      "colunas": ["Critério", "Endêmica", "Esporádica", "Associada à imunodeficiência"],
+      "linhas": [
+        ["Onde ou em quem", "África equatorial", "Brasil", "Principalmente HIV"],
+        ["Sítio típico", "**Mandíbula**", "**Trato gastrointestinal**, principalmente a válvula ileocecal", "Na Prova 145: linfadenomegalias generalizadas e acometimento extranodal"],
+        ["Relação com o EBV", "**100%**", "Até **70%**", "**100%**"],
+        ["O que as três têm em comum", "Proliferação de 100%, BCL-2 ausente, via do MYC", "Proliferação de 100%, BCL-2 ausente, via do MYC", "Proliferação de 100%, BCL-2 ausente, via do MYC"]
+      ]
+    },
+    {
+      "id": "b20",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "EBV e Brasil: dois cuidados",
+      "md": "Os percentuais de EBV acima são os **da aula** — é o que vale na prova. Complemento: livros como o Robbins trazem números bem menores para as formas esporádica e associada ao HIV; se o professor cobrar, responda os da aula. E já caiu como alternativa **errada**: *“no Brasil a idade média do diagnóstico é de 5 a 7 anos (forma endêmica)”*. No Brasil, a forma é a **esporádica**, do trato gastrointestinal."
+    },
+    {
+      "id": "b21",
+      "tipo": "fluxo",
+      "titulo": "Do MYC ao céu estrelado",
+      "passos": [
+        {"titulo": "Contexto", "texto": "EBV (100% na forma endêmica e na associada ao HIV) e imunodeficiência. Na Prova 151, o menino vinha de região endêmica para malária."},
+        {"titulo": "t(8;14)(q24;q32)", "texto": "Já caiu: ocorre em 80% dos casos. O gene MYC (cromossomo 8) vai para junto do gene da cadeia pesada de imunoglobulina (cromossomo 14), segundo a explicação do chat."},
+        {"titulo": "Via do MYC ativada", "texto": "Em todas as variantes, as alterações genéticas e moleculares envolvem a via do oncogene MYC."},
+        {"titulo": "Proliferação máxima", "texto": "Índice de proliferação (Ki-67) de praticamente 100% e alto índice mitótico."},
+        {"titulo": "Muita célula morre", "texto": "Tumor de giro altíssimo: sobram restos celulares e figuras de apoptose."},
+        {"titulo": "Macrófagos limpam", "texto": "Fagocitam os restos (corpos tingíveis) e aparecem como pontos claros no meio do tumor: céu estrelado."}
+      ]
+    },
+    {
+      "id": "b22",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Já caiu: genética do Burkitt",
+      "md": "Prova 143: correta a **t(8;14)(q24;q32) em 80% dos casos**; erradas: *“neoplasia de células T madura”* (é de células **B** maduras) e atribuir os 80% às translocações t(2;8) e t(8;22). Prova 147 (gabarito oficial): *“O desenvolvimento do linfoma de Burkitt depende da expressão do gene MYC.”* Prova 140: *“neoplasia de células B maduras altamente agressiva, endêmica nas regiões centrais da África”* — correta."
+    },
+    {
+      "id": "b23",
+      "tipo": "subtitulo",
+      "texto": "Morfologia: o céu estrelado"
+    },
+    {
+      "id": "b24",
+      "tipo": "figura",
+      "ref": "fig_ceu_estrelado",
+      "legenda": "O **céu** é o tapete escuro de células neoplásicas médias, todas iguais. As **estrelas** são macrófagos benignos, claros, com restos celulares fagocitados (corpos tingíveis)."
+    },
+    {
+      "id": "b25",
+      "tipo": "lista",
+      "itens": [
+        "Células linfoides de **tamanho médio, monomórficas** (todas iguais), em proliferação difusa.",
+        "Núcleos redondos com **pequenos nucléolos**; citoplasma **basofílico** com numerosos **microvacúolos**.",
+        "**Alto índice mitótico** e figuras de apoptose.",
+        "Numerosos **macrófagos com corpos tingíveis** espalhados entre as células tumorais."
+      ]
+    },
+    {
+      "id": "b26",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo: “retire do texto a característica clássica e explique”",
+      "md": "*“Presença de numerosos macrófagos fagocitando restos celulares”* corresponde ao **aspecto em céu estrelado**. As células neoplásicas, de tamanho médio e citoplasma basofílico, formam o fundo escuro (o céu); os macrófagos com corpos tingíveis, que fagocitam os restos celulares de um tumor com altíssimo índice de proliferação, são os pontos claros (as estrelas)."
+    },
+    {
+      "id": "b27",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Macrófago com restos fagocitados não é exclusivo do Burkitt",
+      "md": "Na Prova 148, um linfonodo com *“células grandes e claras, com restos nucleares fagocitados”* dentro de **centros germinativos**, com cápsula preservada, era **hiperplasia linfoide folicular** — e Burkitt era uma das alternativas erradas. O que fecha Burkitt é o conjunto: proliferação **difusa** de células **médias e monótonas**, muitas mitoses e índice de proliferação perto de 100%."
+    },
+    {
+      "id": "b28",
+      "tipo": "subtitulo",
+      "texto": "Imuno-histoquímica"
+    },
+    {
+      "id": "b29",
+      "tipo": "tabela",
+      "titulo": "Painel do Burkitt (gabaritos oficiais)",
+      "comparacao": false,
+      "colunas": ["Grupo", "Marcadores", "Leitura"],
+      "linhas": [
+        ["Marcadores B — positivos", "**CD20**, CD79a, PAX-5, CD19, CD22", "Linfócito B maduro"],
+        ["Centro germinativo — positivos", "**CD10** e **BCL-6**", "Origem no centro germinativo"],
+        ["Negativos", "**BCL-2** (ausência notável); CD3, CD4, CD5; CD23", "BCL-2 negativo separa do folicular; CD3, CD4 e CD5 afastam a linhagem T"],
+        ["Índice de proliferação", "Ki-67 ≈ **100%**", "Não é marcador, mas cite sempre"]
+      ]
+    },
+    {
+      "id": "b30",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo: painel de quatro marcadores",
+      "md": "Positivos: **CD20, CD10 e BCL-6**. Negativo: **BCL-2** (e CD3). Índice de proliferação celular (Ki-67) próximo de 100%."
+    },
+    {
+      "id": "b31",
+      "tipo": "revelar",
+      "pergunta": "Folicular e Burkitt nascem do centro germinativo e são CD10+. Qual marcador separa um do outro — e o que isso diz sobre a biologia de cada um?",
+      "resposta": "**BCL-2.** Folicular: BCL-2 **positivo** — a célula não morre e se acumula devagar (indolente). Burkitt: BCL-2 **negativo** — o tumor prolifera ao máximo pela via do MYC (Ki-67 perto de 100%) e os restos celulares enchem os macrófagos do céu estrelado."
+    },
+    {
+      "id": "b32",
+      "tipo": "titulo",
+      "texto": "Evolução do Burkitt"
+    },
+    {
+      "id": "b33",
+      "tipo": "lista",
+      "itens": [
+        "**Altamente agressivo**: evolução em semanas a meses.",
+        "Faixa pediátrica (crianças e adolescentes); 2 a 3 vezes mais comum em homens.",
+        "**Medula óssea frequentemente infiltrada** ao diagnóstico.",
+        "Apesar disso, **responde bem à quimioterapia**: prolifera tanto que fica sensível.",
+        "Já caiu (resposta da Prova 151, NotebookLM): acometimento frequente do **sistema nervoso central**, com terapêutica profilática para esse sítio."
+      ]
+    },
+    {
+      "id": "b34",
+      "tipo": "titulo",
+      "texto": "Lado a lado: folicular × grandes células B × Burkitt"
+    },
+    {
+      "id": "b35",
+      "tipo": "tabela",
+      "titulo": "Os três linfomas B que mais caem",
+      "comparacao": true,
+      "colunas": ["Critério", "Folicular", "Difuso de grandes células B", "Burkitt"],
+      "linhas": [
+        ["Gaveta", "Indolente", "Agressivo", "Altamente agressivo"],
+        ["Idade típica", "Mais de 60 anos", "Década dos 60, mas qualquer idade", "Crianças e adolescentes"],
+        ["Tamanho da célula", "**Pequena** a média (centrócitos), com centroblastos", "**Grande** (3 a 4 vezes um linfócito)", "**Média**, monótona"],
+        ["Arquitetura", "Nodular: folículos sem coroa", "Difusa", "Difusa, com céu estrelado"],
+        ["BCL-2", "**Positivo**", "Aumentado = pior prognóstico", "**Negativo**"],
+        ["Dupla para citar", "BCL-2+ e CD10+", "CD20+ e PAX-5+", "CD10+ e BCL-2−"],
+        ["Índice de proliferação (Ki-67)", "Baixo", "Alto", "≈ 100%"],
+        ["Genética", "t(14;18), BCL-2", "BCL2, BCL6, MYC, EZH2", "MYC, t(8;14)"],
+        ["Medula óssea ao diagnóstico", "Frequentemente acometida", "Incomum", "Frequentemente acometida"],
+        ["Resposta à quimioterapia", "Ruim", "Responde (sobrevida de 40 a 50%)", "Responde bem"]
+      ]
+    },
+    {
+      "id": "b36",
+      "tipo": "quiz",
+      "pergunta": "Linfoma de células B, **CD10 positivo, BCL-2 negativo**, com índice de proliferação próximo de 100%. Qual é?",
+      "opcoes": [
+        "Linfoma não Hodgkin, tipo folicular",
+        "Linfoma não Hodgkin, tipo difuso de grandes células B",
+        "Linfoma não Hodgkin, tipo de Burkitt",
+        "Linfoma não Hodgkin de células do manto"
+      ],
+      "correta": 2,
+      "explicacao": "CD10+ aponta para o centro germinativo (folicular ou Burkitt). O BCL-2 **negativo** e a proliferação de quase 100% fecham Burkitt. O folicular seria BCL-2 positivo e de baixa proliferação; o manto é CD10 negativo, com ciclina D1 e CD5 positivos."
+    },
+    {
+      "id": "b37",
+      "tipo": "titulo",
+      "texto": "Caso-modelo: o menino africano (Prova 151)"
+    },
+    {
+      "id": "b38",
+      "tipo": "texto",
+      "md": "Menino de 8 anos, morador de região endêmica para malária na África, com tumor de **crescimento extremamente rápido na mandíbula**. Biópsia: proliferação difusa de linfócitos B de **tamanho médio**, citoplasma basofílico, múltiplos nucléolos, altíssima taxa mitótica e aspecto de **“céu estrelado”**. Discutir diagnóstico, morfologia, imuno-histoquímica, evolução e diferenciais com IHQ."
+    },
+    {
+      "id": "b39",
+      "tipo": "fluxo",
+      "titulo": "Resposta-modelo em cinco passos",
+      "passos": [
+        {"titulo": "1. Diagnóstico", "texto": "Linfoma não Hodgkin, tipo de Burkitt, variante endêmica: África equatorial, mandíbula, relação de 100% com o EBV."},
+        {"titulo": "2. Morfologia", "texto": "Proliferação difusa e monótona de células de tamanho médio, núcleos redondos, citoplasma basofílico com microvacúolos e alto índice mitótico. Céu estrelado: macrófagos com corpos tingíveis fagocitando restos celulares."},
+        {"titulo": "3. Perfil imuno-histoquímico", "texto": "Positivos: CD20, CD79a, PAX-5, CD10 e BCL-6. Negativos: BCL-2 e CD3. Índice de proliferação (Ki-67) próximo de 100%."},
+        {"titulo": "4. Evolução", "texto": "Altamente agressivo, com medula óssea frequentemente infiltrada, mas com boa resposta à quimioterapia. Alterações na via do oncogene MYC, t(8;14)."},
+        {"titulo": "5. Diferenciais com IHQ", "texto": "Difuso de grandes células B: células grandes, CD20+, Ki-67 alto, porém menor. Folicular: CD10+ com BCL-2 positivo, indolente, idoso. Células do manto: ciclina D1+ e CD5+, com CD10 negativo."}
+      ]
+    },
+    {
+      "id": "b40",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Diferenciais do Burkitt: as fontes não concordam",
+      "md": "Não há gabarito oficial para os diferenciais. NotebookLM (Prova 151): folicular, difuso de grandes células B e manto. Chat: leucemia/linfoma linfoblástico, difuso de grandes células B e sarcoma de Ewing ou rabdomiossarcoma. Um aluno: Hodgkin, difuso de grandes células B e folicular (*“não me responsabilizo se estiver errado”*). O **difuso de grandes células B** está nas três listas: comece por ele e dê sempre a IHQ que separa."
+    },
+    {
+      "id": "b41",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: o mesmo Burkitt em outra roupa (HIV positivo, Prova 145)",
+      "blocos": [
+        {
+          "id": "b42",
+          "tipo": "texto",
+          "md": "Homem, 48 anos, **HIV positivo**, febre, anemia, leucopenia, linfadenomegalias generalizadas e acometimento extranodal. Células de tamanho médio, núcleos redondos, citoplasma basofílico; numerosos macrófagos fagocitando restos celulares; alto índice mitótico e proliferação próxima de 100%. É a variante **associada à imunodeficiência**. Repare: o enunciado nem usa a expressão “céu estrelado”."
+        },
+        {
+          "id": "b43",
+          "tipo": "tabela",
+          "titulo": "Gabarito oficial",
+          "comparacao": false,
+          "colunas": ["Pergunta", "Resposta oficial"],
+          "linhas": [
+            ["a) Diagnóstico (COMPLETO)", "**Linfoma não Hodgkin de Burkitt**"],
+            ["b) Painel de quatro marcadores, com + ou −", "Positivos: CD20, CD79a, CD10, BCL-6, PAX-5. Negativos: CD3, BCL-2. Outra versão do gabarito acrescenta CD19 e CD22 positivos; CD4, CD5 e CD23 negativos; Ki-67 ≈ 100%."],
+            ["c) Retire do texto a característica clássica e explique", "*“Numerosos macrófagos fagocitando restos celulares”* = **aspecto de céu estrelado** (macrófagos)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b44",
+      "tipo": "resumo",
+      "itens": [
+        "**Ki-67** é índice de proliferação, não marcador: marca toda célula fora de G0.",
+        "**Difuso de grandes células B:** o LNH mais comum (30–40%); células grandes blásticas, difusas; CD20+ e PAX-5+, ciclina D1−; BCL2 e P53 aumentados = pior prognóstico.",
+        "**Burkitt:** B maduro do centro germinativo; três variantes (endêmica/mandíbula, esporádica/ileocecal, HIV); via do MYC, t(8;14).",
+        "**Céu estrelado:** céu = células médias monótonas; estrelas = macrófagos com corpos tingíveis.",
+        "**Painel do Burkitt:** CD20+, CD10+, BCL-6+; BCL-2− e CD3−; Ki-67 ≈ 100%.",
+        "**BCL-2 separa:** folicular positivo, Burkitt negativo. **Tamanho separa:** pequena (folicular), média (Burkitt), grande (LDGCB)."
+      ]
+    }
+  ]
+}

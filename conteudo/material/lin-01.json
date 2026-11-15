@@ -1,0 +1,585 @@
+{
+  "id": "lin-01",
+  "modulo": "linfomas",
+  "ordem": 1,
+  "titulo": "Linfomas: o mapa antes do território",
+  "minutos": 14,
+  "prioridade": "alta",
+  "topicos": [
+    "lin-geral",
+    "lin-lh-geral",
+    "lin-lnh-geral"
+  ],
+  "resumo": "Você vai situar qualquer linfoma no mapa (primário ou secundário, Hodgkin ou não Hodgkin, indolente ou agressivo, nodal ou extranodal) e escrever o diagnóstico completo do jeito que o professor exige.",
+  "objetivos": [
+    "Definir linfoma e separar neoplasia primária (linfoma) de secundária (metástase) no linfonodo",
+    "Classificar um linfoma pelas três etiquetas: comportamento, localização e forma",
+    "Explicar o paradoxo do tratamento (o agressivo responde melhor) e a condição prévia dos linfomas extranodais",
+    "Aplicar o roteiro “o que é? → é linfoma? → Hodgkin ou não Hodgkin?”",
+    "Escrever o diagnóstico completo e citar marcadores com positivo/negativo, sem usar o Ki-67 como marcador"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "O professor pede o **diagnóstico (COMPLETO)** e **marcadores imuno-histoquímicos com positividade ou negatividade** — está assim, com maiúsculas, na Prova 145 e em provas sem ano. A Prova 151 (25.2) foi inteira discursiva: *“Discutir seu diagnóstico, a morfologia, o perfil imuno-histoquímico, a evolução e os diagnósticos diferenciais com perfil imuno-histoquímico.”* Este capítulo é o mapa: em que gaveta cada linfoma mora e como escrever o nome dele sem perder ponto."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "O que é um linfoma"
+    },
+    {
+      "id": "b03",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Linfoma",
+      "md": "Proliferação **clonal e atípica de células linfoides** — linfócitos B, T ou NK. Complemento: clonal quer dizer que todas as células descendem de uma única célula alterada."
+    },
+    {
+      "id": "b04",
+      "tipo": "texto",
+      "md": "As doenças do linfonodo (linfadenopatias) podem ser **infecciosas, reacionais ou tumorais**. Dentro das tumorais existem duas gavetas, e o primeiro passo de qualquer caso é saber em qual delas você está."
+    },
+    {
+      "id": "b05",
+      "tipo": "tabela",
+      "titulo": "Tumor no linfonodo: primário × secundário",
+      "colunas": [
+        "Critério",
+        "Neoplasia primária",
+        "Neoplasia secundária"
+      ],
+      "linhas": [
+        [
+          "Nome",
+          "**Linfoma**",
+          "**Metástase**"
+        ],
+        [
+          "De onde vêm as células",
+          "Das células linfoides do próprio tecido linfoide",
+          "De um tumor de outro órgão, que chegou ao linfonodo"
+        ],
+        [
+          "Exemplo",
+          "Linfoma de Hodgkin clássico, tipo esclerose nodular",
+          "Carcinoma papilífero da tireoide em linfonodo cervical"
+        ],
+        [
+          "No roteiro diagnóstico",
+          "É a hipótese “linfoma”",
+          "É a hipótese “metástase de CA de tireoide — secundário”"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b06",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Pegadinha de termo (Prova 130)",
+      "md": "V ou F: *“As neoplasias primárias dos órgãos linfoides são os linfocarcinomas, e as secundárias são metástases.”* O único gabarito disponível é o do chat (marcou V), e ele erra bastante. Pelo resumo, a neoplasia primária do linfonodo é o **linfoma**; “linfocarcinoma” não aparece em nenhuma aula. Se o termo cair, desconfie dele."
+    },
+    {
+      "id": "b07",
+      "tipo": "titulo",
+      "texto": "A idade já dá a primeira pista"
+    },
+    {
+      "id": "b08",
+      "tipo": "cartoes",
+      "titulo": "Quem predomina em cada faixa etária",
+      "itens": [
+        {
+          "titulo": "Crianças e adolescentes",
+          "texto": "Predominam os **LNH**: Burkitt, linfoma linfoblástico e leucemia linfoide aguda.",
+          "emoji": "🧒"
+        },
+        {
+          "titulo": "Dos 10 aos 30 anos",
+          "texto": "O **Linfoma de Hodgkin** começa a surgir por volta dos 10 anos e tem pico em torno dos 30. Nota do resumo: “pensar em LH em pacientes mais jovens”.",
+          "emoji": "🧑"
+        },
+        {
+          "titulo": "Com o avançar da idade",
+          "texto": "Aumentam o **difuso de grandes células B** e os **indolentes**, como o folicular.",
+          "emoji": "🧓"
+        }
+      ]
+    },
+    {
+      "id": "b09",
+      "tipo": "quiz",
+      "pergunta": "Criança de 8 anos com massa de crescimento muito rápido. Só pela idade, qual grupo de linfoma é o mais provável?",
+      "opcoes": [
+        "Linfoma de Hodgkin clássico",
+        "Linfoma não Hodgkin altamente agressivo (ex.: Burkitt)",
+        "Linfoma não Hodgkin indolente (ex.: folicular)",
+        "Linfoma difuso de grandes células B"
+      ],
+      "correta": 1,
+      "explicacao": "Em crianças e adolescentes predominam os LNH — Burkitt, linfoblástico e LLA. Os indolentes e o difuso de grandes células B crescem com a idade; o Hodgkin tem pico por volta dos 30 anos. A idade orienta, mas quem fecha o diagnóstico é a célula e a imuno-histoquímica."
+    },
+    {
+      "id": "b10",
+      "tipo": "titulo",
+      "texto": "Três formas de classificar = três perguntas"
+    },
+    {
+      "id": "b11",
+      "tipo": "texto",
+      "md": "Cada classificação responde a uma pergunta diferente: **como se comporta?** (indolente × agressivo), **onde nasceu?** (nodal × extranodal) e **está no tecido ou no sangue?** (sólido × leucêmico). Elas não competem entre si: o mesmo linfoma recebe as três etiquetas."
+    },
+    {
+      "id": "b12",
+      "tipo": "subtitulo",
+      "texto": "1. Comportamento: indolente × agressivo"
+    },
+    {
+      "id": "b13",
+      "tipo": "tabela",
+      "titulo": "Indolente × agressivo",
+      "colunas": [
+        "Critério",
+        "Indolente",
+        "Agressivo"
+      ],
+      "linhas": [
+        [
+          "Imagem do resumo",
+          "“Destrói ao longo do tempo”",
+          "“Dá logo uma pancada”"
+        ],
+        [
+          "Proliferação celular",
+          "Mais lenta",
+          "Mais rápida"
+        ],
+        [
+          "Evolução",
+          "Prolongada; pode ficar estável por anos",
+          "Crescimento acelerado; sintomas e piora clínica em pouco tempo"
+        ],
+        [
+          "Resposta à quimioterapia",
+          "**Pior** — mais difíceis de tratar",
+          "**Melhor** — mais sensíveis aos quimioterápicos"
+        ],
+        [
+          "Exemplos",
+          "Folicular; linfocítico/LLC",
+          "Difuso de grandes células B (o Burkitt entra como “altamente agressivo”)"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b14",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "O paradoxo do tratamento",
+      "md": "O agressivo é o que **responde melhor**: tem maior proliferação, e por isso é mais sensível aos quimioterápicos. O indolente prolifera pouco e responde mal. Já caiu como alternativa errada (Prova 140): *“Quando indolentes têm boa resposta terapêutica pela baixa taxa de proliferação celular.”* É o contrário."
+    },
+    {
+      "id": "b15",
+      "tipo": "subtitulo",
+      "texto": "2. Localização: nodal × extranodal"
+    },
+    {
+      "id": "b16",
+      "tipo": "texto",
+      "md": "**Nodal**: nasce no linfonodo. **Extranodal**: linfoma primário em outro sítio — cérebro, estômago (tipo MALT), tireoide. O detalhe que o professor explora: esses órgãos **não têm linfócitos**. Para surgir linfoma ali, é preciso uma **condição prévia** que leve linfócitos ao local."
+    },
+    {
+      "id": "b17",
+      "tipo": "cartoes",
+      "titulo": "Órgão → condição prévia",
+      "itens": [
+        {
+          "titulo": "Tireoide",
+          "texto": "**Tireoidite de Hashimoto**.",
+          "emoji": "🦋"
+        },
+        {
+          "titulo": "Estômago",
+          "texto": "Infecção por **H. pylori** → linfoma não Hodgkin MALT gástrico.",
+          "emoji": "🦠"
+        },
+        {
+          "titulo": "Cérebro",
+          "texto": "**EBV, HIV**.",
+          "emoji": "🧠"
+        }
+      ]
+    },
+    {
+      "id": "b18",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "HIV: duas neoplasias — e um deslize do resumo",
+      "md": "Nota do resumo: pacientes com HIV geralmente têm dois tipos de neoplasia — **sarcoma de Kaposi** e **linfoma não Hodgkin de alto grau**, que pode ser um tumor cerebral. O resumo escreve “HSV-8” para o Kaposi. Complemento: o vírus é o **HHV-8** (herpesvírus humano 8)."
+    },
+    {
+      "id": "b19",
+      "tipo": "subtitulo",
+      "texto": "3. Forma: sólida × leucêmica"
+    },
+    {
+      "id": "b20",
+      "tipo": "tabela",
+      "titulo": "Sólida × leucêmica",
+      "colunas": [
+        "Critério",
+        "Sólida",
+        "Leucêmica",
+        "Linfoma/leucemia"
+      ],
+      "linhas": [
+        [
+          "Onde estão as células",
+          "Formam tumor (massa)",
+          "Circulam no sangue",
+          "Nas duas formas; pode transitar entre elas"
+        ],
+        [
+          "Nome",
+          "Linfoma",
+          "Leucemia",
+          "Linfoma/leucemia"
+        ],
+        [
+          "Exemplo",
+          "Linfoma folicular",
+          "Leucemia linfoide aguda",
+          "ATLL — linfoma/leucemia T do adulto"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b21",
+      "tipo": "revelar",
+      "pergunta": "Para um linfoma “leucemizar”, que órgão precisa estar infiltrado? Por quê?",
+      "resposta": "**Medula óssea** (e/ou baço). Esses órgãos não têm vasos linfáticos: as células neoplásicas que estão neles caem direto na circulação sanguínea, em quantidade detectável no hemograma de rotina. Nas palavras cruzadas da Prova 150, a resposta cobrada foi **MEDULA ÓSSEA**."
+    },
+    {
+      "id": "b22",
+      "tipo": "titulo",
+      "texto": "De onde vem: causas"
+    },
+    {
+      "id": "b23",
+      "tipo": "lista",
+      "itens": [
+        "**Fatores genéticos**.",
+        "**Infecções virais**: HIV, EBV, HTLV-1.",
+        "**Rearranjos cromossômicos**: há sempre um rearranjo associado a cada tipo de linfoma.",
+        "Notas do resumo: uma **quimioterapia** pode levar a linfoma depois; o **infarto linfonodal** (linfadenopatia necrosante) pode levar a Linfoma de Hodgkin anos depois."
+      ],
+      "ordenada": false
+    },
+    {
+      "id": "b24",
+      "tipo": "fluxo",
+      "titulo": "O caminho do EBV, como o resumo conta",
+      "passos": [
+        {
+          "titulo": "Entrada",
+          "texto": "Penetra no organismo por via oral."
+        },
+        {
+          "titulo": "Infecção",
+          "texto": "Infecta células epiteliais e linfócitos."
+        },
+        {
+          "titulo": "Queda da imunidade",
+          "texto": "Depois de um tempo, o paciente tem queda da imunidade → mononucleose infecciosa."
+        },
+        {
+          "titulo": "Como se vê na lâmina",
+          "texto": "Imuno-histoquímica do EBV: **LMP-1** (proteína latente de membrana 1)."
+        }
+      ]
+    },
+    {
+      "id": "b25",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: associações que já viraram alternativa",
+      "blocos": [
+        {
+          "id": "b26",
+          "tipo": "tabela",
+          "titulo": "Agente → linfoma",
+          "colunas": [
+            "Agente",
+            "Linfoma associado",
+            "Onde apareceu"
+          ],
+          "linhas": [
+            [
+              "HTLV-1",
+              "Leucemia/linfoma T do adulto (ATLL)",
+              "Resumo; Prova 143 (correta segundo o gabarito do chat)"
+            ],
+            [
+              "H. pylori",
+              "Linfoma não Hodgkin MALT gástrico",
+              "Resumo; Provas 140 e 150"
+            ],
+            [
+              "EBV",
+              "Burkitt; alguns Linfomas de Hodgkin; linfoma T/NK nasal",
+              "Resumo; Provas 143 e 147"
+            ],
+            [
+              "HIV",
+              "Linfoma não Hodgkin de alto grau (pode ser cerebral)",
+              "Resumo"
+            ]
+          ],
+          "comparacao": false
+        }
+      ]
+    },
+    {
+      "id": "b27",
+      "tipo": "quiz",
+      "pergunta": "Linfoma primário da tireoide. Qual é a condição prévia que explica haver linfócitos ali?",
+      "opcoes": [
+        "Doença de Graves",
+        "Tireoidite de Hashimoto",
+        "Bócio nodular",
+        "Carcinoma papilífero"
+      ],
+      "correta": 1,
+      "explicacao": "A tireoide não tem linfócitos. A tireoidite de Hashimoto leva o infiltrado linfoide para a glândula — é a condição prévia do linfoma de tireoide, assim como o H. pylori no estômago e EBV/HIV no cérebro."
+    },
+    {
+      "id": "b28",
+      "tipo": "titulo",
+      "texto": "Diagnóstico: morfologia + imuno-histoquímica"
+    },
+    {
+      "id": "b29",
+      "tipo": "tabela",
+      "titulo": "O que cada método entrega",
+      "colunas": [
+        "Critério",
+        "Morfologia",
+        "Imuno-histoquímica (IHQ)"
+      ],
+      "linhas": [
+        [
+          "O que é",
+          "“Você olhando” a lâmina",
+          "Reação antígeno × anticorpo no tecido"
+        ],
+        [
+          "O que entrega",
+          "A classificação geral: B, T… (ex.: linfoma com folículos → células B)",
+          "O **tipo celular**: T CD4 ou CD8; B de grandes ou de pequenas células; índice de proliferação alto ou baixo"
+        ],
+        [
+          "Limite",
+          "Não dá a diferenciação exata do tipo",
+          "Exige painel: de 5 a 10 marcadores para fechar"
+        ],
+        [
+          "Onde pesa mais",
+          "Abre as hipóteses",
+          "Muito importante nos linfomas difusos"
+        ],
+        [
+          "Consequência",
+          "Sozinha, não fecha",
+          "Define o tipo — e é o tipo que define o **tratamento**"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b30",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Fala do professor",
+      "md": "“**Não existe linfoma sem imuno-histoquímica.**” Ela é obrigatória. Classificar errado tem preço: ou o paciente morre, ou o médico pede revisão da lâmina porque o tratamento não está funcionando."
+    },
+    {
+      "id": "b31",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Ki-67 não é marcador",
+      "md": "Recado do professor: na prova, escolha **pelo menos dois marcadores** e diga se cada um é **positivo ou negativo**. O **Ki-67 não entra na conta** — nem em tireoide, nem em linfoma. Ele é **índice de proliferação celular**. Pode citá-lo à parte (“índice de proliferação alto”), nunca como um dos dois marcadores."
+    },
+    {
+      "id": "b32",
+      "tipo": "titulo",
+      "texto": "O roteiro de três perguntas"
+    },
+    {
+      "id": "b33",
+      "tipo": "fluxo",
+      "titulo": "Roteiro diagnóstico (caso do resumo: 18 anos, linfonodo cervical, febre e anorexia)",
+      "passos": [
+        {
+          "titulo": "O que é?",
+          "texto": "Abra as hipóteses: linfoma, metástase (ex.: CA de tireoide — tumor secundário) ou tuberculose."
+        },
+        {
+          "titulo": "É linfoma?",
+          "texto": "Se sim, a próxima pergunta é obrigatória."
+        },
+        {
+          "titulo": "Hodgkin ou não Hodgkin?",
+          "texto": "Tem célula de Reed-Sternberg (célula de Hodgkin) → Linfoma de Hodgkin. Não tem → linfoma não Hodgkin."
+        },
+        {
+          "titulo": "Qual tipo?",
+          "texto": "Hodgkin: clássico ou não clássico + tipo. Não Hodgkin: tipo (folicular, Burkitt…). A IHQ confirma."
+        },
+        {
+          "titulo": "Em que estádio?",
+          "texto": "Com o diagnóstico feito, avalie extensão e prognóstico pelos critérios de Ann Arbor (capítulo 2)."
+        }
+      ]
+    },
+    {
+      "id": "b34",
+      "tipo": "figura",
+      "ref": "fig_mapa_linfomas",
+      "legenda": "O mapa inteiro: Linfoma de Hodgkin (clássico e não clássico) de um lado; linfomas não Hodgkin (indolentes, agressivos, altamente agressivos e de células T) do outro. Localize o caso aqui antes de pensar nos detalhes."
+    },
+    {
+      "id": "b35",
+      "tipo": "tabela",
+      "titulo": "A primeira bifurcação: Hodgkin × não Hodgkin",
+      "colunas": [
+        "Critério",
+        "Linfoma de Hodgkin",
+        "Linfoma não Hodgkin"
+      ],
+      "linhas": [
+        [
+          "Célula de Reed-Sternberg",
+          "**Presente**",
+          "**Ausente**"
+        ],
+        [
+          "Número de tipos",
+          "5",
+          "64 (número do resumo); mais comuns e mais agressivos"
+        ],
+        [
+          "Disseminação",
+          "Por contiguidade, seguindo as cadeias linfonodais",
+          "Pode pular cadeias (ex.: do cervical para o inguinal)"
+        ],
+        [
+          "Idade",
+          "Bimodal: um pico em jovens, outro em mais velhos",
+          "Todas as faixas, conforme o tipo"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b36",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Disseminação sugere, não fecha",
+      "md": "Duas frases do professor: “**nem tudo o que não salta é Hodgkin**” e, no sentido inverso, pular cadeias nem sempre significa não Hodgkin. O padrão de disseminação ajuda a pensar; quem decide é a **célula** e a **IHQ**. A tabela Hodgkin × não Hodgkin completa está no capítulo 4."
+    },
+    {
+      "id": "b37",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "“Linfonodos reacionais” = livres de neoplasia",
+      "md": "Se o enunciado disser “**linfonodos reacionais**”, eles estão **livres de neoplasia (N0)**. Ele fez isso na P1 e muita gente achou que o linfonodo estava acometido. Não estava."
+    },
+    {
+      "id": "b38",
+      "tipo": "titulo",
+      "texto": "Como escrever o diagnóstico (vale ponto)"
+    },
+    {
+      "id": "b39",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Recado do professor",
+      "md": "**Sempre escreva se o linfoma é de Hodgkin ou não Hodgkin antes do tipo.** Quem escreve só “esclerose” pode perder ponto ou **ter a questão inteira zerada**. Na P1, ele cogitou tirar ponto de quem não escreveu que o MALT era um “Linfoma não Hodgkin MALT gástrico”. Não subestime."
+    },
+    {
+      "id": "b40",
+      "tipo": "tabela",
+      "titulo": "Incompleto × completo",
+      "colunas": [
+        "Se você escrever só…",
+        "Escreva assim"
+      ],
+      "linhas": [
+        [
+          "Esclerose nodular",
+          "**Linfoma de Hodgkin clássico, tipo esclerose nodular**"
+        ],
+        [
+          "Predominância linfocítica nodular",
+          "**Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular**"
+        ],
+        [
+          "Burkitt",
+          "**Linfoma não Hodgkin, tipo de Burkitt**"
+        ],
+        [
+          "MALT",
+          "**Linfoma não Hodgkin, tipo MALT gástrico**"
+        ],
+        [
+          "Folicular",
+          "**Linfoma não Hodgkin, tipo folicular**"
+        ]
+      ],
+      "comparacao": false
+    },
+    {
+      "id": "b41",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Moldes prontos",
+      "md": "Diagnóstico: “**Linfoma de Hodgkin [clássico / não clássico], tipo [nome]**” ou “**Linfoma não Hodgkin, tipo [nome]**”. Imuno-histoquímica: “**[marcador] positivo e [marcador] positivo; [marcador] negativo**” — no mínimo dois marcadores, sempre com o sinal."
+    },
+    {
+      "id": "b42",
+      "tipo": "revelar",
+      "pergunta": "Reescreva como diagnóstico completo: “depleção linfocitária”.",
+      "resposta": "**Linfoma de Hodgkin clássico, tipo depleção linfocitária.** Três partes, nesta ordem: Hodgkin ou não Hodgkin → clássico ou não clássico (só no Hodgkin) → tipo."
+    },
+    {
+      "id": "b43",
+      "tipo": "quiz",
+      "pergunta": "O enunciado de um caso termina assim: “foram isolados 8 linfonodos reacionais”. O que isso significa?",
+      "opcoes": [
+        "Os linfonodos têm metástase",
+        "Os linfonodos estão livres de neoplasia",
+        "Os linfonodos têm linfoma em fase inicial",
+        "Os linfonodos têm tuberculose"
+      ],
+      "correta": 1,
+      "explicacao": "Para o professor, “linfonodos reacionais” no enunciado = livres de neoplasia (N0). Reacional é resposta do linfonodo, não acometimento tumoral. Foi a pegadinha da P1."
+    },
+    {
+      "id": "b44",
+      "tipo": "resumo",
+      "itens": [
+        "Linfoma = proliferação **clonal e atípica** de células linfoides (B, T ou NK). No linfonodo: primário = linfoma; secundário = metástase.",
+        "Três etiquetas: **indolente × agressivo** (o agressivo responde melhor à quimioterapia), **nodal × extranodal** (extranodal exige condição prévia: Hashimoto, H. pylori, EBV/HIV) e **sólido × leucêmico**.",
+        "Diagnóstico = morfologia + **IHQ obrigatória**. Cite pelo menos 2 marcadores com + ou −. **Ki-67 é índice de proliferação, não marcador.**",
+        "Roteiro: o que é? → é linfoma? → **tem célula de Reed-Sternberg?** (Hodgkin) ou não (não Hodgkin) → tipo → estádio.",
+        "Escreva completo: “**Linfoma de Hodgkin clássico, tipo esclerose nodular**”; “**Linfoma não Hodgkin, tipo de Burkitt**”. Incompleto perde ponto ou zera.",
+        "“**Linfonodos reacionais**” no enunciado = livres de neoplasia."
+      ]
+    }
+  ]
+}

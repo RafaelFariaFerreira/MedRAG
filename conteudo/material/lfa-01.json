@@ -1,0 +1,489 @@
+{
+  "id": "lfa-01",
+  "modulo": "linfadenopatias",
+  "ordem": 1,
+  "titulo": "O linfonodo e o mapa geral",
+  "minutos": 12,
+  "prioridade": "alta",
+  "topicos": [
+    "lfa-linfonodo-histologia",
+    "lfa-drenagem-clinica",
+    "lfa-geral"
+  ],
+  "resumo": "Você vai montar o armário inteiro: três compartimentos do linfonodo, quatro formas de classificar as linfadenopatias e a gaveta certa de cada doença.",
+  "objetivos": [
+    "Localizar zona B, zona T e seios no linfonodo, com a célula e o marcador de cada uma",
+    "Explicar por que o seio marginal é o primeiro lugar onde se procura metástase",
+    "Usar as 4 formas de classificar as linfadenopatias como um mapa mental",
+    "Relacionar a cadeia linfonodal aumentada com a origem provável da doença",
+    "Interpretar “linfonodos reacionais” no enunciado como N0"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "O professor pergunta o mapa de forma direta. Na Prova 145 (22.2), depois do caso de Rosai-Dorfman: **“Qual o compartimento linfonodal afetado?”** (sinusal). Em V/F, ele troca as gavetas de propósito: *“a histiocitose sinusal é uma linfadenopatia crônica específica, de padrão folicular”* (F). Se o armário estiver arrumado, essas questões são pontos garantidos."
+    },
+    {
+      "id": "b02",
+      "tipo": "texto",
+      "md": "Este capítulo é o armário vazio. Os próximos quatro enchem as gavetas. A ordem de raciocínio é sempre a mesma: **compartimento → padrão → doença → achado-chave → agente, coloração ou marcador**. Se você souber em que gaveta a doença mora, metade da resposta já está escrita."
+    },
+    {
+      "id": "b03",
+      "tipo": "titulo",
+      "texto": "O linfonodo em três compartimentos"
+    },
+    {
+      "id": "b04",
+      "tipo": "figura",
+      "ref": "fig_linfonodo",
+      "legenda": "Córtex com folículos (zona B, roxo), paracórtex (zona T, azul) e medula com seios (histiócitos, vermelho-coral). Vários linfáticos aferentes entram pela cápsula; um único eferente sai."
+    },
+    {
+      "id": "b05",
+      "tipo": "tabela",
+      "titulo": "Cada compartimento na sua gaveta",
+      "comparacao": true,
+      "colunas": [
+        "Critério",
+        "Córtex (folículos)",
+        "Paracórtex",
+        "Medula / seios"
+      ],
+      "linhas": [
+        [
+          "Cor no app",
+          "Roxo",
+          "Azul",
+          "Vermelho-coral"
+        ],
+        [
+          "Quem mora ali",
+          "**Linfócitos B** (nódulos e folículos linfoides)",
+          "**Linfócitos T** (principalmente CD4, também CD8)",
+          "**Plasmócitos e macrófagos** (histiócitos)"
+        ],
+        [
+          "Marcador",
+          "**CD20**",
+          "**CD3**",
+          "**CD138** (plasmócito) e **CD68** (histiócito)"
+        ],
+        [
+          "Padrão quando reage",
+          "**Folicular**",
+          "**Paracortical**",
+          "**Sinusal** (reação histiocitária)"
+        ],
+        [
+          "Linfoma que corresponde",
+          "Linfomas de células B",
+          "Linfomas de células T",
+          "—"
+        ]
+      ]
+    },
+    {
+      "id": "b06",
+      "tipo": "texto",
+      "md": "O paracórtex não é só T: segundo o Bogliolo, tem também poucos linfócitos B, plasmócitos, macrófagos, células apresentadoras de antígeno e fibroblastos. Para a prova, guarde o dono da casa: **paracórtex = zona T**."
+    },
+    {
+      "id": "b07",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Anatomia do folículo",
+      "md": "Folículo = **centro germinativo** (porção interna) + **zona do manto** (porção externa), também chamada de **coroa linfocitária**. Guarde esse nome: é a coroa que desaparece no linfoma folicular e fica bem visível na hiperplasia folicular."
+    },
+    {
+      "id": "b08",
+      "tipo": "titulo",
+      "texto": "Por onde a linfa entra e sai"
+    },
+    {
+      "id": "b09",
+      "tipo": "texto",
+      "md": "O linfonodo tem **vários linfáticos aferentes** e **apenas um eferente**. O aferente chega no **seio marginal** (subcapsular, na periferia). Por isso o seio marginal é o **primeiro lugar** onde o patologista procura **metástase**: é onde a célula tumoral trazida pela linfa aparece primeiro."
+    },
+    {
+      "id": "b10",
+      "tipo": "foto",
+      "ref": "foto_linfonodo_normal",
+      "legenda": "Linfonodo normal: folículos na cortical, paracórtex entre e abaixo deles, seios na medula. Procure o seio logo abaixo da cápsula."
+    },
+    {
+      "id": "b11",
+      "tipo": "revelar",
+      "pergunta": "Onde se procura primeiro uma metástase no linfonodo? Por quê?",
+      "resposta": "No **seio marginal** (subcapsular), porque é ali que o **linfático aferente** chega. Lembre: vários aferentes, um só eferente."
+    },
+    {
+      "id": "b12",
+      "tipo": "titulo",
+      "texto": "O que é uma linfadenopatia"
+    },
+    {
+      "id": "b13",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Definição do professor",
+      "md": "Linfadenopatia é a **resposta do linfonodo a diferentes estímulos** (toxoplasmose, sífilis, doenças autoimunes…). Cada doença tem um padrão. O **tipo de célula que prolifera** determina o tipo de linfadenopatia."
+    },
+    {
+      "id": "b14",
+      "tipo": "texto",
+      "md": "As zonas não são fixas: a que está sendo estimulada **se expande e ocupa o espaço das outras**. Estímulo de célula B faz a cortical crescer; estímulo de célula T faz o paracórtex crescer e empurrar os folículos. É isso que você enxerga na lâmina como “padrão”."
+    },
+    {
+      "id": "b15",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Inconsistência no resumo: “clonal”",
+      "md": "O resumo das aulas explica a expansão das zonas falando em “proliferação clonal de uma mesma célula”. Mas, no mesmo resumo, **proliferação clonal e atípica** é a definição de **linfoma**. Complemento: a resposta reacional é policlonal. Na prova, use **clonal só para linfoma**; para a linfadenopatia reacional, escreva “proliferação/hiperplasia da zona estimulada”."
+    },
+    {
+      "id": "b16",
+      "tipo": "titulo",
+      "texto": "As 4 formas de classificar: o mapa mental"
+    },
+    {
+      "id": "b17",
+      "tipo": "cartoes",
+      "titulo": "Quatro perguntas que você faz a qualquer linfonodo",
+      "itens": [
+        {
+          "titulo": "1. Qual compartimento?",
+          "texto": "Folicular (zona B), paracortical (zona T) ou sinusal (histiócitos). Podem se combinar: padrão misto.",
+          "emoji": "🧭"
+        },
+        {
+          "titulo": "2. Qual estímulo?",
+          "texto": "Reacional (hiperplasias), tumoral (linfoma ou metástase) ou infeccioso (linfadenites).",
+          "emoji": "⚡"
+        },
+        {
+          "titulo": "3. Aguda ou crônica? Específica ou não?",
+          "texto": "As crônicas inespecíficas são três: hiperplasia folicular, hiperplasia paracortical e histiocitose sinusal.",
+          "emoji": "⏳"
+        },
+        {
+          "titulo": "4. Tem padrão especial?",
+          "texto": "Necrosante (Kikuchi, lúpus, infarto) ou granulomatosa (tuberculose e companhia).",
+          "emoji": "🔬"
+        }
+      ]
+    },
+    {
+      "id": "b18",
+      "tipo": "figura",
+      "ref": "fig_padroes_reacionais",
+      "legenda": "Os três padrões por compartimento: folicular (roxo cresce), paracortical (azul cresce) e sinusal (seios repletos de histiócitos)."
+    },
+    {
+      "id": "b19",
+      "tipo": "tabela",
+      "titulo": "Quem mora em cada gaveta (índice do módulo)",
+      "comparacao": false,
+      "colunas": [
+        "Gaveta",
+        "Onde / o quê",
+        "Doenças"
+      ],
+      "linhas": [
+        [
+          "**Padrão folicular**",
+          "Zona B (roxo)",
+          "HIV, toxoplasmose, Kimura, Castleman, sífilis"
+        ],
+        [
+          "**Padrão paracortical**",
+          "Zona T (azul)",
+          "Mononucleose, citomegalovírus (misto), herpes simples, sarampo"
+        ],
+        [
+          "**Padrão sinusal**",
+          "Seios, histiócitos (vermelho-coral)",
+          "Histiocitose sinusal, Rosai-Dorfman, Whipple, drenagem de lipídeos exógenos"
+        ],
+        [
+          "**Necrosantes**",
+          "Padrão arquitetural especial",
+          "Kikuchi, lúpus eritematoso sistêmico, infarto linfonodal"
+        ],
+        [
+          "**Granulomatosas**",
+          "Padrão arquitetural especial",
+          "Tuberculose, micobacteriose atípica, paracoccidioidomicose, arranhadura do gato, sarcoidose"
+        ]
+      ]
+    },
+    {
+      "id": "b20",
+      "tipo": "subtitulo",
+      "texto": "Pelo tipo de estímulo"
+    },
+    {
+      "id": "b21",
+      "tipo": "lista",
+      "itens": [
+        "**Reacional**: hiperplasias linfoides",
+        "**Tumoral primária**: linfoma",
+        "**Tumoral secundária**: metástase",
+        "**Infecciosa**: linfadenites"
+      ]
+    },
+    {
+      "id": "b22",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Já caiu: metástase = secundária",
+      "md": "Prova 148 (24.1): linfonodo cervical com metástase de carcinoma papilífero da tireoide. Alternativas: linfadenopatia primária, por continuidade, linfadenite metastática, **linfadenopatia secundária**, com pedido de explicação. O gabarito não está transcrito nas fontes; pelo esquema do professor (primária = linfoma; secundária = metástase), a resposta é **linfadenopatia secundária**."
+    },
+    {
+      "id": "b23",
+      "tipo": "subtitulo",
+      "texto": "As três crônicas inespecíficas"
+    },
+    {
+      "id": "b24",
+      "tipo": "tabela",
+      "titulo": "As três irmãs, lado a lado",
+      "comparacao": true,
+      "colunas": [
+        "Critério",
+        "Hiperplasia folicular",
+        "Hiperplasia paracortical",
+        "Histiocitose sinusal"
+      ],
+      "linhas": [
+        [
+          "Compartimento",
+          "Zona B (roxo)",
+          "Zona T (azul)",
+          "Seios (vermelho-coral)"
+        ],
+        [
+          "O que se vê",
+          "Múltiplos folículos de **tamanhos diferentes**, com **coroa linfocitária**",
+          "**Expansão do paracórtex**, que empurra os folículos",
+          "Seios **cheios de macrófagos**"
+        ],
+        [
+          "Contexto típico",
+          "Base de todas as doenças do padrão folicular",
+          "Linfadenopatias virais",
+          "Linfonodos na **periferia de tumores malignos**"
+        ],
+        [
+          "Faz diferencial com",
+          "**Linfoma folicular** (BCL-2)",
+          "Linfomas, quando a arquitetura se altera",
+          "Rosai-Dorfman, Whipple, lipídeos exógenos"
+        ]
+      ]
+    },
+    {
+      "id": "b25",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "O que é firme e o que não é",
+      "md": "As definições de “aguda/crônica específica” (dá para olhar e definir a origem, em geral por granulomas) e de “aguda inespecífica” (infecção aguda com hiperemia, edema, infiltrado) vieram do “Chat” no resumo: o professor não detalhou. **Firme e cobrado**: as três crônicas inespecíficas. V/F da Prova 130: *“têm dois padrões: folicular (zona B) e parafolicular (zona medular)”* → **F**."
+    },
+    {
+      "id": "b26",
+      "tipo": "quiz",
+      "pergunta": "V/F de prova antiga: “A histiocitose sinusal é uma linfadenopatia crônica específica, de padrão folicular, presente em linfonodos peritumorais.” O que está errado?",
+      "opcoes": [
+        "Nada, a frase é verdadeira",
+        "Só “peritumorais”: ela não tem relação com tumores",
+        "“Específica” e “folicular”: ela é crônica inespecífica e de padrão sinusal",
+        "Só “crônica”: ela é uma linfadenopatia aguda"
+      ],
+      "correta": 2,
+      "explicacao": "A histiocitose sinusal é uma das três crônicas **inespecíficas** e mora no compartimento **sinusal** (seios cheios de macrófagos). A parte “linfonodos peritumorais” é verdadeira e foi colocada para dar aparência de frase correta."
+    },
+    {
+      "id": "b27",
+      "tipo": "titulo",
+      "texto": "Imuno-histoquímica mínima: quem é quem"
+    },
+    {
+      "id": "b28",
+      "tipo": "cartoes",
+      "titulo": "Marcador → célula",
+      "itens": [
+        {
+          "titulo": "CD20",
+          "texto": "Linfócito B (zona folicular).",
+          "emoji": "🟣"
+        },
+        {
+          "titulo": "CD3",
+          "texto": "Linfócito T (zona paracortical).",
+          "emoji": "🔵"
+        },
+        {
+          "titulo": "CD138",
+          "texto": "Plasmócito.",
+          "emoji": "🔴"
+        },
+        {
+          "titulo": "CD68",
+          "texto": "Histiócito/macrófago. No resumo aparece com interrogação, mas é o que o gabarito oficial aceita no Rosai-Dorfman.",
+          "emoji": "🔴"
+        },
+        {
+          "titulo": "BCL-2",
+          "texto": "Positivo no folículo = linfoma folicular. Negativo = hiperplasia folicular.",
+          "emoji": "⚠️"
+        }
+      ]
+    },
+    {
+      "id": "b29",
+      "tipo": "texto",
+      "md": "Se há **folículos**, você sabe que é célula B. O problema é quando o processo fica **difuso** (“mar de células”): aí a morfologia não diz se é B ou T. Resolve-se com imuno-histoquímica: **CD20** para B e **CD3** para T."
+    },
+    {
+      "id": "b30",
+      "tipo": "titulo",
+      "texto": "A cadeia linfonodal conta de onde vem a doença"
+    },
+    {
+      "id": "b31",
+      "tipo": "figura",
+      "ref": "fig_drenagem_linfonodos",
+      "legenda": "Supraclavicular esquerdo (Virchow) → estômago. Supraclavicular direito → tórax/pulmão. Axilar → mama. Inguinal → canal anal. Mediastinal → tuberculose."
+    },
+    {
+      "id": "b32",
+      "tipo": "tabela",
+      "titulo": "Cadeia aumentada → em que pensar",
+      "comparacao": false,
+      "colunas": [
+        "Cadeia",
+        "Pense em",
+        "Detalhe do professor"
+      ],
+      "linhas": [
+        [
+          "**Supraclavicular esquerdo**",
+          "Estômago",
+          "É o linfonodo de **Virchow**"
+        ],
+        [
+          "**Supraclavicular direito**",
+          "Caixa torácica, pulmão",
+          "Drena o tórax"
+        ],
+        [
+          "**Axilar**",
+          "Metástase de câncer de mama",
+          "—"
+        ],
+        [
+          "**Inguinal**",
+          "Carcinoma escamoso do canal anal",
+          "Fator de risco: HPV de alto risco (16 e 18). Ovário não: a metástase iria primeiro para o peritônio"
+        ],
+        [
+          "**Mediastinal**",
+          "**Tuberculose**",
+          "Principal causa de linfadenomegalia mediastinal no Brasil"
+        ]
+      ]
+    },
+    {
+      "id": "b33",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Fala do professor",
+      "md": "“Ao olharmos a cadeia linfonodal, entendemos de onde vem a doença!” E mais: o aumento linfonodal **pode ser a primeira manifestação** da doença."
+    },
+    {
+      "id": "b34",
+      "tipo": "subtitulo",
+      "texto": "Linfonodo cervical em paciente jovem"
+    },
+    {
+      "id": "b35",
+      "tipo": "lista",
+      "itens": [
+        "**Metástase**, provavelmente da tireoide (se a punção mostra célula epitelial)",
+        "**Mononucleose**",
+        "**Tuberculose**",
+        "**Linfoma**, pensando em Hodgkin"
+      ]
+    },
+    {
+      "id": "b36",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Essa lista aparece em várias provas",
+      "md": "Nos casos de tireoide: *“explique o achado do linfonodo cervical”* → o carcinoma papilífero dissemina por **via linfática** para os linfonodos cervicais (gabarito oficial). Em V/F de Hodgkin (Prova 145, gabarito oficial **V**): com linfonodomegalia cervical, sudorese, febre e perda de peso, um dos principais diferenciais é a **tuberculose**."
+    },
+    {
+      "id": "b37",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: dois apelidos citados em aula",
+      "blocos": [
+        {
+          "id": "b38",
+          "tipo": "lista",
+          "itens": [
+            "**Doença da arranhadura do gato** = bartonelose (está no capítulo de granulomatosas)",
+            "**Doença do jardineiro** = esporotricose, que dá linfangite",
+            "HPV de **baixo risco**: 6 e 11. De **alto risco**: 16 e 18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b39",
+      "tipo": "titulo",
+      "texto": "“Linfonodos reacionais” = N0"
+    },
+    {
+      "id": "b40",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Recado marcado como MUITO IMPORTANTE",
+      "md": "Se o professor escrever **“linfonodos reacionais”** no enunciado, eles estão **livres de neoplasia (N0)**. Ele fez isso na P1 e muita gente achou que o linfonodo estava acometido. Não estava."
+    },
+    {
+      "id": "b41",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo",
+      "md": "“Os linfonodos descritos como reacionais estão livres de neoplasia (N0): o aumento corresponde a uma resposta do linfonodo ao estímulo, e não a metástase.”"
+    },
+    {
+      "id": "b42",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Ele avisou que vai misturar",
+      "md": "Um mesmo paciente pode ter **duas linfadenopatias de padrões diferentes** e, ao mesmo tempo, **um linfoma**. O professor disse que vai associar tudo isso em uma questão. Por isso vale separar bem as gavetas agora."
+    },
+    {
+      "id": "b43",
+      "tipo": "revelar",
+      "pergunta": "Sem olhar: para cada compartimento, diga cor, célula, marcador e padrão reacional.",
+      "resposta": "**Córtex/folículos**: roxo, linfócito B, CD20, padrão folicular. **Paracórtex**: azul, linfócito T, CD3, padrão paracortical. **Medula/seios**: vermelho-coral, plasmócitos (CD138) e macrófagos (CD68), padrão sinusal."
+    },
+    {
+      "id": "b44",
+      "tipo": "resumo",
+      "itens": [
+        "Folículos = **B** (CD20); paracórtex = **T** (CD3); seios/medula = **plasmócitos (CD138) e histiócitos (CD68)**.",
+        "Vários aferentes, um eferente; **seio marginal** = primeiro lugar da metástase.",
+        "Três padrões por compartimento (**folicular, paracortical, sinusal**) + dois arquiteturais (**necrosante, granulomatoso**).",
+        "Crônicas inespecíficas são três: **hiperplasia folicular, hiperplasia paracortical, histiocitose sinusal**.",
+        "A cadeia diz a origem: **Virchow** = estômago; axilar = mama; inguinal = canal anal; mediastinal = **tuberculose**.",
+        "**“Linfonodos reacionais” = N0.** Metástase = linfadenopatia secundária; linfoma = primária."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "prova": {
+    "id": "p130",
+    "titulo": "Prova 130 (15.1)",
+    "temas": "Linfadenopatias e Linfoma de Hodgkin",
+    "periodo": "2015.1",
+    "gabarito_fonte": "chat",
+    "paginas": [
+      76,
+      81
+    ]
+  },
+  "questoes": [
+    {
+      "id": "p130-q01",
+      "numero": "1",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-geral"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "As neoplasias primárias dos órgãos linfoides são os linfocarcinomas, e as secundárias são metástases.",
+          "resposta": false,
+          "justificativa": "As neoplasias primárias dos linfonodos/órgãos linfoides são os **linfomas** (proliferação clonal e atípica de células linfoides B, T ou NK). \"Linfocarcinoma\" não existe: carcinoma é neoplasia epitelial e só aparece no linfonodo como metástase. A segunda metade está certa — as secundárias são as metástases."
+        }
+      ],
+      "explicacao": "Nas linfadenopatias tumorais o resumo separa: **primária = linfoma**; **secundária = metástase**. A afirmativa mistura uma metade certa com um nome errado, formato típico de pegadinha em V ou F. Leia cada termo antes de marcar V.",
+      "gabarito_fonte": "inferido",
+      "confianca": "media",
+      "observacao": "DIVERGÊNCIA: o gabarito do chat marca V. Pelo resumo das aulas (\"Tumoral — primário: linfoma; secundários: metástases\"), o termo \"linfocarcinomas\" torna a afirmativa falsa; adotado F. Prova sem foto (só há a transcrição feita de memória) e sem gabarito oficial: não dá para saber se \"linfocarcinomas\" era a pegadinha do professor ou imprecisão de quem transcreveu — daí a confiança média. Sobre os pontos: a prova informa 6 pontos para o bloco de 15 afirmativas V ou F; o valor de 0,4 por afirmativa foi obtido por divisão. Cada afirmativa foi cadastrada como uma questão separada, com a numeração original (1 a 15).",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q02",
+      "numero": "2",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-geral",
+        "lfa-padrao-folicular",
+        "lfa-padrao-paracortical",
+        "lfa-padrao-sinusal"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "As linfadenopatias crônicas inespecíficas têm dois padrões: folicular (zona B) e parafolicular (zona medular).",
+          "resposta": false,
+          "justificativa": "As linfadenopatias crônicas inespecíficas têm **três** padrões: hiperplasia **folicular** (zona B, cortical), hiperplasia **paracortical** (zona **T**) e **histiocitose sinusal** (seios/medular, reação histiocitária). A afirmativa erra o número de padrões e troca \"paracortical (zona T)\" por \"parafolicular (zona medular)\"."
+        }
+      ],
+      "explicacao": "Monte o mapa do linfonodo: córtex com folículos = zona B → padrão folicular; paracórtex = zona T → padrão paracortical; seios/medular = macrófagos → padrão sinusal. Qualquer afirmativa que embaralhe compartimento e célula está errada.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "observacao": "Chat marca F, mas justifica com apenas dois padrões (folicular e paracortical); o resumo das aulas lista três crônicas inespecíficas (hiperplasia folicular, hiperplasia paracortical e histiocitose sinusal). A resposta F não muda.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q03",
+      "numero": "3",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-padrao-folicular"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "O padrão A da linfadenopatia do HIV tem expansão da zona paracortical e lise celular.",
+          "resposta": false,
+          "justificativa": "O padrão A (fase 1) é a linfadenite reativa **folicular florida**: muitos folículos, que podem coalescer, com hiperplasia do compartimento B. Hiperplasia paracortical com atrofia e **lise folicular** é o padrão **B** (fase 2)."
+        }
+      ],
+      "explicacao": "Sequência do HIV no linfonodo: **A** = hiperplasia folicular florida → **B** = hiperplasia paracortical + lise folicular → **C** = depleção linfocitária. A afirmativa atribui ao padrão A o que é do B. A mesma frase reaparece em outra prova (\"fase A... expansão da zona paracortical e lise celular\"), também falsa.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q04",
+      "numero": "4",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-padrao-folicular"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "O padrão C da linfadenopatia do HIV tem despopulação linfoide e atrofia do seio marginal.",
+          "resposta": false,
+          "justificativa": "O padrão C (fase 3, imunidade \"no chão\") tem, sim, despopulação/depleção linfocitária — mas o seio periférico (marginal) fica **dilatado/alargado**, não atrófico. O que atrofia são as zonas folicular e paracortical."
+        }
+      ],
+      "explicacao": "No padrão C o linfonodo \"murcha\": caem os linfócitos, as zonas folicular e paracortical atrofiam e, por contraste, o seio periférico se alarga. A primeira metade da afirmativa é verdadeira; a pegadinha está em \"atrofia do seio\".",
+      "gabarito_fonte": "inferido",
+      "confianca": "media",
+      "observacao": "DIVERGÊNCIA: o gabarito do chat marca V. O resumo das aulas (com base no Bogliolo) descreve o padrão C como \"depleção linfocitária + dilatação/alargamento do seio periférico + atrofia das zonas folicular e paracortical\"; \"atrofia do seio marginal\" contradiz isso, então foi adotado F. Prova sem foto (só há a transcrição feita de memória) e sem gabarito oficial para conferir a redação exata — confiança média.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q05",
+      "numero": "5",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-celularidade-mista",
+        "lin-lh-pln"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "O LH de celularidade mista é o menos frequente, tem predominância de células linfo-histiocitárias e escasso infiltrado de plasmócitos e linfócitos.",
+          "resposta": false,
+          "justificativa": "A celularidade mista é o **segundo** tipo mais comum de LH (e o mais associado ao EBV) e se define justamente pela **mistura** de células: eosinófilos, plasmócitos, neutrófilos e macrófagos. Célula linfo-histiocitária (pipoca) é a variante do **PLN**."
+        }
+      ],
+      "explicacao": "\"Celularidade mista\" = mais de um tipo celular, em abundância. Guarde o ranking: esclerose nodular é o mais comum, celularidade mista o segundo. Variante linfo-histiocitária sempre remete ao PLN, a forma não clássica.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q06",
+      "numero": "6",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-granulomatosas"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "A linfadenopatia da blastomicose sul-americana apresenta granulomas com extensa necrose e ...(?).",
+          "resposta": true,
+          "justificativa": "A paracoccidioidomicose (blastomicose sul-americana) é uma linfadenite **granulomatosa** com **necrose supurativa** e células gigantes; o fungo em \"roda de leme\" aparece no PAS e no Grocott. O trecho lembrado da afirmativa é compatível com isso."
+        }
+      ],
+      "explicacao": "Para a paracoccidioidomicose guarde quatro palavras: granuloma, necrose supurativa, células gigantes e fungo em **roda de leme** (PAS/Grocott). Como o final da frase se perdeu, use esta afirmativa para revisar o conceito, não para decorar o gabarito.",
+      "gabarito_fonte": "chat",
+      "confianca": "baixa",
+      "observacao": "Enunciado incompleto: quem transcreveu a prova não lembrou o final da frase (\"...(?)\"). O chat marcou V com base apenas no trecho conhecido; se o final original contivesse um erro (por exemplo, o tipo de necrose ou a coloração), a resposta seria F. Confiança baixa.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q07",
+      "numero": "7",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-padrao-folicular"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "A doença de Castleman é causada pelo herpesvírus 6, e na forma plasmocitária apresenta: hialinização vascular e plasmócitos em conformação de bulbo de cebola.",
+          "resposta": false,
+          "justificativa": "Dois erros: o agente é o **herpes-vírus 8** (o mesmo do sarcoma de Kaposi), não o 6; e o vaso central hialinizado com folículo em **bulbo de cebola** — linfócitos da zona do manto dispostos concentricamente, não plasmócitos — é da forma **hialino-vascular**, não da plasmocitária."
+        }
+      ],
+      "explicacao": "Castleman (hiperplasia angiofolicular) é padrão **folicular**: HHV-8, folículo involuído com manto aumentado em casca de cebola/alvo e, na forma hialino-vascular, vaso central hialinizado. O professor avisou que a forma plasmocitária não seria cobrada. A frase reaparece em outra prova com pequena variação — é item recorrente.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q08",
+      "numero": "8",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-necrosantes"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "Na linfadenopatia de Kikuchi, temos: proliferação histiocitária, acúmulo de imunoblastos, rara necrose e corpos hematoxilínicos.",
+          "resposta": false,
+          "justificativa": "Kikuchi é uma linfadenite **necrosante**: a necrose (zonal ou total, com cariorrexe no centro) é o achado que define a doença, não é \"rara\". Proliferação de macrófagos e imunoblastos de fato ocorre. Complemento: corpos hematoxilínicos são achado da linfadenopatia do **lúpus** (a prova 140 cobra isso), cuja morfologia é parecida com a do Kikuchi."
+        }
+      ],
+      "explicacao": "Kikuchi está no grupo das linfadenopatias **necrosantes**, ao lado do infarto linfonodal e do lúpus: necrose zonal (centro com cariorrexe e macrófagos; periferia com imunoblastos), zona paracortical exuberante e macrófagos em crescente. Se a afirmativa disser que a necrose é rara, desconfie.",
+      "gabarito_fonte": "inferido",
+      "confianca": "media",
+      "observacao": "DIVERGÊNCIA: o gabarito do chat marca V — e repete V em outra prova do compilado em que a mesma frase aparece (\"proliferação histiocítica, acúmulos de imunoblastos, corpos hematoxilínicos e rara necrose\"). Pelo resumo das aulas, Kikuchi é linfadenopatia necrosante, com \"necrose zonal ou total do linfonodo\" — o oposto de \"rara necrose\"; por isso foi adotado F. Prova sem foto (só há a transcrição feita de memória) e sem gabarito oficial; confiança média. Como a frase se repete nas provas, vale confirmar com o professor/monitoria.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q09",
+      "numero": "9",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-granulomatosas"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "Na micobacteriose atípica, há poucos bacilos que se coram com Grocott e ...(?).",
+          "resposta": false,
+          "justificativa": "Na micobacteriose atípica há **muitos** bacilos — uma \"massaroca\" dentro dos macrófagos, em proliferação macrofágica difusa, sem granuloma bem formado — e eles se coram pelo **Ziehl-Neelsen**. Grocott é coloração para fungos."
+        }
+      ],
+      "explicacao": "Par de colorações que o professor adora: **Ziehl-Neelsen → micobactérias (BAAR)**; **PAS e Grocott → fungos**. E o contraste: na tuberculose há granuloma com bacilos \"bonitinhos\"; na micobacteriose atípica não dá tempo de formar granuloma e os bacilos são numerosos.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "observacao": "Enunciado incompleto (\"...(?)\"), mas os dois trechos lembrados (\"poucos bacilos\" e \"Grocott\") já são falsos; o chat também marca F.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q10",
+      "numero": "10",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-esclerose-nodular",
+        "lin-lh-deplecao"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "O LH tipo esclerose nodular é agressivo, com predominância de células RS pleomórficas.",
+          "resposta": false,
+          "justificativa": "A esclerose nodular é o tipo **mais comum** e de **melhor prognóstico**, com bandas de colágeno e células de Hodgkin **lacunares**. Células de RS pleomórficas e comportamento super agressivo descrevem a **depleção linfocitária**."
+        }
+      ],
+      "explicacao": "A afirmativa cola na esclerose nodular a descrição da depleção linfocitária. Par para memorizar: esclerose nodular = nódulo + fibrose + célula lacunar, melhor prognóstico; depleção linfocitária = poucos linfócitos + RS pleomórficas, super agressiva.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q11",
+      "numero": "11",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-esclerose-nodular",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "O LH tipo esclerose nodular possui fibras colágenas e células lacunares que são CD15 e CD30 negativas.",
+          "resposta": false,
+          "justificativa": "A primeira parte está certa (bandas de colágeno + células lacunares), mas a esclerose nodular é LH **clássico**: as células são **CD15+ e CD30+** (com CD20− e CD45−). CD15−/CD30− é o perfil do PLN, a forma não clássica."
+        }
+      ],
+      "explicacao": "Todos os LH clássicos marcam **CD15+ e CD30+** e são CD20−/CD45−; só o PLN inverte (CD20+/CD45+, CD15−/CD30−). A marcação é lida em cima da célula de Hodgkin. Morfologia certa com imuno-histoquímica trocada é pegadinha frequente.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q12",
+      "numero": "12",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-padrao-folicular"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "A linfadenopatia da toxoplasmose apresenta extensa necrose, histiocitose na região paracortical e ...(?).",
+          "resposta": false,
+          "justificativa": "Na toxoplasmose **não há necrose**: o padrão é hiperplasia **folicular** com granulomas epitelioides sem necrose (agregados de macrófagos epitelioides, sobretudo paracorticais, que podem rodear ou invadir o centro germinativo) e proliferação de células B monocitoides."
+        }
+      ],
+      "explicacao": "Toxoplasmose = padrão folicular + pequenos granulomas epitelioides **sem necrose**. Os agregados de macrófagos na região paracortical existem; o que derruba a afirmativa é a \"extensa necrose\".",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "observacao": "Enunciado incompleto (\"...(?)\"), mas \"extensa necrose\" já torna a afirmativa falsa segundo o resumo das aulas; o chat também marca F.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q13",
+      "numero": "13",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-granulomatosas"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "A linfadenopatia da sarcoidose apresenta necrose, corpos asteroides e calcificações.",
+          "resposta": false,
+          "justificativa": "Corpos asteroides (inclusões estreladas) e calcificações (corpos de Schaumann) são mesmo da sarcoidose, mas o granuloma sarcoide é **sem necrose** — é isso que o separa do granuloma da tuberculose, que tem necrose caseosa central."
+        }
+      ],
+      "explicacao": "Sarcoidose = granulomas **sem necrose**, envoltos por fibrose, com corpos de Schaumann e/ou corpos asteroides nas células gigantes (não precisam aparecer todos juntos). Pode dar linfadenomegalia mediastinal e, por isso, faz diferencial com tuberculose.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q14",
+      "numero": "14",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-padrao-paracortical"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "Na linfadenopatia do sarampo, há hiperplasia paracortical e inclusões em olho de coruja.",
+          "resposta": false,
+          "justificativa": "A hiperplasia paracortical está certa (sarampo é linfadenopatia viral de padrão paracortical), mas a inclusão em **olho de coruja** é do **citomegalovírus** (inclusão viral na célula endotelial). Complemento: a célula característica do sarampo é a célula gigante multinucleada de Warthin-Finkeldey."
+        }
+      ],
+      "explicacao": "No padrão paracortical ficam as virais: mononucleose (EBV, linfócitos atípicos), CMV (padrão misto + olho de coruja), herpes simples e sarampo. \"Olho de coruja\" na linfadenopatia é palavra-gatilho de **CMV**. Outra prova usa a variante \"sarampo com célula de Langhans\", também falsa.",
+      "gabarito_fonte": "inferido",
+      "confianca": "media",
+      "observacao": "DIVERGÊNCIA: o gabarito do chat marca V, mas se contradiz ao justificar com \"células de Warthin-Finkeldey\", que são células gigantes multinucleadas e não inclusões em olho de coruja. No resumo das aulas, \"olho de pássaro/coruja\" é o achado do citomegalovírus; o sarampo aparece apenas listado no padrão paracortical, sem detalhes. Adotado F. Prova sem foto (só há a transcrição feita de memória) e sem gabarito oficial; confiança média.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q15",
+      "numero": "15",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-padrao-sinusal"
+      ],
+      "enunciado": "Questões V ou F — julgue a afirmativa em verdadeira (V) ou falsa (F):",
+      "pontos": 0.4,
+      "itens": [
+        {
+          "texto": "Na doença de Rosai-Dorfman, ocorre dilatação pronunciada do linfonodo devido à infiltração linfocitária.",
+          "resposta": false,
+          "justificativa": "O aumento do linfonodo (linfadenopatia gigante cervical) se deve à **proliferação de histiócitos** nos seios — padrão sinusal —, cheios de gordura (massa dourada ao corte), que englobam linfócitos íntegros (**emperipolese**). Não é infiltração linfocitária."
+        }
+      ],
+      "explicacao": "Rosai-Dorfman = padrão **sinusal**/histiocitário: massa cervical dourada, histiócitos S100+ e CD68+ com **emperipolese** (linfócito íntegro dentro do macrófago). O linfócito é o \"passageiro\", não a causa do aumento.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p130-q16",
+      "numero": "Caso clínico",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-pln",
+        "lin-lh-rico-linfocitos",
+        "lin-folicular",
+        "lfa-hiperplasia-vs-linfoma-folicular"
+      ],
+      "enunciado": "Caso clínico: paciente de sexo masculino, 40 anos, com linfonodomegalia; biópsia mostrou: nódulos ricos em linfócitos, sem fibrose, com células linfo-histiocitárias e eosinofilia. Qual o PPB? Qual o diagnóstico? Cite 3 características que sustentem o diagnóstico. Cite e descreva histologicamente dois possíveis diagnósticos diferenciais, com a imuno-histoquímica.",
+      "pontos": 4,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o PPB?",
+          "resposta_modelo": "Complemento: PPB = processo patológico básico. Aqui, **neoplasia maligna** — proliferação clonal e atípica de células linfoides (linfoma).",
+          "checklist": [
+            "Neoplasia maligna como processo patológico básico",
+            "Proliferação clonal e atípica de células linfoides (linfoma)"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Qual o diagnóstico?",
+          "resposta_modelo": "**Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular (PLN).** Escreva o nome completo — \"de Hodgkin\", \"não clássico\" e o tipo: o professor tira ponto, ou até zera a questão, de quem escreve só o subtipo.",
+          "checklist": [
+            "Linfoma de Hodgkin (dizer que é de Hodgkin antes do tipo)",
+            "Forma não clássica",
+            "Tipo predominância linfocítica nodular"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Cite 3 características que sustentem o diagnóstico.",
+          "resposta_modelo": "(1) Arquitetura **nodular** com predomínio de **linfócitos**; (2) presença de células de Reed-Sternberg da variante **linfo-histiocitária** (célula em pipoca); (3) **ausência de fibrose** (afasta a esclerose nodular). Também valem: idade (predomina na 4ª década) e a imuno-histoquímica \"ao contrário\" dos outros LH — CD20+ e CD45+, CD15− e CD30−.",
+          "checklist": [
+            "Nódulos com predomínio de linfócitos",
+            "Células linfo-histiocitárias (pipoca)",
+            "Ausência de fibrose/bandas de colágeno",
+            "Idade (4ª década) e/ou IHQ CD20+/CD45+ com CD15−/CD30−"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Cite e descreva histologicamente dois possíveis diagnósticos diferenciais, com a imuno-histoquímica.",
+          "resposta_modelo": "(1) **Linfoma de Hodgkin clássico, tipo rico em linfócitos**: também tem numerosos linfócitos, mas a proliferação é **difusa** (sem nódulos), com células de Hodgkin mononucleares; imuno-histoquímica de LH clássico — CD15+ e CD30+, CD20− e CD45−. (2) **Linfoma não Hodgkin folicular**: arranjo nodular por folículos neoplásicos de tamanho semelhante, sem coroa linfocitária, com mistura de centrócitos e centroblastos e invasão da gordura perilinfonodal; imuno-histoquímica — CD20+ e BCL-2+ (também BCL-6+ e Pax5+), CD5− e ciclina D1−. Outros diferenciais aceitáveis: LH clássico tipo celularidade mista (mistura de eosinófilos, plasmócitos, neutrófilos e macrófagos — lembrado pela eosinofilia; CD15+/CD30+), LH clássico tipo esclerose nodular (bandas de colágeno + células lacunares; CD15+/CD30+) e hiperplasia folicular reacional (folículos de tamanhos diferentes, coroa linfocitária preservada, BCL-2 negativo).",
+          "checklist": [
+            "Dois diagnósticos com nome completo (Hodgkin clássico + tipo, ou não Hodgkin + tipo)",
+            "Descrição histológica de cada um (ex.: rico em linfócitos = difuso, sem nódulos; folicular = folículos semelhantes, sem coroa, centrócitos e centroblastos)",
+            "IHQ de cada um com sinal + ou − (ex.: LH clássico CD15+/CD30+, CD20−/CD45−; folicular CD20+, BCL-2+)",
+            "Pelo menos dois marcadores por diagnóstico"
+          ]
+        }
+      ],
+      "explicacao": "O trio **nódulos de linfócitos + célula linfo-histiocitária (pipoca) + ausência de fibrose**, em homem na 4ª década, é o retrato do **PLN**, a única forma **não clássica** do linfoma de Hodgkin, com imuno-histoquímica invertida (CD20+/CD45+, CD15−/CD30−). O professor cobra o diagnóstico completo (Hodgkin ou não Hodgkin antes do tipo) e marcadores sempre com sinal positivo ou negativo. Os diferenciais naturais são os que também têm muitos linfócitos (LH clássico rico em linfócitos) ou arranjo nodular (linfoma folicular, hiperplasia folicular).",
+      "gabarito_fonte": "inferido",
+      "confianca": "media",
+      "observacao": "DIVERGÊNCIAS com o gabarito do chat: (1) o chat escreve \"Linfoma de Hodgkin clássico, subtipo predominância linfocitária nodular\" — pelo resumo das aulas o PLN é a forma NÃO clássica, e errar o nome completo do diagnóstico pode custar a questão; o subtipo (PLN) coincide com o do chat. (2) O chat interpreta PPB como \"padrão básico: proliferativo nodular\"; aqui PPB foi lido como \"processo patológico básico\" (neoplasia maligna). A sigla não está definida nas fontes — confirmar com o professor/monitoria. (3) O chat cita como diferencial a hiperplasia folicular com \"CD20+ e CD3+ em proporção normal\", sem base no resumo; preferiram-se diferenciais cuja histologia e imuno-histoquímica estão descritas nas aulas. A prova original não tem letras: a divisão em subitens a–d foi feita para organizar as quatro perguntas do enunciado. A eosinofilia citada no enunciado não é típica do PLN (lembra a celularidade mista), mas o conjunto aponta PLN. Prova sem foto (transcrição de memória) e sem gabarito oficial.",
+      "fora_do_escopo": false
+    }
+  ]
+}

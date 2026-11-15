@@ -1,0 +1,482 @@
+{
+  "id": "lfa-05",
+  "modulo": "linfadenopatias",
+  "ordem": 5,
+  "titulo": "Padrões especiais: necrosantes e granulomatosas",
+  "minutos": 16,
+  "prioridade": "alta",
+  "topicos": [
+    "lfa-necrosantes",
+    "lfa-granulomatosas"
+  ],
+  "resumo": "Você vai descrever o granuloma da tuberculose do jeito que o professor quer e separar cada granulomatosa por tipo de necrose, agente e coloração.",
+  "objetivos": [
+    "Descrever os três componentes do granuloma da tuberculose",
+    "Seguir o raciocínio tuberculose → Ziehl-Neelsen negativo → Grocott → paracoccidioidomicose",
+    "Diferenciar as granulomatosas pelo tipo de necrose (caseosa, supurativa, ausente)",
+    "Associar cada agente à sua coloração especial",
+    "Reconhecer a necrose zonal da linfadenite de Kikuchi"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "É o capítulo com mais questões antigas. **Caso em duas etapas** (Prova 145): mulher de 25 anos, tosse, febre, linfadenomegalia mediastinal, cavitações no pulmão; biópsia com necrose, células gigantes e esboço granulomatoso → tuberculose → Ziehl-Neelsen. Na questão seguinte a coloração dá negativa e aparece o fungo. Também caíram **“roda de leme”** (Prova 140), **sarcoidose** em discursiva e V/F sobre **Ziehl-Neelsen para fungos**."
+    },
+    {
+      "id": "b02",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Aviso do professor",
+      "md": "“**VAI PERGUNTAR DE NOVO O GRANULOMA DA TUBERCULOSE.**” Se você só tiver tempo para decorar uma descrição deste módulo, é esta."
+    },
+    {
+      "id": "b03",
+      "tipo": "texto",
+      "md": "São duas gavetas definidas pela **arquitetura**, não pelo compartimento. **Necrosantes**: menos comuns. **Granulomatosas**: o professor diz que **todas são diagnóstico diferencial entre si**. Então, quando ele pede “cite um diferencial” de uma granulomatosa, a resposta é outra granulomatosa."
+    },
+    {
+      "id": "b04",
+      "tipo": "titulo",
+      "texto": "Necrosantes"
+    },
+    {
+      "id": "b05",
+      "tipo": "cartoes",
+      "titulo": "Três moradores",
+      "itens": [
+        {
+          "titulo": "Linfadenite de Kikuchi",
+          "texto": "Necrose zonal com cariorrexe. Macrófagos em crescente. Autolimitada.",
+          "emoji": "🌙"
+        },
+        {
+          "titulo": "Lúpus eritematoso sistêmico",
+          "texto": "Morfologia idêntica à do Kikuchi. Na prova: corpos hematoxilínicos.",
+          "emoji": "🦋"
+        },
+        {
+          "titulo": "Infarto linfonodal",
+          "texto": "Classificado como linfadenopatia necrosante.",
+          "emoji": "⬛"
+        }
+      ]
+    },
+    {
+      "id": "b06",
+      "tipo": "subtitulo",
+      "texto": "Linfadenite de Kikuchi"
+    },
+    {
+      "id": "b07",
+      "tipo": "texto",
+      "md": "**A clínica.** Etiologia **desconhecida**, **autolimitada**. Linfadenopatia **cervical** (pode ocorrer em outras áreas), em paciente com **bom estado geral** e **virose recente**. O laboratório lembra infecção viral aguda: **neutropenia, linfocitose e VHS aumentado**. Pode surgir em pacientes com **lúpus**. **Na lâmina**, procure quatro coisas:"
+    },
+    {
+      "id": "b08",
+      "tipo": "lista",
+      "itens": [
+        "**Necrose zonal** (ou total) do linfonodo",
+        "Zona **paracortical exuberante**; centros germinativos reacionais podem estar presentes",
+        "Em torno da necrose: proliferação de **macrófagos** e de **células citotóxicas**",
+        "**Macrófagos em crescente**: núcleo periférico, reniforme, detritos celulares fagocitados"
+      ]
+    },
+    {
+      "id": "b09",
+      "tipo": "fluxo",
+      "titulo": "A necrose zonal, de dentro para fora",
+      "passos": [
+        {
+          "titulo": "Centro",
+          "texto": "Predominam cariorrexe (fragmentação do núcleo da célula que está morrendo) e macrófagos."
+        },
+        {
+          "titulo": "Zona intermediária",
+          "texto": "Mistura de várias células, com poucos detritos celulares."
+        },
+        {
+          "titulo": "Porção externa",
+          "texto": "Predominam imunoblastos."
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "V/F de Kikuchi: gabarito do chat é duvidoso",
+      "md": "Em duas provas: *“Na linfadenite de Kikuchi encontra-se proliferação histiocítica, acúmulos de imunoblastos, corpos hematoxilínicos e rara necrose.”* O chat marcou **V**; não há gabarito oficial. Mas o resumo define Kikuchi pela **necrose zonal ou total**, e a Prova 140 atribui os **corpos hematoxilínicos ao lúpus**. Complemento: classicamente eles apontam para lúpus, não para Kikuchi. Trate como incerto e confirme com a monitoria."
+    },
+    {
+      "id": "b11",
+      "tipo": "texto",
+      "md": "**Lúpus e infarto** cabem em duas frases, ambas tratadas como corretas na Prova 140 (20.1), cujo gabarito disponível é o do chat: “a linfadenopatia por lúpus eritematoso sistêmico mostra **corpos hematoxilínicos**” e “o infarto linfonodal é classificado como **linfadenopatia necrosante**”."
+    },
+    {
+      "id": "b12",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: infarto linfonodal e linfoma",
+      "blocos": [
+        {
+          "id": "b13",
+          "tipo": "texto",
+          "md": "Uma nota de rodapé do resumo de linfomas diz que o **infarto linfonodal** pode levar ao aparecimento de **linfoma de Hodgkin** anos depois. Aparece uma única vez nas fontes e nunca foi cobrado."
+        }
+      ]
+    },
+    {
+      "id": "b14",
+      "tipo": "quiz",
+      "pergunta": "Jovem em bom estado geral, virose recente, linfonodo cervical, neutropenia e VHS aumentado. Biópsia: necrose zonal com cariorrexe no centro e macrófagos em crescente. Qual o diagnóstico?",
+      "opcoes": [
+        "Tuberculose ganglionar",
+        "Linfadenite de Kikuchi",
+        "Doença da arranhadura do gato",
+        "Doença de Rosai-Dorfman"
+      ],
+      "correta": 1,
+      "explicacao": "**Necrose zonal + cariorrexe + macrófagos em crescente**, em quadro que lembra virose e é autolimitado, é Kikuchi. Não há granuloma (tuberculose), nem microabscesso com paliçada (arranhadura do gato), nem emperipolese (Rosai-Dorfman)."
+    },
+    {
+      "id": "b15",
+      "tipo": "titulo",
+      "texto": "Granulomatosas"
+    },
+    {
+      "id": "b16",
+      "tipo": "figura",
+      "ref": "fig_granulomas",
+      "legenda": "Três granulomas lado a lado. Tuberculose: necrose caseosa central, células de Langhans e halo linfocitário. Sarcoidose: sem necrose. Arranhadura do gato: microabscesso central com paliçada de células epitelioides."
+    },
+    {
+      "id": "b17",
+      "tipo": "subtitulo",
+      "texto": "Tuberculose: o granuloma que vai cair"
+    },
+    {
+      "id": "b18",
+      "tipo": "lista",
+      "ordenada": true,
+      "itens": [
+        "**Centro**: necrose caseosa",
+        "**Em volta**: células gigantes de Langhans e histiócitos",
+        "**Periferia**: halo linfocitário"
+      ]
+    },
+    {
+      "id": "b19",
+      "tipo": "foto",
+      "ref": "foto_granuloma_tb",
+      "legenda": "Granuloma tuberculoso: centro róseo e amorfo (necrose caseosa), células gigantes multinucleadas (Langhans) e coroa de linfócitos."
+    },
+    {
+      "id": "b20",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo (decore esta)",
+      "md": "“O granuloma da tuberculose é formado por um centro de necrose caseosa, circundado por histiócitos e células gigantes de Langhans, com halo linfocitário na periferia. A coloração especial indicada é a de Ziehl-Neelsen.”"
+    },
+    {
+      "id": "b21",
+      "tipo": "texto",
+      "md": "No caso da prova, três respostas oficiais: **linfadenite tuberculosa**; fase **secundária ou pós-primária** (pelas cavitações no pulmão; outro gabarito aceita “segunda fase”); coloração de **Ziehl-Neelsen**. E lembre: tuberculose é a principal causa de linfadenomegalia **mediastinal** no Brasil."
+    },
+    {
+      "id": "b22",
+      "tipo": "revelar",
+      "pergunta": "Sem olhar: descreva o granuloma da tuberculose, do centro para a periferia, e diga a coloração.",
+      "resposta": "**Centro**: necrose caseosa. **Em volta**: histiócitos e células gigantes de Langhans. **Periferia**: halo linfocitário. Coloração: **Ziehl-Neelsen**. Se você escreveu os três componentes na ordem, a questão está garantida."
+    },
+    {
+      "id": "b23",
+      "tipo": "subtitulo",
+      "texto": "Micobacteriose atípica"
+    },
+    {
+      "id": "b24",
+      "tipo": "tabela",
+      "titulo": "Tuberculose × micobacteriose atípica",
+      "comparacao": true,
+      "colunas": [
+        "Critério",
+        "Tuberculose",
+        "Micobacteriose atípica"
+      ],
+      "linhas": [
+        [
+          "Granuloma",
+          "**Sim**: caseoso, com Langhans e halo",
+          "**Não**: “não dá tempo de fazer granuloma”"
+        ],
+        [
+          "Padrão",
+          "Granulomatoso",
+          "**Proliferação macrofágica difusa**"
+        ],
+        [
+          "Ziehl-Neelsen",
+          "Bacilos “bonitinhos”, individualizados",
+          "**“Massaroca” de bacilos** dentro dos macrófagos"
+        ],
+        [
+          "Quantidade de bacilos",
+          "—",
+          "**Numerosos**"
+        ],
+        [
+          "Coloração",
+          "Ziehl-Neelsen",
+          "Ziehl-Neelsen (não é Grocott)"
+        ]
+      ]
+    },
+    {
+      "id": "b25",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "As duas frases de prova sobre micobacteriose",
+      "md": "Dada como correta (Prova 140): *“Na micobacteriose, através da coloração de Ziehl-Neelsen, encontram-se numerosos bacilos.”* Dada como falsa (Prova 130): *“Na micobacteriose atípica, há poucos bacilos que se coram com Grocott.”* Dois erros nesta última: são **muitos** bacilos e a coloração é **Ziehl-Neelsen**."
+    },
+    {
+      "id": "b26",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Sem granuloma, mas entra no diferencial",
+      "md": "O resumo diz que na micobacteriose atípica **não há granuloma**. Mesmo assim, o gabarito oficial da discursiva de sarcoidose a lista entre os diferenciais, ao lado de tuberculose produtiva e paracoccidioidomicose. As duas coisas valem na prova: descreva-a **sem granuloma** e cite-a como **diferencial das granulomatosas**."
+    },
+    {
+      "id": "b27",
+      "tipo": "subtitulo",
+      "texto": "Paracoccidioidomicose"
+    },
+    {
+      "id": "b28",
+      "tipo": "lista",
+      "itens": [
+        "Sinônimo: **blastomicose sul-americana**",
+        "Fungo em **roda de leme**: estrutura arredondada grande com vários brotamentos",
+        "**Necrose supurativa** + **células gigantes**",
+        "Colorações: **PAS e Grocott**"
+      ]
+    },
+    {
+      "id": "b29",
+      "tipo": "fluxo",
+      "titulo": "O raciocínio em duas etapas que o professor montou",
+      "passos": [
+        {
+          "titulo": "1. O caso",
+          "texto": "Linfadenomegalia mediastinal, cavitações pulmonares, biópsia com necrose, células gigantes e esboço granulomatoso."
+        },
+        {
+          "titulo": "2. Primeira hipótese",
+          "texto": "Linfadenite tuberculosa, em fase secundária (pós-primária)."
+        },
+        {
+          "titulo": "3. Coloração pedida",
+          "texto": "Ziehl-Neelsen, para procurar o bacilo."
+        },
+        {
+          "titulo": "4. Ziehl-Neelsen negativo",
+          "texto": "Granulomatosas são diferenciais entre si: pense em fungo e peça Grocott (ou PAS)."
+        },
+        {
+          "titulo": "5. Roda de leme",
+          "texto": "Estruturas arredondadas grandes com diversos brotamentos: paracoccidioidomicose (blastomicose sul-americana)."
+        }
+      ]
+    },
+    {
+      "id": "b30",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "As alternativas-armadilha",
+      "md": "Na Prova 145 as opções eram: tuberculose e Ziehl-Neelsen (já tinha dado negativo); arranhadura do gato e Warthin-Starry; **blastomicose norte-americana** e Grocott; **blastomicose sul-americana e Grocott** (correta). Leia até o fim: a coloração certa com o continente errado derruba. E na Prova 140: *“a coloração de Ziehl-Neelsen é utilizada para fungos”* → **F**, é para micobactérias."
+    },
+    {
+      "id": "b31",
+      "tipo": "subtitulo",
+      "texto": "Doença da arranhadura do gato (bartonelose)"
+    },
+    {
+      "id": "b32",
+      "tipo": "lista",
+      "itens": [
+        "Bactéria: *Bartonella henselae*",
+        "Centro: **necrose supurativa**, com **microabscessos neutrofílicos**",
+        "Periferia: **células epitelioides em paliçada**",
+        "Mais comum em **crianças**; **autolimitada**",
+        "Coloração: **Warthin-Starry**"
+      ]
+    },
+    {
+      "id": "b33",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Caseosa não é do gato",
+      "md": "Alternativa errada da Prova 140: *“Na doença da arranhadura do gato encontram-se necrose caseosa e granulomas produtivos.”* A necrose do gato é **supurativa**; caseosa é da tuberculose. E cuidado com o gato como distrator: no caso do paciente HIV positivo que convive com seis gatos, o diagnóstico era **linfoma folicular**."
+    },
+    {
+      "id": "b34",
+      "tipo": "subtitulo",
+      "texto": "Sarcoidose"
+    },
+    {
+      "id": "b35",
+      "tipo": "lista",
+      "itens": [
+        "Granulomas **sem necrose**",
+        "Envoltos por **fibrose**",
+        "**Corpos de Schaumann**: calcificações",
+        "**Corpos asteroides**: inclusões estreladas nas células gigantes multinucleadas",
+        "Linfadenomegalia **mediastinal**: diferencial com tuberculose"
+      ]
+    },
+    {
+      "id": "b36",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "A discursiva de sarcoidose",
+      "md": "Homem, 30 anos, febre, linfadenomegalia mediastinal com *estruturas arredondadas, múltiplas e pequenas; não há necrose*. Gabarito oficial: **sarcoidose** (granulomas produtivos circundados por fibrose, células gigantes e calcificações); diferenciais: tuberculose produtiva, micobacteriose atípica, paracoccidioidomicose. V/F da Prova 130: *“a sarcoidose apresenta necrose, corpos asteroides e calcificações”* → **F** pela necrose. Não precisa ter todos os achados ao mesmo tempo."
+    },
+    {
+      "id": "b37",
+      "tipo": "quiz",
+      "pergunta": "Linfonodo com necrose, células gigantes e áreas arredondadas de células histiocitárias. A coloração especial mostra estruturas em “roda de leme”. Qual a hipótese?",
+      "opcoes": [
+        "Tuberculose",
+        "Sífilis",
+        "Paracoccidioidomicose",
+        "Sarcoidose"
+      ],
+      "correta": 2,
+      "explicacao": "Questão da Prova 140 (20.1). **Roda de leme** é o fungo da paracoccidioidomicose, visto ao Grocott ou PAS. Tuberculose teria bacilos ao Ziehl-Neelsen; sarcoidose não tem necrose nem agente."
+    },
+    {
+      "id": "b38",
+      "tipo": "titulo",
+      "texto": "Tabela-mestra: agente × achado × coloração"
+    },
+    {
+      "id": "b39",
+      "tipo": "tabela",
+      "titulo": "Todas as granulomatosas, mesmos critérios",
+      "comparacao": true,
+      "colunas": [
+        "Critério",
+        "Tuberculose",
+        "Micobacteriose atípica",
+        "Paracoccidioidomicose",
+        "Arranhadura do gato",
+        "Sarcoidose"
+      ],
+      "linhas": [
+        [
+          "Agente",
+          "*Mycobacterium tuberculosis*",
+          "Micobactérias atípicas",
+          "Fungo (*Paracoccidioides*)",
+          "*Bartonella henselae*",
+          "—"
+        ],
+        [
+          "Necrose",
+          "**Caseosa**",
+          "Não é o achado",
+          "**Supurativa**",
+          "**Supurativa** (microabscessos)",
+          "**Ausente**"
+        ],
+        [
+          "Achado-chave",
+          "Langhans + halo linfocitário",
+          "Macrófagos difusos repletos de bacilos, sem granuloma",
+          "**Roda de leme** + células gigantes",
+          "Células epitelioides em **paliçada**",
+          "Fibrose, **Schaumann**, **asteroides**"
+        ],
+        [
+          "Coloração",
+          "**Ziehl-Neelsen**",
+          "**Ziehl-Neelsen**",
+          "**PAS e Grocott**",
+          "**Warthin-Starry**",
+          "—"
+        ],
+        [
+          "Pista clínica",
+          "Mediastino, cavitação pulmonar",
+          "—",
+          "Ziehl-Neelsen negativo no “caso de tuberculose”",
+          "Criança, autolimitada",
+          "Mediastino, sem necrose"
+        ]
+      ]
+    },
+    {
+      "id": "b40",
+      "tipo": "cartoes",
+      "titulo": "Coloração → o que ela procura",
+      "itens": [
+        {
+          "titulo": "Ziehl-Neelsen",
+          "texto": "Micobactérias: tuberculose e micobacteriose atípica. Nunca fungo.",
+          "emoji": "🔴"
+        },
+        {
+          "titulo": "Grocott e PAS",
+          "texto": "Fungos: paracoccidioidomicose, em roda de leme.",
+          "emoji": "⚫"
+        },
+        {
+          "titulo": "Warthin-Starry",
+          "texto": "Bartonella henselae, na arranhadura do gato.",
+          "emoji": "🐈"
+        },
+        {
+          "titulo": "PAS",
+          "texto": "Também mostra o Tropheryma whipplei dentro dos histiócitos (Whipple).",
+          "emoji": "🧫"
+        }
+      ]
+    },
+    {
+      "id": "b41",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "Granuloma sem necrose: duas gavetas",
+      "md": "**Sarcoidose** (granulomatosa: fibrose, Schaumann, asteroides) e **toxoplasmose** (gaveta folicular: granulomas epitelioides pequenos + hiperplasia folicular + células B monocitoides). Se o enunciado falar em folículos hiperplásicos, pense em toxoplasmose; se falar em fibrose e calcificações no mediastino, sarcoidose."
+    },
+    {
+      "id": "b42",
+      "tipo": "titulo",
+      "texto": "Caso integrador, no formato da prova"
+    },
+    {
+      "id": "b43",
+      "tipo": "texto",
+      "md": "**Caso-treino.** Homem, 34 anos, tosse, febre e linfadenomegalia mediastinal e cervical. Biópsia: necrose, células gigantes e esboço granulomatoso. O Ziehl-Neelsen foi negativo. Nova coloração mostra estruturas arredondadas grandes com diversos brotamentos. O laudo cita ainda “linfonodos axilares reacionais”. Responda antes de abrir."
+    },
+    {
+      "id": "b44",
+      "tipo": "revelar",
+      "pergunta": "a) Qual a hipótese inicial e por que foi pedido Ziehl-Neelsen? b) Qual o diagnóstico final e a coloração? c) O que significa “linfonodos axilares reacionais”? d) Cite dois diferenciais.",
+      "resposta": "**a)** Linfadenite tuberculosa (mediastino + necrose + células gigantes + granuloma); Ziehl-Neelsen procura o bacilo. **b)** Paracoccidioidomicose (blastomicose sul-americana), fungo em roda de leme ao **Grocott** ou PAS. **c)** Livres de neoplasia (N0): resposta ao estímulo. **d)** Outras granulomatosas: tuberculose, micobacteriose atípica, sarcoidose, arranhadura do gato."
+    },
+    {
+      "id": "b45",
+      "tipo": "resumo",
+      "itens": [
+        "**Granuloma da tuberculose**: necrose caseosa central + Langhans e histiócitos + halo linfocitário. Ziehl-Neelsen.",
+        "**Ziehl negativo → Grocott/PAS → roda de leme** = paracoccidioidomicose (blastomicose **sul**-americana).",
+        "Necrose: **caseosa** = tuberculose; **supurativa** = paracoco e gato; **ausente** = sarcoidose (e toxoplasmose).",
+        "**Gato**: *Bartonella henselae*, microabscesso + paliçada, Warthin-Starry. **Sarcoidose**: fibrose, Schaumann, asteroides.",
+        "**Micobacteriose atípica**: sem granuloma, macrófagos difusos com muitos bacilos ao Ziehl-Neelsen.",
+        "**Kikuchi**: necrose zonal com cariorrexe e macrófagos em crescente; **lúpus**: corpos hematoxilínicos; **infarto**: necrosante."
+      ]
+    }
+  ]
+}

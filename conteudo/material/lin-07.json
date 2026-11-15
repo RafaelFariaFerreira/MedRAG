@@ -1,0 +1,391 @@
+{
+  "id": "lin-07",
+  "modulo": "linfomas",
+  "ordem": 7,
+  "titulo": "LNH de células T e fechamento do módulo",
+  "minutos": 20,
+  "prioridade": "alta",
+  "topicos": ["lin-micose-fungoide", "lin-t-outros", "lin-lnh-geral", "lin-geral"],
+  "resumo": "Você vai fechar a gaveta da micose fungoide/síndrome de Sézary e sair com as três tabelas que organizam o módulo inteiro: IHQ de todos os linfomas, palavra-gatilho → diagnóstico e Hodgkin × não Hodgkin.",
+  "objetivos": [
+    "Descrever a micose fungoide: célula T CD4+ epidermotrópica, linfócito cerebriforme e microabscesso de Pautrier",
+    "Explicar por que o microabscesso é de Pautrier, e não de Munro",
+    "Dizer o que define a síndrome de Sézary",
+    "Associar HTLV-1, EBV e H. pylori aos seus linfomas",
+    "Citar dois marcadores, com sinal, para cada linfoma da prova",
+    "Diferenciar Hodgkin de não Hodgkin nas frases que se repetem em V ou F",
+    "Resolver um caso que mistura linfadenopatias reacionais e linfoma"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "**Micose fungoide/Sézary** rende múltipla escolha em quase toda prova: Prova 150 (microabscessos de Pautrier + células T em serpentina no sangue; “células de Sézary são B” como pegadinha), Prova 148 (Pautrier × Munro), Prova 147 (infiltrado epidermotrópico de linfócitos T), Prova 140 (imunofenótipo). Vírus e linfomas T (HTLV-1, EBV) caíram na Prova 143. E as frases de **Hodgkin × não Hodgkin** se repetem em V ou F com gabarito oficial. Este capítulo fecha o módulo com as tabelas-mestras."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "Micose fungoide / síndrome de Sézary: a gaveta"
+    },
+    {
+      "id": "b03",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "O que é",
+      "md": "Linfoma **cutâneo de células T**, cuja célula neoplásica é um linfócito **T CD4+ epidermotrópico** (migra para a epiderme). Ocorre em adultos e é o tipo mais comum desse grupo. Complemento: apesar do nome, não tem nada de fungo — é linfoma."
+    },
+    {
+      "id": "b04",
+      "tipo": "cartoes",
+      "titulo": "Ficha da micose fungoide / síndrome de Sézary",
+      "itens": [
+        {"titulo": "Comportamento", "texto": "Micose fungoide: mais indolente. Síndrome de Sézary: forma leucêmica, agressiva.", "emoji": "🐢"},
+        {"titulo": "Célula de origem", "texto": "Linfócito T CD4+ epidermotrópico.", "emoji": "🎯"},
+        {"titulo": "Palavra-gatilho", "texto": "Microabscesso de Pautrier, linfócito cerebriforme, epidermotropismo.", "emoji": "🔬"},
+        {"titulo": "Imuno-histoquímica", "texto": "CD3+, CD4+ e CD5+. CD8 geralmente negativo.", "emoji": "🧪"},
+        {"titulo": "Genética (já caiu)", "texto": "Translocações recorrentes não são frequentes, ao contrário dos linfomas B.", "emoji": "🧬"},
+        {"titulo": "Evolução", "texto": "Eritema → placas → tumores → eritrodermia. 35% viram linfoma agressivo.", "emoji": "📈"}
+      ]
+    },
+    {
+      "id": "b05",
+      "tipo": "fluxo",
+      "titulo": "A evolução das lesões",
+      "passos": [
+        {"titulo": "Lesões inespecíficas", "texto": "Sobretudo eritema, em geral na parte superior do tórax. Na Prova 148: lesões eritematosas e descamativas no tronco e nos braços, com coceira, havia dois anos."},
+        {"titulo": "Placas", "texto": "As lesões se tornam mais espessas."},
+        {"titulo": "Tumores", "texto": "Fase tumoral na pele."},
+        {"titulo": "Eritrodermia acentuada", "texto": "É o quadro cutâneo da síndrome de Sézary."},
+        {"titulo": "Fora da pele", "texto": "Principalmente linfonodos e medula óssea. O comprometimento de linfonodos e de sangue periférico é tardio."},
+        {"titulo": "Leucemização", "texto": "Linfócitos cerebriformes no sangue periférico: só aí se confirma a síndrome de Sézary."}
+      ]
+    },
+    {
+      "id": "b06",
+      "tipo": "subtitulo",
+      "texto": "Morfologia: três palavras-gatilho"
+    },
+    {
+      "id": "b07",
+      "tipo": "figura",
+      "ref": "fig_micose_fungoide",
+      "legenda": "Linfócitos T neoplásicos sobem da derme superior para a epiderme (epidermotropismo) e se agrupam em microabscessos de Pautrier. No detalhe, o núcleo cerebriforme."
+    },
+    {
+      "id": "b08",
+      "tipo": "lista",
+      "itens": [
+        "**Epidermotropismo:** intenso infiltrado na derme superior, com exocitose de linfócitos para dentro da epiderme.",
+        "**Linfócito cerebriforme:** núcleo de contorno irregular, convoluto, hipercromático, com sulcos que lembram o córtex cerebral. Na Prova 150: “núcleos em forma de serpentina”.",
+        "**Microabscesso de Pautrier:** agregado de células T atípicas dentro da epiderme, ao redor de células de Langerhans.",
+        "**Linfonodo:** quando comprometido, em geral associado a linfadenopatia dermopática."
+      ]
+    },
+    {
+      "id": "b09",
+      "tipo": "foto",
+      "ref": "foto_micose_fungoide",
+      "legenda": "Micose fungoide: linfócitos atípicos dentro da epiderme, formando pequenos agregados (microabscessos de Pautrier)."
+    },
+    {
+      "id": "b10",
+      "tipo": "tabela",
+      "titulo": "Pautrier × Munro: a pegadinha da Prova 148",
+      "comparacao": true,
+      "colunas": ["Critério", "Microabscesso de Pautrier", "Microabscesso de Munro"],
+      "linhas": [
+        ["Do que é feito", "Linfócitos **T neoplásicos** (CD4+), cerebriformes", "Neutrófilos (Complemento)"],
+        ["Doença", "**Micose fungoide**", "Psoríase (Complemento)"],
+        ["É abscesso de verdade?", "Não: é um agregado de células tumorais", "Sim: coleção de neutrófilos (Complemento)"],
+        ["Na prova", "Alternativa correta", "Alternativa errada: “microabscessos de Munro compostos de células T CD4+”"]
+      ]
+    },
+    {
+      "id": "b11",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Um detalhe do enunciado que não bate com o resumo",
+      "md": "O caso da Prova 148 descreve *“espongiose”* na biópsia, enquanto o resumo define os microabscessos de Pautrier como coleções intraepidérmicas **não espongióticas**. Não deixe isso travar você: linfócitos intraepidérmicos CD4+ com citomorfologia cerebriforme = Pautrier. O gabarito disponível é de aluno (*“nome do cara errado”*), não oficial."
+    },
+    {
+      "id": "b12",
+      "tipo": "quiz",
+      "pergunta": "Homem, 56 anos, lesões eritematosas e descamativas no tronco superior há dois anos, com prurido. Biópsia: linfócitos intraepidérmicos CD4+, com citomorfologia cerebriforme. Assinale a correta.",
+      "opcoes": [
+        "A lesão tem microabscessos de Munro compostos de células T CD4+",
+        "A lesão tem microabscessos de Pautrier",
+        "A categoria M é baseada na presença de linfadenopatia dermatopática",
+        "Translocações cromossômicas recorrentes são frequentes, em comparação com os linfomas de células B"
+      ],
+      "correta": 1,
+      "explicacao": "Prova 148 (gabarito de aluno: B). Agregado intraepidérmico de células T neoplásicas é Pautrier; Munro é o “nome errado”. As outras também falham: translocações recorrentes são marca dos linfomas **B**, como a t(14;18) do folicular e a t(8;14) do Burkitt. Complemento: linfonodo entra na categoria N do estadiamento, não na M."
+    },
+    {
+      "id": "b13",
+      "tipo": "tabela",
+      "titulo": "Imuno-histoquímica da micose fungoide / Sézary",
+      "comparacao": false,
+      "colunas": ["Grupo", "Marcadores", "Leitura"],
+      "linhas": [
+        ["Positivos", "**CD3, CD4 e CD5**", "Linfócito T CD4+. Já caiu também: TCR-αβ/βF1 positivo (Prova 140)"],
+        ["Negativo", "**CD8** (geralmente)", "Casos com fenótipo CD8+ têm prognóstico ruim"],
+        ["Linhagem B", "CD20 negativo (Complemento)", "É linfoma T: marcador B não marca"]
+      ]
+    },
+    {
+      "id": "b14",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo",
+      "md": "**Linfoma não Hodgkin de células T, cutâneo, tipo micose fungoide.** Infiltrado de linfócitos T CD4+ epidermotrópicos, cerebriformes, formando microabscessos de Pautrier. Positivos: CD3 e CD4 (e CD5). Negativo: CD8. Se houver linfócitos cerebriformes no sangue periférico (leucemização): síndrome de Sézary."
+    },
+    {
+      "id": "b15",
+      "tipo": "subtitulo",
+      "texto": "Quando vira síndrome de Sézary"
+    },
+    {
+      "id": "b16",
+      "tipo": "tabela",
+      "titulo": "Micose fungoide × síndrome de Sézary",
+      "comparacao": true,
+      "colunas": ["Critério", "Micose fungoide", "Síndrome de Sézary"],
+      "linhas": [
+        ["Onde está a doença", "Pele", "Pele (eritrodermia acentuada) **e sangue periférico**"],
+        ["O que define", "Infiltrado epidermotrópico de linfócitos T", "**Leucemização**: linfócitos cerebriformes atípicos no sangue"],
+        ["Comportamento", "Mais indolente", "Forma leucêmica, agressiva"],
+        ["Prognóstico", "35% dos casos se transformam em linfoma agressivo", "Menos favorável"]
+      ]
+    },
+    {
+      "id": "b17",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Já caiu: Sézary",
+      "md": "Prova 150 (gabarito oficial): microabscessos de Pautrier na epiderme + fase leucêmica com células T de **núcleos em serpentina** no sangue = *Linfoma T cutâneo micose fungoide/síndrome de Sézary*. Na mesma prova, *“as células de Sézary são células **B** malignas no sangue”* era alternativa **errada**: são células **T**. Prova 147 (oficial): *“A micose fungoide é caracterizada por um infiltrado epidermotrópico de linfócitos T.”*"
+    },
+    {
+      "id": "b18",
+      "tipo": "revelar",
+      "pergunta": "O paciente com micose fungoide evoluiu com eritrodermia. O que falta para você escrever “síndrome de Sézary” no diagnóstico?",
+      "resposta": "**Envolvimento sanguíneo (leucemização):** linfócitos atípicos cerebriformes no sangue periférico. Sem isso, a síndrome de Sézary não se confirma. E, quando ela se instala, o prognóstico é menos favorável."
+    },
+    {
+      "id": "b19",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: detalhes de baixo rendimento que já caíram",
+      "blocos": [
+        {
+          "id": "b20",
+          "tipo": "texto",
+          "md": "**Moléculas da célula de Sézary** (Prova 147, gabarito oficial): expressa CCR7, L-selectina e CD27 (marcador de célula T de memória central), além de CCR4 e de receptores de localização na pele (CCR6, CCR10, CLA). Guarde a ideia: é uma célula T de memória com “endereço” na pele."
+        },
+        {
+          "id": "b21",
+          "tipo": "texto",
+          "md": "**Prova 140:** *“a maioria dos casos de micose fungoide é CD3+, CD5+, TCR-αβ/βF1+”* e *“epidermotropismo marcado e microabscesso de Pautrier na micose fungoide”* eram afirmativas verdadeiras. A errada daquela questão era sobre o folicular: *“linfomas foliculares de baixo grau apresentam 50% de centroblastos”*."
+        }
+      ]
+    },
+    {
+      "id": "b22",
+      "tipo": "titulo",
+      "texto": "Outros linfomas T/NK que já caíram"
+    },
+    {
+      "id": "b23",
+      "tipo": "tabela",
+      "titulo": "Já caiu — três gavetas T/NK",
+      "comparacao": true,
+      "colunas": ["Critério", "Micose fungoide / Sézary", "T/NK extranodal, tipo nasal", "Leucemia/linfoma T do adulto (ATLL)"],
+      "linhas": [
+        ["Agente associado", "Nenhum cobrado", "**EBV**, na maioria dos casos", "**HTLV-1** (retrovírus)"],
+        ["Onde", "Pele", "Extranodal, nasal", "Forma sólida e forma leucêmica: transita entre as duas"],
+        ["Célula", "T CD4+", "T/NK. A alternativa “a grande maioria tem origem em células T citotóxicas” não era a correta (Complemento: a maioria é NK)", "T"],
+        ["Como caiu", "Pautrier, serpentina, Sézary", "Prova 143: “na maioria dos casos detecta-se a presença do EBV” — correta (gabarito do chat)", "Prova 143: “o HTLV-1 está associado à leucemia/linfoma T do adulto” — correta (gabarito do chat)"]
+      ]
+    },
+    {
+      "id": "b24",
+      "tipo": "cartoes",
+      "titulo": "Agente → linfoma (resumo + provas)",
+      "itens": [
+        {"titulo": "EBV", "texto": "Burkitt (100% na forma endêmica e na do HIV), Hodgkin celularidade mista, T/NK tipo nasal. Na IHQ: LMP-1.", "emoji": "🦠"},
+        {"titulo": "HTLV-1", "texto": "Leucemia/linfoma T do adulto (ATLL).", "emoji": "🧬"},
+        {"titulo": "H. pylori", "texto": "Linfoma não Hodgkin MALT gástrico.", "emoji": "🧫"},
+        {"titulo": "HIV", "texto": "Linfoma não Hodgkin de alto grau, como o Burkitt e o linfoma cerebral.", "emoji": "⚠️"},
+        {"titulo": "Tireoidite de Hashimoto", "texto": "Condição prévia do linfoma da tireoide.", "emoji": "🦋"}
+      ]
+    },
+    {
+      "id": "b25",
+      "tipo": "quiz",
+      "pergunta": "Qual associação entre agente e linfoma está **correta**?",
+      "opcoes": [
+        "H. pylori — linfoma extranodal de células T/NK, tipo nasal",
+        "EBV — linfoma MALT gástrico",
+        "HTLV-1 — leucemia/linfoma T do adulto",
+        "HIV — linfomas indolentes, de baixo grau, como regra"
+      ],
+      "correta": 2,
+      "explicacao": "Prova 143: HTLV-1 (retrovírus) ↔ leucemia/linfoma T do adulto (gabarito do chat, coerente com o resumo). H. pylori é do MALT gástrico; o EBV é do T/NK nasal, do Burkitt e do Hodgkin celularidade mista; no HIV, o resumo fala em linfoma não Hodgkin de **alto** grau."
+    },
+    {
+      "id": "b26",
+      "tipo": "titulo",
+      "texto": "Fechamento 1: tabela-mestra de imuno-histoquímica"
+    },
+    {
+      "id": "b27",
+      "tipo": "figura",
+      "ref": "fig_mapa_linfomas",
+      "legenda": "Antes das tabelas, localize cada gaveta no mapa: Hodgkin (clássico e não clássico) e não Hodgkin (indolentes, agressivos, altamente agressivos e de células T)."
+    },
+    {
+      "id": "b28",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Recados do professor sobre imuno-histoquímica",
+      "md": "**“Não existe linfoma sem imuno-histoquímica.”** Na prova, escolha **pelo menos dois marcadores** e diga se cada um é **positivo ou negativo**. Ki-67 não entra na conta: é índice de proliferação. Na tabela abaixo, o negrito destaca a dupla mais segura de cada linfoma."
+    },
+    {
+      "id": "b29",
+      "tipo": "tabela",
+      "titulo": "Tabela-mestra: IHQ de todos os linfomas da prova",
+      "comparacao": false,
+      "colunas": ["Linfoma", "Positivos", "Negativos", "Assinatura"],
+      "linhas": [
+        ["**Hodgkin clássico** (esclerose nodular, celularidade mista, rico em linfócitos, depleção)", "**CD15, CD30**; PAX-5 fraco", "**CD20, CD45**", "A marcação é lida na célula de Reed-Sternberg"],
+        ["**Hodgkin não clássico** (predominância linfocítica nodular)", "**CD20, CD45**; PAX-5", "**CD15, CD30**", "Marcadores “ao contrário”; célula em pipoca"],
+        ["**Folicular**", "**BCL-2, CD10**; BCL-6, CD20, CD79a, PAX-5", "**CD5, ciclina D1**; CD3", "BCL-2+ separa da hiperplasia folicular"],
+        ["**Difuso de grandes células B**", "**CD20, PAX-5**; CD22, CD79a", "**Ciclina D1**", "Ki-67 alto; BCL2 e P53 aumentados = pior prognóstico"],
+        ["**Burkitt**", "**CD20, CD10**; BCL-6, CD79a, PAX-5", "**BCL-2**; CD3, CD5, CD23", "Ki-67 ≈ 100%; via do MYC"],
+        ["**Células do manto** (já caiu)", "**Ciclina D1, CD5**", "**CD10**", "O inverso do folicular"],
+        ["**MALT** (já caiu)", "**CD20**, CD19, **BCL10**", "**CD5**, CD23, CD10, **ciclina D1**", "Lesão linfoepitelial; H. pylori"],
+        ["**Micose fungoide / Sézary**", "**CD3, CD4**; CD5", "**CD8** (geralmente)", "O único T da lista: epidermotropismo"]
+      ]
+    },
+    {
+      "id": "b30",
+      "tipo": "destaque",
+      "estilo": "mnemonico",
+      "titulo": "Quatro atalhos para a tabela",
+      "md": "**15 e 30** são do Hodgkin clássico; **20 e 45** são do não clássico — um é o espelho do outro. **CD10** = veio do centro germinativo (folicular e Burkitt). **BCL-2** separa os dois: o folicular tem, o Burkitt não tem (e a hiperplasia folicular também não). **Ciclina D1** positiva, só no manto: nos outros linfomas B da prova, ela é negativa."
+    },
+    {
+      "id": "b31",
+      "tipo": "quiz",
+      "pergunta": "Qual linfoma tem o perfil **CD20+, CD3−, CD10+, BCL-2+**?",
+      "opcoes": [
+        "Linfoma de Hodgkin clássico",
+        "Linfoma não Hodgkin, tipo folicular",
+        "Linfoma não Hodgkin, tipo de Burkitt",
+        "Linfoma de Hodgkin não clássico, predominância linfocítica nodular"
+      ],
+      "correta": 1,
+      "explicacao": "Esse perfil era uma das alternativas da Prova 143. CD20+ e CD3− = linhagem B; CD10+ = centro germinativo; **BCL-2+** = folicular (no Burkitt seria negativo). Na mesma questão, CD30+/CD15+/CD45− é o Hodgkin clássico e CD20+/CD30−/CD15−/CD45+ é a predominância linfocítica nodular."
+    },
+    {
+      "id": "b32",
+      "tipo": "titulo",
+      "texto": "Fechamento 2: palavra-gatilho → diagnóstico completo"
+    },
+    {
+      "id": "b33",
+      "tipo": "tabela",
+      "titulo": "Leu isto no enunciado? Escreva isto.",
+      "comparacao": false,
+      "colunas": ["Palavra-gatilho", "Diagnóstico completo", "Confirme com"],
+      "linhas": [
+        ["Traves de colágeno delimitando nódulos + células lacunares", "Linfoma de Hodgkin clássico, tipo esclerose nodular", "CD15+ e CD30+; CD20− e CD45−"],
+        ["Nódulos ricos em linfócitos + célula em pipoca, EBV negativo", "Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular", "CD20+ e CD45+; CD15− e CD30−"],
+        ["Folículos numerosos, sem coroa linfocitária, invadindo a gordura", "Linfoma não Hodgkin, tipo folicular", "BCL-2+ e CD10+"],
+        ["Células grandes, blásticas, difusas; CD20 difusamente positivo", "Linfoma não Hodgkin, tipo difuso de grandes células B", "CD20+ e PAX-5+; Ki-67 alto"],
+        ["Céu estrelado; células médias; proliferação ≈ 100%; mandíbula ou válvula ileocecal", "Linfoma não Hodgkin, tipo de Burkitt", "CD10+ e BCL-2−"],
+        ["Lesão linfoepitelial no estômago + H. pylori", "Linfoma não Hodgkin MALT gástrico", "CD20+ e BCL10+; CD5− e ciclina D1−"],
+        ["Ciclina D1 positiva + CD5 positivo", "Linfoma não Hodgkin de células do manto", "CD10−"],
+        ["Microabscesso de Pautrier; linfócito cerebriforme; epidermotropismo", "Linfoma não Hodgkin T cutâneo, tipo micose fungoide", "CD3+ e CD4+; CD8−"],
+        ["Células T com núcleo em serpentina no sangue periférico", "Síndrome de Sézary", "Leucemização"],
+        ["Linfoma indolente antigo que passa a mostrar células grandes CD20+", "Transformação em difuso de grandes células B (do folicular; na LLC, síndrome de Richter)", "CD20+"]
+      ]
+    },
+    {
+      "id": "b34",
+      "tipo": "titulo",
+      "texto": "Fechamento 3: Hodgkin × não Hodgkin"
+    },
+    {
+      "id": "b35",
+      "tipo": "tabela",
+      "titulo": "Linfoma de Hodgkin × linfoma não Hodgkin",
+      "comparacao": true,
+      "colunas": ["Critério", "Linfoma de Hodgkin", "Linfoma não Hodgkin"],
+      "linhas": [
+        ["Célula que define", "Célula de Reed-Sternberg (ou de Hodgkin)", "Não tem célula de Reed-Sternberg"],
+        ["Progressão", "Início frequente em linfonodos cervicais, progredindo **por contiguidade**", "**Não necessariamente** por contiguidade; o acometimento sistêmico pode ocorrer já ao diagnóstico, inclusive com leucemização"],
+        ["Tumor primário", "Quase sempre nos linfonodos; acometimento extranodal significa tumor secundário", "Em **40%** dos casos é primário extranodal: estômago, anel de Waldeyer e pele"],
+        ["Estádio ao diagnóstico", "I ou II, mais frequentemente", "Depende do tipo: indolentes e altamente agressivos, III e IV; agressivos, I, II ou III"],
+        ["Mediastino", "Relativamente frequente (principalmente esclerose nodular)", "Raro; presente nos que se originam no timo (linfoblástico T, grandes células B primário do mediastino)"],
+        ["Idade", "A partir dos 10 anos, com pico aos 30; nas provas, **bimodal**", "**Todas as faixas**, com subtipos diferentes em cada idade"],
+        ["Células neoplásicas na massa (já caiu)", "Minoria (menos de 1%), em microambiente reativo", "Distribuem-se por todo o tecido, com poucas células reativas"],
+        ["Linhagem (já caiu)", "A célula de Reed-Sternberg deriva de célula B do centro germinativo", "80 a 90% B; 10 a 20% T ou NK"]
+      ]
+    },
+    {
+      "id": "b36",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Já caiu (gabarito oficial): as frases-pegadinha",
+      "md": "São **falsas**: “nos LNH a progressão se faz *necessariamente* por contiguidade”; “os casos com acometimento sistêmico ao diagnóstico são *menos* frequentes”; “os LNH têm distribuição etária *bimodal*” (isso é Hodgkin). Detalhe fino: “indolentes e altamente agressivos apresentam leucemização ao diagnóstico” foi dada como falsa — o correto é indolentes **por vezes**, altamente agressivos **frequentemente**. Um gabarito de aluno marca B na questão cuja incorreta é a C (contiguidade): confie no oficial."
+    },
+    {
+      "id": "b37",
+      "tipo": "revelar",
+      "pergunta": "Por que a leucemização de um linfoma exige infiltração da medula óssea e/ou do baço?",
+      "resposta": "Porque esses órgãos **não têm vasos linfáticos**: as células linfoides neoplásicas localizadas neles ganham **diretamente a circulação sanguínea**, em quantidade detectável no hemograma de rotina. É assim que uma doença que começou como tumor (linfoma) passa a ter células circulantes (leucemia)."
+    },
+    {
+      "id": "b38",
+      "tipo": "titulo",
+      "texto": "Caso integrador: linfadenopatia + linfoma"
+    },
+    {
+      "id": "b39",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Recado do professor",
+      "md": "**Um mesmo paciente pode ter duas linfadenopatias de padrões diferentes e, ao mesmo tempo, um linfoma** — e ele avisou que vai associar tudo isso em uma questão. Outro aviso: se o enunciado disser *“linfonodos reacionais”*, eles estão **livres de neoplasia**. Na P1, muita gente considerou o linfonodo acometido e errou."
+    },
+    {
+      "id": "b40",
+      "tipo": "texto",
+      "md": "**Caso de treino** (montado no estilo do professor; não é de prova antiga). Homem, 64 anos, HIV positivo, febre e perda de peso. *Cervical:* folículos de tamanhos bem diferentes, coroa linfocitária presente, sem invasão da gordura. *Axilar:* seios dilatados, repletos de histiócitos sem atipias. *Inguinal:* folículos parecidos, sem coroa, invadindo a gordura; CD20+, CD3−, BCL-2+."
+    },
+    {
+      "id": "b41",
+      "tipo": "revelar",
+      "pergunta": "Dê os três diagnósticos, um para cada linfonodo.",
+      "resposta": "**Cervical:** hiperplasia folicular reacional (padrão folicular; BCL-2 negativo no centro germinativo). **Axilar:** histiocitose sinusal (padrão sinusal). **Inguinal:** Linfoma não Hodgkin, tipo folicular. São duas linfadenopatias reacionais de padrões diferentes e um linfoma, como o professor avisou. Os dois primeiros linfonodos estão livres de neoplasia."
+    },
+    {
+      "id": "b42",
+      "tipo": "revelar",
+      "pergunta": "Para o linfonodo neoplásico: dois marcadores com sinal, o estádio se a biópsia de medula óssea (crista ilíaca) vier infiltrada e a evolução esperada.",
+      "resposta": "**IHQ:** BCL-2+ e CD10+ (negativos: CD5 e ciclina D1). **Estádio:** só o linfonodo inguinal é neoplásico — os reacionais não contam —, mas medula óssea infiltrada é doença disseminada: **estádio IV**. **Evolução:** indolente, com resposta ruim à quimioterapia; 25 a 50% se transformam em difuso de grandes células B."
+    },
+    {
+      "id": "b43",
+      "tipo": "resumo",
+      "itens": [
+        "**Micose fungoide:** linfoma cutâneo de células T CD4+ epidermotrópicas; linfócito cerebriforme; microabscesso de **Pautrier** (não Munro).",
+        "**IHQ:** CD3+, CD4+, CD5+; CD8 geralmente negativo. **Sézary** só se confirma com leucemização — e as células são T, não B.",
+        "**Agentes:** HTLV-1 → ATLL; EBV → T/NK nasal e Burkitt; H. pylori → MALT gástrico.",
+        "**Atalhos de IHQ:** 15/30 (Hodgkin clássico) × 20/45 (não clássico); CD10 = centro germinativo; BCL-2 separa folicular (+) de Burkitt (−); ciclina D1 = manto.",
+        "**LNH × LH:** LNH não progride necessariamente por contiguidade, é extranodal em 40% e ocorre em todas as idades; bimodal e minoria de células neoplásicas são do Hodgkin.",
+        "**Na discursiva:** diagnóstico completo, dois marcadores com sinal — e lembre que linfonodo reacional está livre de neoplasia."
+      ]
+    }
+  ]
+}

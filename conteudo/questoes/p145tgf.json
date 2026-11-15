@@ -1,0 +1,271 @@
+{
+  "prova": {
+    "id": "p145tgf",
+    "titulo": "Prova 145 (22.2) — TGF, Mama e Tireoide",
+    "temas": "TGF, Mama e Tireoide",
+    "periodo": "2022.2",
+    "gabarito_fonte": "oficial",
+    "paginas": [
+      41,
+      46
+    ]
+  },
+  "questoes": [
+    {
+      "id": "p145tgf-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-papilifero",
+        "tir-hashimoto",
+        "tir-folicular",
+        "tir-anaplasico"
+      ],
+      "enunciado": "Paciente masculino, 80 anos, chega à emergência com abaulamento da região cervical anterior e insuficiência respiratória. À palpação encontra-se massa endurecida, aderida a planos profundos em topografia da tireoide. Realizada biópsia da massa, onde são achados: extensa necrose, acentuado pleomorfismo celular e alto índice mitótico. Sua filha relata que foi operado em 1987 por lesão nodular constituída por células com cromatina clara, ranhuras nucleares e pseudo-inclusões. O restante do parênquima mostrava moderado infiltrado linfoplasmocitário, atrofia acinar, traves fibrosas e transformação oxifílica citoplasmática. No mesmo ato cirúrgico, foi encontrado linfonodo cervical aumentado com o mesmo aspecto da lesão nodular. Em 2000 volta a ser operado por outra lesão nodular. O exame microscópico evidenciou células com núcleos hipercromáticos. A lesão comprometia a cápsula da glândula e infiltrava os vasos sanguíneos. Sobre o caso acima, responda:",
+      "pontos": 4.0,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Quais os prováveis diagnósticos da cirurgia de 1987?",
+          "resposta_modelo": "**Carcinoma papilífero** da tireoide e **tireoidite de Hashimoto**.",
+          "checklist": [
+            "Carcinoma papilífero",
+            "Tireoidite de Hashimoto"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Explique os seus diagnósticos de acordo com as características do texto.",
+          "resposta_modelo": "O **carcinoma papilífero** caracteriza-se por células com cromatina clara, ranhuras nucleares e pseudo-inclusões; a **tireoidite de Hashimoto**, por moderado infiltrado linfoplasmocitário, atrofia acinar, traves fibrosas e transformação oxifílica citoplasmática (célula oncocítica/de Hürthle).",
+          "checklist": [
+            "Papilífero: cromatina clara, ranhuras nucleares e pseudo-inclusões",
+            "Hashimoto: infiltrado linfoplasmocitário, atrofia acinar e traves fibrosas",
+            "Hashimoto: transformação oxifílica (oncocítica) do citoplasma"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Explique o achado do linfonodo cervical.",
+          "resposta_modelo": "É **metástase** do carcinoma papilífero: esse tumor apresenta **disseminação linfática** e, portanto, acomete os linfonodos cervicais (o linfonodo tinha o mesmo aspecto da lesão nodular).",
+          "checklist": [
+            "Metástase do carcinoma papilífero",
+            "Disseminação linfática para linfonodos cervicais"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Qual o resultado de exames laboratoriais do paciente em 1987, quanto aos hormônios (T3, T4 e TSH)?",
+          "resposta_modelo": "**T3 e T4 baixos e TSH alto** — hipotireoidismo (pela tireoidite de Hashimoto).",
+          "checklist": [
+            "T3 e T4 baixos",
+            "TSH alto",
+            "Hipotireoidismo"
+          ]
+        },
+        {
+          "letra": "e",
+          "pergunta": "Qual o provável diagnóstico da cirurgia de 2000?",
+          "resposta_modelo": "**Carcinoma folicular** da tireoide.",
+          "checklist": [
+            "Carcinoma folicular"
+          ]
+        },
+        {
+          "letra": "f",
+          "pergunta": "Explique o seu diagnóstico anterior de acordo com as características do texto.",
+          "resposta_modelo": "Células com núcleos hipercromáticos em lesão que **comprometia a cápsula** da glândula e **infiltrava os vasos sanguíneos** — invasão capsular e vascular são as características do carcinoma folicular.",
+          "checklist": [
+            "Comprometimento (invasão) da cápsula",
+            "Infiltração dos vasos sanguíneos",
+            "Células com núcleos hipercromáticos"
+          ]
+        },
+        {
+          "letra": "g",
+          "pergunta": "Cite 2 possíveis sítios principais de metástase da lesão tireoidiana operada em 2000.",
+          "resposta_modelo": "Dois entre **osso, fígado e cérebro** (disseminação hematogênica).",
+          "checklist": [
+            "Dois sítios entre osso, fígado e cérebro"
+          ]
+        },
+        {
+          "letra": "h",
+          "pergunta": "Qual o provável diagnóstico da lesão atual?",
+          "resposta_modelo": "**Carcinoma anaplásico (indiferenciado)** da tireoide.",
+          "checklist": [
+            "Carcinoma anaplásico ou indiferenciado"
+          ]
+        },
+        {
+          "letra": "i",
+          "pergunta": "Justifique o seu diagnóstico da lesão atual.",
+          "resposta_modelo": "Massa endurecida, aderida a planos profundos em topografia da tireoide, cuja biópsia mostra **extensa necrose, acentuado pleomorfismo celular e alto índice mitótico**.",
+          "checklist": [
+            "Massa endurecida, aderida a planos profundos",
+            "Extensa necrose",
+            "Acentuado pleomorfismo celular",
+            "Alto índice mitótico"
+          ]
+        },
+        {
+          "letra": "j",
+          "pergunta": "Existe relação entre as lesões tireoidianas? Explique.",
+          "resposta_modelo": "**Sim.** O carcinoma anaplásico originou-se das neoplasias anteriores (papilífero e folicular), que eram diferenciadas e se **indiferenciaram**.",
+          "checklist": [
+            "Sim, existe relação",
+            "O anaplásico originou-se das neoplasias anteriores, que eram diferenciadas",
+            "Elas se indiferenciaram"
+          ]
+        }
+      ],
+      "explicacao": "É a “história de sempre” do carcinoma anaplásico descrita em aula: homem idoso, várias cirurgias de tireoide por tumores diferenciados que foram se indiferenciando, aumento cervical rápido e insuficiência respiratória. O caso se resolve trecho a trecho: **núcleo** de cromatina clara, ranhuras e pseudo-inclusões = papilífero (que vai por via linfática ao linfonodo cervical); infiltrado linfoplasmocitário + atrofia + traves fibrosas + célula oxifílica = Hashimoto (hipotireoidismo: TSH alto, T3/T4 baixos); **invasão de cápsula e vasos** = folicular (via hematogênica: osso, fígado, cérebro, pulmão); necrose + pleomorfismo + muitas mitoses = anaplásico.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (transcrito na pág. 44; foto da prova-gabarito nas págs. 45–46). Valor: 4,0 (0,4 por item). O mesmo caso, com as mesmas respostas, é a última questão da Prova 147 (23.2). No item g a pergunta pede dois sítios e o gabarito lista três (osso, fígado, cérebro); o resumo das aulas inclui também o pulmão. DIVERGÊNCIA nas anotações da aluna (pág. 42): no item h ela escreveu “Bócio atóxico ou Riedel”, mas o gabarito oficial é carcinoma anaplásico (ou indiferenciado) — ela mesma anotou “anaplásico” ao lado dos achados da biópsia. A tireoidite de Riedel até deixa a glândula tão endurecida que simula carcinoma, mas necrose extensa, pleomorfismo acentuado e alto índice mitótico, somados à história de tumores diferenciados operados, fecham anaplásico. Demais respostas dela de acordo: a) “carcinoma papilífero com metástase linfonodal e tireoidite de hashimoto??”, c) “metástase”, d) “↓T3 e T4 e ↑TSH”, e) “carcinoma folicular”, g) “Fígado e Ossos”; b, f, i e j ficaram em branco."
+    },
+    {
+      "id": "p145tgf-q02",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "outros",
+      "topicos": [
+        "fora-escopo"
+      ],
+      "enunciado": "Paciente de 57 anos, nulípara, pós-menopausa, obesa, hipertensa e diabética, recebendo esquema de hormonioterapia, com queixa de sangramento vaginal. Foi realizada avaliação ambulatorial ultrassonográfica que revelou massa heterogênea ocupando a cavidade endometrial, com possível invasão do miométrio. Após histeroscopia e biópsia com auxílio de cureta, foi indicado tratamento cirúrgico. O material foi submetido a estudo histopatológico que relatou inúmeras estruturas glandulares irregulares e fusionadas, com escasso estroma entre si, além de 30% de áreas sólidas. A lesão era constituída por células cilíndricas, com núcleos estratificados e atípicos. Foram verificadas, ainda, invasão de 70% da espessura miometrial e da miocérvice. Sobre a lesão descrita, responda:",
+      "pontos": 2.5,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o diagnóstico?",
+          "resposta_modelo": "**Carcinoma endometrioide do endométrio.**",
+          "checklist": [
+            "Carcinoma endometrioide do endométrio"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Qual é o seu grau de diferenciação?",
+          "resposta_modelo": "**G2, moderadamente diferenciado.**",
+          "checklist": [
+            "G2",
+            "Moderadamente diferenciado"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Qual parâmetro deve ser utilizado para graduar a sua diferenciação?",
+          "resposta_modelo": "**Porcentagem do padrão sólido.**",
+          "checklist": [
+            "Porcentagem do padrão sólido"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Descreva como pode ser o seu desenvolvimento citando em ordem cronológica lesões precursoras.",
+          "resposta_modelo": "Hiperplasia simples → hiperplasia complexa sem atipias → hiperplasia complexa com atipias → carcinoma endometrioide.",
+          "checklist": [
+            "Hiperplasia simples",
+            "Hiperplasia complexa sem atipias",
+            "Hiperplasia complexa com atipias",
+            "Carcinoma endometrioide, nessa ordem"
+          ]
+        },
+        {
+          "letra": "e",
+          "pergunta": "Qual é o estádio patológico?",
+          "resposta_modelo": "**Estádio II.**",
+          "checklist": [
+            "Estádio II"
+          ]
+        }
+      ],
+      "explicacao": "Questão de **endométrio — fora do conteúdo da P2**; fica registrada apenas para completar a prova. Respostas do gabarito oficial: carcinoma endometrioide, G2 (moderadamente diferenciado), graduado pela porcentagem do padrão sólido, precedido pela sequência de hiperplasias, estádio II. Complemento: os 30% de áreas sólidas colocam o tumor em G2, e a invasão da miocérvice (colo uterino) é o que leva ao estádio II.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Fora do escopo da P2 (trato genital feminino). Gabarito oficial (pág. 44 e foto da pág. 46). Valor: 2,5 (0,5 por item). Sem anotações da aluna.",
+      "fora_do_escopo": true
+    },
+    {
+      "id": "p145tgf-q03",
+      "numero": "3",
+      "tipo": "discursiva",
+      "modulo": "outros",
+      "topicos": [
+        "fora-escopo"
+      ],
+      "enunciado": "Mulher de 45 anos, com queixa de dor na mama, percebe à palpação área firme e endurecida no quadrante lateral externo. É encaminhada para realização de mamografia que evidenciou a presença de lesão espiculada, densa, com microcalcificações e medindo 3,5 cm, a qual foi classificada como BIRADS 4c. Presença, ainda, de outra lesão nodular, circunscrita, ovalada, de média densidade e medindo 1,8 cm, classificada como BIRADS 2. Realizada biópsia por agulha grossa para diagnóstico da primeira lesão, sendo o resultado positivo para malignidade. Indicado tratamento cirúrgico com mastectomia e a peça cirúrgica foi enviada para análise histopatológica. A lesão de 3,5 cm era formada por células discoesas isoladas ou dispostas em pequenos ninhos e fileiras que apresentavam tamanho médio, núcleos com atipias moderadas e baixo índice mitótico e invadiam tecidos mamário e muscular esquelético. Realizado estudo imuno-histoquímico com o marcador e-caderina que resultou negativo. A lesão de 1,8 era bem delimitada dos tecidos adjacentes e exibia componentes epitelial e estromal. O estromal era formado por células fusiformes sem atipias, imersas em matriz colágena hialinizada. Não identificadas mitoses. Já o componente epitelial formava ductos alongados com dupla população celular (células luminais e mioepiteliais). Sobre o caso acima, responda (itens a e b). Sobre a lesão maior, responda (itens c, d e e). Sobre a lesão menor, responda (itens f e g).",
+      "pontos": 3.5,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual exame intra-operatório poderia ser indicado no caso?",
+          "resposta_modelo": "**Análise do linfonodo sentinela.**",
+          "checklist": [
+            "Análise do linfonodo sentinela"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Qual seria a sua relevância?",
+          "resposta_modelo": "Detecção de metástases linfonodais e indicação de esvaziamento axilar.",
+          "checklist": [
+            "Detecção de metástases linfonodais",
+            "Indicação de esvaziamento axilar"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Sobre a lesão maior: qual é o diagnóstico?",
+          "resposta_modelo": "**Carcinoma lobular invasivo.**",
+          "checklist": [
+            "Carcinoma lobular invasivo"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Sobre a lesão maior: qual é o grau histológico mais provável? Indique a pontuação atribuída para cada parâmetro utilizado.",
+          "resposta_modelo": "**Grau 2, moderadamente diferenciado.** Diferenciação tubular = 3, grau nuclear = 2, índice mitótico = 1.",
+          "checklist": [
+            "Grau 2 (moderadamente diferenciado)",
+            "Diferenciação tubular = 3",
+            "Grau nuclear = 2",
+            "Índice mitótico = 1"
+          ]
+        },
+        {
+          "letra": "e",
+          "pergunta": "Sobre a lesão maior: considerando que o estudo da lesão por patologia molecular resultou em receptor de estrogênio positivo, receptor de progesterona positivo, HER-2 negativo e Ki67 25%, qual seria a sua classificação?",
+          "resposta_modelo": "**Luminal B.**",
+          "checklist": [
+            "Luminal B"
+          ]
+        },
+        {
+          "letra": "f",
+          "pergunta": "Sobre a lesão menor: qual é o diagnóstico?",
+          "resposta_modelo": "**Fibroadenoma.**",
+          "checklist": [
+            "Fibroadenoma"
+          ]
+        },
+        {
+          "letra": "g",
+          "pergunta": "Sobre a lesão menor: cite 4 parâmetros que poderiam indicar malignidade se presentes.",
+          "resposta_modelo": "Quatro entre: bordas infiltrativas, pleomorfismo celular, alto índice mitótico, mitoses atípicas, alta celularidade estromal e supercrescimento estromal.",
+          "checklist": [
+            "Quatro entre: bordas infiltrativas, pleomorfismo celular, alto índice mitótico, mitoses atípicas, alta celularidade estromal, supercrescimento estromal"
+          ]
+        }
+      ],
+      "explicacao": "Questão de **mama — fora do conteúdo da P2**; fica registrada apenas para completar a prova. Respostas do gabarito oficial: linfonodo sentinela no intraoperatório; a lesão maior é carcinoma lobular invasivo (células discoesas em fileiras, e-caderina negativa), grau 2, luminal B; a lesão menor é fibroadenoma. Complemento: a soma 3 + 2 + 1 = 6 pontos corresponde ao grau 2 na graduação histológica da mama.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Fora do escopo da P2 (mama). Gabarito oficial (págs. 44–45 e foto da pág. 46). Valor: 3,5 — a) 0,6; b) 0,4; c) 0,6; d) 0,4; e) 0,5; f) 0,6; g) 0,4. Os subtítulos “Sobre o caso acima”, “Sobre a lesão maior” e “Sobre a lesão menor” da prova foram incorporados ao texto das perguntas. Sem anotações da aluna.",
+      "fora_do_escopo": true
+    }
+  ]
+}

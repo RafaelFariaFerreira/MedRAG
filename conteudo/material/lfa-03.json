@@ -1,0 +1,393 @@
+{
+  "id": "lfa-03",
+  "modulo": "linfadenopatias",
+  "ordem": 3,
+  "titulo": "Padrão paracortical (zona T)",
+  "minutos": 9,
+  "prioridade": "media",
+  "topicos": [
+    "lfa-padrao-paracortical"
+  ],
+  "resumo": "Você vai guardar a gaveta das linfadenopatias virais: a regra geral que vale para todas, o achado próprio de cada vírus e por que elas simulam linfoma.",
+  "objetivos": [
+    "Descrever a hiperplasia paracortical e a regra geral das linfadenopatias virais",
+    "Associar mononucleose a EBV e linfócitos atípicos, e CMV a padrão misto com inclusão em olho de coruja",
+    "Explicar por que a mononucleose entra no diagnóstico diferencial do linfoma de Hodgkin",
+    "Separar os dois “olhos de coruja” (CMV e Reed-Sternberg) e as células gigantes que o professor troca nas alternativas"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "Esta gaveta aparece de dois jeitos. **Em V/F e múltipla escolha**, com trocas de achado: *“o citomegalovírus apresenta hiperplasia paracortical e forte associação com Epstein-Barr”* (errada, Prova 140) e *“no sarampo encontra-se hiperplasia paracortical e a célula de Langhans”* (F). **Nas provas de linfoma**, a mononucleose entra como diagnóstico diferencial do Hodgkin, porque tem células parecidas com a de Reed-Sternberg."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "A gaveta paracortical"
+    },
+    {
+      "id": "b03",
+      "tipo": "texto",
+      "md": "Aqui o estímulo é no compartimento de **células T** (azul, CD3). O professor resumiu a gaveta em uma frase: **“essas aqui são infecciosas”**. Na prática, são as linfadenopatias **virais**: mononucleose, citomegalovírus, herpes simples e sarampo."
+    },
+    {
+      "id": "b04",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Hiperplasia paracortical",
+      "md": "**Expansão do paracórtex** (o azul cresce), que **empurra os folículos**; estes acabam atrofiando. É uma das três linfadenopatias crônicas inespecíficas, ao lado da hiperplasia folicular e da histiocitose sinusal."
+    },
+    {
+      "id": "b05",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Frase truncada no resumo",
+      "md": "A anotação da aula diz que o paracórtex “vai empurrar o folicular, levando à ruptura da cápsula e resulta em uma atrofia”. A parte da cápsula ficou confusa e não aparece em nenhuma prova. O que é seguro escrever: **expansão paracortical comprimindo os folículos, que atrofiam**."
+    },
+    {
+      "id": "b06",
+      "tipo": "titulo",
+      "texto": "A regra geral das virais"
+    },
+    {
+      "id": "b07",
+      "tipo": "fluxo",
+      "titulo": "O que acontece em toda linfadenopatia viral",
+      "passos": [
+        {
+          "titulo": "Início: folicular",
+          "texto": "No começo o quadro é bem folicular."
+        },
+        {
+          "titulo": "Depois: paracortical exuberante",
+          "texto": "A expansão da zona paracortical passa a dominar."
+        },
+        {
+          "titulo": "Arquitetura alterada",
+          "texto": "A expansão pode ser tão acentuada que altera a arquitetura normal do linfonodo, simulando linfoma."
+        },
+        {
+          "titulo": "Achados que acompanham",
+          "texto": "Pequenos focos de necrose, histiocitose sinusal com hemofagocitose, imunoblastos e células B monocitoides numerosos."
+        }
+      ]
+    },
+    {
+      "id": "b08",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Vale para todas",
+      "md": "O resumo marca este trecho do Bogliolo (9ª edição) como um “geralzão” das linfadenopatias virais que **serve para TODAS elas**. Ou seja: se cair um vírus do qual você só lembra o nome, descreva a regra geral."
+    },
+    {
+      "id": "b09",
+      "tipo": "revelar",
+      "pergunta": "Por que uma linfadenopatia viral pode ser confundida com linfoma?",
+      "resposta": "Porque a **hiperplasia paracortical** pode ser tão acentuada que **altera a arquitetura normal** do linfonodo, com **imunoblastos** numerosos (células grandes). Arquitetura alterada + células grandes é o que se espera de um linfoma. A imuno-histoquímica resolve."
+    },
+    {
+      "id": "b10",
+      "tipo": "titulo",
+      "texto": "Mononucleose infecciosa"
+    },
+    {
+      "id": "b11",
+      "tipo": "lista",
+      "itens": [
+        "Agente: **EBV** (vírus Epstein-Barr)",
+        "**Linfócitos atípicos** + **hiperplasia paracortical**",
+        "**Não vemos folículos**",
+        "O EBV entra por via oral e infecta células epiteliais e linfócitos",
+        "Imuno-histoquímica do EBV: **LMP-1** (proteína latente de membrana 1)"
+      ]
+    },
+    {
+      "id": "b12",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "“Não vemos folículos”, mas…",
+      "md": "O próprio resumo faz a ressalva: o paciente **pode ter mais de uma coisa**, então uma doença de padrão folicular pode coexistir com uma de padrão paracortical. E a regra geral diz que toda viral começa folicular. Para a prova, a marca da mononucleose é **paracortical + linfócitos atípicos**."
+    },
+    {
+      "id": "b13",
+      "tipo": "subtitulo",
+      "texto": "Por que ela aparece nas provas de linfoma"
+    },
+    {
+      "id": "b14",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Diferencial do Hodgkin",
+      "md": "Prova 148 (24.1): *perda da arquitetura + células grandes, de núcleos bilobados e nucléolos eosinofílicos evidentes; considerar no diferencial, exceto…* A exceção era **Burkitt** (gabarito do compilado): Hodgkin, linfoma difuso de grandes células B e **mononucleose** entram. Em outra prova, marcado **V**: o Hodgkin deve ser diferenciado de condições com células semelhantes às de Reed-Sternberg, como a mononucleose infecciosa."
+    },
+    {
+      "id": "b15",
+      "tipo": "tabela",
+      "titulo": "Mononucleose × linfoma de Hodgkin clássico",
+      "comparacao": true,
+      "colunas": [
+        "Critério",
+        "Mononucleose infecciosa",
+        "Linfoma de Hodgkin clássico"
+      ],
+      "linhas": [
+        [
+          "Natureza",
+          "Reacional, infecciosa (EBV)",
+          "Neoplasia"
+        ],
+        [
+          "Clínica parecida",
+          "Jovem, febre, linfonodo cervical",
+          "Jovem, linfonodo cervical, sintomas B"
+        ],
+        [
+          "Célula que chama atenção",
+          "**Linfócitos atípicos** e imunoblastos, que podem simular Reed-Sternberg",
+          "**Célula de Reed-Sternberg** verdadeira"
+        ],
+        [
+          "CD15 e CD30",
+          "Sem a coexpressão do linfoma (segundo gabarito do NotebookLM)",
+          "**Positivos**"
+        ],
+        [
+          "CD20 e CD45",
+          "Marcadores linfoides habituais preservados (segundo gabarito do NotebookLM)",
+          "**Negativos**"
+        ],
+        [
+          "Relação com EBV",
+          "É a própria infecção pelo EBV",
+          "Alguns casos associados ao EBV, sobretudo celularidade mista"
+        ]
+      ]
+    },
+    {
+      "id": "b16",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo para “cite diferenciais”",
+      "md": "“Entre os diagnósticos diferenciais do linfoma de Hodgkin está a mononucleose infecciosa (EBV), linfadenopatia reacional de padrão paracortical em que linfócitos atípicos podem simular a célula de Reed-Sternberg, sem o perfil CD15 e CD30 positivos do linfoma.”"
+    },
+    {
+      "id": "b17",
+      "tipo": "titulo",
+      "texto": "Citomegalovírus"
+    },
+    {
+      "id": "b18",
+      "tipo": "lista",
+      "itens": [
+        "**Padrão misto**: hiperplasia paracortical + hiperplasia folicular",
+        "Aspecto em **olho de coruja** (ou de pássaro): **inclusão viral na célula endotelial**",
+        "Mais comum em **imunodeprimidos**",
+        "Lembrete do professor: inflamação no cólon pode ser doença inflamatória intestinal ou CMV"
+      ]
+    },
+    {
+      "id": "b19",
+      "tipo": "foto",
+      "ref": "foto_cmv_olho_coruja",
+      "legenda": "Citomegalovírus: célula aumentada com inclusão nuclear volumosa cercada por halo claro, o “olho de coruja”."
+    },
+    {
+      "id": "b20",
+      "tipo": "tabela",
+      "titulo": "Dois “olhos de coruja” e duas células gigantes",
+      "comparacao": false,
+      "colunas": [
+        "Termo",
+        "Onde mora",
+        "O que é"
+      ],
+      "linhas": [
+        [
+          "**Olho de coruja** (CMV)",
+          "Padrão paracortical/misto",
+          "Inclusão viral em célula endotelial"
+        ],
+        [
+          "**Olho de coruja** (Hodgkin)",
+          "Linfomas",
+          "Célula de Reed-Sternberg clássica, com dois núcleos espelhados e nucléolos evidentes"
+        ],
+        [
+          "**Célula de Langhans**",
+          "Granulomatosas",
+          "Célula gigante do granuloma da tuberculose"
+        ],
+        [
+          "**Célula de Warthin-Finkeldey**",
+          "Padrão paracortical",
+          "Célula multinucleada do sarampo (citada no gabarito do chat)"
+        ]
+      ]
+    },
+    {
+      "id": "b21",
+      "tipo": "quiz",
+      "pergunta": "Paciente imunodeprimido. Linfonodo com hiperplasia paracortical e folicular e células endoteliais com inclusão em olho de coruja. Qual o diagnóstico?",
+      "opcoes": [
+        "Mononucleose infecciosa",
+        "Linfadenopatia por citomegalovírus",
+        "Linfoma de Hodgkin clássico",
+        "Linfadenopatia do sarampo"
+      ],
+      "correta": 1,
+      "explicacao": "**Padrão misto** (paracortical + folicular) com **inclusão viral em célula endotelial** em um imunodeprimido é citomegalovírus. No Hodgkin o “olho de coruja” é a própria célula neoplásica (Reed-Sternberg), não uma célula endotelial com inclusão."
+    },
+    {
+      "id": "b22",
+      "tipo": "titulo",
+      "texto": "Herpes simples"
+    },
+    {
+      "id": "b23",
+      "tipo": "lista",
+      "itens": [
+        "Comum em quem tem **lesão cutânea**; raramente é doença isolada do linfonodo",
+        "Linfadenopatia **inespecífica**, com hiperplasia paracortical",
+        "Pode haver **extensa necrose de padrão geográfico** (tecido viável em torno) e exsudação inflamatória",
+        "Para fechar, **é preciso pesquisar o vírus**"
+      ]
+    },
+    {
+      "id": "b24",
+      "tipo": "titulo",
+      "texto": "Sarampo"
+    },
+    {
+      "id": "b25",
+      "tipo": "texto",
+      "md": "No resumo, o sarampo aparece só com o nome, dentro da gaveta paracortical. O que dá para afirmar com segurança: **hiperplasia paracortical** e a **regra geral das virais**. O detalhe da célula típica vem dos gabaritos das provas antigas, e eles não concordam entre si."
+    },
+    {
+      "id": "b26",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Sarampo e “olho de coruja”: gabaritos do chat em conflito",
+      "md": "Prova 130: *“no sarampo há hiperplasia paracortical e inclusões em olho de coruja”* → o chat marcou **V**, mas justificou com “células de Warthin-Finkeldey”. Em outra prova: *“hiperplasia paracortical e a célula de Langhans”* → **F**, “é Warthin-Finkeldey”. No material do professor, olho de coruja é do **CMV**. Sem gabarito oficial; vale confirmar com a monitoria. Raciocine: sarampo = paracortical + Warthin-Finkeldey."
+    },
+    {
+      "id": "b27",
+      "tipo": "titulo",
+      "texto": "As quatro virais, lado a lado"
+    },
+    {
+      "id": "b28",
+      "tipo": "cartoes",
+      "titulo": "Vírus → palavra-gatilho",
+      "itens": [
+        {
+          "titulo": "Mononucleose",
+          "texto": "EBV. Linfócitos atípicos. Sem folículos. Simula Hodgkin.",
+          "emoji": "💋"
+        },
+        {
+          "titulo": "Citomegalovírus",
+          "texto": "Padrão misto. Olho de coruja na célula endotelial. Imunodeprimido.",
+          "emoji": "🦉"
+        },
+        {
+          "titulo": "Herpes simples",
+          "texto": "Lesão cutânea. Necrose geográfica. Pesquisar o vírus.",
+          "emoji": "🗺️"
+        },
+        {
+          "titulo": "Sarampo",
+          "texto": "Paracortical. Célula multinucleada de Warthin-Finkeldey.",
+          "emoji": "🔴"
+        }
+      ]
+    },
+    {
+      "id": "b29",
+      "tipo": "tabela",
+      "titulo": "Mesmos critérios, quatro vírus",
+      "comparacao": true,
+      "colunas": [
+        "Critério",
+        "Mononucleose",
+        "Citomegalovírus",
+        "Herpes simples",
+        "Sarampo"
+      ],
+      "linhas": [
+        [
+          "Agente",
+          "EBV",
+          "CMV",
+          "Herpes-vírus simples",
+          "Vírus do sarampo"
+        ],
+        [
+          "Padrão",
+          "Paracortical, sem folículos",
+          "**Misto**: paracortical + folicular",
+          "Paracortical, inespecífico",
+          "Paracortical"
+        ],
+        [
+          "Achado-gatilho",
+          "**Linfócitos atípicos**",
+          "**Olho de coruja** em célula endotelial",
+          "**Necrose geográfica**",
+          "Célula de Warthin-Finkeldey"
+        ],
+        [
+          "Contexto",
+          "Jovem, linfonodo cervical",
+          "Imunodeprimido",
+          "Lesão cutânea associada",
+          "—"
+        ],
+        [
+          "Pegadinha de prova",
+          "Diferencial do Hodgkin",
+          "Não tem “forte associação com Epstein-Barr”",
+          "Precisa da pesquisa do vírus",
+          "Não é Langhans"
+        ]
+      ]
+    },
+    {
+      "id": "b30",
+      "tipo": "revelar",
+      "pergunta": "Alternativa da Prova 140: “O citomegalovírus apresenta hiperplasia paracortical e forte associação com Epstein-Barr.” Por que está errada?",
+      "resposta": "A primeira metade é aceitável (o CMV tem hiperplasia paracortical, em padrão **misto** com folicular). O erro é a “forte associação com Epstein-Barr”: **EBV é o agente da mononucleose**, outra doença da mesma gaveta. A marca do CMV é a inclusão em olho de coruja."
+    },
+    {
+      "id": "b31",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: o EBV além da mononucleose",
+      "blocos": [
+        {
+          "id": "b32",
+          "tipo": "lista",
+          "itens": [
+            "Infecções virais estão entre as principais causas de linfoma: **HIV, EBV e HTLV-1**",
+            "O Hodgkin de **celularidade mista** é o tipo mais associado ao EBV",
+            "Linfoma primário do cérebro precisa de uma condição prévia, como EBV e HIV",
+            "V/F da Prova 145 sobre EBV positivo e mononucleose em adolescentes: o gabarito oficial mandou **desconsiderar** o item"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b33",
+      "tipo": "resumo",
+      "itens": [
+        "Gaveta paracortical = **zona T** (azul) = linfadenopatias **virais**.",
+        "Regra para todas: começa folicular → **paracórtex exuberante** → pode alterar a arquitetura e **simular linfoma**.",
+        "**Mononucleose**: EBV, linfócitos atípicos, sem folículos; diferencial clássico do **Hodgkin**.",
+        "**CMV**: padrão **misto** + **olho de coruja** em célula endotelial; imunodeprimidos.",
+        "**Herpes simples**: lesão cutânea, necrose geográfica, pesquisar o vírus. **Sarampo**: paracortical.",
+        "Não troque: Langhans é da tuberculose; olho de coruja é do CMV (e da célula de Reed-Sternberg)."
+      ]
+    }
+  ]
+}

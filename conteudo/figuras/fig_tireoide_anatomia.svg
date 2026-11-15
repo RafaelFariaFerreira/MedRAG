@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 780" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif">
+  <rect width="600" height="780" fill="#FFFFFF"/>
+
+  <!-- painel: região anterior do pescoço (close-up) -->
+  <rect x="16" y="16" width="568" height="748" rx="26" fill="#F3E7DC" stroke="#D9C7B6" stroke-width="1.5"/>
+  <!-- borda inferior da mandíbula (sombra submentoniana) -->
+  <path d="M17,58 C130,108 220,118 300,118 C380,118 470,108 583,58 C470,124 380,146 300,146 C220,146 130,124 17,58 Z" fill="#EADACA"/>
+  <path d="M17,58 C130,108 220,118 300,118 C380,118 470,108 583,58" fill="none" stroke="#D9C7B6" stroke-width="2"/>
+
+  <!-- base da língua (profunda, vista por transparência) -->
+  <path d="M248,70 C246,44 270,30 300,30 C330,30 354,44 352,70 C350,90 328,98 300,98 C272,98 250,90 248,70 Z" fill="#F6C1CE" stroke="#E07A93" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.8"/>
+
+  <!-- membrana tireo-hióidea -->
+  <path d="M211,136 L258,176 L342,176 L389,136 L389,192 L384,238 L216,238 L211,192 Z" fill="#E6D3C0" opacity="0.8"/>
+
+  <!-- traqueia -->
+  <rect x="262" y="398" width="76" height="352" fill="#E7F0F4" stroke="#8FB4C4" stroke-width="1.5"/>
+  <g fill="#CFE3EC" stroke="#8FB4C4" stroke-width="1.5">
+    <rect x="261" y="410" width="78" height="15" rx="6"/>
+    <rect x="261" y="434" width="78" height="15" rx="6"/>
+    <rect x="261" y="458" width="78" height="15" rx="6"/>
+    <rect x="261" y="482" width="78" height="15" rx="6"/>
+    <rect x="261" y="506" width="78" height="15" rx="6"/>
+    <rect x="261" y="530" width="78" height="15" rx="6"/>
+    <rect x="261" y="554" width="78" height="15" rx="6"/>
+    <rect x="261" y="578" width="78" height="15" rx="6"/>
+    <rect x="261" y="602" width="78" height="15" rx="6"/>
+    <rect x="261" y="626" width="78" height="15" rx="6"/>
+    <rect x="261" y="650" width="78" height="15" rx="6"/>
+    <rect x="261" y="674" width="78" height="15" rx="6"/>
+    <rect x="261" y="698" width="78" height="15" rx="6"/>
+    <rect x="261" y="722" width="78" height="15" rx="6"/>
+  </g>
+  <g stroke="#EEF6F9" stroke-width="3" stroke-linecap="round">
+    <line x1="272" y1="415" x2="296" y2="415"/>
+    <line x1="272" y1="511" x2="296" y2="511"/>
+    <line x1="272" y1="535" x2="296" y2="535"/>
+    <line x1="272" y1="559" x2="296" y2="559"/>
+    <line x1="272" y1="583" x2="296" y2="583"/>
+    <line x1="272" y1="607" x2="296" y2="607"/>
+    <line x1="272" y1="631" x2="296" y2="631"/>
+    <line x1="272" y1="655" x2="296" y2="655"/>
+    <line x1="272" y1="679" x2="296" y2="679"/>
+  </g>
+  <!-- sombra lateral da traqueia -->
+  <rect x="326" y="399" width="11" height="350" fill="#8FB4C4" opacity="0.22"/>
+
+  <!-- manúbrio e clavículas -->
+  <clipPath id="painel"><rect x="16.75" y="16.75" width="566.5" height="746.5" rx="25.25"/></clipPath>
+  <g fill="#EFE6D5" stroke="#CBBE9F" stroke-width="2" stroke-linejoin="round" clip-path="url(#painel)">
+    <path d="M246,696 C200,684 120,674 0,662 L0,692 C110,702 186,712 240,728 Z"/>
+    <path d="M354,696 C400,684 480,674 600,662 L600,692 C490,702 414,712 360,728 Z"/>
+    <path d="M232,700 C258,696 280,716 300,716 C320,716 342,696 368,700 C374,722 372,744 366,763 L234,763 C228,744 226,722 232,700 Z"/>
+  </g>
+  <path d="M246,740 C270,748 330,748 354,740" fill="none" stroke="#CBBE9F" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- ligamento cricotireóideo -->
+  <path d="M258,350 L342,350 L348,372 L252,372 Z" fill="#E6D3C0" opacity="0.9"/>
+
+  <!-- cartilagem cricoide -->
+  <path d="M248,365 C262,372 280,376 300,376 C320,376 338,372 352,365 C357,376 357,393 352,403 C338,407 320,408 300,408 C280,408 262,407 248,403 C243,393 243,376 248,365 Z" fill="#CFE3EC" stroke="#8FB4C4" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M262,381 C280,385 300,386 316,385" fill="none" stroke="#EEF6F9" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- cartilagem tireoide: cornos superiores -->
+  <g fill="#CFE3EC" stroke="#8FB4C4" stroke-width="2" stroke-linejoin="round">
+    <path d="M371,236 C373,216 377,202 380,190 C382,184 390,186 389,192 C387,208 386,224 384,244 Z"/>
+    <path d="M229,236 C227,216 223,202 220,190 C218,184 210,186 211,192 C213,208 214,224 216,244 Z"/>
+  </g>
+  <!-- cartilagem tireoide: lâminas -->
+  <path d="M300,250 C304,240 310,232 318,227 C336,222 356,222 372,226 C380,228 385,236 384,246 C383,280 378,315 370,340 C368,347 362,351 354,351 C336,352 318,356 300,356 C282,356 264,352 246,351 C238,351 232,347 230,340 C222,315 217,280 216,246 C215,236 220,228 228,226 C244,222 264,222 282,227 C290,232 296,240 300,250 Z" fill="#CFE3EC" stroke="#8FB4C4" stroke-width="2" stroke-linejoin="round"/>
+  <!-- sombreamento das lâminas -->
+  <path d="M372,228 C381,232 384,238 383,248 C382,282 377,316 369,340 C366,347 360,349 354,349 C362,318 368,270 372,228 Z" fill="#8FB4C4" opacity="0.28"/>
+  <path d="M228,228 C219,232 216,238 217,248 C218,282 223,316 231,340 C234,347 240,349 246,349 C238,318 232,270 228,228 Z" fill="#8FB4C4" opacity="0.28"/>
+  <!-- proeminência laríngea -->
+  <path d="M300,252 C309,262 311,300 300,354 C289,300 291,262 300,252 Z" fill="#EEF6F9"/>
+  <line x1="300" y1="251" x2="300" y2="355" stroke="#8FB4C4" stroke-width="1.2" opacity="0.8"/>
+
+  <!-- osso hioide -->
+  <g fill="#EFE6D5" stroke="#CBBE9F" stroke-width="2" stroke-linejoin="round">
+    <path d="M340,160 C356,156 372,146 384,132 C388,127 396,132 392,139 C381,158 362,174 342,184 Z"/>
+    <path d="M260,160 C244,156 228,146 216,132 C212,127 204,132 208,139 C219,158 238,174 258,184 Z"/>
+    <path d="M337,160 C337,150 341,143 346,140 C350,145 349,154 347,163 Z"/>
+    <path d="M263,160 C263,150 259,143 254,140 C250,145 251,154 253,163 Z"/>
+    <path d="M256,160 C270,154 330,154 344,160 C349,168 349,180 344,188 C330,193 270,193 256,188 C251,180 251,168 256,160 Z"/>
+  </g>
+  <path d="M262,183 C276,187 324,187 338,183" fill="none" stroke="#D9CDB2" stroke-width="3" stroke-linecap="round"/>
+  <path d="M264,165 C278,161 310,161 322,163" fill="none" stroke="#FAF5EA" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- glândula tireoide (lobos, istmo e lobo piramidal) -->
+  <path d="M303,433 C304,405 307,360 309,322 C310,306 320,306 321,322 C322,360 324,405 326,430 C333,425 338,408 340,388 C343,362 353,334 367,326 C382,320 394,350 399,388 C404,426 405,466 398,500 C392,530 376,549 360,546 C347,544 340,526 332,509 C326,499 314,500 300,500 C286,500 274,499 268,509 C260,526 253,544 240,546 C224,549 208,530 202,500 C195,466 196,426 201,388 C206,350 218,320 233,326 C247,334 257,362 260,388 C262,408 267,425 276,431 C284,433 294,433 303,433 Z" fill="#C4573B" stroke="#9E3F29" stroke-width="2.2" stroke-linejoin="round"/>
+  <!-- sombras -->
+  <path d="M399,392 C404,428 404,466 397,499 C391,529 376,547 361,545 C378,538 388,514 390,484 C392,452 396,420 399,392 Z" fill="#9E3F29" opacity="0.45"/>
+  <path d="M201,392 C196,428 196,466 203,499 C209,529 224,547 239,545 C222,538 212,514 210,484 C208,452 204,420 201,392 Z" fill="#9E3F29" opacity="0.45"/>
+  <path d="M272,492 C284,497 316,497 328,492 C322,499 310,499 300,499 C290,499 278,499 272,492 Z" fill="#9E3F29" opacity="0.45"/>
+  <!-- luzes -->
+  <path d="M364,344 C374,348 380,384 380,418 C380,438 376,450 370,450 C364,450 362,434 362,416 C362,388 356,348 364,344 Z" fill="#DB7A60" opacity="0.5"/>
+  <path d="M236,344 C226,348 220,384 220,418 C220,438 224,450 230,450 C236,450 238,434 238,416 C238,388 244,348 236,344 Z" fill="#DB7A60" opacity="0.5"/>
+  <path d="M284,446 C294,443 310,443 320,447 C314,452 290,452 284,446 Z" fill="#DB7A60" opacity="0.6"/>
+  <path d="M312,330 C313,360 313,395 312,420" fill="none" stroke="#DB7A60" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- trajeto do ducto tireoglosso (descida embriológica) -->
+  <path d="M300,72 L300,188" fill="none" stroke="#C2571A" stroke-width="4" stroke-linecap="round" stroke-dasharray="0.1 9"/>
+  <path d="M300,224 C301,250 306,272 312,290" fill="none" stroke="#C2571A" stroke-width="4" stroke-linecap="round" stroke-dasharray="0.1 9"/>
+  <polygon points="305,291 320,287 316,304" fill="#C2571A"/>
+
+  <!-- cisto do ducto tireoglosso -->
+  <circle cx="300" cy="206" r="15" fill="#FBE3B5" stroke="#C2571A" stroke-width="2"/>
+  <path d="M291,199 C295,194 303,193 308,197" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+
+  <!-- forame cego -->
+  <circle cx="300" cy="60" r="8" fill="#FFFFFF" stroke="#C2571A" stroke-width="2"/>
+  <circle cx="300" cy="60" r="3.5" fill="#C2571A"/>
+
+  <!-- linhas-guia -->
+  <g stroke="#5F5B55" stroke-width="1.5" fill="none">
+    <line x1="178" y1="171" x2="268" y2="171"/>
+    <line x1="178" y1="268" x2="246" y2="268"/>
+    <line x1="178" y1="388" x2="286" y2="390"/>
+    <line x1="178" y1="471" x2="222" y2="471"/>
+    <line x1="178" y1="611" x2="278" y2="611"/>
+    <line x1="402" y1="58" x2="312" y2="60"/>
+    <line x1="402" y1="130" x2="306" y2="130"/>
+    <line x1="402" y1="210" x2="318" y2="208"/>
+    <line x1="418" y1="296" x2="318" y2="340"/>
+    <line x1="418" y1="413" x2="384" y2="413"/>
+    <line x1="418" y1="471" x2="312" y2="471"/>
+  </g>
+  <g fill="#5F5B55">
+    <circle cx="268" cy="171" r="3"/>
+    <circle cx="246" cy="268" r="3"/>
+    <circle cx="286" cy="390" r="3"/>
+    <circle cx="222" cy="471" r="3"/>
+    <circle cx="278" cy="611" r="3"/>
+    <circle cx="312" cy="60" r="3"/>
+    <circle cx="306" cy="130" r="3"/>
+    <circle cx="318" cy="208" r="3"/>
+    <circle cx="318" cy="340" r="3"/>
+    <circle cx="384" cy="413" r="3"/>
+    <circle cx="312" cy="471" r="3"/>
+  </g>
+
+  <!-- rótulos -->
+  <g font-size="20" fill="#1C1B1A">
+    <g text-anchor="end">
+      <text x="172" y="178">Osso hioide</text>
+      <text x="172" y="263">Cartilagem</text>
+      <text x="172" y="287">tireoide</text>
+      <text x="172" y="383">Cartilagem</text>
+      <text x="172" y="407">cricoide</text>
+      <text x="172" y="478">Lobo direito</text>
+      <text x="172" y="618">Traqueia</text>
+    </g>
+    <g text-anchor="start">
+      <text x="408" y="53">Forame cego</text>
+      <text x="408" y="77" fill="#5F5B55">(base da língua)</text>
+      <text x="408" y="125">Trajeto do ducto</text>
+      <text x="408" y="149">tireoglosso</text>
+      <text x="408" y="205">Cisto tireoglosso</text>
+      <text x="408" y="229" fill="#5F5B55">(linha média)</text>
+      <text x="424" y="303">Lobo piramidal</text>
+      <text x="424" y="420">Lobo esquerdo</text>
+      <text x="424" y="478">Istmo</text>
+    </g>
+  </g>
+</svg>

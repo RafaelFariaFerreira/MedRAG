@@ -1,0 +1,269 @@
+{
+  "prova": {
+    "id": "p150",
+    "titulo": "Prova 150 (25.1)",
+    "temas": "Linfomas e Tireoide",
+    "periodo": "2025.1",
+    "gabarito_fonte": "oficial",
+    "paginas": [13, 23]
+  },
+  "questoes": [
+    {
+      "id": "p150-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": ["tir-folicular"],
+      "enunciado": "Paciente de 60 anos sofre queda na rua. Levada à emergência constata-se fratura de úmero sendo encaminhada para a cirurgia. No exame histopatológico são encontradas, junto aos fragmentos ósseos, estruturas foliculares com material róseo em seu interior. Qual o provável diagnóstico? Explique.",
+      "pontos": 0.8,
+      "resposta_modelo": "**Diagnóstico:** carcinoma folicular da tireoide com metástase óssea (úmero) e fratura patológica.\n\n**Explicação:** as estruturas foliculares com material róseo no interior são folículos tireoidianos com coloide — tecido tireoidiano bem diferenciado dentro do osso. O carcinoma folicular é formado por folículos que lembram a tireoide normal; o que o torna maligno é a invasão da cápsula e dos vasos. Pelos vasos sanguíneos ele faz **disseminação hematogênica**, principalmente para ossos, pulmão, fígado e cérebro, e não costuma dar metástase em linfonodos. No osso, o tecido neoplásico substitui o tecido ósseo e o enfraquece; por isso uma simples queda causou a fratura (fratura patológica).",
+      "checklist": [
+        "Diagnóstico: carcinoma folicular da tireoide",
+        "Disseminação hematogênica (osso, pulmão, fígado, cérebro), sem metástase linfonodal",
+        "Estruturas foliculares com material róseo = folículos tireoidianos com coloide no osso (metástase óssea)",
+        "Fratura patológica: tecido neoplásico substitui o tecido ósseo"
+      ],
+      "explicacao": "O raciocínio é de trás para frente: fratura por trauma leve + tecido que parece tireoide dentro do osso = metástase de tumor tireoidiano bem diferenciado que viaja pelo sangue. Entre os carcinomas da tireoide, quem faz via **hematogênica** e gosta de osso é o **folicular**; o papilífero vai por via linfática para linfonodos cervicais. Era o antigo “bócio metastático” dos livros: a célula parece normal, a malignidade está na invasão de cápsula e vaso.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (foto, pág. 22), telegráfico: “Carcinom[a] folicular. Disseminação hematogênica.” A resposta-modelo desenvolve esses dois pontos com o resumo das aulas.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p150-q02",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": ["tir-papilifero"],
+      "enunciado": "Paciente feminina, 22 anos, com linfonodo cervical aumentado. Realizado exame de imagem constata-se, também, a presença de nódulo tireoidiano irregular, sólido com microcalcificações. Qual o provável diagnóstico da lesão tireoidiana? Explique.",
+      "pontos": 0.8,
+      "resposta_modelo": "**Diagnóstico:** carcinoma papilífero da tireoide, com metástase em linfonodo cervical.\n\n**Explicação:** é o carcinoma mais comum da tireoide e tem **disseminação linfática** — a invasão de vasos linfáticos é a regra — com metástase para os linfonodos cervicais, que pode ser a primeira manifestação da doença. As microcalcificações do nódulo correspondem aos corpos psamomatosos (calcificações arredondadas, em camadas concêntricas), achado frequente nesse tumor e também nas suas metástases linfonodais. Na microscopia, o diagnóstico é dado pelo núcleo: cromatina clara, contorno irregular e pseudoinclusões, com ou sem papilas de eixo fibrovascular. Tem evolução lenta e prognóstico favorável.",
+      "checklist": [
+        "Diagnóstico: carcinoma papilífero da tireoide",
+        "Disseminação linfática para linfonodos cervicais (explica o linfonodo aumentado)",
+        "Microcalcificações = corpos psamomatosos",
+        "Alterações nucleares típicas (cromatina clara, irregularidade, pseudoinclusões) e/ou bom prognóstico"
+      ],
+      "explicacao": "Par clássico com a questão 1: nódulo tireoidiano + **linfonodo cervical** = via linfática = papilífero; fratura/osso = via hematogênica = folicular. As **microcalcificações** da imagem são a tradução dos corpos psamomatosos. O professor insiste que quem define o papilífero é o núcleo, não a papila.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (foto, pág. 22), telegráfico: “Carcinoma papilífero. Disseminação linfática.”",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p150-q03",
+      "numero": "3",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": ["tir-hashimoto", "tir-fisiologia"],
+      "enunciado": "Paciente feminina, 18 anos, relata cansaço, queda de cabelo e ganho de peso. O exame laboratorial mostra redução de T3 e T4 e aumento de TSH. Cite e explique as possíveis alterações morfológicas presentes na tireoide.",
+      "pontos": 0.8,
+      "resposta_modelo": "**Diagnóstico:** tireoidite de Hashimoto (tireoidite autoimune), a causa mais comum de hipotireoidismo. T3 e T4 baixos com TSH alto (por retroalimentação) indicam hipotireoidismo por falência da própria glândula.\n\n**Macroscopia:** glândula simetricamente aumentada de volume (toda a glândula é acometida: os dois lobos e o istmo), de aspecto lobulado e consistência firme-elástica, podendo aderir às estruturas vizinhas; coloração variada, com áreas brancacentas, amareladas e avermelhadas. Na fase avançada há hipotrofia acentuada.\n\n**Microscopia** (os cinco elementos): (1) infiltrado linfoplasmocitário — o sistema imune ataca a célula folicular; (2) nódulos (folículos) linfoides — o infiltrado se organiza; (3) fibrose em traves — cicatriz dos folículos destruídos; (4) atrofia dos folículos — perda do número e do tamanho das células; (5) células oncocíticas (células de Hürthle ou de Askanazy) — células foliculares sobreviventes que se tornam volumosas, com citoplasma acidófilo e granular pelo acúmulo de mitocôndrias. Para ser Hashimoto precisa ter a célula oncocítica.",
+      "checklist": [
+        "Reconheceu hipotireoidismo e deu o diagnóstico: tireoidite de Hashimoto (autoimune)",
+        "Macro: glândula difusa/simetricamente aumentada, lobulada, firme-elástica (hipotrofia na fase avançada)",
+        "Micro: infiltrado linfoplasmocitário com nódulos (folículos) linfoides",
+        "Micro: fibrose (traves fibrosas) e atrofia dos folículos",
+        "Micro: células oncocíticas (Hürthle/Askanazy), com citoplasma acidófilo granular",
+        "Explicou o mecanismo: destruição autoimune dos folículos tireoidianos"
+      ],
+      "explicacao": "TSH alto com T3/T4 baixos = hipotireoidismo; a maior causa é **Hashimoto**. O gabarito pede “macro e micro”: a capa do compilado avisa que em tireoide isso é obrigatório. Memorize os 5 elementos da microscopia (infiltrado linfoplasmocitário, nódulos linfoides, fibrose, atrofia e célula oncocítica) e explique cada um — a questão diz “cite **e explique**”.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (foto, pág. 22), telegráfico: “Hashimoto. Macro e micro.” A descrição macro e micro vem do resumo das aulas. O resumo cita que Hashimoto acomete mais mulheres entre 45 e 65 anos; a paciente da questão tem 18, mas o gabarito oficial é Hashimoto.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p150-q04",
+      "numero": "4",
+      "tipo": "vf",
+      "modulo": "tireoide",
+      "topicos": ["tir-hashimoto", "tir-papilifero", "tir-anaplasico", "tir-graves"],
+      "enunciado": "Responda V ou F nas sentenças abaixo e justifique as questões falsas:",
+      "pontos": 0.8,
+      "itens": [
+        {
+          "texto": "A tireoidite de Hashimoto, em fase final, é caracterizada por infiltrado neutrofílico, extensa necrose e rara fibrose.",
+          "resposta": false,
+          "justificativa": "Gabarito oficial: “Infiltrado linfoide, sem necrose e muita fibrose.” Hashimoto é tireoidite crônica autoimune: o infiltrado é linfoplasmocitário, com nódulos linfoides, e a destruição dos folículos termina em atrofia e muita fibrose. Infiltrado de neutrófilos (polimorfonucleares) é de tireoidite aguda/subaguda."
+        },
+        {
+          "texto": "O carcinoma papilífero tem preferencialmente disseminação hematogênica para pulmão e osso.",
+          "resposta": false,
+          "justificativa": "Gabarito oficial: “Linfática e linfonodos.” O papilífero dissemina por via linfática para os linfonodos cervicais. Disseminação hematogênica para osso e pulmão é a característica do carcinoma folicular."
+        },
+        {
+          "texto": "O carcinoma anaplásico de tireoide mostra acentuado pleomorfismo e baixo índice mitótico.",
+          "resposta": false,
+          "justificativa": "Gabarito oficial: “Alto.” O pleomorfismo acentuado está certo, mas o índice mitótico é elevado — é o alto índice de proliferação que explica o crescimento em poucos dias e a agressividade do carcinoma indiferenciado."
+        },
+        {
+          "texto": "No caso da Doença de Graves, a fisiopatologia dos sintomas é devida à destruição autoimune dos folículos com liberação de hormônios tireoidianos.",
+          "resposta": false,
+          "justificativa": "Gabarito oficial: “Auto-anticorpos.” Em Graves não há destruição: autoanticorpos antirreceptor de TSH estimulam o receptor, causando hiperplasia do epitélio folicular e produção excessiva de hormônios. Liberação de hormônio por destruição de folículos é o hipertireoidismo transitório do Hashimoto."
+        }
+      ],
+      "explicacao": "Os quatro itens são falsos, e cada um troca a característica de uma doença pela de outra: Hashimoto × tireoidite com neutrófilos; papilífero (linfática) × folicular (hematogênica); anaplásico tem índice mitótico **alto**; Graves é **estimulação** por autoanticorpos, não destruição. Na prova é preciso justificar cada falso — o gabarito aceita justificativas curtas, corrigindo só o trecho errado.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Vale 0,2 por item. Gabarito conferido nas fotos (págs. 22–23): F, F, F, F, com as justificativas oficiais transcritas no início de cada justificativa. Na foto, o início de “(F)” e de “Alto.” do 3º item está cortado pela borda, mas a leitura é inequívoca.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p150-q05",
+      "numero": "5",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": ["tir-nodulo-paaf-bethesda", "tir-papilifero"],
+      "enunciado": "Mulher de 45 anos, apresenta nódulo na região cervical anterior que à investigação por punção aspirativa por agulha fina (PAAF) revelou citologia suspeita de malignidade tireoideana. Qual o tipo histológico mais indicado para ser diagnosticado por esse procedimento? Explique.",
+      "pontos": 0.7,
+      "resposta_modelo": "**Tipo histológico:** carcinoma papilífero da tireoide.\n\n**Explicação:** a PAAF é um exame citopatológico — colhe células soltas, não um fragmento de tecido. O carcinoma papilífero é diagnosticado pelas **alterações nucleares**, que aparecem na célula aspirada mesmo sem a papila: núcleo de cromatina clara, contorno irregular e pseudoinclusões nucleares (o citoplasma entra no núcleo). São essas características que permitem laudar Bethesda 5 ou 6. Já o carcinoma folicular não pode ser diagnosticado por punção: suas células parecem as da tireoide normal e o diagnóstico depende de ver invasão da cápsula e/ou dos vasos, o que exige a peça (exame histopatológico) para diferenciá-lo do adenoma.",
+      "checklist": [
+        "Tipo histológico: carcinoma papilífero",
+        "O diagnóstico do papilífero é pelas alterações nucleares, visíveis na citologia (PAAF colhe células, não arquitetura)",
+        "Citou as alterações: cromatina clara, núcleo irregular, pseudoinclusões",
+        "Contraponto: carcinoma folicular exige histologia (invasão de cápsula/vaso), não se fecha por punção"
+      ],
+      "explicacao": "Punção = célula (citopatológico); biópsia/peça = tecido (histopatológico). O **papilífero** se define pelo núcleo, então a agulha basta. O **folicular** se define por invasão de cápsula e vaso, então só a peça resolve. O gabarito pede “citar e explicar” as alterações nucleares — não basta escrever “alterações nucleares”.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (foto, pág. 23): “Carcinoma papilífero. Alterações nucleares. Citar e explicar.” O resumo das aulas acrescenta que o carcinoma medular também pode ser diagnosticado por punção, mas a resposta esperada é o papilífero.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p150-q06",
+      "numero": "6",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": ["lin-lnh-geral", "lin-dgcb", "lin-folicular", "lin-malt", "lin-micose-fungoide"],
+      "enunciado": "O linfoma não Hodgkin (LNH) é um tipo de câncer que tem origem nas células do sistema linfático e que se espalha de maneira não ordenada. Existem mais de 20 tipos diferentes de linfoma não-Hodgkin. Sobre esta patologia assinale a resposta **correta**:",
+      "pontos": 1.0,
+      "alternativas": [
+        {"letra": "A", "texto": "A expressão aumentada de BCL2 e de P53 é um indicador prognóstico desfavorável no linfoma de grandes células B;"},
+        {"letra": "B", "texto": "o linfoma folicular tem curso agressivo geralmente pela presença de adenomegalia generalizada e a medula óssea é frequentemente infiltrada ao diagnóstico;"},
+        {"letra": "C", "texto": "o linfoma MALT é uma neoplasia de linfócitos B maduros, caracterizada pela superexpressão da ciclina D1 proteína responsável pela transição natural da fase G1 do ciclo celular para a fase S;"},
+        {"letra": "D", "texto": "as células de Sézary são células B malignas no sangue e podem ser detectadas em um esfregaço de rotina corado por Wright ou por citometria de fluxo."}
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "**A** é a correta pelo gabarito oficial. Complemento: no linfoma difuso de grandes células B, a expressão aumentada de BCL-2 e de p53 associa-se a pior prognóstico. **B** erra em “curso agressivo”: o linfoma folicular é **indolente** — o resto da frase (disseminado, medula óssea infiltrada ao diagnóstico) é verdadeiro e serve de isca. **C** descreve outro linfoma: Complemento: a superexpressão de ciclina D1 caracteriza o linfoma de células do manto, não o MALT. **D** erra a linhagem: as células de Sézary são linfócitos **T** (CD4 +) cerebriformes, da micose fungoide/síndrome de Sézary.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "No gabarito oficial (foto, pág. 23) a resposta está impressa sem a letra, só com o texto — que é o da alternativa A. Na prova original as alternativas são minúsculas (a–d). O conteúdo da alternativa A (BCL2/P53 como fator prognóstico no LDGCB) não aparece no resumo das aulas.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p150-q07",
+      "numero": "7",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": ["lin-micose-fungoide"],
+      "enunciado": "Microabscessos de Pautrier característicos podem estar presentes na epiderme em biópsias cutâneas por punção. Em alguns casos, uma fase leucêmica é caracterizada pelo aparecimento de células T neoplásicas com núcleos em forma de serpentina no sangue periférico. Estas alterações podem ser encontradas no linfoma:",
+      "pontos": 1.0,
+      "alternativas": [
+        {"letra": "A", "texto": "Linfoma não Hodgkin de células B;"},
+        {"letra": "B", "texto": "Linfoma de células B com predomínio de centroblastos;"},
+        {"letra": "C", "texto": "Linfoma de padrão nodular rico em células T;"},
+        {"letra": "D", "texto": "Linfoma T cutâneo micose fungoide/Síndrome de Sézary."}
+      ],
+      "correta": "D",
+      "pede": "correta",
+      "explicacao": "**Microabscessos de Pautrier** (agregados de linfócitos T atípicos dentro da epiderme) são a marca da **micose fungoide**, linfoma cutâneo de células T CD4 + epidermotrópicas, de núcleo cerebriforme (“em serpentina”). Quando essas células chegam ao sangue periférico (leucemização), fala-se em **síndrome de Sézary**. A e B são linfomas de células B — o enunciado fala em células T. C não é linfoma cutâneo nem tem epidermotropismo.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (foto, pág. 23): “7- d)”. Na borda da foto da pág. 22 aparece outra folha com um X a caneta ao lado da alternativa a) desta questão — não é o gabarito oficial (parece prova de aluno) e foi desconsiderado.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p150-q08",
+      "numero": "8",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": ["lin-malt"],
+      "enunciado": "O linfoma MALT é geralmente causado por infecções bacterianas crônicas geralmente se desenvolve em áreas do corpo que têm tecido linfoide associado à mucosa, incluindo o estômago, os pulmões e as glândulas salivares. Sobre esta patologia assinale a alternativa **correta**:",
+      "pontos": 1.0,
+      "alternativas": [
+        {"letra": "A", "texto": "A idade mediana no momento do diagnóstico é de aproximadamente 17 anos;"},
+        {"letra": "B", "texto": "As lesões linfoepiteliais se desenvolvem em tecidos epiteliais em decorrência da infiltração do epitélio por células neoplásicas;"},
+        {"letra": "C", "texto": "O linfoma MALT tem um infiltrado linfoide monomórficos células B monocitoides;"},
+        {"letra": "D", "texto": "A erradicação do H. pylori é o tratamento inicial em casos de linfoma MALT e dependente do estadiamento."}
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "**B** define a **lesão linfoepitelial**, achado típico do linfoma MALT: as células B neoplásicas invadem e destroem o epitélio das glândulas. **A** é falsa — Complemento: é linfoma indolente de adultos mais velhos (mediana em torno dos 60 anos), não de adolescentes. **C** é falsa porque o infiltrado do MALT é **heterogêneo** (outra prova do compilado descreve “população de células heterogêneas e lesões linfoepiteliais”), não monomórfico. **D** foi considerada falsa pelo gabarito, que não justifica. Complemento: a erradicação do *H. pylori* é o tratamento inicial do linfoma MALT **gástrico**, não de todo linfoma MALT (pulmão, glândula salivar), e essa indicação inicial não é feita “na dependência do estadiamento”. Lembre de escrever o nome completo: Linfoma Não Hodgkin MALT.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (foto, pág. 23): “8- b)”. O linfoma MALT quase não aparece no resumo das aulas (só como exemplo de linfoma extranodal gástrico ligado ao H. pylori e no recado sobre escrever “Linfoma Não Hodgkin MALT gástrico”); as justificativas das alternativas A e D são complemento de conhecimento geral. O enunciado original tem erros de redação (“salivares Sobre”, “monomórficos células B”).",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p150-q09",
+      "numero": "9",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": ["lin-lh-pln"],
+      "enunciado": "Um paciente do sexo masculino, com 32 anos, apresenta linfonodomegalia cervical e axilar. A biópsia linfonodal revela um padrão nodular com predominância de linfócitos pequenos e presença de células grandes, com núcleo atípico e lobulado. Os testes para EBV são negativos. Com base nesse quadro clínico, assinale a alternativa **CORRETA** sobre a principal hipótese diagnóstica:",
+      "pontos": 1.0,
+      "alternativas": [
+        {"letra": "A", "texto": "Essa variante é mais comum em pacientes acima de 60 anos, associada frequentemente ao vírus Epstein-Barr (EBV), e apresenta mau prognóstico."},
+        {"letra": "B", "texto": "Caracteriza-se pela presença de células neoplásicas com aspecto em “pipoca” e maior chance de recorrências."},
+        {"letra": "C", "texto": "É uma forma agressiva de linfoma, com baixa taxa de recorrência, mas elevada mortalidade a curto prazo."},
+        {"letra": "D", "texto": "É esperado o seguinte perfil imuno-histoquímico: CD30 e CD15 positivos; CD20 e CD45 negativos."}
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "Padrão **nodular** com **predomínio de linfócitos** pequenos e células grandes de núcleo lobulado, EBV negativo, em adulto na 4ª década: é o Linfoma de Hodgkin não clássico, tipo **predominância linfocítica nodular**. Sua célula é a variante linfo-histiocitária, em **“pipoca”** (B). **D** é a pegadinha: esse é o perfil das formas clássicas; no PLN os marcadores são ao contrário — CD20 + e CD45 +; CD15 − e CD30 −. **A** e **C** descrevem doença agressiva, de idosos e ligada ao EBV, o oposto do PLN. Complemento: o PLN é indolente, de bom prognóstico, mas com recorrências frequentes.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (foto, pág. 23): “9- B)”.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p150-q10",
+      "numero": "10",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-lh-geral", "lin-dgcb", "lfa-padrao-paracortical"],
+      "enunciado": "Considerando os aspectos morfológicos das células de Reed-Sternberg, cite dois diagnósticos diferenciais que devem ser excluídos:",
+      "pontos": 1.0,
+      "resposta_modelo": "Mononucleose infecciosa e Linfoma Não Hodgkin difuso de grandes células B.\n\nNa mononucleose infecciosa (EBV), os linfócitos atípicos ativados da hiperplasia paracortical podem ficar grandes, com nucléolo evidente, imitando a célula de Reed-Sternberg. No linfoma difuso de grandes células B, as células neoplásicas são grandes, de cromatina frouxa e nucléolos evidentes, e também podem simulá-la. A imuno-histoquímica resolve: a célula de Reed-Sternberg do Hodgkin clássico é CD15 + e CD30 +, CD20 − e CD45 −; o LDGCB é CD20 +.",
+      "checklist": [
+        "Mononucleose infecciosa (EBV)",
+        "Linfoma (Não Hodgkin) difuso de grandes células B",
+        "Sabe por que confundem: células grandes com nucléolo evidente que imitam a Reed-Sternberg; IHQ diferencia (RS: CD15 +/CD30 +, CD20 −/CD45 −)"
+      ],
+      "explicacao": "A célula de Reed-Sternberg é grande, especular (dois núcleos em espelho) e com nucléolos grandes e eosinofílicos. Qualquer doença com células grandes de nucléolo proeminente pode imitá-la: os linfócitos atípicos da **mononucleose** (reacional) e as células do **LDGCB** (neoplásico). Por isso não existe diagnóstico de linfoma sem imuno-histoquímica. Em aula também foi citado o citomegalovírus (inclusão em “olho de coruja” na célula endotelial), mas o gabarito oficial traz os dois acima.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (foto, pág. 23): “Mononucleose infecciosa, linfoma difuso de grandes células B.” No gabarito a resposta desta questão está numerada por engano como “11-”. A prova só pede citar; a explicação é para estudo.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p150-q11",
+      "numero": "11",
+      "tipo": "lacunas",
+      "modulo": "linfomas",
+      "topicos": ["lin-lh-geral", "lin-lh-esclerose-nodular", "lin-lh-deplecao", "lin-estadiamento"],
+      "enunciado": "Complete as palavras cruzadas abaixo com os termos adequados sobre os linfomas de Hodgkin (LH):",
+      "pontos": 1.1,
+      "lacunas": [
+        {"dica": "1. Alteração histológica presente entre as células neoplásicas e o fundo inflamatório no tipo depleção linfocitária. (7 letras)", "resposta": "FIBROSE"},
+        {"dica": "2. Nome atribuído às células neoplásicas. (13 letras)", "resposta": "REED STERNBERG"},
+        {"dica": "3. Parâmetro que norteia o tratamento e se baseia no grau de disseminação da doença. (12 letras)", "resposta": "ESTADIAMENTO"},
+        {"dica": "4. Órgão que é acometido pelas células neoplásicas no fenômeno conhecido como leucemização. (11 letras)", "resposta": "MEDULA ÓSSEA"},
+        {"dica": "5. Infecção frequentemente associada a certos tipos de Linfoma de Hodgkin. (3 letras)", "resposta": "EBV"},
+        {"dica": "6. Marcador imuno-histoquímico de células B que é positivo em formas clássicas e não clássicas. (4 caracteres)", "resposta": "PAX5"},
+        {"dica": "7. Variante da célula neoplásica encontrada no tipo esclerose nodular. (7 letras)", "resposta": "LACUNAR"},
+        {"dica": "8. Neoplasia maligna relatada em alguns casos de pacientes submetidos à radioterapia para tratamento do LH. (8 letras)", "resposta": "MELANOMA"},
+        {"dica": "9. Entidade responsável pela criação do sistema de diagnóstico e classificação das neoplasias linfoides. (3 letras)", "resposta": "OMS"},
+        {"dica": "10. Tipo de disseminação mais comumente encontrada no LH. (12 letras)", "resposta": "CONTINUIDADE"},
+        {"dica": "11. Conjunto de manifestações clínicas como febre, sudorese noturna e perda ponderal, frequentemente associadas ao LH. (9 caracteres)", "resposta": "SINTOMAS B"}
+      ],
+      "explicacao": "Cada palavra é um conceito de Hodgkin que volta em outras provas: a célula neoplásica é a de **Reed-Sternberg**, com a variante **lacunar** na esclerose nodular; o **estadiamento** (Ann Arbor) norteia o tratamento; a disseminação é por **contiguidade**; febre, sudorese noturna e perda de peso são os **sintomas B**; o **EBV** associa-se sobretudo à celularidade mista. **PAX5** é o marcador B positivo tanto nas formas clássicas (fraco) quanto no PLN — diferente do CD20, que é negativo nas clássicas. Leucemização exige infiltração da **medula óssea**. A classificação das neoplasias linfoides é da **OMS**.",
+      "gabarito_fonte": "oficial",
+      "confianca": "media",
+      "observacao": "DIVERGÊNCIA no item 9: o gabarito oficial (foto, pág. 23) traz “TNM”, mas adotamos **OMS**. Motivos: (1) na grade impressa, a 1ª casa da palavra 9 (3 casas, vertical) é a 6ª letra da palavra 8, MELANOMA — ou seja, “O”; “TNM” não encaixa e “OMS” encaixa; (2) a dica pede uma “entidade” que criou a classificação das neoplasias linfoides — é a Organização Mundial da Saúde (o gabarito oficial de outra prova do compilado fala em “Classificação da OMS”); TNM é um sistema de estadiamento, não uma entidade. Provável erro de digitação do gabarito. Se a grade cair de novo, preencha OMS. Os outros 10 itens seguem o gabarito oficial e encaixam exatamente na grade (tamanho e cruzamentos conferidos na foto). O gabarito grafa “MEDULA ÁSSEA” (erro de digitação). Vale 0,1 por palavra. Itens 6 e 8 (PAX5, melanoma) não constam do resumo das aulas, mas aparecem em gabaritos oficiais de outras provas do compilado. O número de letras em cada dica foi acrescentado a partir da grade (não consta do enunciado original).",
+      "fora_do_escopo": false
+    }
+  ]
+}

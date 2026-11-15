@@ -1,0 +1,299 @@
+{
+  "prova": {
+    "id": "p147",
+    "titulo": "Prova 147 (23.2)",
+    "temas": "Linfomas e Tireoide",
+    "periodo": "2023.2",
+    "gabarito_fonte": "oficial",
+    "paginas": [
+      32,
+      34
+    ]
+  },
+  "questoes": [
+    {
+      "id": "p147-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-folicular"
+      ],
+      "enunciado": "Enunciado não disponível — o gabarito oficial registra: “Linfoma não Hodgkin de células foliculares”.",
+      "resposta_modelo": "**Linfoma não Hodgkin de células foliculares** (linfoma não Hodgkin folicular).",
+      "checklist": [
+        "Diagnóstico completo: linfoma NÃO HODGKIN folicular (o professor tira ponto de quem omite “não Hodgkin”)",
+        "Folículos de tamanho semelhante, com desaparecimento da coroa linfocitária",
+        "Invasão do tecido adiposo perilinfonodal",
+        "BCL-2 positivo é a principal característica; também CD20+, Pax5+, BCL-6+; CD5 e ciclina D1 negativos",
+        "Diagnóstico diferencial: hiperplasia folicular reacional (BCL-2 negativo, coroa presente, folículos de tamanhos diferentes)"
+      ],
+      "explicacao": "Sem o enunciado não dá para saber se era um caso ou uma pergunta direta; o que se sabe é que a resposta correta era o **linfoma não Hodgkin folicular**. É um linfoma indolente, de células B do centro germinativo, com hiperexpressão de BCL-2 (antiapoptótica). Nas provas com enunciado, o professor chega a ele descrevendo folículos numerosos, coroa linfocitária desaparecida e gordura perilinfonodal invadida.",
+      "gabarito_fonte": "oficial",
+      "confianca": "baixa",
+      "observacao": "Da Prova 147 só existe o gabarito oficial (transcrito na pág. 33 e fotografado na pág. 34); não há enunciados. Não foi encontrada questão idêntica em outra prova do arquivo, por isso o enunciado não foi reconstruído. O checklist reúne pontos de estudo sobre a resposta (com base no resumo das aulas), não critérios oficiais de correção. Pelo formato (texto de alternativa), provavelmente era questão de múltipla escolha."
+    },
+    {
+      "id": "p147-q02",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-micose-fungoide"
+      ],
+      "enunciado": "Enunciado não disponível — o gabarito oficial registra: “MF é caracterizada por um infiltrado epidermotrópico de linfócitos T”.",
+      "resposta_modelo": "A micose fungoide (MF) é caracterizada por um **infiltrado epidermotrópico de linfócitos T**.",
+      "checklist": [
+        "MF = micose fungoide, linfoma não Hodgkin de células T cutâneo",
+        "Célula neoplásica: linfócito T CD4+ epidermotrópico, de núcleo cerebriforme",
+        "Microabscessos de Pautrier: agregados de linfócitos neoplásicos dentro da epiderme",
+        "IHQ: CD3+, CD4+, CD5+; CD8 geralmente negativo"
+      ],
+      "explicacao": "A resposta oficial é a afirmativa correta sobre a **micose fungoide**: linfoma T cutâneo em que linfócitos T CD4+ cerebriformes infiltram a derme superior e sobem para a epiderme (epidermotropismo), formando os microabscessos de Pautrier. Quando esses linfócitos chegam ao sangue periférico, fala-se em síndrome de Sézary.",
+      "gabarito_fonte": "oficial",
+      "confianca": "baixa",
+      "observacao": "Da Prova 147 só existe o gabarito oficial (transcrito na pág. 33 e fotografado na pág. 34); não há enunciados. Não foi encontrada questão idêntica em outra prova do arquivo, por isso o enunciado não foi reconstruído. O checklist reúne pontos de estudo sobre a resposta (com base no resumo das aulas), não critérios oficiais de correção. Pelo formato (uma afirmativa), provavelmente era “assinale a alternativa correta”. O tema voltou na Prova 148 (q10), com outra redação."
+    },
+    {
+      "id": "p147-q03",
+      "numero": "3",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-burkitt"
+      ],
+      "enunciado": "Enunciado não disponível — o gabarito oficial registra: “O desenvolvimento de LB depende da expressão do gene MYC”.",
+      "resposta_modelo": "O desenvolvimento do linfoma de Burkitt (LB) depende da expressão do gene **MYC**.",
+      "checklist": [
+        "LB = linfoma de Burkitt (linfoma não Hodgkin B, altamente agressivo)",
+        "Em todas as formas, as alterações genéticas e moleculares envolvem a via do oncogene MYC",
+        "Índice de proliferação próximo de 100% (Ki-67 alto) e BCL-2 negativo",
+        "Morfologia: células médias monomórficas + macrófagos com corpos tingíveis = céu estrelado"
+      ],
+      "explicacao": "A resposta oficial é a afirmativa correta sobre o **linfoma de Burkitt**: nas três formas (endêmica, esporádica e associada à imunodeficiência) as alterações genéticas envolvem a via do oncogene **MYC**, o que explica a proliferação de praticamente 100% das células. Complemento: a alteração clássica é a translocação t(8;14), que aproxima o MYC do gene da cadeia pesada de imunoglobulina.",
+      "gabarito_fonte": "oficial",
+      "confianca": "baixa",
+      "observacao": "Da Prova 147 só existe o gabarito oficial (transcrito na pág. 33 e fotografado na pág. 34); não há enunciados. Não foi encontrada questão idêntica em outra prova do arquivo, por isso o enunciado não foi reconstruído. O checklist reúne pontos de estudo sobre a resposta (com base no resumo das aulas), não critérios oficiais de correção. Pelo formato (uma afirmativa), provavelmente era “assinale a alternativa correta”."
+    },
+    {
+      "id": "p147-q04",
+      "numero": "4",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-micose-fungoide"
+      ],
+      "enunciado": "Enunciado não disponível — o gabarito oficial registra: “As células da SS expressam moléculas CCR7 e L-selectina, CD27, um marcador de células T de memória central, CCR4 e receptores de localização na pele (CCR6, CCR10, CLA)”.",
+      "resposta_modelo": "As células da síndrome de Sézary (SS) expressam moléculas **CCR7 e L-selectina, CD27** (marcador de células T de memória central), **CCR4** e receptores de localização na pele (**CCR6, CCR10, CLA**).",
+      "checklist": [
+        "SS = síndrome de Sézary, do grupo micose fungoide/síndrome de Sézary (linfoma T cutâneo)",
+        "O diagnóstico de Sézary só se confirma com envolvimento do sangue (leucemização por linfócitos cerebriformes)",
+        "Célula neoplásica: linfócito T CD4+",
+        "Fenótipo de célula T de memória central (CCR7, L-selectina, CD27) com receptores de localização na pele (CCR4, CCR6, CCR10, CLA)"
+      ],
+      "explicacao": "A resposta oficial é a afirmativa correta sobre a **síndrome de Sézary**, a forma com eritrodermia e leucemização do linfoma T cutâneo: o linfócito T CD4+ neoplásico circula no sangue, mas mantém receptores que o levam à pele. Esse detalhe de receptores (CCR7, L-selectina, CD27, CCR4, CCR10, CLA) **não está no resumo das aulas** — vale memorizar a frase do gabarito como está.",
+      "gabarito_fonte": "oficial",
+      "confianca": "baixa",
+      "observacao": "Da Prova 147 só existe o gabarito oficial (transcrito na pág. 33 e fotografado na pág. 34); não há enunciados. Não foi encontrada questão idêntica em outra prova do arquivo, por isso o enunciado não foi reconstruído. O checklist reúne pontos de estudo sobre a resposta (com base no resumo das aulas), não critérios oficiais de correção. Pelo formato (uma afirmativa), provavelmente era “assinale a alternativa correta”. Conteúdo ausente do resumo das aulas."
+    },
+    {
+      "id": "p147-q05",
+      "numero": "5",
+      "tipo": "discursiva",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-granulomatosas",
+        "lfa-drenagem-clinica"
+      ],
+      "enunciado": "Enunciado não disponível — o gabarito oficial registra: “Tuberculose”.",
+      "resposta_modelo": "**Tuberculose.**",
+      "checklist": [
+        "Granuloma da tuberculose: centro de necrose caseosa + células gigantes de Langhans e histiócitos + halo linfocitário",
+        "Principal causa de linfadenomegalia mediastinal no Brasil",
+        "Coloração especial para o bacilo: Ziehl-Neelsen",
+        "Diferencial clássico do linfoma de Hodgkin em linfonodomegalia cervical com febre, sudorese e perda de peso"
+      ],
+      "explicacao": "Não se sabe qual era a pergunta; a resposta era **tuberculose**. Nas provas do professor ela aparece de duas formas: como diagnóstico de linfadenite granulomatosa com necrose (granuloma com necrose caseosa, células gigantes de Langhans e halo linfocitário; confirmação por Ziehl-Neelsen) e como principal diagnóstico diferencial do linfoma de Hodgkin no paciente com linfonodo cervical e sintomas B.",
+      "gabarito_fonte": "oficial",
+      "confianca": "baixa",
+      "observacao": "Da Prova 147 só existe o gabarito oficial (transcrito na pág. 33 e fotografado na pág. 34); não há enunciados. Não foi encontrada questão idêntica em outra prova do arquivo, por isso o enunciado não foi reconstruído. O checklist reúne pontos de estudo sobre a resposta (com base no resumo das aulas), não critérios oficiais de correção. Atenção à numeração: na foto do gabarito oficial esta resposta está numerada “6.” (não existe “5.” no impresso); a transcrição digitada do PDF renumerou para 5, numeração mantida aqui."
+    },
+    {
+      "id": "p147-q06",
+      "numero": "6",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-estadiamento"
+      ],
+      "enunciado": "Enunciado não disponível — o gabarito oficial registra: “Estádio I”.",
+      "resposta_modelo": "**Estádio I** (classificação de Ann Arbor).",
+      "checklist": [
+        "Estádio I: uma única cadeia (grupo) linfonodal comprometida",
+        "Estádio II: duas ou mais cadeias do mesmo lado do diafragma",
+        "Estádio III: cadeias dos dois lados do diafragma ou comprometimento do baço",
+        "Estádio IV: comprometimento difuso de órgão extralinfático"
+      ],
+      "explicacao": "A resposta era **estádio I** de Ann Arbor: doença restrita a um único linfonodo ou a uma única cadeia linfonodal — não importa quantos linfonodos da mesma cadeia estejam aumentados. Duas ou mais cadeias do mesmo lado do diafragma já seriam estádio II; os dois lados do diafragma ou o baço, estádio III; órgão extralinfático de forma difusa, estádio IV.",
+      "gabarito_fonte": "oficial",
+      "confianca": "baixa",
+      "observacao": "Da Prova 147 só existe o gabarito oficial (transcrito na pág. 33 e fotografado na pág. 34); não há enunciados. Não foi encontrada questão idêntica em outra prova do arquivo, por isso o enunciado não foi reconstruído. O checklist reúne pontos de estudo sobre a resposta (com base no resumo das aulas), não critérios oficiais de correção. Enunciado PROVÁVEL (não confirmado, por isso não reconstruído): o da Prova 148 q8 — “Paciente com diagnóstico de Linfoma de Hodgkin e linfonodomegalia limitada a três linfonodos da cadeia cervical esquerda nível II, apresenta na classificação de Ann Arbor o seguinte estádio: a) IV b) III c) II d) I”. Indícios: na foto do gabarito oficial da 147 esta resposta está numerada “7.”, e na foto da Prova 148 aquela questão aparece impressa como “8. 7.” (numeração antiga não apagada), com a mesma resposta. A transcrição digitada do PDF renumerou para 6, numeração mantida aqui."
+    },
+    {
+      "id": "p147-q07",
+      "numero": "7",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral",
+        "lin-lh-esclerose-nodular"
+      ],
+      "enunciado": "Assinale verdadeiro (V) ou falso (F) sobre os linfomas de Hodgkin:",
+      "pontos": 1.0,
+      "itens": [
+        {
+          "texto": "Apresentam distribuição bimodal com picos entre 15-35 anos e 50 e 70 anos",
+          "resposta": true,
+          "justificativa": "O Hodgkin tem distribuição **bimodal**: um pico em jovens e outro em mais velhos."
+        },
+        {
+          "texto": "A localização mediastinal é típica do subtipo esclerose nodular",
+          "resposta": true,
+          "justificativa": "O comprometimento do mediastino é relativamente frequente no LH, principalmente na forma de **esclerose nodular**."
+        },
+        {
+          "texto": "A célula de Reed-Sternberg é derivada das células B do centro germinativo",
+          "resposta": true,
+          "justificativa": "A célula de Reed-Sternberg tem origem em linfócito B, embora no LH clássico seja CD20 negativa (PAX-5 positivo fraco)."
+        },
+        {
+          "texto": "Alguns casos são associados à infecção pelo Vírus Epstein-Barr",
+          "resposta": true,
+          "justificativa": "O EBV é uma das causas de linfoma; no Hodgkin, o tipo **celularidade mista** é o mais associado."
+        },
+        {
+          "texto": "A positividade imuno-histoquímica dos marcadores indicados para o seu diagnóstico deve ser observada em todas as células que compõem a massa tumoral",
+          "resposta": false,
+          "justificativa": "A marcação (CD30+, CD15+) é procurada **em cima da célula de Hodgkin/Reed-Sternberg**, que é minoria na massa; a maior parte do tumor é fundo inflamatório reativo, que não precisa marcar."
+        }
+      ],
+      "explicacao": "Sequência oficial: **V, V, V, V, F**. O único falso é o da imuno-histoquímica: no Hodgkin a célula neoplásica é minoria em meio a um fundo inflamatório, e é nela que se procura CD30/CD15. Os outros quatro são fatos básicos do LH — bimodal, mediastino na esclerose nodular, origem em célula B e associação com EBV. Os mesmos cinco itens voltaram na Prova 148 (q12).",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Enunciado e itens constam na própria foto do gabarito oficial (pág. 34), com as respostas preenchidas; são idênticos aos itens 1, 2, 3, 4 e 6 da Prova 148 q12 (lá em outra ordem). Valor na foto: 1,0 (0,2 cada). Na foto do gabarito a questão está numerada “8.”; a transcrição digitada do PDF renumerou para 7, numeração mantida aqui. Observação sobre as fontes: o resumo das aulas ora fala em distribuição bimodal, ora (na tabela LH × LNH) em “pico aos 30 anos, decrescendo a partir daí” — para a prova vale o gabarito oficial: bimodal = V."
+    },
+    {
+      "id": "p147-q08",
+      "numero": "8",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": [
+        "tir-papilifero",
+        "tir-hashimoto",
+        "tir-folicular",
+        "tir-anaplasico"
+      ],
+      "enunciado": "Paciente masculino, 80 anos, chega à emergência com abaulamento da região cervical anterior e insuficiência respiratória. À palpação encontra-se massa endurecida, aderida a planos profundos em topografia da tireoide. Realizada biópsia da massa, onde são achados: extensa necrose, acentuado pleomorfismo celular e alto índice mitótico. Sua filha relata que foi operado em 1987 por lesão nodular constituída por células com cromatina clara, ranhuras nucleares e pseudo-inclusões. O restante do parênquima mostrava moderado infiltrado linfoplasmocitário, atrofia acinar, traves fibrosas e transformação oxifílica citoplasmática. No mesmo ato cirúrgico, foi encontrado linfonodo cervical aumentado com o mesmo aspecto da lesão nodular. Em 2000 volta a ser operado por outra lesão nodular. O exame microscópico evidenciou células com núcleos hipercromáticos. A lesão comprometia a cápsula da glândula e infiltrava os vasos sanguíneos. Sobre o caso acima, responda:",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Quais os prováveis diagnósticos da cirurgia de 1987?",
+          "resposta_modelo": "**Carcinoma papilífero** da tireoide e **tireoidite de Hashimoto**.",
+          "checklist": [
+            "Carcinoma papilífero",
+            "Tireoidite de Hashimoto"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Explique os seus diagnósticos de acordo com as características do texto.",
+          "resposta_modelo": "O **carcinoma papilífero** caracteriza-se por células com cromatina clara, ranhuras nucleares e pseudo-inclusões; a **tireoidite de Hashimoto**, por moderado infiltrado linfoplasmocitário, atrofia acinar, traves fibrosas e transformação oxifílica citoplasmática (célula oncocítica/de Hürthle).",
+          "checklist": [
+            "Papilífero: cromatina clara, ranhuras nucleares e pseudo-inclusões",
+            "Hashimoto: infiltrado linfoplasmocitário, atrofia acinar e traves fibrosas",
+            "Hashimoto: transformação oxifílica (oncocítica) do citoplasma"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Explique o achado do linfonodo cervical.",
+          "resposta_modelo": "É **metástase** do carcinoma papilífero: esse tumor apresenta **disseminação linfática** e, portanto, acomete os linfonodos cervicais (o linfonodo tinha o mesmo aspecto da lesão nodular).",
+          "checklist": [
+            "Metástase do carcinoma papilífero",
+            "Disseminação linfática para linfonodos cervicais"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Qual o resultado de exames laboratoriais do paciente em 1987, quanto aos hormônios (T3, T4 e TSH)?",
+          "resposta_modelo": "**T3 e T4 baixos e TSH alto** — hipotireoidismo (pela tireoidite de Hashimoto).",
+          "checklist": [
+            "T3 e T4 baixos",
+            "TSH alto",
+            "Hipotireoidismo"
+          ]
+        },
+        {
+          "letra": "e",
+          "pergunta": "Qual o provável diagnóstico da cirurgia de 2000?",
+          "resposta_modelo": "**Carcinoma folicular** da tireoide.",
+          "checklist": [
+            "Carcinoma folicular"
+          ]
+        },
+        {
+          "letra": "f",
+          "pergunta": "Explique o seu diagnóstico anterior de acordo com as características do texto.",
+          "resposta_modelo": "Células com núcleos hipercromáticos em lesão que **comprometia a cápsula** da glândula e **infiltrava os vasos sanguíneos** — invasão capsular e vascular são as características do carcinoma folicular.",
+          "checklist": [
+            "Comprometimento (invasão) da cápsula",
+            "Infiltração dos vasos sanguíneos",
+            "Células com núcleos hipercromáticos"
+          ]
+        },
+        {
+          "letra": "g",
+          "pergunta": "Cite 2 possíveis sítios principais de metástase da lesão tireoidiana operada em 2000.",
+          "resposta_modelo": "Dois entre **osso, fígado e cérebro** (disseminação hematogênica).",
+          "checklist": [
+            "Dois sítios entre osso, fígado e cérebro"
+          ]
+        },
+        {
+          "letra": "h",
+          "pergunta": "Qual o provável diagnóstico da lesão atual?",
+          "resposta_modelo": "**Carcinoma anaplásico (indiferenciado)** da tireoide.",
+          "checklist": [
+            "Carcinoma anaplásico ou indiferenciado"
+          ]
+        },
+        {
+          "letra": "i",
+          "pergunta": "Justifique o seu diagnóstico da lesão atual.",
+          "resposta_modelo": "Massa endurecida, aderida a planos profundos em topografia da tireoide, cuja biópsia mostra **extensa necrose, acentuado pleomorfismo celular e alto índice mitótico**.",
+          "checklist": [
+            "Massa endurecida, aderida a planos profundos",
+            "Extensa necrose",
+            "Acentuado pleomorfismo celular",
+            "Alto índice mitótico"
+          ]
+        },
+        {
+          "letra": "j",
+          "pergunta": "Existe relação entre as lesões tireoidianas? Explique.",
+          "resposta_modelo": "**Sim.** O carcinoma anaplásico originou-se das neoplasias anteriores (papilífero e folicular), que eram diferenciadas e se **indiferenciaram**.",
+          "checklist": [
+            "Sim, existe relação",
+            "O anaplásico originou-se das neoplasias anteriores, que eram diferenciadas",
+            "Elas se indiferenciaram"
+          ]
+        }
+      ],
+      "explicacao": "É a “história de sempre” do carcinoma anaplásico descrita em aula: homem idoso, várias cirurgias de tireoide por tumores diferenciados que foram se indiferenciando, aumento cervical rápido e insuficiência respiratória. O caso se resolve trecho a trecho: **núcleo** de cromatina clara, ranhuras e pseudo-inclusões = papilífero (que vai por via linfática ao linfonodo cervical); infiltrado linfoplasmocitário + atrofia + traves fibrosas + célula oxifílica = Hashimoto (hipotireoidismo: TSH alto, T3/T4 baixos); **invasão de cápsula e vasos** = folicular (via hematogênica: osso, fígado, cérebro, pulmão); necrose + pleomorfismo + muitas mitoses = anaplásico.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "O gabarito oficial da Prova 147 traz só as respostas A–J. O enunciado e as perguntas foram recuperados da Prova 145 (22.2) — TGF, Mama e Tireoide, questão 1 (transcrição nas págs. 41–42 e foto na pág. 45): as dez respostas oficiais são palavra por palavra as mesmas e citam trechos do mesmo caso. Na foto do gabarito da 147 o caso aparece sem número, logo após a questão “8.”; a transcrição digitada do PDF o numerou como 8, numeração mantida aqui. O valor na Prova 147 não consta (na Prova 145 valia 4,0 — 0,4 por item). No item g o gabarito lista três sítios (osso, fígado, cérebro) para uma pergunta que pede dois; o resumo das aulas inclui também o pulmão."
+    }
+  ]
+}

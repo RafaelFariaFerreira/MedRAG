@@ -1,0 +1,446 @@
+{
+  "id": "lfa-02",
+  "modulo": "linfadenopatias",
+  "ordem": 2,
+  "titulo": "Padrão folicular (zona B)",
+  "minutos": 15,
+  "prioridade": "alta",
+  "topicos": [
+    "lfa-padrao-folicular",
+    "lfa-hiperplasia-vs-linfoma-folicular"
+  ],
+  "resumo": "Você vai separar hiperplasia folicular de linfoma folicular com quatro critérios e guardar cada doença da zona B como “hiperplasia folicular + um achado específico”.",
+  "objetivos": [
+    "Descrever a hiperplasia folicular e diferenciá-la do linfoma folicular (folículos, coroa, gordura, BCL-2)",
+    "Ordenar as três fases (padrões A, B e C) da linfadenopatia do HIV",
+    "Reconhecer o achado específico de toxoplasmose, Kimura e Castleman",
+    "Identificar as pegadinhas que o professor repete em V/F (fase A do HIV, herpesvírus 6 no Castleman)"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "O professor disse que **hiperplasia folicular × linfoma folicular “poderia ser questão de prova”**, e já foi: discursiva *“Qual é a diferença entre a hiperplasia folicular e o linfoma folicular?”* (com gabarito oficial). No caso do paciente HIV positivo com gatos (Prova 145 e outras), o item d) pede **um diagnóstico diferencial (COMPLETO), inespecífico**: hiperplasia folicular reacional. Em V/F, voltam sempre a fase A do HIV e o “herpesvírus 6” no Castleman."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "A regra da gaveta folicular"
+    },
+    {
+      "id": "b03",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "Uma fórmula para todas",
+      "md": "Todas as doenças desta gaveta são **hiperplasia folicular + alguma coisa específica**. Então você só precisa de duas coisas: saber descrever a hiperplasia folicular e saber o “algo a mais” de cada doença."
+    },
+    {
+      "id": "b04",
+      "tipo": "texto",
+      "md": "O estímulo aqui é na **zona B** (roxo): os folículos da cortical crescem e mostram **centros germinativos reacionais**. Relembre o folículo: centro germinativo por dentro, **zona do manto (coroa linfocitária)** por fora."
+    },
+    {
+      "id": "b05",
+      "tipo": "titulo",
+      "texto": "Hiperplasia folicular: o que você vê"
+    },
+    {
+      "id": "b06",
+      "tipo": "lista",
+      "itens": [
+        "**Múltiplos folículos**, de **tamanhos diferentes**",
+        "**Coroa linfocitária presente**, bem visível",
+        "**Macrófagos com restos celulares** dentro, com aspecto próximo de céu estrelado",
+        "Arquitetura preservada: **não invade** a gordura perilinfonodal",
+        "**BCL-2 negativo** no centro do folículo"
+      ]
+    },
+    {
+      "id": "b07",
+      "tipo": "foto",
+      "ref": "foto_hiperplasia_folicular",
+      "legenda": "Hiperplasia folicular: folículos de tamanhos e formas variados, cada um com sua coroa linfocitária escura em volta do centro germinativo claro."
+    },
+    {
+      "id": "b08",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "A descrição que já caiu (Prova 148, 24.1)",
+      "md": "Mulher, 65 anos, linfonodo firme e doloroso: *cortical espessada às custas de numerosos folículos com centros germinativos proeminentes; células pequenas hipercromáticas e células grandes e claras com restos nucleares fagocitados; figuras de mitose; medula e cápsula preservadas*. Resposta: **hiperplasia linfoide folicular**. Distratores: linfoma folicular, Burkitt e Hodgkin rico em linfócitos."
+    },
+    {
+      "id": "b09",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "“Céu estrelado” não é só Burkitt",
+      "md": "Macrófago cheio de restos celulares aparece em dois lugares. Na **hiperplasia folicular**, fica **dentro do centro germinativo**, com folículos e cápsula preservados. No **linfoma de Burkitt**, o fundo é **difuso**, de células médias monótonas, com proliferação próxima de 100%. Leia o resto do enunciado antes de marcar."
+    },
+    {
+      "id": "b10",
+      "tipo": "titulo",
+      "texto": "Hiperplasia folicular × linfoma folicular"
+    },
+    {
+      "id": "b11",
+      "tipo": "figura",
+      "ref": "fig_hiperplasia_vs_linfoma_folicular",
+      "legenda": "À esquerda, hiperplasia: folículos desiguais, coroa preservada, cápsula respeitada. À direita, linfoma folicular: folículos parecidos entre si, sem coroa, saindo para a gordura."
+    },
+    {
+      "id": "b12",
+      "tipo": "tabela",
+      "titulo": "Os critérios, na mesma ordem",
+      "comparacao": true,
+      "colunas": [
+        "Critério",
+        "Hiperplasia folicular",
+        "Linfoma folicular (LNH)"
+      ],
+      "linhas": [
+        [
+          "Tamanho dos folículos",
+          "**Bem diferentes** entre si",
+          "**Mais ou menos do mesmo tamanho**"
+        ],
+        [
+          "Coroa linfocitária",
+          "**Presente**, bem visível",
+          "**Desaparece** (reduzida, praticamente extinta)"
+        ],
+        [
+          "Gordura perilinfonodal",
+          "**Não invade**; arquitetura preservada",
+          "**Invade** a gordura e o seio periférico"
+        ],
+        [
+          "BCL-2",
+          "**Negativo**",
+          "**Positivo** (principal característica)"
+        ],
+        [
+          "Dentro do folículo",
+          "Mitoses frequentes, macrófagos com restos celulares, zonas clara e escura",
+          "Essas características estão ausentes"
+        ],
+        [
+          "Natureza",
+          "Reacional (crônica inespecífica)",
+          "Neoplasia de células B do centro germinativo, indolente"
+        ]
+      ]
+    },
+    {
+      "id": "b13",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Recado em letras maiúsculas",
+      "md": "“**NÃO BASTA SÓ INVADIR A GORDURA PARA SER LINFOMA!** Precisa ter esse conjunto de características, principalmente ter o **BCL-2 positivo**.”"
+    },
+    {
+      "id": "b14",
+      "tipo": "texto",
+      "md": "Por que o BCL-2 separa as duas? BCL-2 é uma proteína **antiapoptótica**. No linfoma folicular há hiperexpressão do gene BCL-2: as células B do centro germinativo **não morrem** e se acumulam, por isso ele cresce devagar. No centro germinativo reacional as células morrem normalmente, daí os macrófagos cheios de restos."
+    },
+    {
+      "id": "b15",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo para a discursiva",
+      "md": "“Na hiperplasia folicular os folículos têm tamanhos variados, a coroa linfocitária está preservada, não há invasão da gordura perilinfonodal e o BCL-2 é negativo. No linfoma não Hodgkin folicular os folículos são de tamanho semelhante, a coroa linfocitária desaparece, há invasão da gordura perilinfonodal e o BCL-2 é positivo.”"
+    },
+    {
+      "id": "b16",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "O caso do HIV positivo com seis gatos",
+      "md": "Homem, 60 anos, HIV positivo, convive com gatos; biópsia: *numerosas estruturas foliculares, desaparecimento da coroa linfocitária, comprometimento da gordura perilinfonodal; CD20 positivo, CD3 negativo*. HIV e gatos são **distratores** que puxam para reacional. Gabarito oficial: **LNH folicular**; outros marcadores: CD10, BCL-2, BCL-6 positivos, CD3, CD5 e ciclina D1 negativos; diferencial inespecífico: **hiperplasia folicular reacional**."
+    },
+    {
+      "id": "b17",
+      "tipo": "quiz",
+      "pergunta": "Biópsia com folículos e invasão focal da gordura perilinfonodal. Segundo o professor, qual dado pesa mais para chamar de linfoma folicular?",
+      "opcoes": [
+        "A própria invasão da gordura, que sozinha fecha o diagnóstico",
+        "BCL-2 positivo, dentro do conjunto de características",
+        "Macrófagos com restos celulares nos folículos",
+        "Folículos de tamanhos bem diferentes"
+      ],
+      "correta": 1,
+      "explicacao": "Invadir a gordura **não basta**. O linfoma folicular é um conjunto: folículos de tamanho semelhante, coroa ausente, invasão da gordura e, principalmente, **BCL-2 positivo**. Macrófagos com restos celulares e folículos desiguais apontam para hiperplasia."
+    },
+    {
+      "id": "b18",
+      "tipo": "titulo",
+      "texto": "HIV: três fases, três padrões"
+    },
+    {
+      "id": "b19",
+      "tipo": "fluxo",
+      "titulo": "A linfadenopatia do HIV em ordem",
+      "passos": [
+        {
+          "titulo": "Fase 1 = padrão A",
+          "texto": "Linfadenite reativa folicular florida: muitos folículos, que podem coalescer. Hiperplasia do compartimento B."
+        },
+        {
+          "titulo": "Fase 2 = padrão B",
+          "texto": "Hiperplasia paracortical. Folículo atrofiando, com lise folicular e aumento das células dendríticas foliculares."
+        },
+        {
+          "titulo": "Fase 3 = padrão C",
+          "texto": "Imunidade no chão (CD4 muito baixo, carga viral alta). Depleção linfocitária, dilatação do seio periférico, atrofia das zonas folicular e paracortical. O linfonodo “murcha”."
+        }
+      ]
+    },
+    {
+      "id": "b20",
+      "tipo": "destaque",
+      "estilo": "mnemonico",
+      "titulo": "A-B-C pelas cores",
+      "md": "**A**: o **roxo** floresce (folículos). **B**: o **azul** cresce e o roxo se desfaz (paracortical + lise folicular). **C**: roxo e azul murcham, sobra o seio dilatado. Em três palavras: **floresce, lisa, murcha**."
+    },
+    {
+      "id": "b21",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "A troca A ↔ B é a pegadinha preferida",
+      "md": "Caiu em pelo menos duas provas: *“Na fase A da linfadenopatia do HIV encontra-se expansão da zona paracortical e lise celular”* → **F** (isso é o padrão B). Na Prova 140 (20.1), alternativa errada: *“evolução: hiperplasia paracortical, hiperplasia folicular e depleção linfocitária”*. A ordem certa é **folicular → paracortical → depleção**."
+    },
+    {
+      "id": "b22",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Padrão C: gabarito do chat em conflito com o resumo",
+      "md": "V/F da Prova 130: *“O padrão C tem despopulação linfoide e atrofia do seio marginal.”* O gabarito disponível é do chat, que marcou V. Mas o resumo (Bogliolo) diz **dilatação/alargamento do seio periférico**; o que atrofia são as zonas folicular e paracortical. Pelo resumo, o trecho “atrofia do seio” torna a frase **falsa**. Fique com o resumo."
+    },
+    {
+      "id": "b23",
+      "tipo": "revelar",
+      "pergunta": "Paciente HIV positivo com CD4 muito baixo e carga viral alta. O que você espera na biópsia do linfonodo?",
+      "resposta": "**Padrão C (fase 3)**: depleção linfocitária, dilatação do seio periférico e atrofia das zonas folicular e paracortical."
+    },
+    {
+      "id": "b24",
+      "tipo": "titulo",
+      "texto": "Toxoplasmose"
+    },
+    {
+      "id": "b25",
+      "tipo": "texto",
+      "md": "Agente: *Toxoplasma gondii* (fezes do gato). Causa febre e linfadenomegalia cervical ou generalizada. **Pode comprometer imunocompetentes também.** O parasito raramente é visto no HE."
+    },
+    {
+      "id": "b26",
+      "tipo": "lista",
+      "itens": [
+        "**Hiperplasia folicular**",
+        "Proliferação de **células B monocitoides**",
+        "Agregados de **macrófagos epitelioides** (granulomas epitelioides)",
+        "**Sem necrose**"
+      ]
+    },
+    {
+      "id": "b27",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Onde ficam os granulomas? E a necrose?",
+      "md": "A anotação do resumo ficou em dúvida (“nem dentro nem fora do folículo?”). O Bogliolo, citado ali, diz: agregados **sobretudo na região paracortical, podendo rodear ou invadir o centro germinativo**. O que não muda: **não há necrose**. V/F da Prova 130: *“a toxoplasmose apresenta extensa necrose…”* → **F**."
+    },
+    {
+      "id": "b28",
+      "tipo": "titulo",
+      "texto": "Doença de Kimura"
+    },
+    {
+      "id": "b29",
+      "tipo": "texto",
+      "md": "Doença inflamatória crônica, de origem **provavelmente alérgica**. Mais frequente em **jovens**, comum na **Ásia**, eventualmente vista no Brasil. Clínica: **linfonodomegalia cervical**, com ou sem infiltração de glândulas salivares e tecidos moles."
+    },
+    {
+      "id": "b30",
+      "tipo": "lista",
+      "itens": [
+        "**Hiperplasia folicular**",
+        "**Aumento do número de vasos**",
+        "**Eosinofilia paracortical**, que pode formar microabscessos",
+        "Às vezes: necrose nos centros germinativos e depósito de material hialino proteináceo"
+      ]
+    },
+    {
+      "id": "b31",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: outros diagnósticos com eosinofilia no linfonodo",
+      "blocos": [
+        {
+          "id": "b32",
+          "tipo": "texto",
+          "md": "O Bogliolo lista como diferenciais do Kimura: reações a fármacos, **linfoma de Hodgkin**, infecções parasitárias e histiocitose de células de Langerhans. Vale lembrar do Hodgkin: eosinófilo no linfonodo não é exclusividade do Kimura."
+        }
+      ]
+    },
+    {
+      "id": "b33",
+      "tipo": "revelar",
+      "pergunta": "Toxoplasmose e Kimura têm hiperplasia folicular. Qual é o “algo a mais” de cada uma?",
+      "resposta": "**Toxoplasmose**: agregados de macrófagos epitelioides (granulomas) **sem necrose** + células B monocitoides. **Kimura**: **eosinofilia paracortical** (pode formar microabscessos) + **aumento do número de vasos**."
+    },
+    {
+      "id": "b34",
+      "tipo": "titulo",
+      "texto": "Doença de Castleman"
+    },
+    {
+      "id": "b35",
+      "tipo": "texto",
+      "md": "Mesma doença, vários nomes: **hiperplasia angiofolicular**, hiperplasia linfonodal gigante, hamartoma folicular gigante. Agente: **herpesvírus 8** (o mesmo do sarcoma de Kaposi)."
+    },
+    {
+      "id": "b36",
+      "tipo": "lista",
+      "itens": [
+        "Forma **hialino-vascular**: **massa assintomática mediastinal** (pode aparecer em abdome, pulmões, músculos)",
+        "**Folículos involuídos**, com **zona do manto aumentada**",
+        "Linfócitos concêntricos em **casca (bulbo) de cebola** ou em **alvo**",
+        "**Vaso hialinizado** penetrando no folículo a partir da zona parafolicular"
+      ]
+    },
+    {
+      "id": "b37",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "A mesma frase em duas provas, com três armadilhas",
+      "md": "*“A doença de Castleman é causada pelo herpesvírus 6…”* → **F**: é o **8**. *“…bulbo de cebola constituído por plasmócitos”* → F: são **linfócitos** do manto. *“…na forma plasmocitária: hialinização vascular e bulbo de cebola”* → F: isso é a forma **hialino-vascular**. A forma plasmocitária (mais agressiva) o professor disse que **não vai cobrar**."
+    },
+    {
+      "id": "b38",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: sífilis (o professor disse que NÃO cai)",
+      "blocos": [
+        {
+          "id": "b39",
+          "tipo": "texto",
+          "md": "**Hiperplasia folicular** + ataque aos vasos da cápsula (vasculite). A parede reage com aumento de células da íntima e da média: **endarterite obliterante**. Se compromete o *vasa vasorum* da aorta, a camada elástica morre (aspecto de casca de árvore) e pode surgir aneurisma de aorta."
+        },
+        {
+          "id": "b40",
+          "tipo": "destaque",
+          "estilo": "atencao",
+          "titulo": "Não cai agora, mas já foi gabarito",
+          "md": "Na Prova 140 (20.1) a alternativa correta era: *“A sífilis mostra hiperplasia folicular e endarterite obliterante.”* Como seguro barato, guarde só essa frase."
+        }
+      ]
+    },
+    {
+      "id": "b41",
+      "tipo": "titulo",
+      "texto": "As gavetas da zona B, lado a lado"
+    },
+    {
+      "id": "b42",
+      "tipo": "cartoes",
+      "titulo": "Doença → palavra-gatilho",
+      "itens": [
+        {
+          "titulo": "HIV",
+          "texto": "Padrões A, B e C: folicular florida → paracortical com lise folicular → depleção.",
+          "emoji": "🔤"
+        },
+        {
+          "titulo": "Toxoplasmose",
+          "texto": "Granuloma epitelioide sem necrose + células B monocitoides.",
+          "emoji": "🐈"
+        },
+        {
+          "titulo": "Kimura",
+          "texto": "Eosinofilia paracortical + muitos vasos. Jovem, Ásia, cervical.",
+          "emoji": "🌏"
+        },
+        {
+          "titulo": "Castleman",
+          "texto": "Casca de cebola + vaso hialinizado. Herpesvírus 8. Mediastino.",
+          "emoji": "🧅"
+        },
+        {
+          "titulo": "Sífilis",
+          "texto": "Endarterite obliterante. Não cai, segundo o professor.",
+          "emoji": "🚫"
+        },
+        {
+          "titulo": "Linfoma folicular",
+          "texto": "O intruso neoplásico: BCL-2 positivo, sem coroa, invade gordura.",
+          "emoji": "⚠️"
+        }
+      ]
+    },
+    {
+      "id": "b43",
+      "tipo": "tabela",
+      "titulo": "Hiperplasia folicular + o quê?",
+      "comparacao": true,
+      "colunas": [
+        "Critério",
+        "HIV (fase A)",
+        "Toxoplasmose",
+        "Kimura",
+        "Castleman hialino-vascular"
+      ],
+      "linhas": [
+        [
+          "Agente / causa",
+          "HIV",
+          "*Toxoplasma gondii*",
+          "Provavelmente alérgica",
+          "Herpesvírus 8"
+        ],
+        [
+          "O “algo a mais”",
+          "Folículos floridos que coalescem",
+          "Granulomas epitelioides + células B monocitoides",
+          "Vasos aumentados + eosinofilia paracortical",
+          "Manto em casca de cebola + vaso hialinizado"
+        ],
+        [
+          "Necrose",
+          "Não é o achado",
+          "**Não há**",
+          "Às vezes, no centro germinativo",
+          "Não é o achado"
+        ],
+        [
+          "Clínica que ajuda",
+          "Evolui para padrões B e C",
+          "Febre, linfonodo cervical; imunocompetente também",
+          "Jovem, cervical, glândula salivar",
+          "Massa mediastinal assintomática"
+        ]
+      ]
+    },
+    {
+      "id": "b44",
+      "tipo": "quiz",
+      "pergunta": "Jovem com linfonodomegalia cervical. Biópsia: hiperplasia folicular, aumento do número de vasos e eosinofilia paracortical com microabscessos. Qual a principal hipótese?",
+      "opcoes": [
+        "Toxoplasmose",
+        "Doença de Castleman",
+        "Doença de Kimura",
+        "Linfadenopatia do HIV, padrão C"
+      ],
+      "correta": 2,
+      "explicacao": "Hiperplasia folicular + **vasos** + **eosinofilia paracortical** = Kimura. Toxoplasmose teria granulomas epitelioides sem necrose; Castleman, casca de cebola com vaso hialinizado; o padrão C do HIV é depleção, não hiperplasia."
+    },
+    {
+      "id": "b45",
+      "tipo": "resumo",
+      "itens": [
+        "Gaveta folicular = **hiperplasia folicular + algo específico**.",
+        "Hiperplasia: folículos **desiguais**, **coroa presente**, **sem invasão**, **BCL-2 negativo**. Linfoma folicular: o oposto nos quatro.",
+        "Invadir gordura sozinho não fecha linfoma: o **BCL-2 positivo** é o principal.",
+        "HIV: **A** folicular florida → **B** paracortical com lise folicular → **C** depleção com seio dilatado.",
+        "Toxoplasmose: granuloma epitelioide **sem necrose**. Kimura: **eosinofilia + vasos**. Castleman: **casca de cebola, herpesvírus 8**.",
+        "Sífilis e forma plasmocitária do Castleman: o professor disse que não cobra."
+      ]
+    }
+  ]
+}

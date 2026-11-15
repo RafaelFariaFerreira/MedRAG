@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 830" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif">
+<rect width="600" height="830" fill="#FFFFFF"/>
+<rect x="16" y="16" width="276" height="394" rx="16" fill="#F8F7FE" stroke="#DAD5F3" stroke-width="1.5"/>
+<text x="32" y="48" font-size="24" font-weight="700" fill="#1C1B1A">Estádio <tspan fill="#5B4BC4">I</tspan></text>
+<g transform="translate(108,60) scale(0.58)">
+<path d="M0,0 C24,0 38,20 38,48 C38,72 30,88 19,97 L19,117 C40,126 72,128 90,138 C104,146 108,166 109,192 L114,296 L120,391 C122,411 120,434 110,436 C100,436 96,416 96,394 L92,301 L84,212 C83,202 76,201 74,212 C73,251 64,276 64,302 C64,332 76,351 78,390 L76,486 L8,486 L6,406 C5,396 0,394 0,394 C0,394 -5,396 -6,406 L-8,486 L-76,486 L-78,390 C-76,351 -64,332 -64,302 C-64,276 -73,251 -74,212 C-76,201 -83,202 -84,212 L-92,301 L-96,394 C-96,416 -100,436 -110,436 C-120,434 -122,411 -120,391 L-114,296 L-109,192 C-108,166 -104,146 -90,138 C-72,128 -40,126 -19,117 L-19,97 C-30,88 -38,72 -38,48 C-38,20 -24,0 0,0 Z" fill="#F3E7DC" stroke="#D9C7B6" stroke-width="3.10" stroke-linejoin="round"/>
+</g>
+<g transform="translate(108,60) scale(0.58)">
+</g>
+<path d="M60.4,215.4 C76.1,205.0 96.4,203.8 108.0,208.5 C119.6,203.8 139.9,205.0 155.6,215.4 L282,215.4" fill="none" stroke="#5F5B55" stroke-width="1.8" stroke-dasharray="6 4"/>
+<text x="282" y="207.4" font-size="19" fill="#5F5B55" text-anchor="end">diafragma</text>
+<ellipse cx="116.7" cy="117.4" rx="5.6" ry="4.1" transform="rotate(75 116.7 117.4)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="116.7" cy="125.0" rx="5.6" ry="4.1" transform="rotate(95 116.7 125.0)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="99.3" cy="117.4" rx="4.4" ry="3.1" transform="rotate(-75 99.3 117.4)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="99.3" cy="125.0" rx="4.4" ry="3.1" transform="rotate(-95 99.3 125.0)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="125.4" cy="134.8" rx="4.4" ry="3.1" transform="rotate(10 125.4 134.8)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="90.6" cy="134.8" rx="4.4" ry="3.1" transform="rotate(-10 90.6 134.8)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="145.1" cy="184.1" rx="4.4" ry="3.1" transform="rotate(40 145.1 184.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="141.1" cy="191.1" rx="4.4" ry="3.1" transform="rotate(10 141.1 191.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="146.3" cy="194.6" rx="4.4" ry="3.1" transform="rotate(70 146.3 194.6)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="70.9" cy="184.1" rx="4.4" ry="3.1" transform="rotate(-40 70.9 184.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="74.9" cy="191.1" rx="4.4" ry="3.1" transform="rotate(-10 74.9 191.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="69.7" cy="194.6" rx="4.4" ry="3.1" transform="rotate(-70 69.7 194.6)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="108.0" cy="154.0" rx="4.4" ry="3.1" transform="rotate(90 108.0 154.0)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="103.4" cy="162.1" rx="4.4" ry="3.1" transform="rotate(30 103.4 162.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="112.6" cy="162.7" rx="4.4" ry="3.1" transform="rotate(-30 112.6 162.7)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="108.0" cy="170.8" rx="4.4" ry="3.1" transform="rotate(90 108.0 170.8)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="119.6" cy="283.3" rx="4.4" ry="3.1" transform="rotate(35 119.6 283.3)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="127.1" cy="278.1" rx="4.4" ry="3.1" transform="rotate(35 127.1 278.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="134.1" cy="272.3" rx="4.4" ry="3.1" transform="rotate(35 134.1 272.3)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="96.4" cy="283.3" rx="4.4" ry="3.1" transform="rotate(-35 96.4 283.3)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="88.9" cy="278.1" rx="4.4" ry="3.1" transform="rotate(-35 88.9 278.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="81.9" cy="272.3" rx="4.4" ry="3.1" transform="rotate(-35 81.9 272.3)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<text x="32" y="374" font-size="20" fill="#1C1B1A">1 cadeia linfonodal</text>
+<text x="32" y="398" font-size="20" fill="#1C1B1A">(ex.: cervical)</text>
+<rect x="308" y="16" width="276" height="394" rx="16" fill="#F8F7FE" stroke="#DAD5F3" stroke-width="1.5"/>
+<text x="324" y="48" font-size="24" font-weight="700" fill="#1C1B1A">Estádio <tspan fill="#5B4BC4">II</tspan></text>
+<g transform="translate(400,60) scale(0.58)">
+<path d="M0,0 C24,0 38,20 38,48 C38,72 30,88 19,97 L19,117 C40,126 72,128 90,138 C104,146 108,166 109,192 L114,296 L120,391 C122,411 120,434 110,436 C100,436 96,416 96,394 L92,301 L84,212 C83,202 76,201 74,212 C73,251 64,276 64,302 C64,332 76,351 78,390 L76,486 L8,486 L6,406 C5,396 0,394 0,394 C0,394 -5,396 -6,406 L-8,486 L-76,486 L-78,390 C-76,351 -64,332 -64,302 C-64,276 -73,251 -74,212 C-76,201 -83,202 -84,212 L-92,301 L-96,394 C-96,416 -100,436 -110,436 C-120,434 -122,411 -120,391 L-114,296 L-109,192 C-108,166 -104,146 -90,138 C-72,128 -40,126 -19,117 L-19,97 C-30,88 -38,72 -38,48 C-38,20 -24,0 0,0 Z" fill="#F3E7DC" stroke="#D9C7B6" stroke-width="3.10" stroke-linejoin="round"/>
+</g>
+<g transform="translate(400,60) scale(0.58)">
+</g>
+<path d="M352.4,215.4 C368.1,205.0 388.4,203.8 400.0,208.5 C411.6,203.8 431.9,205.0 447.6,215.4 L574,215.4" fill="none" stroke="#5F5B55" stroke-width="1.8" stroke-dasharray="6 4"/>
+<text x="574" y="207.4" font-size="19" fill="#5F5B55" text-anchor="end">diafragma</text>
+<ellipse cx="408.7" cy="117.4" rx="5.6" ry="4.1" transform="rotate(75 408.7 117.4)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="408.7" cy="125.0" rx="5.6" ry="4.1" transform="rotate(95 408.7 125.0)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="391.3" cy="117.4" rx="4.4" ry="3.1" transform="rotate(-75 391.3 117.4)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="391.3" cy="125.0" rx="4.4" ry="3.1" transform="rotate(-95 391.3 125.0)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="417.4" cy="134.8" rx="4.4" ry="3.1" transform="rotate(10 417.4 134.8)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="382.6" cy="134.8" rx="4.4" ry="3.1" transform="rotate(-10 382.6 134.8)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="437.1" cy="184.1" rx="4.4" ry="3.1" transform="rotate(40 437.1 184.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="433.1" cy="191.1" rx="4.4" ry="3.1" transform="rotate(10 433.1 191.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="438.3" cy="194.6" rx="4.4" ry="3.1" transform="rotate(70 438.3 194.6)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="362.9" cy="184.1" rx="4.4" ry="3.1" transform="rotate(-40 362.9 184.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="366.9" cy="191.1" rx="4.4" ry="3.1" transform="rotate(-10 366.9 191.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="361.7" cy="194.6" rx="4.4" ry="3.1" transform="rotate(-70 361.7 194.6)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="400.0" cy="154.0" rx="5.6" ry="4.1" transform="rotate(90 400.0 154.0)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="395.4" cy="162.1" rx="5.6" ry="4.1" transform="rotate(30 395.4 162.1)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="404.6" cy="162.7" rx="5.6" ry="4.1" transform="rotate(-30 404.6 162.7)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="400.0" cy="170.8" rx="5.6" ry="4.1" transform="rotate(90 400.0 170.8)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="411.6" cy="283.3" rx="4.4" ry="3.1" transform="rotate(35 411.6 283.3)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="419.1" cy="278.1" rx="4.4" ry="3.1" transform="rotate(35 419.1 278.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="426.1" cy="272.3" rx="4.4" ry="3.1" transform="rotate(35 426.1 272.3)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="388.4" cy="283.3" rx="4.4" ry="3.1" transform="rotate(-35 388.4 283.3)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="380.9" cy="278.1" rx="4.4" ry="3.1" transform="rotate(-35 380.9 278.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="373.9" cy="272.3" rx="4.4" ry="3.1" transform="rotate(-35 373.9 272.3)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<text x="324" y="374" font-size="20" fill="#1C1B1A">2 ou mais cadeias do</text>
+<text x="324" y="398" font-size="20" fill="#1C1B1A">mesmo lado do diafragma</text>
+<rect x="16" y="422" width="276" height="394" rx="16" fill="#F8F7FE" stroke="#DAD5F3" stroke-width="1.5"/>
+<text x="32" y="454" font-size="24" font-weight="700" fill="#1C1B1A">Estádio <tspan fill="#5B4BC4">III</tspan></text>
+<g transform="translate(108,466) scale(0.58)">
+<path d="M0,0 C24,0 38,20 38,48 C38,72 30,88 19,97 L19,117 C40,126 72,128 90,138 C104,146 108,166 109,192 L114,296 L120,391 C122,411 120,434 110,436 C100,436 96,416 96,394 L92,301 L84,212 C83,202 76,201 74,212 C73,251 64,276 64,302 C64,332 76,351 78,390 L76,486 L8,486 L6,406 C5,396 0,394 0,394 C0,394 -5,396 -6,406 L-8,486 L-76,486 L-78,390 C-76,351 -64,332 -64,302 C-64,276 -73,251 -74,212 C-76,201 -83,202 -84,212 L-92,301 L-96,394 C-96,416 -100,436 -110,436 C-120,434 -122,411 -120,391 L-114,296 L-109,192 C-108,166 -104,146 -90,138 C-72,128 -40,126 -19,117 L-19,97 C-30,88 -38,72 -38,48 C-38,20 -24,0 0,0 Z" fill="#F3E7DC" stroke="#D9C7B6" stroke-width="3.10" stroke-linejoin="round"/>
+</g>
+<g transform="translate(108,466) scale(0.58)">
+<ellipse cx="46" cy="282" rx="11" ry="17" transform="rotate(28 46 282)" fill="#5B4BC4" stroke="#3E3196" stroke-width="2.4"/>
+</g>
+<path d="M60.4,621.4 C76.1,611.0 96.4,609.8 108.0,614.5 C119.6,609.8 139.9,611.0 155.6,621.4 L282,621.4" fill="none" stroke="#5F5B55" stroke-width="1.8" stroke-dasharray="6 4"/>
+<text x="282" y="613.4" font-size="19" fill="#5F5B55" text-anchor="end">diafragma</text>
+<ellipse cx="116.7" cy="523.4" rx="5.6" ry="4.1" transform="rotate(75 116.7 523.4)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="116.7" cy="531.0" rx="5.6" ry="4.1" transform="rotate(95 116.7 531.0)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="99.3" cy="523.4" rx="4.4" ry="3.1" transform="rotate(-75 99.3 523.4)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="99.3" cy="531.0" rx="4.4" ry="3.1" transform="rotate(-95 99.3 531.0)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="125.4" cy="540.8" rx="4.4" ry="3.1" transform="rotate(10 125.4 540.8)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="90.6" cy="540.8" rx="4.4" ry="3.1" transform="rotate(-10 90.6 540.8)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="145.1" cy="590.1" rx="4.4" ry="3.1" transform="rotate(40 145.1 590.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="141.1" cy="597.1" rx="4.4" ry="3.1" transform="rotate(10 141.1 597.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="146.3" cy="600.6" rx="4.4" ry="3.1" transform="rotate(70 146.3 600.6)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="70.9" cy="590.1" rx="4.4" ry="3.1" transform="rotate(-40 70.9 590.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="74.9" cy="597.1" rx="4.4" ry="3.1" transform="rotate(-10 74.9 597.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="69.7" cy="600.6" rx="4.4" ry="3.1" transform="rotate(-70 69.7 600.6)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="108.0" cy="560.0" rx="4.4" ry="3.1" transform="rotate(90 108.0 560.0)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="103.4" cy="568.1" rx="4.4" ry="3.1" transform="rotate(30 103.4 568.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="112.6" cy="568.7" rx="4.4" ry="3.1" transform="rotate(-30 112.6 568.7)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="108.0" cy="576.8" rx="4.4" ry="3.1" transform="rotate(90 108.0 576.8)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="119.6" cy="689.3" rx="5.6" ry="4.1" transform="rotate(35 119.6 689.3)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="127.1" cy="684.1" rx="5.6" ry="4.1" transform="rotate(35 127.1 684.1)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="134.1" cy="678.3" rx="5.6" ry="4.1" transform="rotate(35 134.1 678.3)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="96.4" cy="689.3" rx="5.6" ry="4.1" transform="rotate(-35 96.4 689.3)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="88.9" cy="684.1" rx="5.6" ry="4.1" transform="rotate(-35 88.9 684.1)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="81.9" cy="678.3" rx="5.6" ry="4.1" transform="rotate(-35 81.9 678.3)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<text x="32" y="780" font-size="20" fill="#1C1B1A">cadeias dos dois lados</text>
+<text x="32" y="804" font-size="20" fill="#1C1B1A">do diafragma (ou baço)</text>
+<rect x="308" y="422" width="276" height="394" rx="16" fill="#F8F7FE" stroke="#DAD5F3" stroke-width="1.5"/>
+<text x="324" y="454" font-size="24" font-weight="700" fill="#1C1B1A">Estádio <tspan fill="#5B4BC4">IV</tspan></text>
+<g transform="translate(400,466) scale(0.58)">
+<path d="M0,0 C24,0 38,20 38,48 C38,72 30,88 19,97 L19,117 C40,126 72,128 90,138 C104,146 108,166 109,192 L114,296 L120,391 C122,411 120,434 110,436 C100,436 96,416 96,394 L92,301 L84,212 C83,202 76,201 74,212 C73,251 64,276 64,302 C64,332 76,351 78,390 L76,486 L8,486 L6,406 C5,396 0,394 0,394 C0,394 -5,396 -6,406 L-8,486 L-76,486 L-78,390 C-76,351 -64,332 -64,302 C-64,276 -73,251 -74,212 C-76,201 -83,202 -84,212 L-92,301 L-96,394 C-96,416 -100,436 -110,436 C-120,434 -122,411 -120,391 L-114,296 L-109,192 C-108,166 -104,146 -90,138 C-72,128 -40,126 -19,117 L-19,97 C-30,88 -38,72 -38,48 C-38,20 -24,0 0,0 Z" fill="#F3E7DC" stroke="#D9C7B6" stroke-width="3.10" stroke-linejoin="round"/>
+</g>
+<g transform="translate(400,466) scale(0.58)">
+<path d="M-12,150 C-30,148 -50,170 -54,205 C-56,225 -54,238 -50,246 C-36,250 -20,244 -10,236 C-8,210 -8,175 -12,150 Z" fill="#F6C1CE" stroke="#E07A93" stroke-width="2.4"/>
+<path d="M12,150 C30,148 50,170 54,205 C56,225 54,238 50,246 C36,250 24,244 16,232 C22,222 20,205 12,196 C10,180 10,165 12,150 Z" fill="#F6C1CE" stroke="#E07A93" stroke-width="2.4"/>
+<circle cx="-34" cy="196" r="7" fill="#5B4BC4"/>
+<circle cx="-26" cy="226" r="5.5" fill="#5B4BC4"/>
+<circle cx="34" cy="188" r="6" fill="#5B4BC4"/>
+<circle cx="38" cy="224" r="7" fill="#5B4BC4"/>
+<path d="M-58,268 C-34,258 0,260 24,270 C18,286 -6,298 -30,300 C-48,302 -60,290 -58,268 Z" fill="#B5654A" stroke="#8A4630" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="-40" cy="280" r="6.5" fill="#5B4BC4"/>
+<circle cx="-18" cy="274" r="5.5" fill="#5B4BC4"/>
+<circle cx="-6" cy="286" r="5" fill="#5B4BC4"/>
+<path d="M58,384 C62,376 52,370 46,376 C40,372 34,380 38,388 L38,486 L52,486 L52,394 C56,392 58,388 58,384 Z" fill="#EFE6D5" stroke="#CBBE9F" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M45,398 L45,484" fill="none" stroke="#5B4BC4" stroke-width="6" stroke-linecap="round" stroke-dasharray="0.1 13"/>
+<path d="M-58,384 C-62,376 -52,370 -46,376 C-40,372 -34,380 -38,388 L-38,486 L-52,486 L-52,394 C-56,392 -58,388 -58,384 Z" fill="#EFE6D5" stroke="#CBBE9F" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M-45,398 L-45,484" fill="none" stroke="#5B4BC4" stroke-width="6" stroke-linecap="round" stroke-dasharray="0.1 13"/>
+</g>
+<path d="M352.4,621.4 C368.1,611.0 388.4,609.8 400.0,614.5 C411.6,609.8 431.9,611.0 447.6,621.4 L574,621.4" fill="none" stroke="#5F5B55" stroke-width="1.8" stroke-dasharray="6 4"/>
+<text x="574" y="613.4" font-size="19" fill="#5F5B55" text-anchor="end">diafragma</text>
+<ellipse cx="408.7" cy="523.4" rx="5.6" ry="4.1" transform="rotate(75 408.7 523.4)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="408.7" cy="531.0" rx="5.6" ry="4.1" transform="rotate(95 408.7 531.0)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="391.3" cy="523.4" rx="5.6" ry="4.1" transform="rotate(-75 391.3 523.4)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="391.3" cy="531.0" rx="5.6" ry="4.1" transform="rotate(-95 391.3 531.0)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="417.4" cy="540.8" rx="4.4" ry="3.1" transform="rotate(10 417.4 540.8)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="382.6" cy="540.8" rx="4.4" ry="3.1" transform="rotate(-10 382.6 540.8)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="437.1" cy="590.1" rx="5.6" ry="4.1" transform="rotate(40 437.1 590.1)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="433.1" cy="597.1" rx="5.6" ry="4.1" transform="rotate(10 433.1 597.1)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="438.3" cy="600.6" rx="5.6" ry="4.1" transform="rotate(70 438.3 600.6)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="362.9" cy="590.1" rx="4.4" ry="3.1" transform="rotate(-40 362.9 590.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="366.9" cy="597.1" rx="4.4" ry="3.1" transform="rotate(-10 366.9 597.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="361.7" cy="600.6" rx="4.4" ry="3.1" transform="rotate(-70 361.7 600.6)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="400.0" cy="560.0" rx="5.6" ry="4.1" transform="rotate(90 400.0 560.0)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="395.4" cy="568.1" rx="5.6" ry="4.1" transform="rotate(30 395.4 568.1)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="404.6" cy="568.7" rx="5.6" ry="4.1" transform="rotate(-30 404.6 568.7)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="400.0" cy="576.8" rx="5.6" ry="4.1" transform="rotate(90 400.0 576.8)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="411.6" cy="689.3" rx="4.4" ry="3.1" transform="rotate(35 411.6 689.3)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="419.1" cy="684.1" rx="4.4" ry="3.1" transform="rotate(35 419.1 684.1)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="426.1" cy="678.3" rx="4.4" ry="3.1" transform="rotate(35 426.1 678.3)" fill="#FBF6F1" stroke="#C9B7A6" stroke-width="1.1"/>
+<ellipse cx="388.4" cy="689.3" rx="5.6" ry="4.1" transform="rotate(-35 388.4 689.3)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="380.9" cy="684.1" rx="5.6" ry="4.1" transform="rotate(-35 380.9 684.1)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="373.9" cy="678.3" rx="5.6" ry="4.1" transform="rotate(-35 373.9 678.3)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="400.0" cy="640.0" rx="5.6" ry="4.1" transform="rotate(90 400.0 640.0)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="395.9" cy="648.1" rx="5.6" ry="4.1" transform="rotate(20 395.9 648.1)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<ellipse cx="404.1" cy="648.7" rx="5.6" ry="4.1" transform="rotate(-20 404.1 648.7)" fill="#5B4BC4" stroke="#3E3196" stroke-width="1.3"/>
+<text x="324" y="780" font-size="20" fill="#1C1B1A">órgãos extralinfáticos:</text>
+<text x="324" y="804" font-size="20" fill="#1C1B1A">fígado, medula, pulmão</text>
+</svg>

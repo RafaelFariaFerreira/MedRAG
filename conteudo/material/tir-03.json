@@ -1,0 +1,505 @@
+{
+  "id": "tir-03",
+  "modulo": "tireoide",
+  "ordem": 3,
+  "titulo": "Tireoidites: Hashimoto a fundo e as outras lado a lado",
+  "minutos": 15,
+  "prioridade": "alta",
+  "topicos": [
+    "tir-hashimoto",
+    "tir-tireoidites-outras"
+  ],
+  "resumo": "Você vai descrever Hashimoto (macro e micro) de cor, reconhecer as palavras com que o professor o disfarça no enunciado e separá-lo de De Quervain, Riedel e da tireoidite aguda.",
+  "objetivos": [
+    "Citar e explicar os 5 elementos microscópicos do Hashimoto",
+    "Explicar por que a célula oncocítica (Hürthle) surge e por que é obrigatória mas não patognomônica",
+    "Descrever a macroscopia, os anticorpos e a evolução hormonal do Hashimoto",
+    "Diferenciar Hashimoto, De Quervain, Riedel e tireoidite aguda pelos mesmos critérios"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "**Prova 150, questão 3 (0,8):** paciente de 18 anos, cansaço, queda de cabelo, ganho de peso, T3/T4 baixos e TSH alto — *\"Cite e explique as possíveis alterações morfológicas presentes na tireoide.\"* Gabarito oficial: **\"Hashimoto. Macro e micro.\"** **Mesma prova, V ou F:** *\"A tireoidite de Hashimoto, em fase final, é caracterizada por infiltrado neutrofílico, extensa necrose e rara fibrose\"* → **F**: \"infiltrado linfoide, sem necrose e muita fibrose\". **Prova 148, questão 1:** anti-TPO elevado com transformação oncocítica do epitélio folicular. E no caso longitudinal (Provas 145 e 147), o Hashimoto vem escondido no \"restante do parênquima\"."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "1. Hashimoto em uma frase"
+    },
+    {
+      "id": "b03",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Tireoidite de Hashimoto",
+      "md": "Tireoidite **autoimune crônica**; é a **causa mais comum de hipotireoidismo no mundo**. Acomete mais mulheres entre 45 e 65 anos. Não é doença focal: compromete **toda a glândula** — lobo direito, lobo esquerdo e istmo."
+    },
+    {
+      "id": "b04",
+      "tipo": "fluxo",
+      "titulo": "Fisiopatologia",
+      "passos": [
+        {
+          "titulo": "Perda de tolerância",
+          "texto": "O sistema imune passa a tratar a célula folicular da tireoide como antígeno."
+        },
+        {
+          "titulo": "Infiltrado",
+          "texto": "Linfócitos e plasmócitos invadem a glândula; quando se organizam, formam nódulos linfoides."
+        },
+        {
+          "titulo": "Três destinos da célula folicular",
+          "texto": "Algumas são destruídas, algumas sobrevivem e algumas sofrem transformação oncocítica."
+        },
+        {
+          "titulo": "Cicatriz",
+          "texto": "O que é destruído dá lugar a fibrose; o que resta perde número e tamanho (atrofia)."
+        },
+        {
+          "titulo": "Falência",
+          "texto": "A função cai aos poucos: hipotireoidismo, com T3/T4 baixos e TSH alto."
+        }
+      ]
+    },
+    {
+      "id": "b05",
+      "tipo": "titulo",
+      "texto": "2. Os 5 elementos da microscopia"
+    },
+    {
+      "id": "b06",
+      "tipo": "cartoes",
+      "titulo": "Os 5 elementos do Hashimoto",
+      "itens": [
+        {
+          "titulo": "Infiltrado linfoplasmocitário",
+          "texto": "A marca da doença autoimune crônica.",
+          "emoji": "1️⃣"
+        },
+        {
+          "titulo": "Nódulos linfoides",
+          "texto": "O infiltrado se organiza em folículos, como na gastrite crônica por H. pylori.",
+          "emoji": "2️⃣"
+        },
+        {
+          "titulo": "Fibrose",
+          "texto": "Traves fibrosas no lugar do parênquima destruído.",
+          "emoji": "3️⃣"
+        },
+        {
+          "titulo": "Atrofia dos folículos",
+          "texto": "Perda do número e do tamanho das células.",
+          "emoji": "4️⃣"
+        },
+        {
+          "titulo": "Célula oncocítica",
+          "texto": "Célula de Hürthle: o \"quinto elemento\", que define Hashimoto.",
+          "emoji": "5️⃣"
+        }
+      ]
+    },
+    {
+      "id": "b07",
+      "tipo": "figura",
+      "ref": "fig_hashimoto_micro",
+      "legenda": "Os 5 elementos: infiltrado linfoplasmocitário, folículo linfoide, fibrose, atrofia folicular e células de Hürthle."
+    },
+    {
+      "id": "b08",
+      "tipo": "foto",
+      "ref": "foto_hashimoto",
+      "legenda": "Hashimoto: parênquima tomado por infiltrado linfoide com folículo linfoide e folículos tireoidianos atróficos."
+    },
+    {
+      "id": "b09",
+      "tipo": "tabela",
+      "titulo": "Dicionário do enunciado: como o professor escreve cada elemento",
+      "colunas": [
+        "No enunciado aparece…",
+        "…e significa"
+      ],
+      "linhas": [
+        [
+          "\"moderado infiltrado linfoplasmocitário\"",
+          "Elemento 1"
+        ],
+        [
+          "\"traves fibrosas\"",
+          "Elemento 3: fibrose"
+        ],
+        [
+          "\"atrofia acinar\"",
+          "Elemento 4: atrofia dos folículos"
+        ],
+        [
+          "\"transformação oxifílica citoplasmática\"",
+          "Elemento 5: célula oncocítica (Hürthle)"
+        ],
+        [
+          "\"transformação oncocítica do epitélio folicular\"",
+          "Elemento 5, na Prova 148"
+        ]
+      ],
+      "comparacao": false
+    },
+    {
+      "id": "b10",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Linfócito, não neutrófilo. Fibrose, não necrose.",
+      "md": "No V ou F da Prova 150, a frase errada trocava tudo: neutrófilos, extensa necrose e rara fibrose. O gabarito: **infiltrado linfoide, sem necrose e muita fibrose**. Uma ressalva de fonte: o resumo de aula chega a falar em sistema imune \"necrosando os folículos\", mas o gabarito oficial diz \"sem necrose\". Para a prova, fique com o gabarito — \"extensa necrose\" é palavra do carcinoma anaplásico, não do Hashimoto."
+    },
+    {
+      "id": "b11",
+      "tipo": "quiz",
+      "pergunta": "Na fase final da tireoidite de Hashimoto, espera-se encontrar:",
+      "opcoes": [
+        "Infiltrado neutrofílico, extensa necrose e rara fibrose",
+        "Células gigantes fagocitando coloide",
+        "Infiltrado linfoide, muita fibrose e atrofia, sem necrose",
+        "Epitélio alto com papilas e pinocitose intensa"
+      ],
+      "correta": 2,
+      "explicacao": "Doença autoimune crônica: linfócitos e plasmócitos, fibrose crescente e atrofia. Neutrófilos e necrose foram a pegadinha da Prova 150; células gigantes são do De Quervain; epitélio alto com pinocitose é Graves."
+    },
+    {
+      "id": "b12",
+      "tipo": "titulo",
+      "texto": "3. A célula oncocítica"
+    },
+    {
+      "id": "b13",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Uma célula, cinco nomes",
+      "md": "**Célula oncocítica = célula de Hürthle = célula de Askanazy = célula tipo B = célula oxifílica.** É uma célula folicular modificada: volumosa, com citoplasma acidófilo (eosinofílico) e granular, núcleo redondo e pleomórfico e nucléolo evidente. Reveste folículos pequenos ou forma aglomerados."
+    },
+    {
+      "id": "b14",
+      "tipo": "fluxo",
+      "titulo": "Por que ela surge",
+      "passos": [
+        {
+          "titulo": "Ataque imune",
+          "texto": "Parte das células foliculares é destruída."
+        },
+        {
+          "titulo": "Compensação",
+          "texto": "As sobreviventes tentam fazer o trabalho das que morreram."
+        },
+        {
+          "titulo": "Mais mitocôndrias",
+          "texto": "Para dar conta, acumulam mitocôndrias — a organela que \"dá força\" à célula."
+        },
+        {
+          "titulo": "O que se vê no HE",
+          "texto": "Citoplasma muito vermelho, acidófilo e granuloso."
+        },
+        {
+          "titulo": "Nucléolo evidente",
+          "texto": "Célula com mais atividade cresce e exibe nucléolo mais visível."
+        }
+      ]
+    },
+    {
+      "id": "b15",
+      "tipo": "foto",
+      "ref": "foto_hurthle",
+      "legenda": "Células de Hürthle: volumosas, com citoplasma eosinofílico granular abundante e núcleo redondo com nucléolo evidente."
+    },
+    {
+      "id": "b16",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Obrigatória, mas não patognomônica",
+      "md": "\"Pra ser Hashimoto **PRECISA** ter a célula oncocítica! Mas não podemos dizer que é patognomônico, porque existe **adenoma de células de Hürthle** (= oncocitoma).\" Oncocitoma, aliás, existe também em glândula salivar, paratireoide, pâncreas e rim."
+    },
+    {
+      "id": "b17",
+      "tipo": "revelar",
+      "pergunta": "Explique em duas frases: por que a célula de Hürthle é necessária para o diagnóstico de Hashimoto, mas não é patognomônica?",
+      "resposta": "É necessária porque representa a célula folicular sobrevivente ao ataque autoimune, que acumula mitocôndrias para compensar — o quinto elemento que define a doença. Não é patognomônica porque também aparece fora do Hashimoto: existe o **adenoma de células de Hürthle** (oncocitoma)."
+    },
+    {
+      "id": "b18",
+      "tipo": "titulo",
+      "texto": "4. Macroscopia, anticorpos e clínica"
+    },
+    {
+      "id": "b19",
+      "tipo": "cartoes",
+      "titulo": "Macroscopia do Hashimoto",
+      "itens": [
+        {
+          "titulo": "Aumento simétrico",
+          "texto": "A glândula aumenta de volume por igual — é doença difusa.",
+          "emoji": "⚖️"
+        },
+        {
+          "titulo": "Aspecto lobulado",
+          "texto": "Superfície lobulada.",
+          "emoji": "🧩"
+        },
+        {
+          "titulo": "Firme-elástica",
+          "texto": "Pode estar aderida às estruturas vizinhas.",
+          "emoji": "✊"
+        },
+        {
+          "titulo": "Coloração variada",
+          "texto": "Áreas brancacentas, amareladas e avermelhadas.",
+          "emoji": "🎨"
+        },
+        {
+          "titulo": "Fase avançada",
+          "texto": "Hipotrofia acentuada: a glândula encolhe.",
+          "emoji": "📉"
+        }
+      ]
+    },
+    {
+      "id": "b20",
+      "tipo": "subtitulo",
+      "texto": "Anticorpos"
+    },
+    {
+      "id": "b21",
+      "tipo": "lista",
+      "itens": [
+        "**Anti-TPO** (antiperoxidase tireoidiana) — o que apareceu na Prova 148",
+        "**Anti-Tg** (antitireoglobulina)",
+        "Antitransportador de iodetos",
+        "Antirreceptor de TSH"
+      ]
+    },
+    {
+      "id": "b22",
+      "tipo": "subtitulo",
+      "texto": "Clínica local"
+    },
+    {
+      "id": "b23",
+      "tipo": "texto",
+      "md": "Aumento de volume da tireoide e menor mobilidade. Alguns pacientes referem \"sensação de bolo na garganta\", disfagia ou sufocação. As queixas sistêmicas são as do hipotireoidismo: cansaço, queda de cabelo, ganho de peso."
+    },
+    {
+      "id": "b24",
+      "tipo": "titulo",
+      "texto": "5. Evolução"
+    },
+    {
+      "id": "b25",
+      "tipo": "fluxo",
+      "titulo": "Linha do tempo hormonal",
+      "passos": [
+        {
+          "titulo": "Excesso transitório (pode ocorrer)",
+          "texto": "A destruição dos folículos libera hormônio armazenado: quadro transitório de hipertireoidismo."
+        },
+        {
+          "titulo": "Hipotireoidismo subclínico",
+          "texto": "Fase inicial: TSH aumentado com T3 e T4 ainda normais."
+        },
+        {
+          "titulo": "Hipotireoidismo franco",
+          "texto": "TSH aumentado e T4 reduzido."
+        },
+        {
+          "titulo": "Fase avançada",
+          "texto": "Glândula hipotrófica, com muita fibrose e atrofia."
+        }
+      ]
+    },
+    {
+      "id": "b26",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Risco de linfoma",
+      "md": "Pela **intensidade e persistência do infiltrado linfoide**, o Hashimoto traz risco aumentado de desenvolvimento de **linfoma**. É a ponte deste módulo com o de linfomas. Complemento: o tipo classicamente associado é o linfoma B de zona marginal extranodal (MALT), o mesmo raciocínio da gastrite por H. pylori."
+    },
+    {
+      "id": "b27",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo para \"cite e explique as alterações morfológicas\" (Prova 150)",
+      "md": "\"O quadro é de hipotireoidismo por tireoidite de Hashimoto. **Macroscopia:** glândula simetricamente aumentada, lobulada, firme-elástica, de coloração variada; hipotrófica na fase avançada. **Microscopia:** infiltrado linfoplasmocitário com formação de nódulos linfoides, traves fibrosas, atrofia dos folículos e células oncocíticas (de Hürthle), resultado da agressão autoimune ao epitélio folicular.\""
+    },
+    {
+      "id": "b28",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: formas exuberantes do hipotireoidismo",
+      "blocos": [
+        {
+          "id": "b29",
+          "tipo": "texto",
+          "md": "As manifestações mais exuberantes são **mixedema** (acúmulo de glicosaminoglicanos hidrofílicos, especialmente ácido hialurônico, na derme e em outros tecidos conjuntivos), **cretinismo**, retardamento mental e desarmonia do crescimento esquelético."
+        },
+        {
+          "id": "b30",
+          "tipo": "texto",
+          "md": "O resumo também registra que a falência gradual da tireoide por destruição imunitária pode fazer parte de uma **síndrome de falência pluriglandular**. Baixo rendimento para a prova."
+        }
+      ]
+    },
+    {
+      "id": "b31",
+      "tipo": "titulo",
+      "texto": "6. As outras tireoidites, lado a lado"
+    },
+    {
+      "id": "b32",
+      "tipo": "texto",
+      "md": "O professor listou: aguda, subaguda (De Quervain), crônica (não comentou), Riedel e autoimune (Hashimoto). Fora o Hashimoto, as demais ainda não apareceram nas provas antigas — mas servem de distrator, então vale a gaveta de cada uma."
+    },
+    {
+      "id": "b33",
+      "tipo": "tabela",
+      "titulo": "Hashimoto × De Quervain × Riedel × aguda",
+      "colunas": [
+        "Critério",
+        "Hashimoto",
+        "De Quervain",
+        "Riedel",
+        "Aguda"
+      ],
+      "linhas": [
+        [
+          "Outros nomes",
+          "Tireoidite autoimune",
+          "Subaguda; granulomatosa subaguda; viral de células gigantes",
+          "Tireoidite fibrosante",
+          "—"
+        ],
+        [
+          "Causa",
+          "Autoimune",
+          "Vírus, ou após infecção viral",
+          "Incerta; alguns a consideram evolução crônica do Hashimoto",
+          "Complemento: infecção bacteriana"
+        ],
+        [
+          "Dor",
+          "Não é a queixa; \"bolo na garganta\"",
+          "**Sim** — dor na tireoide",
+          "**Não** — aumento indolor",
+          "Complemento: sim, com sinais inflamatórios"
+        ],
+        [
+          "Glândula",
+          "Aumento **simétrico**, firme-elástica",
+          "Dolorosa",
+          "Comprometimento **assimétrico**, localizado, muito endurecido",
+          "Não detalhada em aula"
+        ],
+        [
+          "Infiltrado",
+          "Linfoplasmocitário com nódulos linfoides",
+          "Polimorfonucleares no início; depois macrófagos, plasmócitos e células gigantes",
+          "Mononucleares",
+          "Complemento: neutrófilos"
+        ],
+        [
+          "Achado-assinatura",
+          "**Célula de Hürthle**",
+          "**Células gigantes fagocitando coloide**",
+          "**Fibrose extensa e hialinizada**",
+          "Não detalhado em aula"
+        ],
+        [
+          "Com o que se confunde",
+          "Graves, na fase de Hashitoxicose",
+          "Não citado em aula",
+          "**Carcinoma** (de tão endurecida)",
+          "—"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b34",
+      "tipo": "fluxo",
+      "titulo": "De Quervain em cinco passos",
+      "passos": [
+        {
+          "titulo": "Vírus",
+          "texto": "Infecção viral (ou quadro pós-viral): antígenos virais estimulam linfócitos T."
+        },
+        {
+          "titulo": "Lesão do epitélio",
+          "texto": "Os linfócitos T lesam as células foliculares; polimorfonucleares envolvem os folículos."
+        },
+        {
+          "titulo": "Folículo rompe",
+          "texto": "Há ruptura da membrana basal dos folículos."
+        },
+        {
+          "titulo": "Coloide vaza",
+          "texto": "O coloide é liberado no interstício."
+        },
+        {
+          "titulo": "Granuloma",
+          "texto": "Macrófagos, plasmócitos e numerosas células gigantes fagocitam o coloide."
+        }
+      ]
+    },
+    {
+      "id": "b35",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "Uma palavra por gaveta",
+      "md": "**Hashimoto → Hürthle.** **De Quervain → dor + célula gigante.** **Riedel → pedra** (fibrose; pensa-se em carcinoma). **Aguda → neutrófilo** (Complemento). Se o enunciado disser \"neutrofílico\" e o diagnóstico for Hashimoto, está errado."
+    },
+    {
+      "id": "b36",
+      "tipo": "quiz",
+      "pergunta": "Tireoide dolorosa após quadro viral. Na microscopia: ruptura de folículos e numerosas células gigantes fagocitando coloide. Diagnóstico?",
+      "opcoes": [
+        "Tireoidite de Hashimoto",
+        "Tireoidite de Riedel",
+        "Tireoidite de De Quervain",
+        "Doença de Graves"
+      ],
+      "correta": 2,
+      "explicacao": "Dor + contexto viral + células gigantes englobando coloide = tireoidite granulomatosa subaguda (De Quervain). Riedel é indolor, Hashimoto dá sensação de bolo na garganta em vez de dor, e Graves não tem granuloma."
+    },
+    {
+      "id": "b37",
+      "tipo": "quiz",
+      "pergunta": "Tireoide muito endurecida, aumentada de forma assimétrica e indolor; microscopia com extensa substituição do parênquima por tecido fibroso hialinizado. Qual o principal diagnóstico diferencial dessa tireoidite?",
+      "opcoes": [
+        "Carcinoma",
+        "Doença de Graves",
+        "Bócio nodular atóxico",
+        "Cisto do ducto tireoglosso"
+      ],
+      "correta": 0,
+      "explicacao": "É a tireoidite de Riedel: a glândula fica tão endurecida que o diagnóstico diferencial é carcinoma."
+    },
+    {
+      "id": "b38",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: detalhes do De Quervain",
+      "blocos": [
+        {
+          "id": "b39",
+          "tipo": "texto",
+          "md": "Vírus associados (só por desencargo): adenovírus, vírus da caxumba, Coxsackie e influenza. O professor resumiu a clínica em \"dor na tireoide\"; o Bogliolo descreve dor intensa na região cervical, dor faríngea e odinofagia."
+        }
+      ]
+    },
+    {
+      "id": "b40",
+      "tipo": "resumo",
+      "itens": [
+        "Hashimoto = tireoidite autoimune crônica, causa nº 1 de hipotireoidismo, doença de **toda** a glândula.",
+        "5 elementos: **infiltrado linfoplasmocitário, nódulos linfoides, fibrose, atrofia e célula oncocítica (Hürthle)**.",
+        "Hürthle é **obrigatória, mas não patognomônica** (existe adenoma de células de Hürthle).",
+        "V ou F: Hashimoto tem **linfócitos e fibrose**; nunca \"neutrófilos e extensa necrose\".",
+        "Evolução: excesso transitório → subclínico (TSH alto, T4 normal) → hipo franco; risco de **linfoma**.",
+        "De Quervain = dor + células gigantes. Riedel = fibrose dura, diferencial com carcinoma."
+      ]
+    }
+  ]
+}

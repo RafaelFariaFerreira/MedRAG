@@ -1,0 +1,367 @@
+{
+  "id": "lfa-04",
+  "modulo": "linfadenopatias",
+  "ordem": 4,
+  "titulo": "Padrão sinusal (reação histiocitária)",
+  "minutos": 10,
+  "prioridade": "alta",
+  "topicos": [
+    "lfa-padrao-sinusal"
+  ],
+  "resumo": "Você vai resolver o caso de Rosai-Dorfman do jeito que o professor cobra e separar os quatro moradores da gaveta sinusal pelo que há dentro do histiócito.",
+  "objetivos": [
+    "Reconhecer a histiocitose sinusal e o contexto em que ela aparece",
+    "Responder o caso de Rosai-Dorfman: diagnóstico, compartimento e marcadores",
+    "Definir emperipolese e diferenciá-la de fagocitose de restos celulares",
+    "Associar doença de Whipple a Tropheryma whipplei, PAS e diarreia",
+    "Listar os diferenciais da histiocitose sinusal pedidos em prova"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "É a gaveta com o caso mais repetido. **Menino de 12 anos, febre e grandes linfonodomegalias cervicais; proliferação histiocitária com núcleos frouxos e citoplasma abundante contendo linfócitos íntegros; plasmócitos e eosinófilos** (Prova 145 e outra prova antiga). Três perguntas: diagnóstico completo, compartimento afetado e marcador imuno-histoquímico. Também já caiu discursiva de **histiocitose sinusal** pedindo os diferenciais."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "A gaveta sinusal"
+    },
+    {
+      "id": "b03",
+      "tipo": "texto",
+      "md": "Aqui a reação é **preferencialmente histiocitária**: os **seios** do linfonodo (vermelho-coral) se enchem de **histiócitos**, que são macrófagos. O marcador de histiócito é o **CD68**. Para a pergunta “qual o compartimento afetado?”, o gabarito oficial aceita **sinusal** ou **histiocitário**."
+    },
+    {
+      "id": "b04",
+      "tipo": "cartoes",
+      "titulo": "Os quatro moradores → palavra-gatilho",
+      "itens": [
+        {
+          "titulo": "Histiocitose sinusal",
+          "texto": "Seios cheios de macrófagos. Linfonodo na periferia de tumor maligno.",
+          "emoji": "🎯"
+        },
+        {
+          "titulo": "Rosai-Dorfman",
+          "texto": "Massa dourada cervical. Emperipolese. S-100 e CD68.",
+          "emoji": "🟡"
+        },
+        {
+          "titulo": "Whipple",
+          "texto": "Tropheryma whipplei. PAS. Diarreia.",
+          "emoji": "🧫"
+        },
+        {
+          "titulo": "Lipídeos exógenos",
+          "texto": "Linfangiografia e prótese de silicone.",
+          "emoji": "💧"
+        }
+      ]
+    },
+    {
+      "id": "b05",
+      "tipo": "titulo",
+      "texto": "Histiocitose sinusal"
+    },
+    {
+      "id": "b06",
+      "tipo": "lista",
+      "itens": [
+        "Seios **cheios de macrófagos** (histiócitos **sem atipias**)",
+        "Típica de linfonodos na **periferia de tumores malignos**",
+        "É uma das três **crônicas inespecíficas**",
+        "Marcador de histiócito: **CD68**; de plasmócito: **CD138**"
+      ]
+    },
+    {
+      "id": "b07",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "A discursiva que já caiu",
+      "md": "Mulher, 29 anos, 30 dias de febre, emagrecimento e linfadenomegalia axilar direita; linfonodo com *infiltração maciça de histiócitos sem atipias e dilatação do seio periférico*. Gabarito oficial: **a) histiocitose sinusal; b) diferenciais: doença de Whipple, doença de Rosai-Dorfman e drenagem de lipídeos exógenos**. Os diferenciais são os outros três moradores da mesma gaveta."
+    },
+    {
+      "id": "b08",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "Histiócito no seio não é metástase",
+      "md": "Linfonodo que drena um tumor pode aumentar só por histiocitose sinusal. Isso é **reacional**, e “linfonodos reacionais” no enunciado significa **N0**. Metástase seria célula tumoral no seio marginal, não macrófago sem atipia."
+    },
+    {
+      "id": "b09",
+      "tipo": "quiz",
+      "pergunta": "Em prova antiga, quais foram os diagnósticos diferenciais aceitos para histiocitose sinusal?",
+      "opcoes": [
+        "Tuberculose, sarcoidose e paracoccidioidomicose",
+        "Mononucleose, citomegalovírus e sarampo",
+        "Doença de Whipple, doença de Rosai-Dorfman e drenagem de lipídeos exógenos",
+        "Linfoma folicular, linfoma de Burkitt e linfoma de Hodgkin"
+      ],
+      "correta": 2,
+      "explicacao": "O diferencial se faz **dentro da mesma gaveta**: todas as doenças do padrão sinusal têm seios repletos de histiócitos. As granulomatosas são diferenciais entre si; as virais moram na gaveta paracortical."
+    },
+    {
+      "id": "b10",
+      "tipo": "titulo",
+      "texto": "Doença de Rosai-Dorfman"
+    },
+    {
+      "id": "b11",
+      "tipo": "lista",
+      "itens": [
+        "**Linfadenopatia gigante cervical**; no caso da prova, um menino de 12 anos com febre",
+        "Ao corte, **massa dourada**: histiócitos cheios de gordura",
+        "**Emperipolese**: histiócito com **linfócitos íntegros** dentro do citoplasma",
+        "Histiócitos de núcleos frouxos e citoplasma abundante; plasmócitos e eosinófilos em volta",
+        "Imuno-histoquímica: **proteína S-100**, **CD68** e **CD163** positivos"
+      ]
+    },
+    {
+      "id": "b12",
+      "tipo": "foto",
+      "ref": "foto_rosai_dorfman",
+      "legenda": "Rosai-Dorfman: histiócitos grandes, de citoplasma amplo e claro, com linfócitos inteiros no interior (emperipolese)."
+    },
+    {
+      "id": "b13",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Emperipolese",
+      "md": "O histiócito **internaliza o linfócito íntegro**: a célula fica inteira dentro do citoplasma, sem ser destruída. A aluna que fez o resumo anotou que entendeu como uma “pseudofagocitose” e que isso ainda seria confirmado com o professor. O fenômeno **ocorre em outras doenças também**, mas na prova a palavra aponta para Rosai-Dorfman."
+    },
+    {
+      "id": "b14",
+      "tipo": "tabela",
+      "titulo": "O que há dentro do macrófago? Quatro achados que se confundem",
+      "comparacao": false,
+      "colunas": [
+        "Achado",
+        "O que está dentro",
+        "Onde aparece"
+      ],
+      "linhas": [
+        [
+          "**Emperipolese**",
+          "Linfócitos **íntegros**",
+          "Rosai-Dorfman"
+        ],
+        [
+          "**Céu estrelado**",
+          "**Restos celulares** fagocitados",
+          "Hiperplasia folicular (no centro germinativo) e linfoma de Burkitt"
+        ],
+        [
+          "**Macrófago em crescente**",
+          "Detritos celulares, com núcleo periférico e reniforme",
+          "Linfadenite de Kikuchi"
+        ],
+        [
+          "**Bactéria PAS positiva**",
+          "*Tropheryma whipplei* + gotículas de lipídeos",
+          "Doença de Whipple"
+        ]
+      ]
+    },
+    {
+      "id": "b15",
+      "tipo": "subtitulo",
+      "texto": "Marcadores: o que escrever e a dúvida do CD1a"
+    },
+    {
+      "id": "b16",
+      "tipo": "tabela",
+      "titulo": "O que cada fonte diz sobre a imuno-histoquímica",
+      "comparacao": false,
+      "colunas": [
+        "Fonte",
+        "Marcadores citados"
+      ],
+      "linhas": [
+        [
+          "Bogliolo (citado no resumo)",
+          "Proteína **S-100** e marcadores macrofágicos: **CD68** e **CD163**"
+        ],
+        [
+          "Gabarito oficial da Prova 145 (22.2)",
+          "**PTN S-100, CD68**"
+        ],
+        [
+          "Gabarito oficial de outra prova antiga",
+          "Ptn S100, **CD1a**, CD68 e CD163"
+        ],
+        [
+          "Anotação da aula no resumo",
+          "Ouviu o professor falar em CD1a; a edição mais recente do Bogliolo diz que é **negativo**"
+        ]
+      ]
+    },
+    {
+      "id": "b17",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "CD1a: as fontes não fecham",
+      "md": "Um gabarito oficial lista CD1a junto dos positivos; o resumo diz que o Bogliolo novo o dá como **negativo** e pede para confirmar com o professor. Complemento: na literatura, o histiócito do Rosai-Dorfman é S-100 positivo e **CD1a negativo**. Estratégia segura: responda com **S-100 e CD68** (e CD163). Se citar CD1a, escreva “CD1a negativo”."
+    },
+    {
+      "id": "b18",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Resposta-modelo do caso",
+      "md": "“a) Doença de Rosai-Dorfman. b) Compartimento sinusal (reação histiocitária). c) Proteína S-100 e CD68 positivos. O achado que sustenta o diagnóstico é a emperipolese: histiócitos de citoplasma abundante contendo linfócitos íntegros.”"
+    },
+    {
+      "id": "b19",
+      "tipo": "revelar",
+      "pergunta": "No enunciado do caso, qual expressão descreve a emperipolese sem usar a palavra?",
+      "resposta": "**“Abundante citoplasma contendo linfócitos íntegros.”** O professor descreve o achado e espera que você dê o nome. V/F relacionado (Prova 130): *“ocorre dilatação pronunciada do linfonodo devido à infiltração linfocitária”* → **F**: a proliferação é de **histiócitos**."
+    },
+    {
+      "id": "b20",
+      "tipo": "titulo",
+      "texto": "Doença de Whipple"
+    },
+    {
+      "id": "b21",
+      "tipo": "lista",
+      "itens": [
+        "Agente: *Tropheryma whipplei* (no resumo, grafado “Whipplii”)",
+        "Fica no **duodeno**: paciente com **diarreia**",
+        "Diferencial com **doença celíaca** e **espru tropical** (doenças disabsortivas)",
+        "**PAS**: bactéria **dentro dos histiócitos** + gotículas de lipídeos",
+        "No linfonodo: **histiocitose sinusal**. Muito raro"
+      ]
+    },
+    {
+      "id": "b22",
+      "tipo": "titulo",
+      "texto": "Drenagem de lipídeos exógenos"
+    },
+    {
+      "id": "b23",
+      "tipo": "texto",
+      "md": "O resumo traz só o nome e as duas situações citadas em aula: **linfangiografias** e **próteses de silicone**. Complemento: o material lipídico drenado pelo linfonodo é englobado pelos histiócitos dos seios. Na prova, a pista está na história clínica."
+    },
+    {
+      "id": "b24",
+      "tipo": "titulo",
+      "texto": "A gaveta inteira, lado a lado"
+    },
+    {
+      "id": "b25",
+      "tipo": "tabela",
+      "titulo": "Mesmos critérios, quatro doenças",
+      "comparacao": true,
+      "colunas": [
+        "Critério",
+        "Histiocitose sinusal",
+        "Rosai-Dorfman",
+        "Whipple",
+        "Lipídeos exógenos"
+      ],
+      "linhas": [
+        [
+          "Contexto clínico",
+          "Linfonodo perto de tumor maligno",
+          "Linfadenopatia cervical gigante, febre",
+          "Diarreia, disabsorção",
+          "Linfangiografia ou prótese de silicone"
+        ],
+        [
+          "Dentro do histiócito",
+          "Nada específico",
+          "**Linfócitos íntegros**",
+          "**Bactéria** + lipídeos",
+          "Lipídeos"
+        ],
+        [
+          "Como confirmar",
+          "Histiócitos sem atipias; CD68",
+          "**S-100**, CD68, CD163",
+          "**PAS**",
+          "História clínica"
+        ],
+        [
+          "Agente",
+          "—",
+          "—",
+          "*Tropheryma whipplei*",
+          "—"
+        ],
+        [
+          "Macroscopia",
+          "—",
+          "**Massa dourada**",
+          "—",
+          "—"
+        ]
+      ]
+    },
+    {
+      "id": "b26",
+      "tipo": "fluxo",
+      "titulo": "Seios cheios de histiócitos: como decidir",
+      "passos": [
+        {
+          "titulo": "1. Olhe dentro do histiócito",
+          "texto": "A pergunta que separa as quatro doenças é: o que ele carrega?"
+        },
+        {
+          "titulo": "2. Linfócitos íntegros?",
+          "texto": "Emperipolese → Rosai-Dorfman. Confirme com S-100 e CD68."
+        },
+        {
+          "titulo": "3. Material PAS positivo e diarreia?",
+          "texto": "Doença de Whipple (Tropheryma whipplei)."
+        },
+        {
+          "titulo": "4. Gordura e história de silicone ou linfangiografia?",
+          "texto": "Drenagem de lipídeos exógenos."
+        },
+        {
+          "titulo": "5. Nada específico, tumor na vizinhança?",
+          "texto": "Histiocitose sinusal (crônica inespecífica)."
+        }
+      ]
+    },
+    {
+      "id": "b27",
+      "tipo": "quiz",
+      "pergunta": "Paciente com diarreia crônica e síndrome disabsortiva. Linfonodo com histiocitose sinusal; histiócitos com material positivo ao PAS. Qual o agente?",
+      "opcoes": [
+        "Bartonella henselae",
+        "Tropheryma whipplei",
+        "Toxoplasma gondii",
+        "Herpesvírus 8"
+      ],
+      "correta": 1,
+      "explicacao": "**Diarreia + histiocitose sinusal + PAS positivo dentro dos histiócitos** = doença de Whipple. Bartonella é da arranhadura do gato (Warthin-Starry), Toxoplasma é da gaveta folicular e o herpesvírus 8 é do Castleman."
+    },
+    {
+      "id": "b28",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: por que o CD1a entra na conversa",
+      "blocos": [
+        {
+          "id": "b29",
+          "tipo": "texto",
+          "md": "Complemento: o CD1a é o marcador clássico da **histiocitose de células de Langerhans**, que também é S-100 positiva. Por isso ele costuma ser pedido junto: S-100 positivo com CD1a **negativo** favorece Rosai-Dorfman. É provavelmente a origem da confusão entre as fontes."
+        }
+      ]
+    },
+    {
+      "id": "b30",
+      "tipo": "resumo",
+      "itens": [
+        "Gaveta sinusal = **seios cheios de histiócitos** (CD68). Compartimento: “sinusal” ou “histiocitário”.",
+        "**Histiocitose sinusal**: crônica inespecífica, linfonodo peritumoral; diferenciais = Whipple, Rosai-Dorfman, lipídeos exógenos.",
+        "**Rosai-Dorfman**: massa dourada cervical + **emperipolese** (linfócitos íntegros) + **S-100 e CD68**.",
+        "**CD1a**: fontes divergem; resposta segura é S-100 + CD68 (+ CD163).",
+        "**Whipple**: *Tropheryma whipplei*, **PAS**, diarreia, diferencial com doença celíaca.",
+        "**Lipídeos exógenos**: linfangiografia e prótese de silicone."
+      ]
+    }
+  ]
+}

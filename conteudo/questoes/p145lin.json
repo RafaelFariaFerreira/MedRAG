@@ -1,0 +1,303 @@
+{
+  "prova": {
+    "id": "p145lin",
+    "titulo": "Prova 145 (22.2) — Linfomas",
+    "temas": "Linfadenopatias e Linfomas",
+    "periodo": "2022.2",
+    "gabarito_fonte": "oficial",
+    "paginas": [
+      35,
+      40
+    ]
+  },
+  "questoes": [
+    {
+      "id": "p145lin-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-folicular",
+        "lfa-hiperplasia-vs-linfoma-folicular"
+      ],
+      "enunciado": "Paciente masculino, 60 anos, HIV positivo com história de febre, perda de peso e linfadenomegalia axilar e inguinal. Relata convivência com animais (seis gatos e três cachorros) de estimação. Submetido à biópsia encontram-se numerosas e predominantes estruturas foliculares com desaparecimento da coroa linfocitária e comprometimento do tecido adiposo perilinfonodal. Na imuno-histoquímica, CD20 foi positivo e CD3 mostrou-se negativo.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o diagnóstico morfológico (COMPLETO), segundo a descrição apresentada?",
+          "resposta_modelo": "**Linfoma não Hodgkin folicular** (LNH folicular).",
+          "checklist": [
+            "Linfoma não Hodgkin",
+            "Tipo folicular"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite duas características morfológicas que dão suporte ao seu diagnóstico:",
+          "resposta_modelo": "**Desaparecimento da coroa linfocitária** e **comprometimento do tecido adiposo perilinfonodal** (atmosfera gordurosa).",
+          "checklist": [
+            "Desaparecimento da coroa linfocitária",
+            "Comprometimento da gordura (tecido adiposo) perilinfonodal"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Cite outros dois marcadores imuno-histoquímicos relevantes que podem contribuir para o diagnóstico relatando sua positividade ou negatividade.",
+          "resposta_modelo": "Por exemplo: **Bcl-2 positivo** e **CD10 positivo**. O gabarito aceita, como positivos, CD10, Bcl-2, Bcl-6, CD79a, CD19, CD20 e CD22; como negativos, CD2, CD3, CD4, CD5, CD7 e ciclina D1.",
+          "checklist": [
+            "Dois marcadores além dos já citados no enunciado (CD20 e CD3)",
+            "Dizer se cada um é positivo ou negativo",
+            "Positivos do gabarito: CD10, Bcl-2, Bcl-6, CD79a, CD19, CD22",
+            "Negativos do gabarito: CD2, CD4, CD5, CD7, ciclina D1"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Cite um diagnóstico diferencial (COMPLETO), inespecífico.",
+          "resposta_modelo": "**Hiperplasia linfoide reacional** (hiperplasia folicular reacional, linfadenopatia crônica inespecífica).",
+          "checklist": [
+            "Hiperplasia linfoide (folicular) reacional"
+          ]
+        }
+      ],
+      "explicacao": "HIV, gatos e cachorros são distratores (lembram linfadenopatia do HIV e doença da arranhadura do gato); quem decide é a morfologia. Estruturas foliculares numerosas e predominantes + **coroa linfocitária desaparecida** + **invasão da gordura perilinfonodal**, em proliferação B (CD20+, CD3−), definem o **linfoma não Hodgkin folicular**. O diferencial é a hiperplasia folicular reacional — folículos de tamanhos diferentes, coroa presente, sem invasão da gordura e **BCL-2 negativo**. O professor avisou que essa comparação é questão de prova e que o diagnóstico completo começa por “linfoma não Hodgkin”.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (transcrito na pág. 37 e fotografado na pág. 39). Respostas da aluna à mão (pág. 36): a) “linfoma de não hodgkin subtipo folicular” e b) iguais ao gabarito; d) “hiperplasia folicular reacional” (o gabarito diz “hiperplasia linfoide reacional” — equivalentes); c) “Pax5 + e BCL-2 +”: o Bcl-2 está no gabarito, mas o PAX-5 NÃO consta na lista oficial desta questão (consta no resumo das aulas como marcador do linfoma folicular) — por segurança, preferir dois marcadores da lista oficial. O resumo alerta: invadir a gordura, sozinho, não basta para dizer linfoma; o BCL-2 positivo é a principal característica."
+    },
+    {
+      "id": "p145lin-q02",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-granulomatosas",
+        "lfa-drenagem-clinica"
+      ],
+      "enunciado": "Paciente feminina, 25 anos, com tosse, febre e linfadenomegalia mediastinal. Ao exame de imagem encontram-se estruturas cavitárias no pulmão. A biópsia linfonodal mostra necrose, células gigantes e esboço granulomatoso.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o principal diagnóstico para o caso até o momento?",
+          "resposta_modelo": "**Linfadenite tuberculosa.**",
+          "checklist": [
+            "Linfadenite tuberculosa (tuberculose linfonodal)"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Em que fase encontra-se a possível doença, de acordo com o caso até o momento.",
+          "resposta_modelo": "**Tuberculose secundária (pós-primária).**",
+          "checklist": [
+            "Tuberculose secundária ou pós-primária"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Cite a coloração especial que deveria ser solicitada para confirmação diagnóstica até o momento.",
+          "resposta_modelo": "**Ziehl-Neelsen.**",
+          "checklist": [
+            "Ziehl-Neelsen"
+          ]
+        }
+      ],
+      "explicacao": "Linfadenomegalia **mediastinal** no Brasil faz pensar primeiro em tuberculose; somando tosse, febre e granuloma com **necrose e células gigantes**, o diagnóstico é linfadenite tuberculosa. O granuloma típico tem centro de necrose caseosa, células gigantes de Langhans e histiócitos, e halo linfocitário — o professor avisou que vai perguntar de novo. A confirmação é a pesquisa do bacilo pelo Ziehl-Neelsen. Complemento: as cavidades pulmonares indicam a forma secundária (pós-primária) da doença.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (págs. 37 e 39). A aluna respondeu à mão: a) “linfadenite tuberculosa”, b) “secundária (TB”, c) “Ziehl-Neelsen” — tudo de acordo. A questão 3 é continuação deste caso."
+    },
+    {
+      "id": "p145lin-q03",
+      "numero": "3",
+      "tipo": "multipla",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-granulomatosas"
+      ],
+      "enunciado": "A coloração especial solicitada anteriormente foi negativa. Então, outra coloração realizada apresenta estruturas arredondadas grandes com diversos brotamentos. Assinale a alternativa com o diagnóstico e devida coloração especial empregada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tuberculose e Ziehl-Neelsen."
+        },
+        {
+          "letra": "B",
+          "texto": "Doença da arranhadura do gato e Warthin-Starry."
+        },
+        {
+          "letra": "C",
+          "texto": "Blastomicose Norte-Americana e Grocott."
+        },
+        {
+          "letra": "D",
+          "texto": "Blastomicose Sul-Americana e Grocott."
+        }
+      ],
+      "correta": "D",
+      "pede": "correta",
+      "explicacao": "Continuação do caso da questão 2: o Ziehl-Neelsen negativo afasta o bacilo da tuberculose, e a nova coloração mostra células arredondadas grandes com **vários brotamentos** — o fungo em “roda de leme” da **paracoccidioidomicose (blastomicose sul-americana)**, que dá granuloma com necrose supurativa e células gigantes e se cora por **PAS e Grocott**. Warthin-Starry é a coloração da *Bartonella* (arranhadura do gato), que é bactéria, não estrutura com brotamentos. Complemento: a blastomicose norte-americana tem brotamento único, não múltiplo.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial: “D. Blastomicose sul-americana e Grocott”. A aluna circulou D e anotou: “Paracoccidioidomicose → granuloma c/ necrose supurativa e células gigantes → PAS e Grocott”. Corrigida a grafia “Ziehl-Niilsen” da transcrição para Ziehl-Neelsen."
+    },
+    {
+      "id": "p145lin-q04",
+      "numero": "4",
+      "tipo": "discursiva",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-padrao-sinusal"
+      ],
+      "enunciado": "Paciente masculino, 12 anos com febre e grandes linfadenomegalias cervicais. Submetido à biópsia. No histopatológico, encontrou-se proliferação histiocitária com núcleos frouxos e abundante citoplasma contendo linfócitos íntegros. Presença de plasmócitos e eosinófilos.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o provável diagnóstico (COMPLETO)?",
+          "resposta_modelo": "**Doença de Rosai-Dorfman.**",
+          "checklist": [
+            "Doença de Rosai-Dorfman"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Qual o compartimento linfonodal afetado?",
+          "resposta_modelo": "**Sinusal** (seios do linfonodo — reação histiocitária).",
+          "checklist": [
+            "Sinusal"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Cite um marcador imuno-histoquímico essencial para o diagnóstico.",
+          "resposta_modelo": "**Proteína S-100** positiva (o gabarito também aceita CD68 positivo).",
+          "checklist": [
+            "Proteína S-100 (ou CD68), positivo"
+          ]
+        }
+      ],
+      "explicacao": "Criança com linfadenopatia cervical gigante e histiócitos de citoplasma amplo que contêm **linfócitos íntegros** — é a **emperipolese**, marca da doença de Rosai-Dorfman. Como a célula que prolifera é o histiócito, o padrão é **sinusal**. Os histiócitos expressam **proteína S-100** e marcadores macrofágicos (**CD68**, CD163); o resumo registra ainda CD1a negativo, com a ressalva de confirmar com o professor.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial: a) “Doença de Rosai-Dorffman” (grafia do gabarito; o correto é Dorfman), b) Sinusal, c) PTN S-100, CD68. A aluna respondeu à mão a) e b) iguais e, no c), “Positivo para CD68, CD163 e S100 e negativo p/ CD1a” — vai além do gabarito (que cita só S-100 e CD68), mas é coerente com o resumo; ela anotou também “emperipolese”."
+    },
+    {
+      "id": "p145lin-q05",
+      "numero": "5",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-burkitt"
+      ],
+      "enunciado": "Paciente masculino, 48 anos, HIV positivo com febre, anemia, leucopenia, linfadenomegalias generalizadas e acometimento extranodal. No estudo histopatológico, proliferação de células de tamanho médio com núcleos redondos e citoplasma basofílico. Presença de numerosos macrófagos fagocitando restos celulares, alto índice mitótico e índice de proliferação celular próximo a 100%.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o provável diagnóstico (COMPLETO)?",
+          "resposta_modelo": "**Linfoma não Hodgkin de Burkitt** (linfoma de Burkitt).",
+          "checklist": [
+            "Linfoma de Burkitt",
+            "Linfoma não Hodgkin (LNH)"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite um painel imuno-histoquímico (quatro marcadores principais) para o caso, relatando sua positividade ou negatividade.",
+          "resposta_modelo": "Por exemplo: **CD20 positivo, CD10 positivo, Bcl-6 positivo e Bcl-2 negativo**. Gabarito — positivos: CD20, CD79a, CD10, Bcl-6, PAX-5; negativos: CD3, Bcl-2.",
+          "checklist": [
+            "Quatro marcadores, cada um com positivo ou negativo",
+            "Positivos: CD20, CD79a, CD10, Bcl-6, PAX-5",
+            "Negativos: CD3, Bcl-2"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "No relato do caso existe a descrição clássica da principal característica morfológica deste tipo neoplásico. Retire do texto a parte que expressa esta característica e explique.",
+          "resposta_modelo": "Trecho: “**presença de numerosos macrófagos fagocitando restos celulares**”. É o **aspecto de céu estrelado**: os macrófagos com restos celulares fagocitados (corpos tingíveis) ficam espalhados no meio das células neoplásicas, como estrelas no céu.",
+          "checklist": [
+            "Trecho: numerosos macrófagos fagocitando restos celulares",
+            "Nome: aspecto de céu estrelado",
+            "Explicação: macrófagos com restos celulares em meio às células neoplásicas"
+          ]
+        }
+      ],
+      "explicacao": "Células de **tamanho médio**, núcleos redondos, citoplasma basofílico, muitas mitoses, proliferação de ~**100%** e macrófagos com restos celulares (**céu estrelado**) = linfoma de Burkitt; o HIV aponta para a forma associada à imunodeficiência. É neoplasia de células B do centro germinativo: CD20+, Pax5+, CD10+, BCL-6+, com **BCL-2 negativo** — ausência notável, que ajuda a separar de outros linfomas B. Diagnóstico completo, como o professor exige: linfoma **não Hodgkin**, tipo de Burkitt.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial: a) “Linfoma de Burkitt, LNH de Burkitt”; b) positivos CD20, CD79a, CD10, Bcl-6, PAX-5 e negativos CD3, Bcl-2 (na foto do gabarito, “C79a”, erro de digitação); c) “Aspecto de céu estrelado – macrófagos”. A aluna respondeu à mão: a) “Linfoma de Burkitt” (faltou “não Hodgkin”); b) “Pax5+, CD20+, BCL-6+, BCL-2−” (de acordo); c) “macrófagos c/ restos celulares, dando aspecto de céu estrelado” (de acordo)."
+    },
+    {
+      "id": "p145lin-q06",
+      "numero": "6",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral",
+        "lin-lh-celularidade-mista",
+        "lin-lh-esclerose-nodular",
+        "lin-estadiamento"
+      ],
+      "enunciado": "Assinale V ou F nas afirmativas abaixo sobre os linfomas de Hodgkin.",
+      "pontos": 1.0,
+      "itens": [
+        {
+          "texto": "As células neoplásicas características do tipo celularidade mista são as de Reed-Sternberg, variante linfo-histiocitária.",
+          "resposta": false,
+          "justificativa": "A variante **linfo-histiocitária (“pipoca”)** é a do tipo **predominância linfocitária nodular** (LH não clássico). Na celularidade mista são frequentes as variantes diagnóstica e mononuclear."
+        },
+        {
+          "texto": "O linfoma de Hodgkin, tipo esclerose nodular, apresenta fundo inflamatório predominantemente linfocitário.",
+          "resposta": false,
+          "justificativa": "Na esclerose nodular o fundo inflamatório é **misto e abundante** (linfócitos, eosinófilos, plasmócitos e macrófagos), entre traves de fibrose e células lacunares. Fundo predominantemente linfocitário é do tipo **rico em linfócitos**."
+        },
+        {
+          "texto": "Nos pacientes com linfonodomegalia cervical, sudorese, febre e perda de peso, um dos principais diagnósticos diferenciais é a tuberculose.",
+          "resposta": true,
+          "justificativa": "Linfonodo cervical com sintomas B (febre, sudorese, emagrecimento) tem como grandes diferenciais o linfoma, a metástase e a **tuberculose**."
+        },
+        {
+          "texto": "O estágio III da doença cursa com leucemização.",
+          "resposta": false,
+          "justificativa": "Estádio III = linfonodos dos **dois lados do diafragma** ou comprometimento do baço. Leucemização é a passagem de células neoplásicas para o sangue após infiltração de medula óssea/baço — não é critério do estádio III."
+        }
+      ],
+      "explicacao": "Gabarito oficial: **F, F, V, F** para os itens A, B, C e E; o item D foi desconsiderado. Dois itens são troca de características entre tipos de LH (variante linfo-histiocitária é do PLN; fundo predominantemente linfocitário é do rico em linfócitos), um troca o conceito de estadiamento (III não é leucemização) e o verdadeiro lembra a tuberculose como diferencial. Os mesmos itens voltaram na Prova 148 (q12).",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "ITEM DESCONSIDERADO: a prova tinha cinco itens; o gabarito oficial (foto da pág. 39) diz “Desconsiderar item D. Pontos redistribuídos. Nova pontuação: 0,25 cada item — F, F, V, F”. O item D (4º, entre o da tuberculose e o do estágio III) era: “Em casos de positividade imuno-histoquímica para o vírus Epstein-Barr deve-se descartar a possibilidade de mononucleose infecciosa, principalmente em adolescentes.” Ele foi retirado da lista de itens para a correção seguir o gabarito oficial (4 itens × 0,25 = 1,0). Provável motivo da anulação: “descartar” é ambíguo (excluir como diferencial × desprezar a hipótese). O mesmo item reaparece na Prova 148 q12, onde o gabarito do aluno dá V. Marcações da aluna (pág. 37): F, F, V nos três primeiros (de acordo); F no item D anulado (com “descartar” riscado); o item do estágio III ficou sem resposta (só uma seta)."
+    },
+    {
+      "id": "p145lin-q07",
+      "numero": "7",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral",
+        "lin-lh-esclerose-nodular",
+        "lin-lh-celularidade-mista",
+        "lin-lh-rico-linfocitos",
+        "lin-lh-deplecao",
+        "lin-lh-pln"
+      ],
+      "enunciado": "Qual é a classificação proposta pela Organização Mundial de Saúde para os Linfomas de Hodgkin? Descreva dois tipos incluindo sua morfologia e imunofenótipo.",
+      "resposta_modelo": "A OMS divide o linfoma de Hodgkin em **LH clássico** — tipos esclerose nodular, celularidade mista, rico em linfócitos e depleção linfocitária —, com imunofenótipo CD30+, CD15+, PAX-5 positivo fraco, CD20 negativo e CD45 negativo; e **LH não clássico** — tipo predominância linfocitária nodular —, com CD30 negativo, CD15 negativo, PAX-5 positivo, CD20+ e CD45+. Exemplo 1 — **LH clássico, tipo esclerose nodular**: perda da arquitetura nodal normal, estruturas nodulares delimitadas por traves de fibrose, células de Reed-Sternberg variante **lacunar** e abundante fundo inflamatório de linfócitos, eosinófilos, plasmócitos e macrófagos. Exemplo 2 — **LH não clássico, tipo predominância linfocitária nodular**: perda da arquitetura nodal normal, padrão com esboço nodular, células de Reed-Sternberg variante **linfo-histiocitária** e fundo inflamatório de linfócitos e macrófagos. Outros tipos que o gabarito aceita — **celularidade mista**: células de Reed-Sternberg diagnóstica e mononuclear frequentes, com fundo de linfócitos, eosinófilos, plasmócitos e macrófagos; **rico em linfócitos**: Reed-Sternberg diagnóstica e mononuclear, com fundo predominantemente linfocitário; **depleção linfocitária**: fundo com fibrose reticular e linfócitos escassos, com abundância relativa de células de Reed-Sternberg.",
+      "checklist": [
+        "Divisão da OMS: LH clássico × LH não clássico",
+        "Clássico: esclerose nodular, celularidade mista, rico em linfócitos e depleção linfocitária",
+        "Não clássico: predominância linfocitária nodular",
+        "Imunofenótipo do clássico: CD30+, CD15+, PAX-5 + fraco, CD20−, CD45−",
+        "Imunofenótipo do não clássico: CD30−, CD15−, PAX-5+, CD20+, CD45+",
+        "Perda da arquitetura nodal normal (em todos os tipos)",
+        "Variante de Reed-Sternberg correta para cada tipo descrito (lacunar na esclerose nodular; linfo-histiocitária no PLN; diagnóstica e mononuclear nos demais)",
+        "Fundo/estroma correto para cada tipo descrito (traves de fibrose; fundo misto; predominantemente linfocitário; fibrose reticular com linfócitos escassos)"
+      ],
+      "explicacao": "A pergunta tem três camadas e todas pontuam: a **classificação** (clássico com quatro tipos × não clássico, o PLN), o **imunofenótipo** (o PLN tem os marcadores “ao contrário”: CD30/CD15 negativos e CD20/CD45 positivos) e a **morfologia** de dois tipos à escolha. Para cada tipo, pense em dois eixos: qual variante da célula de Reed-Sternberg e como é o fundo. Escreva o nome completo (“linfoma de Hodgkin clássico, tipo esclerose nodular”) — o professor desconta quem escreve só “esclerose”.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial completo nas fotos das págs. 39–40 (e transcrito nas págs. 37–38); ele descreve os cinco tipos, mas a questão pede apenas dois. O gabarito usa “predominância linfocitária nodular”; o resumo das aulas usa “predominância linfocítica nodular” (PLN) — é o mesmo tipo. O PAX-5 do imunofenótipo consta no gabarito, mas não no resumo das aulas. A aluna não fez anotações nesta questão."
+    }
+  ]
+}

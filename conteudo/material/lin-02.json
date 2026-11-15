@@ -1,0 +1,413 @@
+{
+  "id": "lin-02",
+  "modulo": "linfomas",
+  "ordem": 2,
+  "titulo": "Estadiamento de Ann Arbor e sintomas B",
+  "minutos": 10,
+  "prioridade": "alta",
+  "topicos": [
+    "lin-estadiamento"
+  ],
+  "resumo": "Você vai estadiar qualquer cenário de prova em segundos — contar cadeias, olhar o diafragma, checar baço e órgãos — e reconhecer os sintomas B com os números.",
+  "objetivos": [
+    "Definir os estádios I a IV de Ann Arbor usando a regra do diafragma e do baço",
+    "Aplicar os sufixos E, S e X e reconhecer bulky disease",
+    "Citar os sintomas B com os valores de corte",
+    "Resolver os cenários de estadiamento que já caíram nas provas",
+    "Diferenciar estádio III de estádio IV e de leucemização"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "Estadiamento é presença garantida. **Cenário → estádio**: “três linfonodos da cadeia cervical esquerda” (Provas 147 e 148) e “linfonodos axilares, cervicais e inguinais” (Prova 143). **Discursiva**: “Descreva o estadiamento dos linfomas de Hodgkin” (prova sem ano). **Dentro dos casos**: “Qual é o estadiamento do paciente?”. E nas palavras cruzadas da Prova 150: ESTADIAMENTO e SINTOMAS B."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "Para que serve"
+    },
+    {
+      "id": "b03",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Estadiamento",
+      "md": "É a avaliação da **extensão da doença**, feita depois do diagnóstico. Serve para estimar o **prognóstico** e **orientar o tratamento**. Nos linfomas, usam-se os critérios de **Ann Arbor**, com 4 estádios."
+    },
+    {
+      "id": "b04",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Não sai só da biópsia",
+      "md": "Alternativa errada da Prova 140: o estadiamento “é determinado **exclusivamente** por dados histopatológicos identificados na biópsia do linfonodo”. Não é: ele depende de saber **quais cadeias e órgãos** estão acometidos — por isso o enunciado sempre lista os sítios. O resumo cita, no linfoma folicular, a biópsia de medula óssea na crista ilíaca para estadiar. A alternativa correta era: “é um **indicador prognóstico** e utilizado para **orientação terapêutica**”."
+    },
+    {
+      "id": "b05",
+      "tipo": "titulo",
+      "texto": "Os 4 estádios"
+    },
+    {
+      "id": "b06",
+      "tipo": "fluxo",
+      "titulo": "Três perguntas, nesta ordem",
+      "passos": [
+        {
+          "titulo": "Há órgão extralinfático acometido de forma difusa?",
+          "texto": "Sim → **estádio IV** (doença disseminada e infiltrativa). Não → siga."
+        },
+        {
+          "titulo": "O baço está acometido, ou há linfonodos dos dois lados do diafragma?",
+          "texto": "Sim → **estádio III**. Não → siga."
+        },
+        {
+          "titulo": "Quantas cadeias, todas do mesmo lado do diafragma?",
+          "texto": "Uma só → **estádio I**. Duas ou mais → **estádio II**."
+        }
+      ]
+    },
+    {
+      "id": "b07",
+      "tipo": "figura",
+      "ref": "fig_ann_arbor",
+      "legenda": "A linha do diafragma é a régua. I: uma cadeia. II: duas ou mais, do mesmo lado. III: dos dois lados (ou baço). IV: órgão extralinfático acometido de forma difusa."
+    },
+    {
+      "id": "b08",
+      "tipo": "tabela",
+      "titulo": "Ann Arbor em uma tela",
+      "colunas": [
+        "Critério",
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "linhas": [
+        [
+          "O que está acometido",
+          "**Uma** cadeia (um linfonodo ou um grupo)",
+          "**Duas ou mais** cadeias",
+          "Cadeias **dos dois lados** do diafragma **ou baço**",
+          "**Órgão(s) extralinfático(s)**, de forma difusa (multifocal)"
+        ],
+        [
+          "Diafragma",
+          "Não entra na conta",
+          "**Mesmo lado**",
+          "**Ambos os lados**",
+          "Não entra na conta"
+        ],
+        [
+          "Exemplo",
+          "3 linfonodos da cadeia cervical esquerda",
+          "Cervical + axilar",
+          "Cervical + axilar + inguinal",
+          "Fígado ou medula óssea infiltrados"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b09",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "Conte cadeias, não linfonodos",
+      "md": "Três linfonodos na mesma cadeia = **uma** cadeia = estádio I. O que muda o estádio é o número de **cadeias** e a posição delas em relação ao **diafragma**. Complemento: acima do diafragma ficam as cadeias cervical, supraclavicular, axilar e mediastinal; abaixo, as abdominais (para-aórticas) e as inguinais."
+    },
+    {
+      "id": "b10",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Baço = estádio III",
+      "md": "Observação destacada no resumo: “**se o baço estiver comprometido já vai para o estádio III!!**” — mesmo que os linfonodos acometidos estejam de um lado só do diafragma."
+    },
+    {
+      "id": "b11",
+      "tipo": "quiz",
+      "pergunta": "(Provas 147 e 148) Paciente com Linfoma de Hodgkin e linfonodomegalia limitada a três linfonodos da cadeia cervical esquerda, nível II. Qual o estádio de Ann Arbor?",
+      "opcoes": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correta": 0,
+      "explicacao": "Estádio I (gabarito oficial da Prova 147). Três linfonodos, mas uma única cadeia. O “nível II” do enunciado é a localização dentro do pescoço — está ali para confundir com estádio II."
+    },
+    {
+      "id": "b12",
+      "tipo": "quiz",
+      "pergunta": "(Prova 143) Paciente com Linfoma de Hodgkin comprometendo linfonodos axilares, cervicais e inguinais. Qual o estadiamento adequado?",
+      "opcoes": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correta": 2,
+      "explicacao": "Estádio III. Axilares e cervicais ficam acima do diafragma; inguinais, abaixo. Cadeias dos dois lados do diafragma = III. Não é IV porque não há órgão extralinfático acometido."
+    },
+    {
+      "id": "b13",
+      "tipo": "tabela",
+      "titulo": "III × IV: onde a prova confunde",
+      "colunas": [
+        "Critério",
+        "Estádio III",
+        "Estádio IV"
+      ],
+      "linhas": [
+        [
+          "O que define",
+          "Linfonodos dos dois lados do diafragma, ou baço",
+          "Comprometimento difuso de um ou mais órgãos extralinfáticos"
+        ],
+        [
+          "Onde a doença está",
+          "Ainda em linfonodos e baço",
+          "Disseminada e infiltrativa"
+        ],
+        [
+          "Leucemização",
+          "**Não** faz parte da definição",
+          "Infiltração de medula óssea já é doença de órgão (“infiltração é IV”, na justificativa do gabarito de aluno)"
+        ],
+        [
+          "Alternativa errada que já caiu",
+          "“O estágio III da doença cursa com leucemização” — F (oficial, Prova 145)",
+          "“O Estágio III compreende a doença disseminada com ou sem acometimento linfonodal” — isso descreve o IV (Prova 140)"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b14",
+      "tipo": "titulo",
+      "texto": "Sufixos E, S e X"
+    },
+    {
+      "id": "b15",
+      "tipo": "tabela",
+      "titulo": "As três letras",
+      "colunas": [
+        "Letra",
+        "Quando usar",
+        "Exemplo do resumo"
+      ],
+      "linhas": [
+        [
+          "**E**",
+          "Acometimento **extranodal**",
+          "Lesão única na parede do pulmão → **IE**. Com linfonodos perigástricos do mesmo lado do diafragma → **IIE**"
+        ],
+        [
+          "**S**",
+          "Acometimento do **baço**",
+          "—"
+        ],
+        [
+          "**X**",
+          "Tumor com **mais de 10 cm** no maior diâmetro",
+          "—"
+        ]
+      ],
+      "comparacao": false
+    },
+    {
+      "id": "b16",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Não existe IIIE nem IVE",
+      "md": "Regra do resumo: **não se usa IIIE e IVE**. E não confunda as duas situações: lesão extranodal **única** ganha a letra **E** (IE, IIE); comprometimento **difuso** de órgão extralinfático é **estádio IV**."
+    },
+    {
+      "id": "b17",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Bulky disease",
+      "md": "No mediastino, tumor **maior que 1/3 do tórax** na radiografia = *bulky disease*. Fora do mediastino, a marca de volume é a letra **X**: mais de 10 cm no maior diâmetro."
+    },
+    {
+      "id": "b18",
+      "tipo": "revelar",
+      "pergunta": "Linfoma com lesão única na parede do pulmão, sem outros sítios. Como fica o estádio?",
+      "resposta": "**IE** — estádio I com a letra E de extranodal. É o exemplo literal do resumo."
+    },
+    {
+      "id": "b19",
+      "tipo": "titulo",
+      "texto": "Sintomas B"
+    },
+    {
+      "id": "b20",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Sintomas B",
+      "md": "Quando há outras manifestações **além** do aumento dos linfonodos ou do comprometimento de órgãos extranodais, diz-se que o paciente apresenta **sintomas B**."
+    },
+    {
+      "id": "b21",
+      "tipo": "cartoes",
+      "titulo": "Os sintomas B, com os números",
+      "itens": [
+        {
+          "titulo": "Febre",
+          "texto": "**Acima de 38 °C**, geralmente vespertina, sem causa aparente.",
+          "emoji": "🌡️"
+        },
+        {
+          "titulo": "Sudorese noturna",
+          "texto": "**Abundante**.",
+          "emoji": "💧"
+        },
+        {
+          "titulo": "Perda de peso",
+          "texto": "**Mais de 10% do peso em menos de 6 meses**, sem causa evidente.",
+          "emoji": "⚖️"
+        },
+        {
+          "titulo": "Prurido (extra)",
+          "texto": "Pode aparecer no Linfoma de Hodgkin e nas neoplasias linfoides T/NK. O resumo lista junto, como “pode ter”.",
+          "emoji": "✋"
+        }
+      ]
+    },
+    {
+      "id": "b22",
+      "tipo": "destaque",
+      "estilo": "mnemonico",
+      "titulo": "38 · 10 · 6",
+      "md": "**38** °C de febre · **10**% do peso · **6** meses. Some a sudorese noturna e os sintomas B estão completos."
+    },
+    {
+      "id": "b23",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Sintomas B não são exclusivos de linfoma",
+      "md": "Linfonodomegalia cervical + sudorese + febre + perda de peso: um dos principais diagnósticos diferenciais é a **tuberculose** — afirmativa **verdadeira** no gabarito oficial da Prova 145 (o item se repete na 148). No roteiro do capítulo 1, ela é uma das três hipóteses da pergunta “o que é?”."
+    },
+    {
+      "id": "b24",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: as letras A e B depois do estádio",
+      "blocos": [
+        {
+          "id": "b25",
+          "tipo": "texto",
+          "md": "Complemento: no sistema de Ann Arbor, escreve-se **A** depois do estádio quando não há sintomas B e **B** quando há (ex.: IIB). Nas fontes, isso só aparece em um gabarito não oficial (“Ann Arbor modificado”); o resumo da aula não traz. Se for usar, use certo."
+        }
+      ]
+    },
+    {
+      "id": "b26",
+      "tipo": "quiz",
+      "pergunta": "Qual destes NÃO é um sintoma B?",
+      "opcoes": [
+        "Febre acima de 38 °C sem causa aparente",
+        "Sudorese noturna abundante",
+        "Perda de mais de 10% do peso em menos de 6 meses",
+        "Linfonodo doloroso à palpação"
+      ],
+      "correta": 3,
+      "explicacao": "Sintomas B são manifestações além do aumento dos linfonodos: febre (> 38 °C), sudorese noturna e perda de peso (> 10% em < 6 meses). Dor no linfonodo é característica do próprio linfonodo, não sintoma B."
+    },
+    {
+      "id": "b27",
+      "tipo": "titulo",
+      "texto": "Treino: cenários das provas"
+    },
+    {
+      "id": "b28",
+      "tipo": "quiz",
+      "pergunta": "(Prova sem ano) Mulher, 60 anos, linfonodomegalia cervical e axilar, febre, sudorese e perda ponderal nos últimos 7 meses. Qual é o estadiamento?",
+      "opcoes": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correta": 1,
+      "explicacao": "Estádio II: duas cadeias (cervical e axilar), ambas acima do diafragma. A febre, a sudorese e a perda de peso são sintomas B — não mudam o número do estádio."
+    },
+    {
+      "id": "b29",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Os gabaritos não oficiais erraram este",
+      "md": "Esse cenário **não tem gabarito oficial**. O chat respondeu III (“lados diferentes do diafragma”) e o gabarito de aluno respondeu I (“só uma cadeia”). Pelo critério do resumo, nenhum dos dois fecha: cervical e axilar são **duas cadeias**, ambas **acima** do diafragma → **estádio II**."
+    },
+    {
+      "id": "b30",
+      "tipo": "quiz",
+      "pergunta": "Homem, 39 anos, Linfoma de Hodgkin com linfonodomegalia cervical, supraclavicular e mediastinal. Qual o estádio?",
+      "opcoes": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correta": 1,
+      "explicacao": "Estádio II: três cadeias, todas acima do diafragma. Repare na sequência cervical → supraclavicular → mediastinal: cadeias vizinhas, o padrão de contiguidade típico do Hodgkin. (Cenário de uma prova sem ano; lá o estádio não foi perguntado.)"
+    },
+    {
+      "id": "b31",
+      "tipo": "revelar",
+      "pergunta": "Homem, 55 anos, linfonodomegalia cervical bilateral, sem outros sítios descritos. Qual foi o estádio no gabarito oficial?",
+      "resposta": "**Estádio I.** O professor tratou a região cervical como um único grupo de linfonodos. Complemento: em esquemas mais detalhados, cervical direita e esquerda contam como regiões separadas, o que daria II — mas o gabarito oficial é I. Na prova do professor: cervical bilateral isolada = estádio I."
+    },
+    {
+      "id": "b32",
+      "tipo": "quiz",
+      "pergunta": "Linfoma de Hodgkin com linfonodos cervicais e mediastinais acometidos e comprometimento do baço. Qual o estádio?",
+      "opcoes": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correta": 2,
+      "explicacao": "Estádio III. Os linfonodos estão todos acima do diafragma, mas a regra do resumo é direta: baço comprometido já leva ao estádio III."
+    },
+    {
+      "id": "b33",
+      "tipo": "quiz",
+      "pergunta": "Linfoma com linfonodomegalia generalizada e infiltração difusa do fígado e da medula óssea. Qual o estádio?",
+      "opcoes": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correta": 3,
+      "explicacao": "Estádio IV: comprometimento difuso de órgãos extralinfáticos — doença disseminada e infiltrativa. A quantidade de cadeias linfonodais deixa de importar."
+    },
+    {
+      "id": "b34",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "O estádio esperado em cada grupo",
+      "md": "Da tabela Hodgkin × não Hodgkin do resumo: o **Linfoma de Hodgkin** costuma ser diagnosticado em **estádio I ou II**. Nos **não Hodgkin**, depende do tipo: indolentes e altamente agressivos chegam frequentemente em **III ou IV**; os agressivos, em I, II ou III."
+    },
+    {
+      "id": "b35",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Resposta-modelo: “Descreva o estadiamento dos linfomas de Hodgkin”",
+      "md": "“O estadiamento é feito pelos critérios de **Ann Arbor**; avalia a extensão da doença, tem valor **prognóstico** e **orienta o tratamento**. **Estádio I**: comprometimento de uma única cadeia linfonodal. **Estádio II**: duas ou mais cadeias do mesmo lado do diafragma. **Estádio III**: cadeias de ambos os lados do diafragma ou comprometimento do baço. **Estádio IV**: comprometimento difuso de um ou mais órgãos extralinfáticos. Acrescenta-se **E** ao acometimento extranodal, **S** ao do baço e **X** ao tumor maior que 10 cm. **Sintomas B**: febre acima de 38 °C, sudorese noturna e perda de mais de 10% do peso em menos de 6 meses.”"
+    },
+    {
+      "id": "b36",
+      "tipo": "resumo",
+      "itens": [
+        "Estadiar = medir a extensão da doença. É **indicador prognóstico** e **orienta o tratamento**; não sai só da biópsia.",
+        "**I**: uma cadeia. **II**: duas ou mais, mesmo lado do diafragma. **III**: dos dois lados do diafragma **ou baço**. **IV**: órgão extralinfático, de forma difusa.",
+        "Conte **cadeias**, não linfonodos: 3 linfonodos cervicais = I; cervical + axilar = II; cervical + axilar + inguinal = III.",
+        "Sufixos: **E** extranodal (não existe IIIE nem IVE), **S** baço, **X** tumor > 10 cm. Mediastino > 1/3 do tórax = *bulky disease*.",
+        "**Sintomas B**: febre > 38 °C, sudorese noturna abundante, perda > 10% do peso em < 6 meses. Tuberculose é o diferencial clínico.",
+        "Estádio III **não** é leucemização nem doença disseminada."
+      ]
+    }
+  ]
+}

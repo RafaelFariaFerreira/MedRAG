@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 658" width="600" height="658">
+<rect width="600" height="658" fill="#FFFFFF"/>
+<path d="M300,63.7 L300,72.7 Q300,80.7 292,80.7 L162,80.7 Q154,80.7 154,88.7 L154,97.7" fill="none" stroke="#5B4BC4" stroke-width="2" stroke-linecap="round"/>
+<path d="M300,63.7 L300,72.7 Q300,80.7 308,80.7 L438,80.7 Q446,80.7 446,88.7 L446,97.7" fill="none" stroke="#1B7F79" stroke-width="2" stroke-linecap="round"/>
+<path d="M25,192.6 L25,245.2 Q25,252.2 32,252.2 L36,252.2" fill="none" stroke="#5B4BC4" stroke-width="2" stroke-linecap="round"/>
+<path d="M45,297.8 L45,316.7 Q45,323.7 52,323.7 L56,323.7" fill="none" stroke="#BDB5EC" stroke-width="2" stroke-linecap="round"/>
+<path d="M45,297.8 L45,358.5 Q45,365.5 52,365.5 L56,365.5" fill="none" stroke="#BDB5EC" stroke-width="2" stroke-linecap="round"/>
+<path d="M45,297.8 L45,400.3 Q45,407.3 52,407.3 L56,407.3" fill="none" stroke="#BDB5EC" stroke-width="2" stroke-linecap="round"/>
+<path d="M45,297.8 L45,442 Q45,449 52,449 L56,449" fill="none" stroke="#BDB5EC" stroke-width="2" stroke-linecap="round"/>
+<path d="M25,192.6 L25,519.5 Q25,526.5 32,526.5 L36,526.5" fill="none" stroke="#5B4BC4" stroke-width="2" stroke-linecap="round"/>
+<path d="M45,572.1 L45,602.9 Q45,609.9 52,609.9 L56,609.9" fill="none" stroke="#BDB5EC" stroke-width="2" stroke-linecap="round"/>
+<path d="M317,192.6 L317,233.3 Q317,240.3 324,240.3 L328,240.3" fill="none" stroke="#1B7F79" stroke-width="2" stroke-linecap="round"/>
+<path d="M317,192.6 L317,351.2 Q317,358.2 324,358.2 L328,358.2" fill="none" stroke="#1B7F79" stroke-width="2" stroke-linecap="round"/>
+<path d="M317,192.6 L317,469.2 Q317,476.2 324,476.2 L328,476.2" fill="none" stroke="#1B7F79" stroke-width="2" stroke-linecap="round"/>
+<path d="M317,192.6 L317,587.1 Q317,594.1 324,594.1 L328,594.1" fill="none" stroke="#1B7F79" stroke-width="2" stroke-linecap="round"/>
+<rect x="205" y="16" width="190" height="47.7" rx="22" fill="#F3F0EA" stroke="#5F5B55" stroke-width="2"/>
+<text x="300" y="49.7" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="26" text-anchor="middle" font-weight="700" fill="#1C1B1A">Linfomas</text>
+<rect x="16" y="97.7" width="276" height="94.9" rx="12" fill="#D9D4F5" stroke="#5B4BC4" stroke-width="2"/>
+<text x="29" y="130.5" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="24" font-weight="700" fill="#2E2478">Hodgkin</text>
+<text x="29" y="155.5" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">tem célula de</text>
+<text x="29" y="179.3" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">Reed-Sternberg</text>
+<rect x="36" y="206.6" width="256" height="91.2" rx="12" fill="#ECEAFA" stroke="#5B4BC4" stroke-width="1.5"/>
+<text x="49" y="236.5" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="21" font-weight="700" fill="#2E2478">Clássico</text>
+<text x="49" y="260.7" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">CD15+ CD30+</text>
+<text x="49" y="284.5" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">CD20− CD45−</text>
+<rect x="56" y="305.8" width="236" height="35.8" rx="10" fill="#FFFFFF" stroke="#BDB5EC" stroke-width="1.5"/>
+<text x="69" y="331.3" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">Esclerose nodular</text>
+<rect x="56" y="347.6" width="236" height="35.8" rx="10" fill="#FFFFFF" stroke="#BDB5EC" stroke-width="1.5"/>
+<text x="69" y="373.1" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">Celularidade mista</text>
+<rect x="56" y="389.4" width="236" height="35.8" rx="10" fill="#FFFFFF" stroke="#BDB5EC" stroke-width="1.5"/>
+<text x="69" y="414.9" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">Rico em linfócitos</text>
+<rect x="56" y="431.2" width="236" height="35.8" rx="10" fill="#FFFFFF" stroke="#BDB5EC" stroke-width="1.5"/>
+<text x="69" y="456.7" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">Depleção linfocitária</text>
+<rect x="36" y="480.9" width="256" height="91.2" rx="12" fill="#ECEAFA" stroke="#5B4BC4" stroke-width="1.5"/>
+<text x="49" y="510.9" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="21" font-weight="700" fill="#2E2478">Não clássico</text>
+<text x="49" y="535.1" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">CD20+ CD45+</text>
+<text x="49" y="558.9" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">CD15− CD30−</text>
+<rect x="56" y="580.1" width="236" height="59.6" rx="10" fill="#FFFFFF" stroke="#BDB5EC" stroke-width="1.5"/>
+<text x="69" y="605.7" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">Predominância</text>
+<text x="69" y="629.5" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">linfocítica nodular</text>
+<rect x="308" y="97.7" width="276" height="94.9" rx="12" fill="#CBE7E4" stroke="#1B7F79" stroke-width="2"/>
+<text x="321" y="130.5" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="24" font-weight="700" fill="#0F4F4B">Não Hodgkin</text>
+<text x="321" y="155.5" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">sem célula de</text>
+<text x="321" y="179.3" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">Reed-Sternberg</text>
+<rect x="328" y="206.6" width="256" height="67.4" rx="12" fill="#E6F3F2" stroke="#1B7F79" stroke-width="1.5"/>
+<text x="341" y="236.5" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="21" font-weight="700" fill="#0F4F4B">Indolentes</text>
+<text x="341" y="260.7" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">folicular, MALT, LLC</text>
+<rect x="328" y="312.6" width="256" height="91.2" rx="12" fill="#E6F3F2" stroke="#1B7F79" stroke-width="1.5"/>
+<text x="341" y="342.6" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="21" font-weight="700" fill="#0F4F4B">Agressivos</text>
+<text x="341" y="366.8" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">difuso de grandes</text>
+<text x="341" y="390.6" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">células B</text>
+<rect x="328" y="442.5" width="256" height="67.4" rx="12" fill="#E6F3F2" stroke="#1B7F79" stroke-width="1.5"/>
+<text x="341" y="472.4" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="21" font-weight="700" fill="#0F4F4B">Altamente agressivos</text>
+<text x="341" y="496.6" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">Burkitt</text>
+<rect x="328" y="548.5" width="256" height="91.2" rx="12" fill="#E6F3F2" stroke="#1B7F79" stroke-width="1.5"/>
+<text x="341" y="578.5" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="21" font-weight="700" fill="#0F4F4B">Células T</text>
+<text x="341" y="602.7" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">micose fungoide /</text>
+<text x="341" y="626.5" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif" font-size="19.5" fill="#1C1B1A">Sézary</text>
+</svg>

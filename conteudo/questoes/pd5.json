@@ -1,0 +1,122 @@
+{
+  "prova": {
+    "id": "pd5",
+    "titulo": "Ano desconhecido 5",
+    "temas": "Tireoide",
+    "periodo": "desconhecido",
+    "gabarito_fonte": "oficial",
+    "paginas": [105, 107]
+  },
+  "questoes": [
+    {
+      "id": "pd5-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "tireoide",
+      "topicos": ["tir-papilifero", "tir-hashimoto", "tir-folicular", "tir-anaplasico"],
+      "enunciado": "Paciente masculino, 80 anos, chega à emergência com abaulamento da região cervical anterior e insuficiência respiratória. À palpação encontra-se massa endurecida, aderida a planos profundos em topografia de tireoide. Realizada biópsia da massa, onde são achados: extensa necrose, acentuado pleomorfismo celular e alto índice mitótico. Sua filha relata que foi operado em 1987 por lesão nodular constituída por células com cromatina clara, ranhuras nucleares e pseudo-inclusões. O restante do parênquima mostrava moderado infiltrado linfoplasmocitário, atrofia acinar, traves fibrosas e transformação oxifílica citoplasmática. No mesmo ato cirúrgico, foi encontrado linfonodo cervical aumentado com o mesmo aspecto da lesão nodular. Em 2000, volta a ser operado por outra lesão nodular. O exame microscópico evidenciou células com núcleos hipercromáticos. A lesão comprometia a cápsula da glândula e infiltrava os vasos sanguíneos.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Quais os prováveis diagnósticos da cirurgia de 1987?",
+          "resposta_modelo": "**Carcinoma papilífero da tireoide e tireoidite de Hashimoto.**",
+          "checklist": [
+            "Carcinoma papilífero",
+            "Tireoidite de Hashimoto"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Explique os seus diagnósticos com as características do texto.",
+          "resposta_modelo": "**Carcinoma papilífero:** lesão nodular constituída por células com cromatina clara, ranhuras nucleares e pseudo-inclusões (o núcleo é que faz o diagnóstico). **Tireoidite de Hashimoto:** moderado infiltrado linfoplasmocitário, atrofia acinar, traves fibrosas e transformação oxifílica citoplasmática (células oncocíticas/de Hürthle).",
+          "checklist": [
+            "Papilífero: cromatina clara, ranhuras nucleares, pseudo-inclusões",
+            "Hashimoto: infiltrado linfoplasmocitário",
+            "Hashimoto: atrofia acinar e traves fibrosas",
+            "Hashimoto: transformação oxifílica citoplasmática"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Explique o achado linfonodal cervical.",
+          "resposta_modelo": "O carcinoma papilífero cursa com **disseminação linfática** e, portanto, acomete os linfonodos cervicais (metástase linfonodal).",
+          "checklist": [
+            "Disseminação linfática do carcinoma papilífero",
+            "Metástase para linfonodo cervical"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Qual o resultado de exames laboratoriais do paciente em 1987 quanto aos hormônios T3, T4 e TSH?",
+          "resposta_modelo": "**T3 e T4 baixos e TSH alto**, em hipotireoidismo (pela tireoidite de Hashimoto).",
+          "checklist": [
+            "T3 e T4 baixos",
+            "TSH alto",
+            "Hipotireoidismo"
+          ]
+        },
+        {
+          "letra": "e",
+          "pergunta": "Qual o provável diagnóstico da cirurgia em 2000?",
+          "resposta_modelo": "**Carcinoma folicular da tireoide.**",
+          "checklist": [
+            "Carcinoma folicular"
+          ]
+        },
+        {
+          "letra": "f",
+          "pergunta": "Explique o seu diagnóstico anterior de acordo com as características no texto.",
+          "resposta_modelo": "Células com núcleos hipercromáticos em lesão nodular que **comprometia a cápsula da glândula e infiltrava os vasos sanguíneos** — a invasão capsular e vascular é o que caracteriza o carcinoma folicular (e o diferencia do adenoma folicular).",
+          "checklist": [
+            "Núcleos hipercromáticos",
+            "Comprometimento (invasão) da cápsula",
+            "Infiltração dos vasos sanguíneos"
+          ]
+        },
+        {
+          "letra": "g",
+          "pergunta": "Cite dois possíveis sítios principais de metástase da lesão tireoidiana operada em 2000.",
+          "resposta_modelo": "**Osso e fígado** (também cérebro e pulmão), por disseminação hematogênica.",
+          "checklist": [
+            "Dois entre: osso, fígado, cérebro (pulmão)",
+            "Via hematogênica"
+          ]
+        },
+        {
+          "letra": "h",
+          "pergunta": "Qual o provável diagnóstico da lesão atual?",
+          "resposta_modelo": "**Carcinoma anaplásico (indiferenciado) da tireoide.**",
+          "checklist": [
+            "Carcinoma anaplásico (indiferenciado)"
+          ]
+        },
+        {
+          "letra": "i",
+          "pergunta": "Justifique o seu diagnóstico da lesão atual.",
+          "resposta_modelo": "Massa endurecida, aderida a planos profundos, em topografia de tireoide, com **extensa necrose, acentuado pleomorfismo celular e alto índice mitótico**.",
+          "checklist": [
+            "Massa endurecida aderida a planos profundos",
+            "Extensa necrose",
+            "Acentuado pleomorfismo celular",
+            "Alto índice mitótico"
+          ]
+        },
+        {
+          "letra": "j",
+          "pergunta": "Existe relação entre as lesões tireoidianas? Explique.",
+          "resposta_modelo": "**Sim.** O carcinoma anaplásico originou-se das neoplasias anteriores (papilífero e folicular), que eram diferenciadas e se indiferenciaram.",
+          "checklist": [
+            "Sim, há relação",
+            "Anaplásico originado das neoplasias diferenciadas anteriores",
+            "Processo de indiferenciação"
+          ]
+        }
+      ],
+      "explicacao": "Este caso se repete nas provas (é a questão 6 da pd1) e segue a história que o professor conta do carcinoma anaplásico: homem idoso com várias cirurgias de tireoide e aumento cervical abrupto com insuficiência respiratória. Três pares para fixar: **papilífero** = núcleo (cromatina clara, fendas, pseudo-inclusões) + via **linfática**; **folicular** = invasão de **cápsula e vasos** + via **hematogênica** (osso, fígado, cérebro, pulmão); **anaplásico** = necrose, pleomorfismo e mitoses, vindo da indiferenciação dos anteriores. O parênquima com infiltrado linfoplasmocitário, atrofia, fibrose e células oxifílicas é Hashimoto, que explica o TSH alto com T3/T4 baixos.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Mesma questão da pd1 (questão 6), aqui com o item f (justificar o carcinoma folicular) no lugar do item cancelado e com a pergunta sobre a relação entre as lesões no fim. Não há foto: segundo o compilado, a fonte é o arquivo \"Questões discursivas de provas antigas divididas por assunto\"."
+    }
+  ]
+}

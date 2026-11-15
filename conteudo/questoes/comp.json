@@ -1,0 +1,1269 @@
+{
+  "prova": {
+    "id": "comp",
+    "titulo": "Compilado de questões de Linfomas",
+    "temas": "Linfomas",
+    "periodo": "desconhecido",
+    "gabarito_fonte": "aluno",
+    "paginas": [
+      108,
+      119
+    ]
+  },
+  "questoes": [
+    {
+      "id": "comp-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-deplecao",
+        "lin-lh-geral",
+        "lin-estadiamento"
+      ],
+      "enunciado": "Indivíduo do sexo masculino, 55 anos, com sudorese noturna e perda de peso, apresenta linfonodomegalia cervical, indolor, bilateral. Submetido à biópsia excisional de um dos linfonodos e enviado material ao laboratório de Anatomia Patológica. O exame microscópico revelou apagamento da arquitetura nodal às custas de proliferação difusa de pequenos linfócitos espaçados entre si por trama colágena e em meio aos quais eram identificadas células grandes de citoplasma abundante e um ou dois núcleos grandes, atípicos e com nucléolos evidentes.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o provável diagnóstico (nome completo da doença)?",
+          "resposta_modelo": "**Linfoma de Hodgkin clássico, tipo depleção linfocitária.**",
+          "checklist": [
+            "Escrever \"Linfoma de Hodgkin\" antes do tipo",
+            "Tipo (subtipo) depleção linfocitária"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite cinco marcadores imuno-histoquímicos e os resultados, os quais em conjunto corroborariam o diagnóstico acima.",
+          "resposta_modelo": "**CD15 positivo; CD30 positivo; CD45 negativo; CD20 (ou CD19) negativo — ou PAX5 positivo fraco; BCL-6 negativo.** A marcação é pesquisada nas células de Reed-Sternberg/Hodgkin.",
+          "checklist": [
+            "CD15 positivo e CD30 positivo",
+            "CD45 negativo",
+            "CD20 ou CD19 negativo (ou PAX5 positivo fraco)",
+            "BCL-6 negativo — sempre dizer se é positivo ou negativo"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Qual é o estadiamento do paciente?",
+          "resposta_modelo": "**Estádio I** de Ann Arbor: há comprometimento de um único grupo/cadeia de linfonodos (cervical).",
+          "checklist": [
+            "Estádio I (Ann Arbor)",
+            "Justificativa: uma única cadeia linfonodal (cervical) acometida"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Qual é o tipo de disseminação mais comum nesta doença?",
+          "resposta_modelo": "**Disseminação por contiguidade**, para as cadeias linfonodais adjacentes (cervical → supraclavicular → mediastinal…).",
+          "checklist": [
+            "Por contiguidade",
+            "Para cadeias linfonodais adjacentes"
+          ]
+        },
+        {
+          "letra": "e",
+          "pergunta": "Quais são os nomes (completos) das células grandes descritas no texto?",
+          "resposta_modelo": "**Célula de Reed-Sternberg, variante clássica** (a de dois núcleos, \"em espelho\") **e célula de Hodgkin** (a de um núcleo, forma mononuclear da célula de Reed-Sternberg).",
+          "checklist": [
+            "Célula de Reed-Sternberg, variante clássica (binucleada)",
+            "Célula de Hodgkin (mononucleada)"
+          ]
+        }
+      ],
+      "explicacao": "O texto descreve células grandes com **um ou dois núcleos** e nucléolos eosinofílicos evidentes (células de Hodgkin e de Reed-Sternberg) em um linfonodo com a arquitetura apagada: é linfoma de Hodgkin. Os linfócitos **espaçados entre si por trama colágena** (poucos linfócitos, fibrose difusa) apontam para o tipo depleção linfocitária. Como é uma forma clássica, vale o perfil CD15+/CD30+ com CD20−/CD45−. Só a cadeia cervical está acometida, logo estádio I, e o LH caminha por contiguidade.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Mesma questão 1 da prova \"Ano desconhecido 1\" (pd1); o gabarito do compilado reproduz o gabarito oficial daquela prova (conferido na foto da pág. 87). No item e, o gabarito escreve \"variante clássica\" duas vezes, com \"(ou célula de Hodgkin)\" na segunda: entende-se a forma binucleada (clássica) e a mononucleada (célula de Hodgkin)."
+    },
+    {
+      "id": "comp-q02",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-folicular",
+        "lfa-hiperplasia-vs-linfoma-folicular"
+      ],
+      "enunciado": "Paciente masculino, 60 anos, HIV positivo, com história de febre, perda de peso e linfonodomegalia axilar e inguinal. Relata convivência com animais (seis gatos e três cachorros) de estimação. Submetido à biópsia encontram-se numerosas e predominantes estruturas foliculares com desaparecimento da coroa linfocitária e comprometimento do tecido adiposo peri linfonodal. Na imuno-histoquímica, CD20+ e CD3-.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o diagnóstico morfológico (completo) segundo a descrição apresentada?",
+          "resposta_modelo": "**Linfoma não Hodgkin, tipo folicular.**",
+          "checklist": [
+            "Escrever \"Linfoma não Hodgkin\" antes do tipo",
+            "Tipo folicular"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite duas características morfológicas que dão suporte ao seu diagnóstico.",
+          "resposta_modelo": "Numerosas e predominantes **estruturas foliculares**; **desaparecimento da coroa linfocitária**; **invasão da gordura perilinfonodal**; imuno-histoquímica compatível com célula B (CD20+, CD3−).",
+          "checklist": [
+            "Numerosas estruturas foliculares",
+            "Desaparecimento da coroa linfocitária",
+            "Invasão do tecido adiposo perilinfonodal"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Cite outros dois marcadores imuno-histoquímicos relevantes que contribuem para o diagnóstico.",
+          "resposta_modelo": "**BCL-2 positivo** (o principal: separa o linfoma da hiperplasia folicular) e **CD10 positivo**; também valem CD19 e CD79a positivos (marcadores B).",
+          "checklist": [
+            "BCL-2 positivo",
+            "CD10 positivo (ou CD19 / CD79a positivos)",
+            "Informar positividade"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Cite um diagnóstico diferencial (COMPLETO), inespecífico.",
+          "resposta_modelo": "**Hiperplasia folicular reacional** (linfadenopatia crônica inespecífica de padrão folicular).",
+          "checklist": [
+            "Hiperplasia folicular reacional",
+            "É a linfadenopatia crônica inespecífica que faz diferencial com o linfoma folicular"
+          ]
+        }
+      ],
+      "explicacao": "Folículos numerosos **sem coroa linfocitária** e **invadindo a gordura perilinfonodal**, com CD20+ e CD3−, formam o conjunto do linfoma folicular (célula B do centro germinativo). Na hiperplasia folicular reacional os folículos têm tamanhos diferentes, a coroa está presente, não há invasão da gordura e o BCL-2 é negativo. HIV e gatos são distratores (linfadenopatia do HIV, toxoplasmose, arranhadura do gato): a morfologia decide. Lembre: só invadir gordura não basta; o BCL-2 positivo é a principal característica.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Mesma questão 2 da pd1; o gabarito do compilado reproduz o oficial. No item d o compilado traz \"Hiperplasia Folicular Reacional\", igual ao que se lê na foto do gabarito da pd1 (pág. 87)."
+    },
+    {
+      "id": "comp-q03",
+      "numero": "3",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-burkitt"
+      ],
+      "enunciado": "Paciente masculino, 48 anos, HIV positivo, com febre, anemia, leucopenia, linfonodomegalias generalizadas e acometimento extranodal. No estudo histopatológico proliferação de células de tamanho médio com núcleos redondos e citoplasma basofílico. Presença de numerosos macrófagos fagocitando restos celulares, alto índice mitótico e índice de proliferação celular próximo a 100%.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o provável diagnóstico (COMPLETO)?",
+          "resposta_modelo": "**Linfoma não Hodgkin, tipo de Burkitt** (forma associada à imunodeficiência/HIV).",
+          "checklist": [
+            "Escrever \"Linfoma não Hodgkin\" antes do tipo",
+            "Tipo de Burkitt"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite um painel imuno-histoquímico (quatro marcadores principais) para o caso, relatando sua positividade ou negatividade.",
+          "resposta_modelo": "**CD20 positivo, CD10 positivo, BCL-6 positivo e BCL-2 negativo.** Gabarito completo: marcadores B (CD20, CD19, CD22, CD79a) positivos; marcadores T (CD3, CD4, CD5) negativos; BCL-6 e CD10 positivos; CD23 e BCL-2 negativos; Ki-67 ≈ 100%.",
+          "checklist": [
+            "Marcador B positivo (CD20, CD19, CD22 ou CD79a)",
+            "CD10 e BCL-6 positivos",
+            "BCL-2 negativo (e CD23 negativo)",
+            "Dizer positivo/negativo em cada marcador"
+          ]
+        }
+      ],
+      "explicacao": "Células de **tamanho médio**, núcleos redondos, citoplasma basofílico, muitos macrófagos fagocitando restos celulares (o **céu estrelado**) e proliferação de quase 100% definem o linfoma de Burkitt; o HIV aponta a forma associada à imunodeficiência. É neoplasia de célula B madura do centro germinativo: marcadores B, CD10 e BCL-6 positivos, com a notável **ausência de BCL-2**. Atenção: o professor avisou que o Ki-67 é índice de proliferação e não conta como marcador — não gaste um dos quatro com ele.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Mesma questão 5 da pd1; o gabarito do compilado reproduz o oficial. O gabarito inclui \"Ki67 de 100%\", mas o professor avisou que Ki-67 é índice de proliferação e não conta como marcador."
+    },
+    {
+      "id": "comp-q04",
+      "numero": "4",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral"
+      ],
+      "enunciado": "Assinale Verdadeiro (V) ou Falso (F) nas afirmativas abaixo.",
+      "itens": [
+        {
+          "texto": "Os linfomas de Hodgkin compreendem um grupo de neoplasias linfoides que difere dos Linfomas não-Hodgkin em vários aspectos: características morfológicas, localização dos linfonodos acometidos, forma de disseminação e frequência de acometimento de sítios extranodais.",
+          "resposta": true,
+          "justificativa": "É a tabela LH × LNH: o LH tem célula de Reed-Sternberg, começa em geral nos linfonodos cervicais, progride por contiguidade e quase nunca é primário extranodal; no LNH o acometimento extranodal primário chega a 40% dos casos."
+        },
+        {
+          "texto": "Cada subtipo de Linfoma de Hodgkin apresenta um perfil imuno-histoquímico específico.",
+          "resposta": false,
+          "justificativa": "Os quatro subtipos clássicos (esclerose nodular, celularidade mista, rico em linfócitos e depleção linfocitária) têm o mesmo perfil: CD15+ e CD30+, CD20− e CD45−. Só a forma não clássica (predominância linfocítica nodular) tem perfil diferente, invertido."
+        },
+        {
+          "texto": "Os linfomas de Hodgkin devem ser diferenciados de outras condições que exibem células semelhantes às de Reed-Sternberg como a mononucleose infecciosa, certas neoplasias de tecidos sólidos e o linfoma difuso de grandes células.",
+          "resposta": true,
+          "justificativa": "Células grandes parecidas com a de Reed-Sternberg não são exclusivas do LH; por isso o diagnóstico exige o contexto (fundo inflamatório) e a imuno-histoquímica."
+        },
+        {
+          "texto": "A disseminação da doença de Hodgkin é notavelmente estereotipada: primeiramente doença nodal, seguida por doença esplênica, doença hepática e finalmente o acometimento da medula óssea e de outros tecidos.",
+          "resposta": true,
+          "justificativa": "O LH se dissemina de forma ordenada, por contiguidade, obedecendo a distribuição das cadeias linfonodais antes de atingir baço, fígado e medula óssea."
+        },
+        {
+          "texto": "Os sobreviventes de longa duração da quimioterapia e da radioterapia apresentam um maior risco de desenvolvimento de neoplasias malignas secundárias como a leucemia mieloide aguda, câncer de mama, câncer pulmonar, câncer gástrico, sarcoma e melanoma.",
+          "resposta": true,
+          "justificativa": "O tratamento cura a maioria, mas quimio e radioterapia aumentam o risco de segundas neoplasias a longo prazo."
+        },
+        {
+          "texto": "O diagnóstico dos linfomas de Hodgkin é fundamentado nas características histopatológicas que determinam os seus subtipos histológicos.",
+          "resposta": false,
+          "justificativa": "A histopatologia sozinha não basta: são necessários também os marcadores imuno-histoquímicos, inclusive para o diferencial com outros linfomas, principalmente o difuso de grandes células B. \"Não existe linfoma sem imuno-histoquímica.\""
+        }
+      ],
+      "explicacao": "Gabarito: V – F – V – V – V – F. As duas falsas giram em torno da imuno-histoquímica: os subtipos **clássicos** compartilham o mesmo perfil (CD15+/CD30+, CD20−/CD45−), e o diagnóstico nunca se apoia só na morfologia. As verdadeiras resumem o comportamento do LH: disseminação ordenada, por contiguidade, e necessidade de afastar outras doenças com células semelhantes às de Reed-Sternberg.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Mesma questão 7 da pd1 (V/F conferidos na foto do gabarito, pág. 89). Comentários do compilado: \"[F - os subtipos de LH clássico apresentam semelhantes, apenas a variante não clássica que apresenta perfil IHQ diferente]\" e \"[F - sim, mas também é necessário os marcadores IHQ para fazer o diagnóstico diferencial com outros subtipos de linfomas, principalmente Difuso de Grandes Células B]\"."
+    },
+    {
+      "id": "comp-q05",
+      "numero": "5",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral",
+        "lin-burkitt",
+        "lin-dgcb"
+      ],
+      "enunciado": "A correlação com dados clínicos e laboratoriais é fundamental durante a análise anatomopatológica dos materiais de biópsia ou peças cirúrgicas, garantindo um diagnóstico mais preciso. Em casos onde há perda da arquitetura histológica normal do linfonodo e presença de células grandes, com citoplasma amplo, núcleos bilobados com cromatina dispersa e nucléolos eosinofílicos evidentes, devem ser considerados no diagnóstico diferencial, exceto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Linfoma de Hodgkin"
+        },
+        {
+          "letra": "B",
+          "texto": "Linfoma Não-Hodgkin, Tipo Difuso de Grandes Células B"
+        },
+        {
+          "letra": "C",
+          "texto": "Mononucleose infecciosa"
+        },
+        {
+          "letra": "D",
+          "texto": "Linfoma de Burkitt"
+        }
+      ],
+      "correta": "D",
+      "pede": "incorreta",
+      "explicacao": "A descrição é de células semelhantes às de Reed-Sternberg: grandes, citoplasma amplo, núcleo bilobado e nucléolo eosinofílico evidente. Elas aparecem no **linfoma de Hodgkin** e em condições que o imitam — **mononucleose infecciosa** e **linfoma difuso de grandes células B** (é o que diz a afirmativa verdadeira do V/F da questão 04). O **linfoma de Burkitt** não entra: suas células são de tamanho **médio**, monomórficas, com núcleo redondo único, nucléolos pequenos e citoplasma basofílico.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Comentário do compilado: \"D (são núcleos únicos, citoplasma basofílico, células não tão grandes)\"."
+    },
+    {
+      "id": "comp-q06",
+      "numero": "6",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-dgcb"
+      ],
+      "enunciado": "Linfoma Difuso de Grandes Células B (LDGB), o tipo mais comum de Linfoma Não-Hodgkin, compreende um grupo heterogêneo de doenças com diferentes biologias, apresentações clínicas e resposta ao tratamento. Sobre esta patologia é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Alterações nos genes BCL2, BCL6, MYC e EZH2 podem contribuir para a progressão do LDGB."
+        },
+        {
+          "letra": "B",
+          "texto": "Células neoplásicas expressam CD4, CD15, CD22, CD79, CD45RO, TCRß"
+        },
+        {
+          "letra": "C",
+          "texto": "A perda do CD2 ou CD5 favorece a variante neoplásica que apresenta alterações no gene MYC."
+        },
+        {
+          "letra": "D",
+          "texto": "As células neoplásicas em quase todos os casos de LDGB, sem outras especificações (NOS) expressam CD25."
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "O LDGCB é uma neoplasia de **células B**: expressa CD20, Pax5, CD22 e CD79a, com ciclina D1 negativa. A alternativa B mistura marcadores de linfócito T (CD4, CD45RO, TCRβ) e de Hodgkin (CD15); a C fala de CD2 e CD5, que também são marcadores T; a D cita CD25 (Complemento: receptor de IL-2, ligado a células T), que não define o LDGCB. Sobra a A — Complemento: alterações em BCL2, BCL6, MYC e EZH2 são descritas na patogênese e na progressão do LDGCB.",
+      "gabarito_fonte": "aluno",
+      "confianca": "media",
+      "observacao": "Comentário do compilado: \"A (B - errada, CD4 é de linfócitos T / C (?) Robbins e Bogliolo falam nada / D - CD25 é receptor de IL2, mais relacionado com T, tem nada nos livros)\". O resumo das aulas não traz a genética do LDGCB; a resposta se sustenta por exclusão das alternativas com marcadores T."
+    },
+    {
+      "id": "comp-q07",
+      "numero": "7",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-estadiamento",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Paciente com diagnóstico de Linfoma de Hodgkin e linfonodomegalia limitada a três linfonodos da cadeia cervical esquerda nível II, apresenta na classificação de Ann Arbor o seguinte estádio:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "IV"
+        },
+        {
+          "letra": "B",
+          "texto": "III"
+        },
+        {
+          "letra": "C",
+          "texto": "II"
+        },
+        {
+          "letra": "D",
+          "texto": "I"
+        }
+      ],
+      "correta": "D",
+      "pede": "correta",
+      "explicacao": "O estádio de Ann Arbor conta **cadeias (grupos) linfonodais**, não o número de linfonodos. Três linfonodos na mesma cadeia cervical são uma única cadeia comprometida: **estádio I**. Estádio II exigiria duas ou mais cadeias do mesmo lado do diafragma; III, os dois lados do diafragma ou o baço; IV, comprometimento difuso de órgão extralinfático.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "No original está escrito \"Ann Harbor\" (erro de digitação para Ann Arbor)."
+    },
+    {
+      "id": "comp-q08",
+      "numero": "8",
+      "tipo": "multipla",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-hiperplasia-vs-linfoma-folicular",
+        "lfa-padrao-folicular",
+        "lin-folicular"
+      ],
+      "enunciado": "Paciente feminina, 65 anos, com linfonodo de tamanho aumentado, firme e doloroso. Exibe camada cortical espessa às custas de numerosos folículos linfóides com centros germinativos proeminentes onde são visualizadas células pequenas com núcleos hipercromáticos e células grandes e claras, com restos nucleares fagocitados no citoplasma, além de figuras de mitose. A zona paracortical mostra-se pouco aparente enquanto a zona medular e a cápsula linfonodal encontram-se preservadas. A descrição morfológica acima é compatível com diagnóstico de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Hiperplasia Linfoide Folicular"
+        },
+        {
+          "letra": "B",
+          "texto": "Linfoma Folicular"
+        },
+        {
+          "letra": "C",
+          "texto": "Linfoma de Burkitt"
+        },
+        {
+          "letra": "D",
+          "texto": "Linfoma de Hodgkin, Tipo Rico em Linfócitos"
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "Folículos com **centros germinativos proeminentes**, mitoses e macrófagos com restos nucleares fagocitados (aspecto próximo ao céu estrelado), com **cápsula e medular preservadas**, descrevem a hiperplasia folicular reacional. No linfoma folicular a coroa linfocitária desaparece, os folículos são parecidos entre si e há invasão da cápsula e da gordura perilinfonodal — nada disso está no texto. A idade (65 anos) é o distrator para linfoma folicular; linfonodo doloroso fala a favor de processo reacional.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Comentário do compilado: \"A (é o gabarito, se você for ver, é o que mais faz sentido, Folicular eles sempre falam de acometer cápsula, gordura perilinfonodal, etc.)\"."
+    },
+    {
+      "id": "comp-q09",
+      "numero": "9",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-micose-fungoide"
+      ],
+      "enunciado": "Masculino, 56 anos, com história de dermatite atópica. Ao exame físico apresenta várias lesões cutâneas eritematosas e descamativas, localizadas principalmente na parte superior do tronco e braços que vem se acentuando nos últimos dois anos. Relata também coceira persistente nas áreas afetadas. A biópsia revelou infiltrado linfocitário, espongiose, linfócitos intraepidérmicos CD4+, pleomorfismo nuclear variável e citomorfologia cerebriforme. Considerando os dados do texto, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A lesão tem microabscessos de Munro compostos de células TCD4+"
+        },
+        {
+          "letra": "B",
+          "texto": "A lesão tem microabscessos de Pautrier"
+        },
+        {
+          "letra": "C",
+          "texto": "A categoria M é baseada na presença de linfadenopatia dermatopática."
+        },
+        {
+          "letra": "D",
+          "texto": "Translocações cromossômicas recorrentes são frequentes em comparação com os linfomas de células B."
+        }
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "Lesões eritematosas no tronco superior, linfócitos T CD4+ **dentro da epiderme** (epidermotropismo) e núcleo **cerebriforme** definem a micose fungoide, linfoma não Hodgkin cutâneo de células T. Os agregados intraepidérmicos desses linfócitos chamam-se **microabscessos de Pautrier**. Complemento: microabscesso de Munro é coleção de neutrófilos na camada córnea da psoríase — a alternativa A troca o epônimo. Complemento: no estadiamento, linfonodo é categoria N (M é metástase visceral) e translocações recorrentes são típicas dos linfomas B, não dos T.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Comentário do compilado: \"B (A - nome do cara errado)\". No original: \"Relata também reporta coceira\" (erro de digitação)."
+    },
+    {
+      "id": "comp-q10",
+      "numero": "10",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lnh-geral"
+      ],
+      "enunciado": "Sobre os Linfomas Não-Hodgkin assinale a alternativa correta",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A progressão da doença não se faz necessariamente por contiguidade, sendo mais frequentes os casos com acometimento sistêmico ao diagnóstico, inclusive leucemização."
+        },
+        {
+          "letra": "B",
+          "texto": "Tem faixa etária bimodal, com pico de acometimento em crianças e adultos jovens e um pico menor nas faixas etárias mais avançadas."
+        },
+        {
+          "letra": "C",
+          "texto": "As células neoplásicas são a minoria <1% com microambiente reativo constituído por linfócitos, plasmócitos, eosinófilos na maioria dos casos."
+        },
+        {
+          "letra": "D",
+          "texto": "Células T ocorre com frequência no mundo ocidental, células B e NK (natural killer) são exemplos de fenótipo null (Não B-não T)."
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "A alternativa A é a linha \"progressão da doença\" da tabela LH × LNH: o LNH não segue contiguidade e com frequência já é sistêmico ao diagnóstico, até com leucemização. B e C descrevem o **linfoma de Hodgkin** (distribuição bimodal; poucas células neoplásicas em fundo reativo). D está invertida: 80–90% dos LNH são de células **B** no mundo ocidental e só 10–20% são T ou NK.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Comentário do compilado: \"A (B - bimodal é mais LH / C - contrário, são maioria)\". As mesmas frases aparecem como itens de V/F na prova pd2, com gabarito oficial concordante."
+    },
+    {
+      "id": "comp-q11",
+      "numero": "11",
+      "tipo": "vf",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral",
+        "lin-lh-esclerose-nodular",
+        "lin-lh-celularidade-mista",
+        "lin-estadiamento"
+      ],
+      "enunciado": "Assinale Verdadeiro (V) ou Falso (F) sobre os Linfomas de Hodgkin",
+      "itens": [
+        {
+          "texto": "Apresentam distribuição bimodal com picos entre 15-35 anos e 50 e 70 anos.",
+          "resposta": true,
+          "justificativa": "O LH é bimodal: um pico em jovens e outro, menor, em idades mais avançadas."
+        },
+        {
+          "texto": "A célula de Reed-Sternberg é derivada das células B do centro germinativo.",
+          "resposta": true,
+          "justificativa": "A célula neoplásica do LH tem origem em linfócito B do centro germinativo — apesar de, na forma clássica, não expressar CD20 nem CD45."
+        },
+        {
+          "texto": "A localização mediastinal é típica do subtipo esclerose nodular.",
+          "resposta": true,
+          "justificativa": "O comprometimento do mediastino é relativamente frequente no LH, principalmente na esclerose nodular."
+        },
+        {
+          "texto": "A positividade imuno-histoquímica dos marcadores indicados para o seu diagnóstico deve ser observada em todas as células que compõem a massa tumoral.",
+          "resposta": false,
+          "justificativa": "A marcação (CD15+, CD30+) é pesquisada em cima das células de Reed-Sternberg/Hodgkin, que são a minoria da massa; a maior parte do tumor é fundo inflamatório reativo, não neoplásico."
+        },
+        {
+          "texto": "Nos pacientes com linfonodomegalia cervical, sudorese, febre e perda de peso, um dos principais diagnósticos diferenciais é a tuberculose.",
+          "resposta": true,
+          "justificativa": "É o guia de diagnóstico da aula: linfonodo cervical com febre e emagrecimento — linfoma, tuberculose ou metástase."
+        },
+        {
+          "texto": "Alguns casos são associados à infecção pelo vírus Epstein-Barr.",
+          "resposta": true,
+          "justificativa": "Parte dos casos se associa ao EBV, sobretudo o tipo celularidade mista; não são todos."
+        },
+        {
+          "texto": "O linfoma de Hodgkin, tipo esclerose nodular, apresenta fundo inflamatório predominantemente linfocitário.",
+          "resposta": false,
+          "justificativa": "Na esclerose nodular os nódulos delimitados por bandas de colágeno têm fundo misto (linfócitos, eosinófilos, plasmócitos, macrófagos) com células lacunares. Fundo predominantemente linfocitário é do tipo rico em linfócitos e da predominância linfocítica nodular."
+        },
+        {
+          "texto": "Em casos de positividade imuno-histoquímica para o vírus Epstein-Barr deve-se descartar a possibilidade de mononucleose infecciosa, principalmente em adolescentes.",
+          "resposta": true,
+          "justificativa": "A mononucleose (EBV) dá linfadenopatia com células semelhantes às de Reed-Sternberg e é diferencial obrigatório, sobretudo em jovens."
+        },
+        {
+          "texto": "O estágio III da doença cursa com leucemização.",
+          "resposta": false,
+          "justificativa": "Estádio III é comprometimento de linfonodos dos dois lados do diafragma (ou do baço). Infiltração de órgãos extralinfáticos, como a medula óssea, é estádio IV; e leucemização é comportamento de LNH, não do LH."
+        },
+        {
+          "texto": "As células neoplásicas características do tipo celularidade mista são as de Reed-Sternberg, variante linfo-histiocitária.",
+          "resposta": false,
+          "justificativa": "A variante linfo-histiocitária (célula em pipoca) é da predominância linfocítica nodular, a forma não clássica. A celularidade mista é forma clássica, com células de Reed-Sternberg clássicas e mononucleares."
+        }
+      ],
+      "explicacao": "Gabarito: V – V – V – F – V – V – F – V – F – F. As falsas testam quatro ideias: a imuno-histoquímica do LH é lida **na célula neoplásica**, não no fundo; o fundo da esclerose nodular é **misto**; estádio III é **dois lados do diafragma**, sem leucemização; e cada variante de célula tem o seu tipo — **pipoca** (linfo-histiocitária) na predominância linfocítica nodular, **lacunar** na esclerose nodular.",
+      "gabarito_fonte": "aluno",
+      "confianca": "media",
+      "observacao": "Quem compilou o gabarito não tinha certeza das justificativas de duas falsas: \"[F - ? as células inflamatórias são reativas e benignas, não precisaria de IHQ]\" (4ª afirmativa) e \"[F - ? não sei porque falso, mas é verdade que também existem eosinófilos]\" (7ª). As demais: \"[F - III é linfonodos dos dois lados do diafragma, infiltração é IV]\" e \"[F - Celularidade Mista é variante clássica]\". As justificativas acima foram redigidas com base no resumo das aulas. Erros de digitação do original corrigidos (\"Aluguns\", \"cariante\")."
+    },
+    {
+      "id": "comp-q12",
+      "numero": "12",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-celularidade-mista",
+        "lin-lh-deplecao",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Paciente masculino de 39 anos foi internado em 2008 com linfonodomegalia cervical, supraclavicular e mediastinal, febre, perda de peso. Foi retirado linfonodo cervical levemente aumentado de tamanho, tendo na microscopia células grandes com nucléolos eosinofílicos e infiltrado inflamatório misto constituído de plasmócitos, linfócitos, eosinófilos e macrófagos. Após 10 anos, considerado em remissão, surge nova linfadenomegalia, sendo biopsiada e mostrando células pleomórficas e escasso infiltrado inflamatório.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o diagnóstico de 2008?",
+          "resposta_modelo": "**Linfoma de Hodgkin clássico, tipo celularidade mista.**",
+          "checklist": [
+            "Escrever \"Linfoma de Hodgkin\" antes do tipo",
+            "Tipo celularidade mista"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Qual o perfil imuno-histoquímico da sua resposta da letra A?",
+          "resposta_modelo": "**CD15 e CD30 positivos; CD20 e CD45 negativos** (marcação pesquisada nas células de Reed-Sternberg/Hodgkin).",
+          "checklist": [
+            "CD15 positivo e CD30 positivo",
+            "CD20 negativo e CD45 negativo"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Qual o diagnóstico de 2018?",
+          "resposta_modelo": "**Linfoma de Hodgkin clássico, tipo depleção linfocitária.**",
+          "checklist": [
+            "Escrever \"Linfoma de Hodgkin\" antes do tipo",
+            "Tipo depleção linfocitária"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Qual o perfil imuno-histoquímico de sua resposta na letra C?",
+          "resposta_modelo": "O mesmo da letra B: **CD15 e CD30 positivos; CD20 e CD45 negativos** — todas as formas clássicas de LH compartilham o perfil.",
+          "checklist": [
+            "Idem letra B: CD15+ e CD30+",
+            "CD20− e CD45−"
+          ]
+        },
+        {
+          "letra": "e",
+          "pergunta": "Qual o prognóstico do paciente? Explique.",
+          "resposta_modelo": "**Mau prognóstico**, por ser evolução para uma variante de maior agressividade: a celularidade mista progrediu para a depleção linfocitária, forma superagressiva do linfoma de Hodgkin.",
+          "checklist": [
+            "Mau prognóstico",
+            "Evolução/progressão da celularidade mista para depleção linfocitária",
+            "A depleção linfocitária é a variante de maior agressividade"
+          ]
+        }
+      ],
+      "explicacao": "Em 2008, células grandes com nucléolos eosinofílicos (Reed-Sternberg/Hodgkin) em fundo **misto** de plasmócitos, linfócitos, eosinófilos e macrófagos é celularidade mista. Em 2018, células **pleomórficas** com **escasso infiltrado** é depleção linfocitária — a celularidade mista tem progressão conhecida para essa forma. Como as duas são clássicas, o perfil não muda (CD15+/CD30+, CD20−/CD45−): por isso a resposta da letra D repete a da letra B. A evolução para a variante mais agressiva piora o prognóstico.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Mesma questão 3 da prova \"Ano desconhecido 3\" (pd3); o gabarito do compilado reproduz o oficial (foto da pág. 98)."
+    },
+    {
+      "id": "comp-q13",
+      "numero": "13",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-deplecao",
+        "lin-lh-geral",
+        "lin-dgcb"
+      ],
+      "enunciado": "Paciente feminino, 50 anos, apresenta linfonodomegalia mediastinal anterior, febrícula, sudorese noturna e perda ponderal nos últimos 8 meses. Realizada biópsia que evidenciou perda da arquitetura linfonodal contendo células grandes, com macronucléolos eosinofílicos e infiltrado inflamatório escasso.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o provável diagnóstico neste caso?",
+          "resposta_modelo": "**Linfoma de Hodgkin clássico.**",
+          "checklist": [
+            "Linfoma de Hodgkin (clássico)",
+            "Base: células grandes com macronucléolos eosinofílicos (Reed-Sternberg/Hodgkin)"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite o subtipo da doença indicada acima.",
+          "resposta_modelo": "**Tipo depleção linfocitária** (Linfoma de Hodgkin clássico, tipo depleção linfocitária): muitas células neoplásicas e infiltrado inflamatório escasso.",
+          "checklist": [
+            "Depleção linfocitária",
+            "Justificativa: infiltrado inflamatório escasso (poucos linfócitos)"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Indique o perfil imuno-histoquímico esperado.",
+          "resposta_modelo": "**CD15 positivo e CD30 positivo; CD20 negativo e CD45 negativo** (PAX5 positivo fraco).",
+          "checklist": [
+            "CD15 positivo e CD30 positivo",
+            "CD20 negativo e CD45 negativo",
+            "Dizer positivo/negativo"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "No caso de grande quantidade de células grandes, atípicas, com nucléolos evidentes, CD20 difusamente positivo e alto índice de proliferação celular, qual seria o provável diagnóstico? Explique.",
+          "resposta_modelo": "**Linfoma não Hodgkin, tipo difuso de grandes células B.** A grande quantidade de células grandes e atípicas com nucléolos evidentes (semelhantes a centroblastos/imunoblastos), o CD20 **difusamente** positivo — indicando que as células neoplásicas são linfócitos B e ocupam todo o tecido — e o alto índice de proliferação celular (Ki-67 alto) caracterizam esse linfoma agressivo. No linfoma de Hodgkin clássico as células neoplásicas são CD20 negativas.",
+          "checklist": [
+            "Linfoma não Hodgkin, tipo difuso de grandes células B",
+            "Células grandes, atípicas, com nucléolos evidentes em grande quantidade",
+            "CD20 difusamente positivo = neoplasia de células B",
+            "Alto índice de proliferação = linfoma agressivo"
+          ]
+        }
+      ],
+      "explicacao": "Células grandes com **macronucléolos eosinofílicos** e perda da arquitetura levam ao linfoma de Hodgkin. O subtipo sai do fundo: **infiltrado inflamatório escasso** é a marca da depleção linfocitária — o professor usa a mesma expressão na prova pd3 (\"células pleomórficas e escasso infiltrado inflamatório\" = depleção linfocitária). Como é forma clássica, CD15+/CD30+ e CD20−/CD45−. Se as células grandes forem numerosas e CD20 difusamente positivas, com proliferação alta, o diagnóstico muda para linfoma não Hodgkin difuso de grandes células B.",
+      "gabarito_fonte": "aluno",
+      "confianca": "media",
+      "observacao": "Mesma questão 1 da prova \"Ano desconhecido 4\" (pd4). Não há gabarito oficial: o próprio compilado avisa \"não achei gabarito dessas 13, 14, 15 e 16\" — as respostas são de aluno: \"A) Linfoma de Hodgkin; B) Tipo Depleção Linfocitária; C) CD15+ CD30+ Pax5+ fraco / CD20–/+ CD45–; D) Linfoma Difuso de Grandes Células B…\". DIVERGÊNCIA: o gabarito do chat da pd4 responde \"esclerose nodular\" no item b (pela localização mediastinal). Adotada a depleção linfocitária, pelo \"infiltrado inflamatório escasso\" e pela ausência de bandas de fibrose/células lacunares na descrição."
+    },
+    {
+      "id": "comp-q14",
+      "numero": "14",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-estadiamento",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Descreva o estadiamento dos linfomas de Hodgkin.",
+      "resposta_modelo": "O estadiamento é feito pelos critérios de **Ann Arbor** (4 estádios) e avalia a extensão e o prognóstico da doença. **Estádio I:** comprometimento de um único linfonodo ou de uma única cadeia (grupo) linfonodal. **Estádio II:** duas ou mais cadeias linfonodais do mesmo lado do diafragma. **Estádio III:** cadeias linfonodais de ambos os lados do diafragma ou comprometimento do baço. **Estádio IV:** doença disseminada, com comprometimento difuso (multifocal) de um ou mais órgãos extralinfáticos (fígado, medula óssea). Acrescenta-se **A** (sem sintomas) ou **B** (febre acima de 38 °C, sudorese noturna, perda de mais de 10% do peso em menos de 6 meses); **E** para acometimento extranodal localizado (IE, IIE), **S** para o baço e **X** para tumor maior que 10 cm.",
+      "checklist": [
+        "Classificação de Ann Arbor, 4 estádios",
+        "I: uma única cadeia linfonodal",
+        "II: duas ou mais cadeias do mesmo lado do diafragma",
+        "III: ambos os lados do diafragma ou baço",
+        "IV: comprometimento difuso de órgãos extralinfáticos",
+        "Sufixos A/B (sintomas B: febre, sudorese noturna, perda de peso)"
+      ],
+      "explicacao": "A referência é o **diafragma**: um grupo (I), dois ou mais do mesmo lado (II), dos dois lados (III), órgão extralinfático de forma difusa (IV). Detalhe que o professor destaca: baço comprometido já leva para o estádio III. O estadiamento é indicador prognóstico e orienta o tratamento; o LH costuma ser diagnosticado nos estádios I ou II.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Mesma questão 2 da pd4. Resposta de aluno no compilado (sem gabarito oficial): \"Ann Arbor é usado para linfomas de Hodgkin: Estágio I: envolvimento de uma única cadeia linfonodal ou órgão extranodal. Estágio II: duas ou mais cadeias linfonodais no mesmo lado do diafragma. Estágio III: ambos os lados do diafragma. Estágio IV: envolvimento extranodal disseminado (ex.: fígado, medula óssea).\" Confere com o resumo das aulas, que acrescenta: baço comprometido = estádio III, sufixos A/B, E, S e X."
+    },
+    {
+      "id": "comp-q15",
+      "numero": "15",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-burkitt"
+      ],
+      "enunciado": "Criança do sexo masculino com tumor em região mandibular de crescimento rápido e linfonodomegalia. A biópsia revela proliferação monoclonal linfocitária, alta taxa mitótica e padrão \"em céu estrelado\" de macrófagos e figuras de apoptose.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o provável diagnóstico?",
+          "resposta_modelo": "**Linfoma não Hodgkin, tipo de Burkitt** (forma endêmica, com comprometimento da mandíbula).",
+          "checklist": [
+            "Escrever \"Linfoma não Hodgkin\" antes do tipo",
+            "Tipo de Burkitt"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite três diagnósticos diferenciais.",
+          "resposta_modelo": "**Linfoma linfoblástico / leucemia linfoide aguda** (outro LNH altamente agressivo da infância); **Linfoma não Hodgkin difuso de grandes células B** (agressivo, de crescimento rápido, pode ocorrer em qualquer idade); **hiperplasia folicular reacional** (os centros germinativos reacionais também têm macrófagos com restos celulares, em aspecto próximo ao de céu estrelado).",
+          "checklist": [
+            "Linfoma linfoblástico / leucemia linfoide aguda",
+            "Linfoma não Hodgkin difuso de grandes células B",
+            "Um terceiro diferencial plausível (ex.: hiperplasia folicular reacional)"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Indique o perfil imuno-histoquímico (mínimo de três marcadores).",
+          "resposta_modelo": "**CD20 positivo, CD10 positivo, BCL-6 positivo e BCL-2 negativo** (também Pax5 positivo; CD5 e CD23 negativos). Índice de proliferação (Ki-67) próximo de 100%.",
+          "checklist": [
+            "CD20 (ou Pax5) positivo",
+            "CD10 e BCL-6 positivos",
+            "BCL-2 negativo",
+            "Ki-67 ≈ 100% citado como índice de proliferação, não como marcador"
+          ]
+        }
+      ],
+      "explicacao": "Criança, **mandíbula**, crescimento rápido, alta taxa mitótica e **céu estrelado** (macrófagos com corpos tingíveis fagocitando restos celulares) é linfoma de Burkitt, forma endêmica. É neoplasia de células B maduras do centro germinativo, altamente agressiva, com via do MYC alterada e proliferação de 100%. No painel, o destaque é o **BCL-2 negativo** ao lado de CD20, CD10 e BCL-6 positivos. O Ki-67 não conta como marcador: é índice de proliferação.",
+      "gabarito_fonte": "aluno",
+      "confianca": "media",
+      "observacao": "Mesma questão 3 da pd4. Sem gabarito oficial (\"não achei gabarito dessas 13, 14, 15 e 16\"). Resposta de aluno: \"A) Linfoma Não Hodgkin de Burkitt; B) ??? Linfoma Hodgkin / Linfoma Difuso de Grandes Células B / Linfoma Folicular (não me responsabilizo se estiver errado); C) Marcadores B: CD20, CD19, CD22, CD79a positivos / Marcadores T: CD3, CD4, CD5 negativos / Ki67 de 100% / BCL6 e CD10 positivos / CD23 e BCL2 negativos\". DIVERGÊNCIA nos diferenciais (item b): o chat da pd4 cita leucemia/linfoma linfoblástico, LDGCB e sarcoma de Ewing/rabdomiossarcoma. A resposta-modelo usa diferenciais sustentados pelo resumo das aulas (linfoma linfoblástico/LLA, LDGCB e hiperplasia folicular reacional); linfoma folicular é pouco plausível, pois praticamente não existe em crianças."
+    },
+    {
+      "id": "comp-q16",
+      "numero": "16",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-folicular",
+        "lin-estadiamento",
+        "lin-dgcb"
+      ],
+      "enunciado": "Mulher, 60 anos, linfonodomegalia cervical e axilar, febre, sudorese e perda ponderal nos últimos 7 meses. Realizada biópsia que evidenciou perda da arquitetura linfonodal com células pequenas exibindo arranjo folicular, comprometimento da gordura peri linfonodal e invasão do seio periférico.",
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual o provável diagnóstico?",
+          "resposta_modelo": "**Linfoma não Hodgkin, tipo folicular.**",
+          "checklist": [
+            "Escrever \"Linfoma não Hodgkin\" antes do tipo",
+            "Tipo folicular"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Qual é o estadiamento?",
+          "resposta_modelo": "**Estádio II** de Ann Arbor (II-B): duas cadeias linfonodais comprometidas — cervical e axilar — do mesmo lado do diafragma (ambas acima), com sintomas B (febre, sudorese e perda ponderal).",
+          "checklist": [
+            "Estádio II",
+            "Duas cadeias (cervical e axilar) do mesmo lado do diafragma",
+            "Sintomas B presentes (sufixo B)"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Qual o perfil imuno-histoquímico (mínimo de três marcadores).",
+          "resposta_modelo": "**BCL-2 positivo** (no centro folicular — principal característica), **CD20 positivo, CD10 positivo**; também Pax5 e BCL-6 positivos; CD5 negativo e ciclina D1 negativa.",
+          "checklist": [
+            "BCL-2 positivo",
+            "CD20 (ou Pax5) positivo",
+            "CD10 e/ou BCL-6 positivos",
+            "CD5 e ciclina D1 negativos"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "A medula óssea mostrou predomínio de células grandes CD20+, pós 5 anos de tratamento. Explique.",
+          "resposta_modelo": "Houve **transformação (evolução) do linfoma folicular em linfoma não Hodgkin difuso de grandes células B**, o que ocorre em 25 a 50% dos casos: as células pequenas deram lugar a células grandes, CD20 positivas (linhagem B). A infiltração da **medula óssea** indica doença disseminada, **estádio IV** de Ann Arbor. O linfoma, antes indolente, passa a ter comportamento agressivo e pior prognóstico.",
+          "checklist": [
+            "Transformação/evolução para linfoma difuso de grandes células B",
+            "Ocorre em 25–50% dos linfomas foliculares",
+            "Células grandes CD20+ = linhagem B mantida",
+            "Infiltração da medula óssea = estádio IV, pior prognóstico"
+          ]
+        }
+      ],
+      "explicacao": "Células pequenas em **arranjo folicular** que invadem a **gordura perilinfonodal** e o seio periférico: linfoma não Hodgkin folicular, indolente, originado de células B do centro germinativo com hiperexpressão de BCL-2. Para estadiar, conte as cadeias e olhe o diafragma: cervical e axilar ficam ambas acima dele, portanto estádio II. A longo prazo, 25–50% dos foliculares evoluem para difuso de grandes células B — é isso que a medula com células grandes CD20+ está mostrando.",
+      "gabarito_fonte": "inferido",
+      "confianca": "media",
+      "observacao": "Mesma questão 4 da pd4. Sem gabarito oficial (\"não achei gabarito dessas 13, 14, 15 e 16\"). Resposta de aluno: \"A) Linfoma Não-Hodgkin Tipo Folicular; B) Só uma cadeia, Estágio I; C) Marcadores B: CD19, CD20, CD79a, Pax5 positivos / Ciclina D1, CD5 e CD43 negativos; D) Isso dita de um linfoma que evoluiu para estágio IV, com acometimento da medula óssea, tem prognóstico ruim, transplante de medula pode ser indicado para a terapêutica.\" DIVERGÊNCIA no item b: o aluno diz Estádio I (\"só uma cadeia\") e o chat da pd4 diz Estádio III (\"lados diferentes do diafragma\"); são duas cadeias (cervical e axilar), ambas acima do diafragma, logo foi adotado Estádio II, pela definição de Ann Arbor do resumo. No item c, a resposta do aluno omite o BCL-2, que é o marcador principal do linfoma folicular segundo o resumo."
+    },
+    {
+      "id": "comp-q17",
+      "numero": "17",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lnh-geral",
+        "lin-burkitt",
+        "lin-t-outros"
+      ],
+      "enunciado": "São características dos Linfomas Não-Hodgkin",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Representam 80% dos tumores malignos das crianças."
+        },
+        {
+          "letra": "B",
+          "texto": "O linfoma de Burkitt é uma neoplasia de células B maduras altamente agressivas, sendo endêmico nas regiões centrais da África."
+        },
+        {
+          "letra": "C",
+          "texto": "A grande maioria dos linfomas não-Hodgkin extranodais nasal de células T/NK tem origem em células T citotóxicas."
+        },
+        {
+          "letra": "D",
+          "texto": "As células neoplásicas são a minoria (<1%) em microambiente reativo (linfócitos, plasmócitos, eosinófilos), na maioria dos casos."
+        }
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "O linfoma de Burkitt é neoplasia de **linfócitos B maduros** do centro germinativo, **altamente agressiva**, e sua forma endêmica é comum na **África equatorial** (mandíbula, 100% de relação com EBV). A alternativa D descreve o linfoma de Hodgkin (poucas células neoplásicas em fundo reativo); no LNH as células neoplásicas ocupam todo o tecido. A alternativa A exagera: os LNH predominam entre os linfomas da infância, mas não são 80% dos tumores malignos das crianças. Complemento: o linfoma extranodal nasal T/NK origina-se, na maioria, de células NK.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta"
+    },
+    {
+      "id": "comp-q18",
+      "numero": "18",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-esclerose-nodular",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Paciente de 25 anos com linfonodomegalia cervical, febre, sudorese noturna e história de perda ponderal importante nos últimos meses foi submetido à biópsia excisional de um dos linfonodos. Laudo descritivo anatomopatológico: destruição da arquitetura linfonodal pela presença de múltiplas traves de fibrose que delimitam estruturas nodulares. Tais nódulos são compostos por população heterogênea de células inflamatórias e algumas células grandes com atipias acentuadas, positivas para os marcadores imuno-histoquímicos CD15 e CD30. Considerando-se o diagnóstico, assinale a alternativa que contém a célula mais característica dessa condição.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Célula Gigante do Tipo Langhans"
+        },
+        {
+          "letra": "B",
+          "texto": "Célula de Reed-Sternberg, variante Linfo-histiocitária"
+        },
+        {
+          "letra": "C",
+          "texto": "Centrócito"
+        },
+        {
+          "letra": "D",
+          "texto": "Célula de Reed-Sternberg, variante Lacunar"
+        }
+      ],
+      "correta": "D",
+      "pede": "correta",
+      "explicacao": "**Traves de fibrose delimitando nódulos** (esclerose + nódulo) com células grandes CD15+ e CD30+ em jovem com sintomas B: linfoma de Hodgkin clássico, tipo esclerose nodular. A célula característica desse tipo é a de Reed-Sternberg **variante lacunar**. A variante linfo-histiocitária (pipoca) é da predominância linfocítica nodular, que seria CD15− e CD30−; a célula de Langhans é do granuloma da tuberculose; o centrócito é célula do centro germinativo (linfoma folicular).",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "No original: \"Paciente e 25 anos\" (erro de digitação)."
+    },
+    {
+      "id": "comp-q19",
+      "numero": "19",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral"
+      ],
+      "enunciado": "Considerando-se um paciente com manifestações clínicas e exame histopatológico compatíveis com Linfoma de Hodgkin, tais marcadores imuno-histoquímicos são importantes para corroborar o diagnóstico.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "CD19, CD20, CD10, BCL-2, BCL-6"
+        },
+        {
+          "letra": "B",
+          "texto": "CD15, CD20, CD30, CD45, PAX-5"
+        },
+        {
+          "letra": "C",
+          "texto": "CD3, CD4, CD7"
+        },
+        {
+          "letra": "D",
+          "texto": "CD5, CD19, CD20, CD23"
+        }
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "O painel do linfoma de Hodgkin gira em torno de **CD15 e CD30** (positivos nas formas clássicas) e **CD20 e CD45** (negativos nas clássicas; o inverso na predominância linfocítica nodular), com PAX-5 positivo fraco. A alternativa A é o painel do linfoma folicular/centro germinativo (CD10, BCL-2, BCL-6); a C reúne marcadores de linfócitos T; a D — Complemento — é o perfil do linfoma linfocítico/LLC (CD5 e CD23).",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta"
+    },
+    {
+      "id": "comp-q20",
+      "numero": "20",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-estadiamento",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Assinale a alternativa correta sobre o estadiamento do Linfoma de Hodgkin",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É um indicador prognóstico e é utilizado para orientação terapêutica."
+        },
+        {
+          "letra": "B",
+          "texto": "O Estágio I compreende acometimento pelo menos duas cadeias linfonodais ipsilaterais."
+        },
+        {
+          "letra": "C",
+          "texto": "É determinado exclusivamente por dados histopatológicos identificados nas biópsias de linfonodo."
+        },
+        {
+          "letra": "D",
+          "texto": "O Estágio III compreende a doença disseminada com ou sem acometimento linfonodal."
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "O estadiamento de Ann Arbor avalia a **extensão** da doença e, com isso, o **prognóstico** e a conduta. Estádio I é uma única cadeia linfonodal (duas ou mais do mesmo lado do diafragma já é II). Ele depende de exame clínico, imagem e biópsia de medula, não só da histologia do linfonodo — \"exclusivamente\" derruba a C. Doença disseminada em órgãos extralinfáticos é estádio IV; o III é linfonodos dos dois lados do diafragma ou baço.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Comentário do compilado: \"A (B - errado, I é só uma cadeia / C - exclusivo já corta / D - IV que é disseminado)\"."
+    },
+    {
+      "id": "comp-q21",
+      "numero": "21",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-folicular",
+        "lin-micose-fungoide",
+        "lin-lnh-geral"
+      ],
+      "enunciado": "Sobre os Linfomas Não-Hodgkin, assinale a alternativa ERRADA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A maioria dos casos de micose fungóide têm Imunophenotype CD3+, CD5+, TCRaß/ßF1+"
+        },
+        {
+          "letra": "B",
+          "texto": "Linfomas foliculares de baixo grau apresentam 50% de centroblastos."
+        },
+        {
+          "letra": "C",
+          "texto": "Nos linfomas de células foliculares a superexpressão da proteína de membrana mitocondrial BCL-2 torna a célula resistente à morte programada."
+        },
+        {
+          "letra": "D",
+          "texto": "Epidermotropismo marcado e micro-abscessos de Pautrier na micose fungóide."
+        }
+      ],
+      "correta": "B",
+      "pede": "incorreta",
+      "explicacao": "O linfoma folicular é formado por mistura de centrócitos (células pequenas a médias) e centroblastos (células grandes). Complemento: o grau é dado pela quantidade de centroblastos — nos de **baixo grau** eles são poucos e predominam os centrócitos; 50% de centroblastos seria alto grau. As demais estão certas: a micose fungoide é linfoma T (CD3+, CD4+, CD5+) com epidermotropismo e microabscessos de Pautrier, e no linfoma folicular a hiperexpressão de BCL-2 (antiapoptótica) inibe a apoptose dos linfócitos B.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta"
+    },
+    {
+      "id": "comp-q22",
+      "numero": "22",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral"
+      ],
+      "enunciado": "São parâmetros utilizados para o diagnóstico do Linfoma de Hodgkin, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Contexto (fundo) inflamatório de células inflamatórias não neoplásicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Presença de células de Reed-Sternberg"
+        },
+        {
+          "letra": "C",
+          "texto": "Presença de macronúcleo basofílico"
+        },
+        {
+          "letra": "D",
+          "texto": "Perfil imuno-histoquímico compatível"
+        }
+      ],
+      "correta": "C",
+      "pede": "incorreta",
+      "explicacao": "O diagnóstico do LH se apoia em três pilares: **células de Reed-Sternberg/Hodgkin**, **fundo inflamatório** reativo (não neoplásico) e **imuno-histoquímica** compatível (CD15+/CD30+ nas formas clássicas). A alternativa C é pegadinha de palavras: a célula de Reed-Sternberg tem macro**nucléolo eosinofílico** (grande e vermelho), não \"macronúcleo basofílico\".",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta"
+    },
+    {
+      "id": "comp-q23",
+      "numero": "23",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lnh-geral"
+      ],
+      "enunciado": "Sobre os Linfomas Não-Hodgkin, assinale a afirmativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quando altamente agressivos, respondem com um platô de cura de 50% e transplante de medula óssea é opção terapêutica."
+        },
+        {
+          "letra": "B",
+          "texto": "Frequentemente acomete linfonodos cervicais, progredindo topograficamente no organismo por contiguidade."
+        },
+        {
+          "letra": "C",
+          "texto": "Linfoma ou leucemia linfoblástica B ou T e Linfoma de Burkitt são considerados indolentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Quando indolentes, têm boa resposta terapêutica pela baixa taxa de proliferação celular."
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "Os LNH **altamente agressivos** (Burkitt, linfoblástico) respondem à terapêutica altamente agressiva, com sobrevida em torno de **50%**. A alternativa B descreve o linfoma de Hodgkin (início cervical, contiguidade). A C está invertida: linfoblástico e Burkitt são os altamente agressivos; indolentes são o folicular e o linfocítico/LLC. A D erra a lógica: justamente pela **baixa** taxa de proliferação os indolentes **não** têm boa resposta — quem prolifera muito é mais sensível à quimioterapia.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "O resumo das aulas confirma a sobrevida em torno de 50% nos altamente agressivos; o transplante de medula óssea como opção terapêutica não é citado no resumo. No original: \"agessivos\" (erro de digitação)."
+    },
+    {
+      "id": "comp-q24",
+      "numero": "24",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-burkitt"
+      ],
+      "enunciado": "Sobre o Linfoma de Burkitt assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A translocação de material genético entre os cromossomos 8 e 14 - t(8:14)(q24:q32) ocorre em 80% dos casos."
+        },
+        {
+          "letra": "B",
+          "texto": "É uma neoplasia de células T maduras altamente agressivas."
+        },
+        {
+          "letra": "C",
+          "texto": "No Brasil a idade média do diagnóstico é de 5-7 anos (forma endêmica) enquanto no resto do mundo é a de 55 anos (esporádica)."
+        },
+        {
+          "letra": "D",
+          "texto": "Em 80% dos casos ocorre a translocação de material genético t(2:8)(p12:q24) e t(8:22)(q24:q11)."
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "Em todos os casos de Burkitt as alterações genéticas envolvem a via do oncogene **MYC** (cromossomo 8). Complemento: a translocação clássica é a **t(8;14)**, presente em cerca de 80% dos casos; t(2;8) e t(8;22) são as variantes minoritárias — a alternativa D inverte as proporções. A B erra a linhagem (é de células **B** maduras). A C erra a epidemiologia: a forma endêmica é da África equatorial; no Brasil ocorre a forma esporádica, mais comum no trato gastrointestinal (válvula ileocecal).",
+      "gabarito_fonte": "aluno",
+      "confianca": "media",
+      "observacao": "O resumo das aulas cita apenas o envolvimento da via do MYC, sem as translocações; a resposta se apoia no gabarito do compilado e na exclusão das demais alternativas."
+    },
+    {
+      "id": "comp-q25",
+      "numero": "25",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral",
+        "lin-lh-pln"
+      ],
+      "enunciado": "Sobre os linfomas de Hodgkin, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A infecção pelo Epstein Barr Virus está presente em todos os casos."
+        },
+        {
+          "letra": "B",
+          "texto": "A disseminação para outras cadeias linfonodais acontece de forma aleatória."
+        },
+        {
+          "letra": "C",
+          "texto": "A formação tumoral é exclusivamente constituída por células neoplásicas, chamadas células de Reed-Sternberg."
+        },
+        {
+          "letra": "D",
+          "texto": "São divididos em formas clássicas e não clássicas de acordo com o perfil imunohistoquímico das células neoplásicas."
+        }
+      ],
+      "correta": "D",
+      "pede": "correta",
+      "explicacao": "O LH divide-se em formas **clássicas** (esclerose nodular, celularidade mista, rico em linfócitos, depleção linfocitária: CD15+/CD30+, CD20−/CD45−) e **não clássica** (predominância linfocítica nodular: marcadores \"ao contrário\", CD20+/CD45+, CD15−/CD30−). O EBV está associado a alguns casos, sobretudo celularidade mista, não a todos. A disseminação é ordenada, por contiguidade. E a massa tumoral é feita principalmente de células inflamatórias reativas, com poucas células de Reed-Sternberg.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta"
+    },
+    {
+      "id": "comp-q26",
+      "numero": "26",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lnh-geral",
+        "lin-geral"
+      ],
+      "enunciado": "Sobre os Linfomas Não-Hodgkin, a classificação é baseada nas seguintes características, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Imunológicas"
+        },
+        {
+          "letra": "B",
+          "texto": "Multiplicação in vitro"
+        },
+        {
+          "letra": "C",
+          "texto": "Moleculares"
+        },
+        {
+          "letra": "D",
+          "texto": "Morfológicas"
+        }
+      ],
+      "correta": "B",
+      "pede": "incorreta",
+      "explicacao": "O diagnóstico e a classificação dos linfomas combinam **morfologia** (o que se vê na lâmina), **imunofenótipo** (imuno-histoquímica — obrigatória: \"não existe linfoma sem imuno-histoquímica\") e alterações **genéticas/moleculares** (cada tipo tem um rearranjo associado). Capacidade de multiplicação *in vitro* não é critério de classificação.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta"
+    },
+    {
+      "id": "comp-q27",
+      "numero": "27",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-pln",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Paciente masculino, 29 anos, com tumoração axilar direita. O exame histopatológico demonstra neoplasia maligna exibindo esboços de nódulos, os quais são formados por abundantes linfócitos e alguns macrófagos, além de células grandes, com núcleos atípicos e de contornos lobulados / convolutos. Pesquisa de infecção de vírus Epstein-Barr negativa. Qual é o perfil imuno-histoquímico esperado para a neoplasia em questão.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "CD20+, CD3-, CD10+, BCL-2+"
+        },
+        {
+          "letra": "B",
+          "texto": "CD20-, CD3-, CD30+, CD15+, CD45-"
+        },
+        {
+          "letra": "C",
+          "texto": "CD20+, CD5-, CD30-, CD15-, CD45+"
+        },
+        {
+          "letra": "D",
+          "texto": "CD20-, CD138+, MUM-1(+), CICLINA D1(-)"
+        }
+      ],
+      "correta": "C",
+      "pede": "correta",
+      "explicacao": "**Nódulos** ricos em **linfócitos** com células grandes de núcleo lobulado/convoluto (célula em **pipoca**, variante linfo-histiocitária) descrevem o linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular. Nele os marcadores são \"ao contrário\" do LH clássico: **CD20+ e CD45+, CD15− e CD30−** (alternativa C). A alternativa B é o perfil do LH clássico; a A é de linfoma folicular (CD10+, BCL-2+); a D — Complemento — é perfil de neoplasia de plasmócitos (CD138+).",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Comentário do compilado: \"C (Parece ser LH do tipo Predominância de Linfócitos Nodular, por isso os CD20/45 +)\"."
+    },
+    {
+      "id": "comp-q28",
+      "numero": "28",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-deplecao",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Paciente feminina, 70 anos, com linfonodomegalia cervical anterior bilateral, história de emagrecimento e episódios de febre. O exame histopatológico demonstra linfonodos difusamente comprometidos pela proliferação de inúmeras células gigantes, mono ou binucleadas, com citoplasma abundante e nucléolos eosinofílicos. Estas mostram-se de permeio a linfócitos espaçados entre si e fibrose de aspecto reticular. Qual o provável diagnóstico completo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Linfoma de Hodgkin, Tipo Rico em Linfócitos."
+        },
+        {
+          "letra": "B",
+          "texto": "Linfoma de Hodgkin, Tipo Predominância Linfocitária Nodular."
+        },
+        {
+          "letra": "C",
+          "texto": "Linfoma de Hodgkin, Tipo Depleção Linfocitária."
+        },
+        {
+          "letra": "D",
+          "texto": "Linfoma Difuso de Grandes Células B"
+        }
+      ],
+      "correta": "C",
+      "pede": "correta",
+      "explicacao": "**Inúmeras** células de Reed-Sternberg/Hodgkin (mono ou binucleadas, nucléolo eosinofílico) com **linfócitos espaçados** e fibrose difusa, reticular, é depleção linfocitária: muitas células neoplásicas, poucos linfócitos. É a mesma descrição da questão 01 (\"pequenos linfócitos espaçados entre si por trama colágena\"), cujo gabarito oficial é depleção linfocitária. Rico em linfócitos e predominância linfocítica nodular teriam linfócitos abundantes; o LDGCB não tem células de Reed-Sternberg.",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "Comentário do compilado: \"C (Fibrose difusa, entre os linfócitos + proliferação reticular é típico)\"."
+    },
+    {
+      "id": "comp-q29",
+      "numero": "29",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lnh-geral"
+      ],
+      "enunciado": "Sobre os Linfomas Não-Hodgkin, assinale a alternativa INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As células neoplásicas distribuem-se por todo o tecido acometido, com poucas células inflamatórias reativas, na maioria dos casos."
+        },
+        {
+          "letra": "B",
+          "texto": "Distribuem-se por todas as faixas etárias, com predomínio de diferentes subtipos histológicos nas diversas idades."
+        },
+        {
+          "letra": "C",
+          "texto": "Progressão da doença se faz necessariamente por contiguidade"
+        },
+        {
+          "letra": "D",
+          "texto": "Não é infrequente o acometimento primário de órgão extranodais. Os sítios extranodais mais frequentes são o estômago, anel de Waldeyer e a pele."
+        }
+      ],
+      "correta": "C",
+      "pede": "incorreta",
+      "explicacao": "A incorreta é a C: no LNH a progressão **não** se faz necessariamente por contiguidade — quem progride de cadeia em cadeia é o linfoma de Hodgkin. As outras três são frases verdadeiras da tabela LH × LNH: células neoplásicas por todo o tecido, com poucas células reativas; distribuição por todas as faixas etárias, com subtipos diferentes em cada idade; e acometimento extranodal primário frequente (estômago, anel de Waldeyer, pele).",
+      "gabarito_fonte": "inferido",
+      "confianca": "alta",
+      "observacao": "DIVERGÊNCIA. O gabarito do compilado traz \"B\", mas quem compilou anotou: \"no PDF tá B, mas eu marcava C, mais errada? Contiguidade é Linfoma sim-Hodgkin\". Adotada a C: as mesmas frases aparecem no V/F da prova \"Ano desconhecido 2\" (pd2), cujo gabarito oficial dá como FALSA \"nos LNH a progressão se faz necessariamente por contiguidade\" e como VERDADEIRA \"os LNH podem acometer todas as faixas etárias, com predomínio de diferentes subtipos histológicos nas diversas idades\" (a alternativa B). O \"B\" do PDF de origem parece erro."
+    },
+    {
+      "id": "comp-q30",
+      "numero": "30",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-esclerose-nodular",
+        "lin-lh-celularidade-mista",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Paciente masculino, 30 anos, com tumoração mediastinal anterior. O exame histopatológico demonstra feixes eosinofílicos densos delimitando nódulos formados por múltiplos tipos celulares: plasmócitos, macrófagos, eosinófilos, linfócitos e células grandes mono ou binucleadas, com citoplasma irregular e halo claro periférico. Qual o provável diagnóstico?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Linfoma de Hodgkin, Tipo Esclerose Nodular."
+        },
+        {
+          "letra": "B",
+          "texto": "Linfoma de Hodgkin, Tipo Celularidade Mista."
+        },
+        {
+          "letra": "C",
+          "texto": "Linfoma de Hodgkin, Tipo Predominância Linfocitária Nodular."
+        },
+        {
+          "letra": "D",
+          "texto": "Linfoma Folicular."
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "**Feixes eosinofílicos densos delimitando nódulos** são as bandas de colágeno (esclerose + nódulo), e as células grandes com **halo claro periférico** são as células lacunares: linfoma de Hodgkin clássico, tipo esclerose nodular — reforçado pelo **mediastino anterior** em adulto jovem. A mistura de plasmócitos, macrófagos, eosinófilos e linfócitos é o distrator para celularidade mista: o fundo misto existe nos dois, mas a celularidade mista não tem bandas de fibrose, nódulos nem células lacunares. É a mesma lógica da questão 18 (traves de fibrose delimitando nódulos = variante lacunar).",
+      "gabarito_fonte": "inferido",
+      "confianca": "media",
+      "observacao": "DIVERGÊNCIA. O gabarito do compilado traz \"B\" (celularidade mista), sem comentário. Adotada a alternativa A (esclerose nodular) com base no resumo das aulas — \"esclerose nodular: bandas de colágeno (fibrose) associadas às células de Hodgkin lacunares\" e \"comprometimento do mediastino principalmente na forma de esclerose nodular\" — e na coerência com a questão 18 do mesmo compilado. Não há gabarito oficial para conferir; se o professor considerar o fundo misto como decisivo, a resposta dele seria B."
+    },
+    {
+      "id": "comp-q31",
+      "numero": "31",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-estadiamento",
+        "lin-lh-geral"
+      ],
+      "enunciado": "Paciente com diagnóstico de Linfoma de Hodgkin comprometendo linfonodos axilares cervicais e inguinais. Qual o estadiamento adequado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I"
+        },
+        {
+          "letra": "B",
+          "texto": "II"
+        },
+        {
+          "letra": "C",
+          "texto": "III"
+        },
+        {
+          "letra": "D",
+          "texto": "IV"
+        }
+      ],
+      "correta": "C",
+      "pede": "correta",
+      "explicacao": "Linfonodos cervicais e axilares ficam **acima** do diafragma; os inguinais, **abaixo**. Cadeias comprometidas dos dois lados do diafragma = **estádio III** de Ann Arbor. Seria II se todas estivessem do mesmo lado e IV apenas com comprometimento difuso de órgão extralinfático (fígado, medula óssea).",
+      "gabarito_fonte": "aluno",
+      "confianca": "alta",
+      "observacao": "O gabarito do compilado traz \"III (Linfonodos acima e abaixo do diafragma)\", que corresponde à alternativa c."
+    }
+  ]
+}

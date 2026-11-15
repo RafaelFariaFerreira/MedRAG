@@ -1,0 +1,799 @@
+{
+  "id": "lin-04",
+  "modulo": "linfomas",
+  "ordem": 4,
+  "titulo": "Os 5 tipos de Hodgkin lado a lado",
+  "minutos": 18,
+  "prioridade": "alta",
+  "topicos": [
+    "lin-lh-esclerose-nodular",
+    "lin-lh-celularidade-mista",
+    "lin-lh-rico-linfocitos",
+    "lin-lh-deplecao",
+    "lin-lh-pln",
+    "lin-lh-geral"
+  ],
+  "resumo": "Você vai guardar cada tipo de Hodgkin em sua gaveta — palavra-gatilho, célula, fundo, prognóstico e imuno-histoquímica — e escrever a resposta completa do caso clássico de esclerose nodular.",
+  "objetivos": [
+    "Citar a classificação da OMS: 4 tipos clássicos e 1 não clássico, com o imunofenótipo de cada grupo",
+    "Reconhecer cada tipo pela palavra-gatilho que o enunciado usa",
+    "Diferenciar os pares que se confundem: esclerose nodular × celularidade mista, rico em linfócitos × PLN, esclerose nodular × depleção",
+    "Escrever a resposta-modelo de um caso: diagnóstico, morfologia, imuno-histoquímica, evolução e diferenciais",
+    "Comparar Linfoma de Hodgkin e linfoma não Hodgkin pelos critérios da tabela do resumo"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "É o tema mais cobrado do módulo. **Prova 151**: caso de esclerose nodular para “discutir diagnóstico, morfologia, perfil imuno-histoquímico, evolução e diferenciais”. **Prova 145**: “Qual é a classificação proposta pela OMS para os Linfomas de Hodgkin? Descreva dois tipos incluindo sua morfologia e imunofenótipo.” **Provas 143 e 150**: descrição da lâmina → qual tipo, qual imuno-histoquímica. Em todas, o que decide é reconhecer as **palavras-gatilho** do enunciado."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "A classificação da OMS"
+    },
+    {
+      "id": "b03",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Gabarito oficial (Prova 145)",
+      "md": "**LH clássico**: esclerose nodular, celularidade mista, rico em linfócitos e depleção linfocitária. Imunofenótipo: CD30 +, CD15 +, PAX-5 + fraco, CD20 −, CD45 −. **LH não clássico**: predominância linfocitária nodular. Imunofenótipo: CD30 −, CD15 −, PAX-5 +, CD20 +, CD45 +. (O resumo escreve “linfocítica”; o gabarito, “linfocitária”. É o mesmo tipo.)"
+    },
+    {
+      "id": "b04",
+      "tipo": "cartoes",
+      "titulo": "O nome já descreve a lâmina",
+      "itens": [
+        {
+          "titulo": "Esclerose nodular",
+          "texto": "**Nódulo + esclerose**: bandas de colágeno delimitando nódulos.",
+          "emoji": "🧱"
+        },
+        {
+          "titulo": "Celularidade mista",
+          "texto": "**Mais de um tipo celular**: mistura de células inflamatórias.",
+          "emoji": "🎨"
+        },
+        {
+          "titulo": "Rico em linfócitos",
+          "texto": "**Muitos linfócitos**, em arranjo difuso.",
+          "emoji": "🔵"
+        },
+        {
+          "titulo": "Depleção linfocitária",
+          "texto": "**Poucos linfócitos**; sobram células neoplásicas.",
+          "emoji": "⚪"
+        },
+        {
+          "titulo": "Predominância linfocítica nodular",
+          "texto": "**Nódulo com muito linfócito** — e célula em pipoca.",
+          "emoji": "🍿"
+        }
+      ]
+    },
+    {
+      "id": "b05",
+      "tipo": "titulo",
+      "texto": "1. Esclerose nodular"
+    },
+    {
+      "id": "b06",
+      "tipo": "cartoes",
+      "titulo": "Ficha — Linfoma de Hodgkin clássico, tipo esclerose nodular",
+      "itens": [
+        {
+          "titulo": "Palavra-gatilho",
+          "texto": "**Traves (bandas) de colágeno delimitando nódulos.** No enunciado: “densas traves de colágeno”, “traves de fibrose”, “feixes eosinofílicos densos”.",
+          "emoji": "🎯"
+        },
+        {
+          "titulo": "Célula",
+          "texto": "RS variante **lacunar**: “citoplasma claro e retraído”, “halo claro periférico”.",
+          "emoji": "🔬"
+        },
+        {
+          "titulo": "Fundo",
+          "texto": "Abundante e **misto**: linfócitos, eosinófilos, plasmócitos e macrófagos.",
+          "emoji": "🌫️"
+        },
+        {
+          "titulo": "Epidemiologia / EBV",
+          "texto": "O tipo **mais comum**. Jovens nos enunciados (19, 25 e 30 anos). **Mediastino** é típico. EBV: sem destaque nas fontes.",
+          "emoji": "👤"
+        },
+        {
+          "titulo": "Prognóstico",
+          "texto": "O de **melhor prognóstico**.",
+          "emoji": "📈"
+        },
+        {
+          "titulo": "IHQ",
+          "texto": "Perfil clássico: CD15 + e CD30 +; CD20 − e CD45 −. PAX-5 + fraco.",
+          "emoji": "🧪"
+        }
+      ]
+    },
+    {
+      "id": "b07",
+      "tipo": "foto",
+      "ref": "foto_esclerose_nodular",
+      "legenda": "Esclerose nodular: faixas de colágeno recortam o linfonodo em nódulos. Dentro deles, fundo inflamatório misto e células lacunares."
+    },
+    {
+      "id": "b08",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Três falsos sobre a esclerose nodular",
+      "md": "“**Fundo inflamatório predominantemente linfocitário**” → F (oficial, Prova 145): o fundo é misto; predominantemente linfocitário é o do tipo rico em linfócitos. “**É agressivo, com predominância de células RS pleomórficas**” → F: isso descreve a depleção linfocitária. “**Células lacunares CD15 e CD30 negativas**” → F: são positivas. Os dois últimos são da Prova 130, com gabarito do chat — coerente com o resumo."
+    },
+    {
+      "id": "b09",
+      "tipo": "titulo",
+      "texto": "2. Celularidade mista"
+    },
+    {
+      "id": "b10",
+      "tipo": "cartoes",
+      "titulo": "Ficha — Linfoma de Hodgkin clássico, tipo celularidade mista",
+      "itens": [
+        {
+          "titulo": "Palavra-gatilho",
+          "texto": "**Infiltrado inflamatório misto** — plasmócitos, linfócitos, eosinófilos, macrófagos (o resumo inclui neutrófilos) — **sem** traves de colágeno.",
+          "emoji": "🎯"
+        },
+        {
+          "titulo": "Célula",
+          "texto": "RS variantes **diagnóstica e mononuclear**, frequentes: “células grandes com nucléolos eosinofílicos”.",
+          "emoji": "🔬"
+        },
+        {
+          "titulo": "Fundo",
+          "texto": "Misto: linfócitos, eosinófilos, plasmócitos e macrófagos.",
+          "emoji": "🌫️"
+        },
+        {
+          "titulo": "Epidemiologia / EBV",
+          "texto": "O **segundo mais comum**. É o tipo **mais associado ao EBV**.",
+          "emoji": "👤"
+        },
+        {
+          "titulo": "Prognóstico",
+          "texto": "“Ótimo prognóstico” no resumo — mas pode **progredir para depleção linfocitária**.",
+          "emoji": "📈"
+        },
+        {
+          "titulo": "IHQ",
+          "texto": "Perfil clássico: CD15 + e CD30 +; CD20 − e CD45 −.",
+          "emoji": "🧪"
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "tipo": "revelar",
+      "pergunta": "V ou F (Prova 145): “As células neoplásicas características do tipo celularidade mista são as de Reed-Sternberg, variante linfo-histiocitária.”",
+      "resposta": "**F** (gabarito oficial). Linfo-histiocitária (pipoca) é a célula da predominância linfocítica nodular; na celularidade mista, são frequentes as variantes diagnóstica e mononuclear. Também é falso (Prova 130, gabarito do chat) que a celularidade mista seja “o menos frequente”, com “escasso infiltrado”: é o segundo mais comum, e o fundo é rico."
+    },
+    {
+      "id": "b12",
+      "tipo": "titulo",
+      "texto": "3. Rico em linfócitos"
+    },
+    {
+      "id": "b13",
+      "tipo": "cartoes",
+      "titulo": "Ficha — Linfoma de Hodgkin clássico, tipo rico em linfócitos",
+      "itens": [
+        {
+          "titulo": "Palavra-gatilho",
+          "texto": "Proliferação **difusa, sem nódulos**, com **numerosos linfócitos**.",
+          "emoji": "🎯"
+        },
+        {
+          "titulo": "Célula",
+          "texto": "RS variantes **diagnóstica e mononuclear** (o resumo destaca as mononucleares).",
+          "emoji": "🔬"
+        },
+        {
+          "titulo": "Fundo",
+          "texto": "**Predominantemente linfocitário**.",
+          "emoji": "🌫️"
+        },
+        {
+          "titulo": "Epidemiologia / EBV",
+          "texto": "As fontes não trazem idade, frequência nem relação com o EBV. Não invente na prova.",
+          "emoji": "👤"
+        },
+        {
+          "titulo": "Prognóstico",
+          "texto": "Pode **progredir para depleção linfocitária**.",
+          "emoji": "📈"
+        },
+        {
+          "titulo": "IHQ",
+          "texto": "Perfil clássico: CD15 + e CD30 +; CD20 − e CD45 −.",
+          "emoji": "🧪"
+        }
+      ]
+    },
+    {
+      "id": "b14",
+      "tipo": "titulo",
+      "texto": "4. Depleção linfocitária"
+    },
+    {
+      "id": "b15",
+      "tipo": "cartoes",
+      "titulo": "Ficha — Linfoma de Hodgkin clássico, tipo depleção linfocitária",
+      "itens": [
+        {
+          "titulo": "Palavra-gatilho",
+          "texto": "**Muitas células grandes** + **linfócitos escassos** (“espaçados entre si”) + **fibrose reticular** (“trama colágena”). Ou: “escasso infiltrado inflamatório”.",
+          "emoji": "🎯"
+        },
+        {
+          "titulo": "Célula",
+          "texto": "**Abundância relativa de células RS**, diagnósticas e mononucleares; **pleomórficas**.",
+          "emoji": "🔬"
+        },
+        {
+          "titulo": "Fundo",
+          "texto": "Fibrose reticular e linfócitos escassos.",
+          "emoji": "🌫️"
+        },
+        {
+          "titulo": "Epidemiologia / EBV",
+          "texto": "Nos enunciados: 55 e 70 anos. É também o destino da progressão de outros tipos. EBV: sem destaque nas fontes.",
+          "emoji": "👤"
+        },
+        {
+          "titulo": "Prognóstico",
+          "texto": "“**Super agressivo**” — o pior dos cinco.",
+          "emoji": "📈"
+        },
+        {
+          "titulo": "IHQ",
+          "texto": "Perfil clássico. No gabarito oficial: CD15 +, CD30 +, PAX-5 + fraco; CD20 −, CD45 −, BCL-6 −.",
+          "emoji": "🧪"
+        }
+      ]
+    },
+    {
+      "id": "b16",
+      "tipo": "fluxo",
+      "titulo": "O caso em dois tempos (prova sem ano, gabarito oficial)",
+      "passos": [
+        {
+          "titulo": "2008: celularidade mista",
+          "texto": "39 anos; cervical, supraclavicular e mediastinal, febre e perda de peso. Células grandes com nucléolos eosinofílicos e infiltrado inflamatório misto."
+        },
+        {
+          "titulo": "10 anos em remissão",
+          "texto": "Surge nova linfadenomegalia."
+        },
+        {
+          "titulo": "2018: depleção linfocitária",
+          "texto": "Células pleomórficas e escasso infiltrado inflamatório."
+        },
+        {
+          "titulo": "Imuno-histoquímica",
+          "texto": "Não muda: CD15 e CD30 positivos; CD20 e CD45 negativos (“idem”, no gabarito)."
+        },
+        {
+          "titulo": "Prognóstico",
+          "texto": "Mau, por ser evolução para a variante de maior agressividade."
+        }
+      ]
+    },
+    {
+      "id": "b17",
+      "tipo": "quiz",
+      "pergunta": "(Prova 143) Paciente feminina, 70 anos, linfonodomegalia cervical anterior bilateral, emagrecimento e febre. Linfonodos difusamente comprometidos por inúmeras células grandes, mono ou binucleadas, com citoplasma abundante e nucléolos eosinofílicos, de permeio a linfócitos espaçados entre si e fibrose de aspecto reticular. Qual é o provável diagnóstico?",
+      "opcoes": [
+        "Linfoma de Hodgkin, tipo rico em linfócitos",
+        "Linfoma de Hodgkin, tipo predominância linfocitária nodular",
+        "Linfoma de Hodgkin, tipo depleção linfocitária",
+        "Linfoma difuso de grandes células B"
+      ],
+      "correta": 2,
+      "explicacao": "Inúmeras células RS + linfócitos espaçados (escassos) + fibrose reticular = depleção linfocitária. No rico em linfócitos, os linfócitos são numerosos; na PLN, há nódulos e células em pipoca. O gabarito do chat respondeu esclerose nodular, mas não há traves delimitando nódulos nem célula lacunar; o gabarito de aluno marca depleção."
+    },
+    {
+      "id": "b18",
+      "tipo": "titulo",
+      "texto": "5. Predominância linfocítica nodular (o não clássico)"
+    },
+    {
+      "id": "b19",
+      "tipo": "cartoes",
+      "titulo": "Ficha — Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular",
+      "itens": [
+        {
+          "titulo": "Palavra-gatilho",
+          "texto": "**Nódulos (ou “esboços de nódulos”) ricos em linfócitos**, sem fibrose + célula em **pipoca** + **EBV negativo**.",
+          "emoji": "🎯"
+        },
+        {
+          "titulo": "Célula",
+          "texto": "RS variante **linfo-histiocitária**: núcleo atípico, de contorno lobulado/convoluto.",
+          "emoji": "🔬"
+        },
+        {
+          "titulo": "Fundo",
+          "texto": "Linfócitos e macrófagos.",
+          "emoji": "🌫️"
+        },
+        {
+          "titulo": "Epidemiologia / EBV",
+          "texto": "Resumo: predomina na 4ª década. Enunciados: homens de 29, 32 e 40 anos; linfonodo axilar ou cervical. **EBV negativo.**",
+          "emoji": "👤"
+        },
+        {
+          "titulo": "Prognóstico",
+          "texto": "**Maior chance de recorrências** (oficial, Prova 150).",
+          "emoji": "📈"
+        },
+        {
+          "titulo": "IHQ",
+          "texto": "**Invertida**: CD20 + e CD45 +; CD15 − e CD30 −; PAX-5 +.",
+          "emoji": "🧪"
+        }
+      ]
+    },
+    {
+      "id": "b20",
+      "tipo": "foto",
+      "ref": "foto_celula_pipoca",
+      "legenda": "Célula em pipoca (variante linfo-histiocitária): núcleo lobulado, dobrado sobre si mesmo, em meio a muitos linfócitos pequenos."
+    },
+    {
+      "id": "b21",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Um Hodgkin com jeito de não Hodgkin",
+      "md": "Na PLN, “tanto a genética quanto a imuno-histoquímica **não batem** com LH”. Nota do resumo: por enquanto ela está dentro dos Linfomas de Hodgkin, mas pode vir a ser reclassificada, porque geneticamente é muito mais próxima do não Hodgkin. Na prova, escreva: **Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular**."
+    },
+    {
+      "id": "b22",
+      "tipo": "quiz",
+      "pergunta": "(Prova 143) Homem, 29 anos, tumoração axilar direita. Neoplasia com esboços de nódulos formados por abundantes linfócitos e alguns macrófagos, além de células grandes, com núcleos atípicos e de contornos lobulados/convolutos. Pesquisa de EBV negativa. Qual o perfil imuno-histoquímico esperado?",
+      "opcoes": [
+        "CD20+, CD3−, CD10+, BCL-2+",
+        "CD20−, CD3−, CD30+, CD15+, CD45−",
+        "CD20+, CD5−, CD30−, CD15−, CD45+",
+        "CD20−, CD138+, MUM-1+, ciclina D1−"
+      ],
+      "correta": 2,
+      "explicacao": "Esboços de nódulos + muitos linfócitos + núcleo lobulado/convoluto (pipoca) + EBV negativo = predominância linfocítica nodular, o não clássico: CD20 + e CD45 +, CD30 − e CD15 −. A segunda opção é o perfil clássico — foi a que o gabarito do chat marcou, por engano; o gabarito de aluno marca a terceira."
+    },
+    {
+      "id": "b23",
+      "tipo": "titulo",
+      "texto": "Tabela-mestra"
+    },
+    {
+      "id": "b24",
+      "tipo": "tabela",
+      "titulo": "Os 5 tipos, mesmos critérios",
+      "colunas": [
+        "Critério",
+        "Esclerose nodular",
+        "Celularidade mista",
+        "Rico em linfócitos",
+        "Depleção linfocitária",
+        "Predominância linfocítica nodular"
+      ],
+      "linhas": [
+        [
+          "Grupo",
+          "Clássico",
+          "Clássico",
+          "Clássico",
+          "Clássico",
+          "**Não clássico**"
+        ],
+        [
+          "Palavra-gatilho",
+          "Traves de colágeno + nódulos",
+          "Infiltrado misto, sem traves",
+          "Muitos linfócitos, difuso",
+          "Linfócitos escassos, fibrose reticular",
+          "Nódulos de linfócitos + pipoca"
+        ],
+        [
+          "Célula RS",
+          "**Lacunar**",
+          "Diagnóstica e mononuclear",
+          "Diagnóstica e mononuclear",
+          "Diagnóstica e mononuclear; abundantes, pleomórficas",
+          "**Linfo-histiocitária (pipoca)**"
+        ],
+        [
+          "Fundo",
+          "Abundante, misto",
+          "Misto",
+          "Predominantemente linfocitário",
+          "Escasso",
+          "Linfócitos e macrófagos"
+        ],
+        [
+          "Dado-chave",
+          "Mais comum; mediastino",
+          "2º mais comum; mais associado ao EBV",
+          "Pode progredir para depleção",
+          "Destino da progressão",
+          "4ª década; EBV negativo"
+        ],
+        [
+          "Prognóstico",
+          "O melhor",
+          "Ótimo (resumo)",
+          "—",
+          "O pior: super agressivo",
+          "Recorrências"
+        ],
+        [
+          "IHQ",
+          "CD15 + CD30 + / CD20 − CD45 −",
+          "CD15 + CD30 + / CD20 − CD45 −",
+          "CD15 + CD30 + / CD20 − CD45 −",
+          "CD15 + CD30 + / CD20 − CD45 −",
+          "CD20 + CD45 + / CD15 − CD30 −"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b25",
+      "tipo": "fluxo",
+      "titulo": "Lendo o enunciado: qual é o tipo?",
+      "passos": [
+        {
+          "titulo": "Há traves de colágeno delimitando nódulos, ou célula de citoplasma claro e retraído?",
+          "texto": "Sim → **esclerose nodular**."
+        },
+        {
+          "titulo": "Há nódulos ricos em linfócitos e célula de núcleo lobulado (pipoca), com EBV negativo?",
+          "texto": "Sim → **predominância linfocítica nodular** (não clássico)."
+        },
+        {
+          "titulo": "Sem traves e sem pipoca: o fundo é misto?",
+          "texto": "Eosinófilos, plasmócitos, linfócitos e macrófagos → **celularidade mista**."
+        },
+        {
+          "titulo": "O fundo é quase só de linfócitos, em arranjo difuso?",
+          "texto": "→ **rico em linfócitos**."
+        },
+        {
+          "titulo": "O fundo é escasso, com muitas células grandes e fibrose reticular?",
+          "texto": "→ **depleção linfocitária**."
+        }
+      ]
+    },
+    {
+      "id": "b26",
+      "tipo": "titulo",
+      "texto": "Pares que se confundem"
+    },
+    {
+      "id": "b27",
+      "tipo": "tabela",
+      "titulo": "Esclerose nodular × celularidade mista (os dois têm fundo misto)",
+      "colunas": [
+        "Critério",
+        "Esclerose nodular",
+        "Celularidade mista"
+      ],
+      "linhas": [
+        [
+          "Fibrose",
+          "**Traves de colágeno** delimitando nódulos",
+          "Sem traves"
+        ],
+        [
+          "Arquitetura",
+          "Nodular",
+          "Sem nódulos delimitados"
+        ],
+        [
+          "Célula RS",
+          "Lacunar",
+          "Diagnóstica e mononuclear"
+        ],
+        [
+          "Pista clínica",
+          "Mediastino",
+          "Associação com EBV"
+        ],
+        [
+          "IHQ",
+          "Perfil clássico (igual)",
+          "Perfil clássico (igual)"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b28",
+      "tipo": "tabela",
+      "titulo": "Rico em linfócitos × predominância linfocítica nodular (os dois têm muito linfócito)",
+      "colunas": [
+        "Critério",
+        "Rico em linfócitos",
+        "Predominância linfocítica nodular"
+      ],
+      "linhas": [
+        [
+          "Grupo",
+          "Clássico",
+          "Não clássico"
+        ],
+        [
+          "Arquitetura",
+          "Difusa, sem nódulos",
+          "Nodular (esboço de nódulos)"
+        ],
+        [
+          "Célula RS",
+          "Diagnóstica e mononuclear",
+          "Linfo-histiocitária (pipoca)"
+        ],
+        [
+          "CD15 e CD30",
+          "Positivos",
+          "Negativos"
+        ],
+        [
+          "CD20 e CD45",
+          "Negativos",
+          "Positivos"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b29",
+      "tipo": "tabela",
+      "titulo": "Esclerose nodular × depleção linfocitária (os dois têm fibrose)",
+      "colunas": [
+        "Critério",
+        "Esclerose nodular",
+        "Depleção linfocitária"
+      ],
+      "linhas": [
+        [
+          "Tipo de fibrose",
+          "**Bandas densas** de colágeno",
+          "**Reticular** (“trama colágena”)"
+        ],
+        [
+          "O que a fibrose faz",
+          "Delimita nódulos",
+          "Fica entre linfócitos escassos, de forma difusa"
+        ],
+        [
+          "Fundo inflamatório",
+          "Abundante",
+          "Escasso"
+        ],
+        [
+          "Células RS",
+          "Lacunares, em pequeno número",
+          "Numerosas, pleomórficas"
+        ],
+        [
+          "Prognóstico",
+          "O melhor",
+          "O pior"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b30",
+      "tipo": "titulo",
+      "texto": "Como cada um aparece no enunciado"
+    },
+    {
+      "id": "b31",
+      "tipo": "tabela",
+      "titulo": "Do texto da prova ao diagnóstico completo",
+      "colunas": [
+        "Trecho do enunciado",
+        "Diagnóstico completo",
+        "Prova"
+      ],
+      "linhas": [
+        [
+          "“arquitetura nodular delimitada por densas traves de colágeno… células grandes, com citoplasma claro e retraído”",
+          "Linfoma de Hodgkin clássico, tipo esclerose nodular",
+          "151"
+        ],
+        [
+          "“feixes eosinofílicos densos delimitando nódulos… células mono ou binucleadas com halo claro periférico” (mediastino anterior)",
+          "Linfoma de Hodgkin clássico, tipo esclerose nodular",
+          "143"
+        ],
+        [
+          "“células grandes com nucléolos eosinófilos e infiltrado inflamatório misto: plasmócitos, linfócitos, eosinófilos e macrófagos”",
+          "Linfoma de Hodgkin clássico, tipo celularidade mista",
+          "Sem ano (oficial)"
+        ],
+        [
+          "“inúmeras células grandes, mono ou binucleadas… linfócitos espaçados entre si e fibrose de aspecto reticular”",
+          "Linfoma de Hodgkin clássico, tipo depleção linfocitária",
+          "143"
+        ],
+        [
+          "“pequenos linfócitos espaçados entre si por trama colágena… células grandes com um ou dois núcleos”",
+          "Linfoma de Hodgkin clássico, tipo depleção linfocitária",
+          "Sem ano (oficial)"
+        ],
+        [
+          "“esboços de nódulos formados por abundantes linfócitos e alguns macrófagos… núcleos de contornos lobulados/convolutos… EBV negativa”",
+          "Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular",
+          "143"
+        ],
+        [
+          "“padrão nodular com predominância de linfócitos pequenos… núcleo atípico e lobulado… EBV negativos”",
+          "Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular",
+          "150 (oficial)"
+        ]
+      ],
+      "comparacao": false
+    },
+    {
+      "id": "b32",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: onde os gabaritos não oficiais erram",
+      "blocos": [
+        {
+          "id": "b33",
+          "tipo": "destaque",
+          "estilo": "atencao",
+          "titulo": "Três divergências para você não herdar",
+          "md": "**Compilado, questão 30** (mediastino anterior, feixes densos delimitando nódulos, halo claro): o gabarito de aluno marca celularidade mista; a descrição é de **esclerose nodular**, e o chat concorda. **Prova 130** (nódulos ricos em linfócitos, sem fibrose, células linfo-histiocitárias): o chat escreveu “LH clássico, subtipo PLN” — a PLN é **não clássica**. **Gabarito oficial da depleção** (prova sem ano): as células aparecem como “variante clássica e variante clássica (ou célula de Hodgkin)”; a transcrição repetiu o termo — entenda como **diagnóstica e mononuclear**."
+        },
+        {
+          "id": "b34",
+          "tipo": "destaque",
+          "estilo": "atencao",
+          "titulo": "Um caso sem gabarito oficial",
+          "md": "Mulher, 50 anos, linfonodomegalia **mediastinal anterior**, sintomas B; biópsia com “células grandes, com macronucléolos eosinofílicos e **infiltrado inflamatório escasso**”. O chat respondeu esclerose nodular (pelo mediastino); o gabarito de aluno, depleção linfocitária. O enunciado não descreve traves nem lacunas, e “escasso infiltrado inflamatório” é a expressão que o professor usou para a depleção em gabarito oficial. Resposta mais defensável: **Linfoma de Hodgkin clássico, tipo depleção linfocitária**."
+        }
+      ]
+    },
+    {
+      "id": "b35",
+      "tipo": "quiz",
+      "pergunta": "(Prova 150) Homem, 32 anos, linfonodomegalia cervical e axilar. Biópsia: padrão nodular com predominância de linfócitos pequenos e células grandes, com núcleo atípico e lobulado. Testes para EBV negativos. Sobre a principal hipótese, assinale a correta:",
+      "opcoes": [
+        "É mais comum acima de 60 anos, associada ao EBV, e tem mau prognóstico",
+        "Caracteriza-se por células neoplásicas com aspecto em “pipoca” e maior chance de recorrências",
+        "É uma forma agressiva, com baixa taxa de recorrência e elevada mortalidade a curto prazo",
+        "É esperado o perfil CD30 e CD15 positivos; CD20 e CD45 negativos"
+      ],
+      "correta": 1,
+      "explicacao": "Gabarito oficial. O caso é de Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular: célula em pipoca e maior chance de recorrências. A última opção traz o perfil do clássico — na PLN é o contrário (CD20 e CD45 positivos; CD15 e CD30 negativos)."
+    },
+    {
+      "id": "b36",
+      "tipo": "titulo",
+      "texto": "Resposta-modelo: o caso da Prova 151"
+    },
+    {
+      "id": "b37",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "O enunciado",
+      "md": "“Paciente de 19 anos procura atendimento médico devido ao aparecimento de um nódulo indolor na região cervical há dois meses, associado à sudorese noturna intensa e febre esporádica. A tomografia computadorizada revela linfonodomegalia mediastinal. A biópsia do linfonodo cervical mostra uma arquitetura nodular delimitada por densas traves de colágeno, em meio a um infiltrado inflamatório composto por linfócitos, eosinófilos e plasmócitos. Presença de células grandes, com citoplasma claro e retraído e nucléolo evidente. Discutir seu diagnóstico, a morfologia, o perfil imuno-histoquímico, a evolução e os diagnósticos diferenciais com perfil imuno-histoquímico.”"
+    },
+    {
+      "id": "b38",
+      "tipo": "revelar",
+      "pergunta": "Antes de ler a resposta: quais pistas do enunciado fecham o tipo?",
+      "resposta": "1) **Densas traves de colágeno** delimitando nódulos. 2) **Células de citoplasma claro e retraído** = lacunares. 3) Fundo **misto**: linfócitos, eosinófilos, plasmócitos. Reforços: 19 anos, **mediastino**, sintomas B (sudorese noturna, febre) e a sequência cervical → mediastinal, que é contiguidade."
+    },
+    {
+      "id": "b39",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "1. Diagnóstico, morfologia e imuno-histoquímica",
+      "md": "“**Linfoma de Hodgkin clássico, tipo esclerose nodular.** Há perda da arquitetura nodal normal, com estruturas nodulares delimitadas por traves de fibrose (colágeno). As células neoplásicas são células de Reed-Sternberg da variante lacunar — grandes, de citoplasma claro e retraído e nucléolo evidente —, em pequeno número, em meio a abundante fundo inflamatório reativo de linfócitos, eosinófilos, plasmócitos e macrófagos. Nas células de Reed-Sternberg, o perfil imuno-histoquímico é **CD15 positivo e CD30 positivo; CD20 negativo e CD45 negativo** (PAX-5 positivo fraco).”"
+    },
+    {
+      "id": "b40",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "2. Evolução e diagnósticos diferenciais com imuno-histoquímica",
+      "md": "“A doença dissemina-se por contiguidade para cadeias linfonodais adjacentes — aqui, cervical e mediastinal, ambas acima do diafragma (estádio II de Ann Arbor, com sintomas B). É o tipo mais comum e de melhor prognóstico. Diferenciais: **mononucleose infecciosa**, reacional, com linfócitos atípicos que simulam a célula de Reed-Sternberg, sem o perfil CD15+/CD30+; **linfoma não Hodgkin, tipo difuso de grandes células B**, com CD20 difusamente positivo e alto índice de proliferação; **Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular**, com células em pipoca, CD20 e CD45 positivos, CD15 e CD30 negativos; e **tuberculose**, pelo quadro clínico.”"
+    },
+    {
+      "id": "b41",
+      "tipo": "titulo",
+      "texto": "Hodgkin × não Hodgkin: a tabela do resumo"
+    },
+    {
+      "id": "b42",
+      "tipo": "tabela",
+      "titulo": "Linfoma de Hodgkin × linfoma não Hodgkin",
+      "colunas": [
+        "Critério",
+        "Linfoma de Hodgkin",
+        "Linfoma não Hodgkin"
+      ],
+      "linhas": [
+        [
+          "Progressão da doença",
+          "Início frequente em linfonodos cervicais, progredindo por **contiguidade**",
+          "Não se faz necessariamente por contiguidade; o acometimento sistêmico pode ocorrer já ao diagnóstico, inclusive com leucemização"
+        ],
+        [
+          "Localização do tumor primário",
+          "Quase sempre nos linfonodos; acometimento extranodal significa tumor secundário",
+          "Em 40% dos casos, acometimento primário de órgãos extranodais (mais frequentes: estômago, anel linfático de Waldeyer e pele)"
+        ],
+        [
+          "Estádio ao diagnóstico",
+          "I ou II (mais frequentemente)",
+          "Depende do tipo: indolentes e altamente agressivos, frequentemente III e IV; agressivos, I, II ou III"
+        ],
+        [
+          "Comprometimento do mediastino",
+          "Relativamente frequente (principalmente na esclerose nodular)",
+          "Raro, mas presente nos tipos que se originam no timo (linfoma linfoblástico T/LLA-T e linfoma de grandes células B primário do mediastino)"
+        ],
+        [
+          "Distribuição etária",
+          "A partir dos 10 anos, com pico aos 30 (decresce a partir daí)",
+          "Todas as faixas, a depender do tipo: indolentes em idade mais avançada; altamente agressivos em crianças, jovens e adultos mais velhos"
+        ],
+        [
+          "Célula de Reed-Sternberg (acréscimo)",
+          "Presente",
+          "Ausente"
+        ],
+        [
+          "Composição da massa (acréscimo)",
+          "Células neoplásicas são minoria (menos de 1%) em microambiente reativo",
+          "Células neoplásicas por todo o tecido, com poucas células inflamatórias reativas"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b43",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Sobre esta tabela",
+      "md": "A tabela do resumo saiu quebrada na conversão do arquivo; as cinco primeiras linhas foram remontadas célula a célula. As duas linhas marcadas “(acréscimo)” não estavam nela: vêm do texto do resumo e dos gabaritos oficiais de V/F. E há uma diferença entre fontes: a tabela dá ao Hodgkin “pico aos 30”; as provas cobram distribuição **bimodal (15–35 e 50–70 anos)**. Na V/F, marque bimodal."
+    },
+    {
+      "id": "b44",
+      "tipo": "quiz",
+      "pergunta": "(Prova 143) Sobre os linfomas não Hodgkin, assinale a alternativa INCORRETA:",
+      "opcoes": [
+        "As células neoplásicas distribuem-se por todo o tecido acometido, com poucas células inflamatórias reativas, na maioria dos casos",
+        "Distribuem-se por todas as faixas etárias, com predomínio de diferentes subtipos histológicos nas diversas idades",
+        "A progressão da doença se faz necessariamente por contiguidade",
+        "Não é infrequente o acometimento primário de órgãos extranodais; os sítios mais frequentes são o estômago, o anel de Waldeyer e a pele"
+      ],
+      "correta": 2,
+      "explicacao": "Contiguidade é a marca do Hodgkin; no não Hodgkin a progressão não se faz necessariamente assim. Um gabarito do compilado traz a segunda opção como resposta, mas o gabarito oficial de outra prova resolve: “distribuem-se por todas as faixas etárias” é verdadeiro e “necessariamente por contiguidade” é falso."
+    },
+    {
+      "id": "b45",
+      "tipo": "resumo",
+      "itens": [
+        "OMS: **4 clássicos** (esclerose nodular, celularidade mista, rico em linfócitos, depleção linfocitária) + **1 não clássico** (predominância linfocítica nodular).",
+        "**Esclerose nodular**: traves de colágeno + nódulos + célula **lacunar**; mais comum, mediastino, melhor prognóstico.",
+        "**Celularidade mista**: fundo misto sem traves; mais associada ao EBV. **Rico em linfócitos**: difuso, fundo linfocitário. Os dois podem progredir para depleção.",
+        "**Depleção linfocitária**: muitas células RS pleomórficas, linfócitos escassos, fibrose reticular; super agressivo.",
+        "**PLN**: nódulos de linfócitos + célula em **pipoca** + EBV negativo; IHQ invertida (CD20 +, CD45 +, CD15 −, CD30 −); recorrências.",
+        "Resposta de caso em 5 partes: **nome completo → morfologia → IHQ com sinais → evolução → diferenciais com IHQ**."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "id": "tir-04",
+  "modulo": "tireoide",
+  "ordem": 4,
+  "titulo": "Nódulo de tireoide: do ultrassom ao laudo",
+  "minutos": 13,
+  "prioridade": "alta",
+  "topicos": [
+    "tir-nodulo-paaf-bethesda"
+  ],
+  "resumo": "Você vai seguir o nódulo passo a passo — ultrassom, TI-RADS, punção, Bethesda, cirurgia — e explicar por que a PAAF fecha papilífero e não fecha folicular.",
+  "objetivos": [
+    "Listar o que se avalia no ultrassom de um nódulo",
+    "Aplicar os exemplos de TI-RADS dados pelo professor (TR2, TR3, TR5)",
+    "Diferenciar punção (citopatológico) de biópsia (histopatológico)",
+    "Explicar o que a PAAF consegue e não consegue diagnosticar, e por quê",
+    "Explicar o Bethesda 3 e a regra de repetir a punção em 3 a 4 semanas"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "**Prova 150, questão 5 (0,7):** mulher de 45 anos, nódulo cervical anterior, PAAF com citologia suspeita de malignidade tireoidiana. *\"Qual o tipo histológico mais indicado para ser diagnosticado por esse procedimento? Explique.\"* Gabarito oficial: **\"Carcinoma papilífero. Alterações nucleares. Citar e explicar.\"** Ou seja: dizer \"papilífero\" não basta — você precisa **citar** as alterações do núcleo e **explicar** por que a citologia as enxerga. **Mesma prova, questão 2:** nódulo irregular, sólido, com microcalcificações + linfonodo cervical aumentado → papilífero."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "1. Nódulo não é sinônimo de doença"
+    },
+    {
+      "id": "b03",
+      "tipo": "texto",
+      "md": "O professor citou que **64% das mulheres têm nódulo** de tireoide no Brasil — e isso não significa, obrigatoriamente, ter doença. Algumas fazem ultrassom e descobrem um **carcinoma latente**: um câncer de tireoide sem repercussão clínica."
+    },
+    {
+      "id": "b04",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Neoplasia não significa câncer",
+      "md": "Câncer é maligno; **neoplasias podem ser benignas**. O professor fez questão de ressaltar. Na tireoide isso importa: adenoma folicular é neoplasia benigna, carcinoma folicular é maligna — e os dois são parecidos na célula."
+    },
+    {
+      "id": "b05",
+      "tipo": "titulo",
+      "texto": "2. O que olhar no ultrassom"
+    },
+    {
+      "id": "b06",
+      "tipo": "cartoes",
+      "titulo": "Três perguntas ao ultrassom",
+      "itens": [
+        {
+          "titulo": "Vascularização",
+          "texto": "Muito vascularizado indica que está mais proliferado.",
+          "emoji": "🩸"
+        },
+        {
+          "titulo": "Composição",
+          "texto": "Mais sólido, mais cístico ou misto (sólido/cístico).",
+          "emoji": "🧱"
+        },
+        {
+          "titulo": "Ecogenicidade",
+          "texto": "Hipoecogênico, isoecogênico ou hiperecogênico.",
+          "emoji": "🌗"
+        }
+      ]
+    },
+    {
+      "id": "b07",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "O ultrassom da Prova 150",
+      "md": "O enunciado da questão 2 descrevia o nódulo como **irregular, sólido, com microcalcificações**, em paciente jovem com linfonodo cervical aumentado. A microcalcificação conversa com a lâmina: o corpo psamomatoso do papilífero é justamente uma microcalcificação arredondada."
+    },
+    {
+      "id": "b08",
+      "tipo": "foto",
+      "ref": "foto_psamoma",
+      "legenda": "Corpo psamomatoso: microcalcificação arredondada em camadas concêntricas, como uma cebola."
+    },
+    {
+      "id": "b09",
+      "tipo": "titulo",
+      "texto": "3. TI-RADS: quando puncionar"
+    },
+    {
+      "id": "b10",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "TI-RADS",
+      "md": "Guideline que **atribui pontos** ao nódulo para decidir o que fazer, com base em estatística. Os critérios pontuados são: **composição, ecogenicidade, forma, margem e focos**."
+    },
+    {
+      "id": "b11",
+      "tipo": "tabela",
+      "titulo": "Os exemplos que o professor deu",
+      "colunas": [
+        "Categoria",
+        "Conduta"
+      ],
+      "linhas": [
+        [
+          "**TR2** — não suspeito",
+          "Não intervir num primeiro momento. Novo ultrassom em **2 anos**; sem mudança, voltar em **4 anos**."
+        ],
+        [
+          "**TR3**",
+          "Punção recomendada a partir de **2,5 cm**."
+        ],
+        [
+          "**TR5**",
+          "A partir de **1 cm** já punciona."
+        ]
+      ],
+      "comparacao": false
+    },
+    {
+      "id": "b12",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "A lógica da escala",
+      "md": "Quanto **mais suspeito** o nódulo, **menor** o tamanho que já justifica a punção: 2,5 cm no TR3, 1 cm no TR5. No TR2 não se punciona, só se acompanha."
+    },
+    {
+      "id": "b13",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "A crítica dele à prática no Brasil",
+      "md": "Aqui muita gente punciona nódulo **menor** do que o recomendado, e os médicos costumam fazer **tireoidectomia total** — o que deixa o paciente \"refém\" de reposição hormonal para o resto da vida."
+    },
+    {
+      "id": "b14",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "A punção é guiada por ultrassom",
+      "md": "Precisa do ultrassom para acertar o **nódulo**. Às cegas, a agulha pode pegar tireoide normal em vez da lesão."
+    },
+    {
+      "id": "b15",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: as categorias que o professor não exemplificou",
+      "blocos": [
+        {
+          "id": "b16",
+          "tipo": "texto",
+          "md": "Complemento: na escala do ACR TI-RADS, TR1 é benigno e TR4 é moderadamente suspeito (punção a partir de 1,5 cm). Não foram citadas em aula; fique com os três exemplos acima."
+        }
+      ]
+    },
+    {
+      "id": "b17",
+      "tipo": "quiz",
+      "pergunta": "Ultrassom de rotina mostra nódulo classificado como TR2. Segundo o professor, a conduta é:",
+      "opcoes": [
+        "Puncionar se tiver 1 cm ou mais",
+        "Tireoidectomia total",
+        "Não intervir; repetir o ultrassom em 2 anos",
+        "Puncionar se tiver 2,5 cm ou mais"
+      ],
+      "correta": 2,
+      "explicacao": "TR2 é não suspeito: acompanha-se com novo ultrassom em 2 anos e, sem mudança, em 4 anos. Punção a partir de 2,5 cm é a regra do TR3; a partir de 1 cm, do TR5."
+    },
+    {
+      "id": "b18",
+      "tipo": "titulo",
+      "texto": "4. Punção × biópsia"
+    },
+    {
+      "id": "b19",
+      "tipo": "tabela",
+      "titulo": "Punção × biópsia",
+      "colunas": [
+        "Critério",
+        "Punção (PAAF)",
+        "Biópsia / peça cirúrgica"
+      ],
+      "linhas": [
+        [
+          "O que se colhe",
+          "**Células** soltas",
+          "**Fragmento de tecido**"
+        ],
+        [
+          "Nome do exame",
+          "**Citopatológico**",
+          "**Histopatológico**"
+        ],
+        [
+          "O que dá para ver",
+          "A célula e o seu núcleo",
+          "A arquitetura: cápsula, vasos, relação com o tecido vizinho"
+        ],
+        [
+          "Analogia do professor",
+          "O preventivo é uma citologia: raspagem em busca de uma célula",
+          "—"
+        ],
+        [
+          "Fecha diagnóstico de",
+          "Carcinoma papilífero e carcinoma medular",
+          "Carcinoma folicular × adenoma folicular"
+        ],
+        [
+          "Limite",
+          "Não mostra invasão de cápsula nem de vaso",
+          "Exige cirurgia"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b20",
+      "tipo": "titulo",
+      "texto": "5. O que a agulha diagnostica — e o que não"
+    },
+    {
+      "id": "b21",
+      "tipo": "tabela",
+      "titulo": "PAAF nos três tumores",
+      "colunas": [
+        "Critério",
+        "Papilífero",
+        "Medular",
+        "Folicular"
+      ],
+      "linhas": [
+        [
+          "A PAAF fecha?",
+          "**Sim**",
+          "**Sim**",
+          "**Não**"
+        ],
+        [
+          "Onde mora o diagnóstico",
+          "No **núcleo** da célula",
+          "Na célula C (produtora de calcitonina)",
+          "Na **invasão** de cápsula e/ou vaso"
+        ],
+        [
+          "O que se vê",
+          "Cromatina clara, contorno irregular (ranhuras), pseudoinclusões",
+          "Tumor da célula C; o dado citado em aula foi calcitonina de 2.000 no paciente",
+          "Células que parecem de tireoide normal"
+        ],
+        [
+          "Então…",
+          "Bethesda 5 ou 6",
+          "Diagnóstico possível na punção",
+          "Precisa da **peça** para dizer se é adenoma ou carcinoma"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b22",
+      "tipo": "foto",
+      "ref": "foto_papilifero",
+      "legenda": "Carcinoma papilífero: o que a agulha traz não é a papila, é a célula — com núcleo claro, irregular e com pseudoinclusões."
+    },
+    {
+      "id": "b23",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "A frase que vale a questão",
+      "md": "\"Por que falamos que a punção é boa para analisar o papilífero? Porque o diagnóstico é feito por análise das **características do núcleo** no citopatológico!\" E mais: quando se punciona, **não vem a papila** — vem a célula que reveste a papila, com o seu núcleo."
+    },
+    {
+      "id": "b24",
+      "tipo": "fluxo",
+      "titulo": "Raciocínio para a questão de PAAF",
+      "passos": [
+        {
+          "titulo": "PAAF é citologia",
+          "texto": "A agulha fina aspira células, não tecido."
+        },
+        {
+          "titulo": "Citologia só vê célula",
+          "texto": "Então só fecha tumor cuja definição esteja na própria célula."
+        },
+        {
+          "titulo": "Papilífero é definido pelo núcleo",
+          "texto": "Cromatina clara, ranhuras nucleares, pseudoinclusões."
+        },
+        {
+          "titulo": "Folicular é definido pela invasão",
+          "texto": "Cápsula e vaso só aparecem no histopatológico da peça."
+        },
+        {
+          "titulo": "Resposta",
+          "texto": "O tipo histológico mais indicado para diagnóstico por PAAF é o carcinoma papilífero."
+        }
+      ]
+    },
+    {
+      "id": "b25",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo (Prova 150, questão 5)",
+      "md": "\"Carcinoma papilífero. A PAAF fornece material citológico, e o diagnóstico do papilífero baseia-se nas alterações nucleares, visíveis na citologia: núcleos de cromatina clara, com contornos irregulares (ranhuras/fendas) e pseudoinclusões intranucleares. Já o carcinoma folicular depende da demonstração de invasão capsular e/ou vascular, só avaliável no exame histopatológico da peça.\""
+    },
+    {
+      "id": "b26",
+      "tipo": "revelar",
+      "pergunta": "Explique, com suas palavras: por que a PAAF não consegue distinguir adenoma folicular de carcinoma folicular?",
+      "resposta": "Porque as **células são iguais** — parecem as de uma tireoide normal. O que torna o tumor um carcinoma é a **invasão da cápsula e/ou dos vasos**, e isso é arquitetura: só aparece no **histopatológico** da peça. Nas palavras do professor, não dá para diagnosticar \"com uma agulhada\"."
+    },
+    {
+      "id": "b27",
+      "tipo": "titulo",
+      "texto": "6. Bethesda: o laudo da punção"
+    },
+    {
+      "id": "b28",
+      "tipo": "texto",
+      "md": "O Bethesda é a classificação que o patologista usa para **dar o laudo da citologia**. O que o professor explorou foi a categoria 3 e o significado prático das categorias 5 e 6."
+    },
+    {
+      "id": "b29",
+      "tipo": "tabela",
+      "titulo": "Categorias de Bethesda",
+      "colunas": [
+        "Categoria",
+        "Significado",
+        "O que foi dito em aula"
+      ],
+      "linhas": [
+        [
+          "1",
+          "Complemento: amostra não diagnóstica",
+          "—"
+        ],
+        [
+          "2",
+          "Complemento: benigno",
+          "—"
+        ],
+        [
+          "**3**",
+          "**Atipia de significado indeterminado**",
+          "**Repetir a punção** em 3 a 4 semanas. Não é para operar."
+        ],
+        [
+          "4",
+          "Complemento: neoplasia folicular",
+          "Combina com o que você já sabe: a citologia não separa adenoma de carcinoma folicular"
+        ],
+        [
+          "**5**",
+          "Complemento: suspeito de malignidade",
+          "As alterações do núcleo do papilífero permitem dar Bethesda 5 ou 6"
+        ],
+        [
+          "**6**",
+          "Complemento: maligno",
+          "Na maioria dos casos, carcinoma papilífero"
+        ]
+      ],
+      "comparacao": false
+    },
+    {
+      "id": "b30",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "O que mudou no Bethesda 3",
+      "md": "Antes, quando o patologista ficava em dúvida, colocava Bethesda 3 \"pra todos os diagnósticos\" e se amparava nisso. Com a atualização, ele precisa dizer **qual** atipia: **nuclear** (mais perto de uma neoplasia **maligna**) ou **arquitetural** (mais perto de uma neoplasia **benigna**)."
+    },
+    {
+      "id": "b31",
+      "tipo": "fluxo",
+      "titulo": "Por que esperar 3 a 4 semanas para repetir",
+      "passos": [
+        {
+          "titulo": "A punção agride o tecido",
+          "texto": "Depois dela há inflamação."
+        },
+        {
+          "titulo": "Necrose",
+          "texto": "Parte do tecido puncionado necrosa."
+        },
+        {
+          "titulo": "Cicatrização",
+          "texto": "Segue-se o reparo."
+        },
+        {
+          "titulo": "Células de reparo enganam",
+          "texto": "Em reparo, as células têm núcleo aumentado."
+        },
+        {
+          "titulo": "Risco",
+          "texto": "Repuncionar cedo demais pode gerar um Bethesda 5 \"falso\" — era só cicatrização."
+        }
+      ]
+    },
+    {
+      "id": "b32",
+      "tipo": "quiz",
+      "pergunta": "Laudo de PAAF: Bethesda 3. Qual a conduta ensinada pelo professor?",
+      "opcoes": [
+        "Operar: tireoidectomia total",
+        "Repetir a punção no dia seguinte",
+        "Repetir a punção em 3 a 4 semanas",
+        "Dar alta sem seguimento"
+      ],
+      "correta": 2,
+      "explicacao": "Bethesda 3 é atipia de significado indeterminado: repete-se a punção, não se opera. E é preciso esperar 3 a 4 semanas para que a inflamação e o reparo da primeira punção não simulem atipia."
+    },
+    {
+      "id": "b33",
+      "tipo": "titulo",
+      "texto": "7. Deu maligno: como é a cirurgia"
+    },
+    {
+      "id": "b34",
+      "tipo": "texto",
+      "md": "Segundo o professor, quando há malignidade e indicação cirúrgica, retira-se o **istmo, um lobo e apenas parte do outro lobo** — para ver se a tireoide restante consegue suprir a produção de hormônios sem reposição."
+    },
+    {
+      "id": "b35",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "O contraste com a década de 80",
+      "md": "Naquela época tirava-se **só o nódulo**, não o lobo. Sem margem livre, a neoplasia ficava lá e ia se indiferenciando. É essa história que o professor usa para o carcinoma anaplásico — e é por isso que o caso longitudinal da prova começa com \"operado em 1987\"."
+    },
+    {
+      "id": "b36",
+      "tipo": "revelar",
+      "pergunta": "Prova 150, questão 2: paciente feminina, 22 anos, linfonodo cervical aumentado; exame de imagem com nódulo tireoidiano irregular, sólido, com microcalcificações. Qual o provável diagnóstico? Explique.",
+      "resposta": "**Carcinoma papilífero.** É o mais comum, dissemina-se por **via linfática** para os linfonodos cervicais (o linfonodo aumentado é a metástase) e as microcalcificações correspondem aos corpos psamomatosos. Gabarito oficial: \"Carcinoma papilífero. Disseminação linfática.\""
+    },
+    {
+      "id": "b37",
+      "tipo": "resumo",
+      "itens": [
+        "Nódulo é muito comum (64% das mulheres) e não é sinônimo de doença; neoplasia não é sinônimo de câncer.",
+        "TI-RADS (exemplos do professor): **TR2** acompanha (US em 2 e 4 anos); **TR3** punciona ≥ 2,5 cm; **TR5** punciona ≥ 1 cm.",
+        "**Punção = célula = citopatológico. Biópsia = tecido = histopatológico.**",
+        "PAAF fecha **papilífero** (diagnóstico nuclear) e medular; **não** separa adenoma de carcinoma folicular (precisa ver invasão).",
+        "**Bethesda 3** = atipia indeterminada → repetir a punção em **3 a 4 semanas**, não operar.",
+        "Cirurgia: istmo + um lobo + parte do outro, tentando evitar reposição hormonal."
+      ]
+    }
+  ]
+}

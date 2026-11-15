@@ -1,0 +1,585 @@
+{
+  "id": "tir-01",
+  "modulo": "tireoide",
+  "ordem": 1,
+  "titulo": "Base: o que a tireoide faz e como se lê o laboratório",
+  "minutos": 12,
+  "prioridade": "media",
+  "topicos": [
+    "tir-fisiologia"
+  ],
+  "resumo": "Você vai ler qualquer combinação de TSH, T3 e T4 de um enunciado e saber em que gaveta (hipo, hiper, subclínico, normal) o caso está.",
+  "objetivos": [
+    "Diferenciar célula folicular de célula C pelo hormônio, pelo tumor e pelo marcador",
+    "Explicar o eixo TRH–TSH–T3/T4 e prever o TSH a partir do T4",
+    "Reconhecer os padrões laboratoriais de hipotireoidismo, hipertireoidismo e formas subclínicas",
+    "Distinguir hipertireoidismo de tireotoxicose",
+    "Situar forame cego, ducto tireoglosso, lobo piramidal e cisto tireoglosso"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "O professor não pergunta fisiologia solta: ela vem **embutida no caso**. No caso longitudinal que se repete (Prova 145, Prova 147 e duas provas sem ano), o item d) é sempre: *\"Qual o resultado dos exames laboratoriais do paciente em 1987 quanto a T3, T4 e TSH?\"* Gabarito oficial: **\"T3 e T4 baixos e TSH alto, em hipotireoidismo\"**. Na Prova 150 (questão 3), o enunciado dá cansaço, queda de cabelo, ganho de peso, T3/T4 reduzidos e TSH aumentado, e você tem que chegar em Hashimoto."
+    },
+    {
+      "id": "b02",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Recado do professor",
+      "md": "\"É para se basear nos **slides** para estudar na prova — tem coisa que não precisa estudar no livro.\""
+    },
+    {
+      "id": "b03",
+      "tipo": "titulo",
+      "texto": "1. Duas células, dois hormônios"
+    },
+    {
+      "id": "b04",
+      "tipo": "texto",
+      "md": "A tireoide tem duas populações de células. Separe-as agora, porque **todo o resto do módulo** (tumores, marcadores, imuno-histoquímica) se pendura nessa divisão."
+    },
+    {
+      "id": "b05",
+      "tipo": "tabela",
+      "titulo": "Célula folicular × célula C",
+      "colunas": [
+        "Critério",
+        "Célula folicular",
+        "Célula C"
+      ],
+      "linhas": [
+        [
+          "Outros nomes",
+          "Célula A, tireócito",
+          "Célula parafolicular"
+        ],
+        [
+          "Onde está",
+          "Reveste o folículo",
+          "Ao lado dos folículos (parafolicular)"
+        ],
+        [
+          "O que produz",
+          "**T3 e T4**",
+          "**Calcitonina**"
+        ],
+        [
+          "Tumores que nascem dela",
+          "Papilífero, folicular (e o anaplásico, que vem da indiferenciação deles)",
+          "Carcinoma **medular** (neuroendócrino)"
+        ],
+        [
+          "Marcador que a identifica",
+          "Tireoglobulina",
+          "Calcitonina"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b06",
+      "tipo": "foto",
+      "ref": "foto_tireoide_normal",
+      "legenda": "Tireoide normal: folículos revestidos por células foliculares, com coloide róseo no centro."
+    },
+    {
+      "id": "b07",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Coloide",
+      "md": "É a **forma de armazenamento do T3 e do T4**, guardada dentro do folículo. A tireoide é a **única glândula endócrina que acumula material de secreção dentro dela**. Na lâmina, o coloide é o \"material róseo\" — exatamente como apareceu na Prova 150: *\"estruturas foliculares com material róseo em seu interior\"*."
+    },
+    {
+      "id": "b08",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Pinocitose",
+      "md": "Tipo de endocitose: a célula folicular engole pequenas porções de coloide em vesículas e libera o hormônio no sangue. Guarde a palavra, porque ela separa os dois bócios da prova: **muita pinocitose = Graves**; **sem pinocitose = bócio nodular atóxico**."
+    },
+    {
+      "id": "b09",
+      "tipo": "titulo",
+      "texto": "2. O eixo e a retroalimentação"
+    },
+    {
+      "id": "b10",
+      "tipo": "fluxo",
+      "titulo": "Eixo TRH – TSH – T3/T4",
+      "passos": [
+        {
+          "titulo": "Hipotálamo: TRH",
+          "texto": "O hormônio de liberação da tireotrofina regula a síntese e a liberação do TSH."
+        },
+        {
+          "titulo": "Adeno-hipófise: TSH",
+          "texto": "O TSH (tireotrofina) é secretado e vai até a tireoide."
+        },
+        {
+          "titulo": "Tireoide: cresce e produz",
+          "texto": "O TSH promove hipertrofia e hiperplasia da glândula e estimula a síntese de T3 e T4."
+        },
+        {
+          "titulo": "T3 e T4 no sangue",
+          "texto": "Atuam em crescimento e maturação de tecidos, respiração celular e consumo de energia."
+        },
+        {
+          "titulo": "Freio (retroalimentação negativa)",
+          "texto": "T3 e T4 inibem a secreção e antagonizam a ação do TSH."
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "tipo": "figura",
+      "ref": "fig_eixo_tireoide",
+      "legenda": "O eixo hipotálamo–hipófise–tireoide e os padrões de TSH/T4 no hipo e no hipertireoidismo."
+    },
+    {
+      "id": "b12",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "A regra da gangorra",
+      "md": "T4 e TSH andam em **sentidos opostos**. T4 caiu → o freio some → TSH sobe. T4 subiu → o freio aperta → TSH cai. Na fala do professor: *\"Se baixou o T4 → TSH subiu por retroalimentação → quadro de hipotireoidismo.\"* E lembre: TSH alto faz a glândula **crescer** — é o motor do bócio por carência de iodo."
+    },
+    {
+      "id": "b13",
+      "tipo": "quiz",
+      "pergunta": "Paciente de 18 anos com cansaço, queda de cabelo e ganho de peso (Prova 150). Qual laboratório combina com o quadro?",
+      "opcoes": [
+        "T3 e T4 altos, TSH baixo",
+        "T3 e T4 baixos, TSH baixo",
+        "T3 e T4 baixos, TSH alto",
+        "T3 e T4 normais, TSH normal"
+      ],
+      "correta": 2,
+      "explicacao": "A clínica é de hipotireoidismo. Com T3/T4 baixos, a hipófise perde o freio e o TSH sobe. É o padrão que o gabarito oficial escreve: \"T3 e T4 baixos e TSH alto, em hipotireoidismo\"."
+    },
+    {
+      "id": "b14",
+      "tipo": "titulo",
+      "texto": "3. Hipo × hiper × tireotoxicose"
+    },
+    {
+      "id": "b15",
+      "tipo": "tabela",
+      "titulo": "Hipotireoidismo × hipertireoidismo",
+      "colunas": [
+        "Critério",
+        "Hipotireoidismo",
+        "Hipertireoidismo"
+      ],
+      "linhas": [
+        [
+          "T3 e T4",
+          "**Baixos**",
+          "**Altos**"
+        ],
+        [
+          "TSH",
+          "**Alto**",
+          "**Baixo**"
+        ],
+        [
+          "Causa nº 1",
+          "Tireoidite de **Hashimoto** (a mais comum no mundo)",
+          "Doença de **Graves**"
+        ],
+        [
+          "Mecanismo da causa nº 1",
+          "Destruição autoimune da glândula",
+          "Autoanticorpo antirreceptor de TSH que **estimula** a glândula"
+        ],
+        [
+          "Queixas citadas",
+          "Cansaço, queda de cabelo, ganho de peso",
+          "Diarreia, emagrecimento, insônia, irritabilidade, tremor fino, taquicardia, exoftalmia"
+        ],
+        [
+          "Outras causas citadas",
+          "Congênito (nasceu sem tireoide); cirurgia de retirada da tireoide",
+          "Doença de Plummer (adenoma tóxico); bócio multinodular tóxico"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b16",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Hipertireoidismo não é sinônimo de tireotoxicose",
+      "md": "**Hipertireoidismo** = hiperfunção da tireoide. **Tireotoxicose** = sinais e sintomas resultantes da elevação dos hormônios tireoidianos circulantes (Bogliolo). O exemplo que amarra: no Hashimoto, a destruição dos folículos pode despejar hormônio no sangue e dar um quadro transitório de excesso hormonal, **sem** a glândula estar trabalhando mais."
+    },
+    {
+      "id": "b17",
+      "tipo": "tabela",
+      "titulo": "Padrões de laboratório",
+      "colunas": [
+        "Padrão",
+        "TSH",
+        "T3 / T4",
+        "Pense em"
+      ],
+      "linhas": [
+        [
+          "Hipotireoidismo franco",
+          "Alto",
+          "Baixos",
+          "Hashimoto estabelecido"
+        ],
+        [
+          "Hipotireoidismo subclínico",
+          "Alto",
+          "Normais",
+          "Fase inicial do Hashimoto"
+        ],
+        [
+          "Hipertireoidismo",
+          "Baixo",
+          "Altos",
+          "Graves"
+        ],
+        [
+          "Hipertireoidismo subclínico",
+          "Complemento: baixo",
+          "Complemento: normais",
+          "O resumo só diz que, se o bócio nodular atóxico tiver hiperfunção, ela é subclínica, sem sintomas"
+        ],
+        [
+          "Normal (eutireoidismo)",
+          "Normal",
+          "Normais",
+          "Bócio nodular atóxico"
+        ]
+      ],
+      "comparacao": false
+    },
+    {
+      "id": "b18",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Duas pegadinhas da Prova 148",
+      "md": "Na questão sobre **Hashimoto**, uma alternativa oferecia \"níveis elevados de T3 e T4 com níveis baixos de TSH\" — esse é o padrão do Graves. Na questão sobre **Graves**, uma alternativa oferecia \"aumento isolado dos níveis de TSH com níveis normais de T3 e T4\" — isso é hipotireoidismo subclínico. O professor troca os laboratórios de gaveta de propósito."
+    },
+    {
+      "id": "b19",
+      "tipo": "revelar",
+      "pergunta": "Caso longitudinal (Provas 145 e 147): em 1987 o paciente foi operado; o parênquima ao redor do nódulo tinha infiltrado linfoplasmocitário, atrofia, traves fibrosas e transformação oxifílica. Qual era o laboratório dele em 1987?",
+      "resposta": "**T3 e T4 baixos e TSH alto, em hipotireoidismo.** O parênquima descrito é de tireoidite de Hashimoto; a destruição da glândula derruba T3/T4 e, sem o freio, o TSH sobe. É a frase literal do gabarito oficial."
+    },
+    {
+      "id": "b20",
+      "tipo": "titulo",
+      "texto": "4. Calcitonina × PTH"
+    },
+    {
+      "id": "b21",
+      "tipo": "tabela",
+      "titulo": "Calcitonina × PTH",
+      "colunas": [
+        "Critério",
+        "Calcitonina",
+        "PTH"
+      ],
+      "linhas": [
+        [
+          "Quem produz",
+          "Células C da **tireoide**",
+          "**Paratireoides**"
+        ],
+        [
+          "Relação entre eles",
+          "Faz oposição ao PTH",
+          "É antagonizado pela calcitonina"
+        ],
+        [
+          "Efeito no cálcio",
+          "Complemento: reduz o cálcio no sangue",
+          "Complemento: eleva o cálcio no sangue"
+        ],
+        [
+          "Quando aparece muito alto",
+          "Carcinoma medular — o exemplo da aula foi calcitonina de **2.000**",
+          "Hiperplasia adenomatosa da paratireoide (causa benigna)"
+        ],
+        [
+          "Consequência citada em aula",
+          "Serve de marcador do carcinoma medular",
+          "Calcificação metastática (alteração do metabolismo do cálcio) em **rins e pulmão**"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b22",
+      "tipo": "titulo",
+      "texto": "5. Anatomia e embriologia em um minuto"
+    },
+    {
+      "id": "b23",
+      "tipo": "figura",
+      "ref": "fig_tireoide_anatomia",
+      "legenda": "Vista anterior: lobos direito e esquerdo unidos pelo istmo, lobo piramidal e o trajeto do ducto tireoglosso desde a base da língua."
+    },
+    {
+      "id": "b24",
+      "tipo": "fluxo",
+      "titulo": "De onde vem a tireoide",
+      "passos": [
+        {
+          "titulo": "Nasce na base da língua",
+          "texto": "Na região do forame cego."
+        },
+        {
+          "titulo": "Desce pelo pescoço",
+          "texto": "Migra inferiormente, passando pela região do osso hioide, ainda ligada à língua pelo ducto tireoglosso."
+        },
+        {
+          "titulo": "Chega à posição definitiva",
+          "texto": "Dois lobos unidos pelo istmo, à frente da traqueia."
+        },
+        {
+          "titulo": "O ducto some",
+          "texto": "O ducto tireoglosso sofre atrofia fisiológica e desaparece."
+        },
+        {
+          "titulo": "Se sobra algo",
+          "texto": "Tecido tireoidiano na parte inferior do trajeto = lobo piramidal. Restos epiteliais que acumulam secreção = cisto do ducto tireoglosso."
+        }
+      ]
+    },
+    {
+      "id": "b25",
+      "tipo": "tabela",
+      "titulo": "Lobo piramidal × cisto do ducto tireoglosso",
+      "colunas": [
+        "Critério",
+        "Lobo piramidal",
+        "Cisto do ducto tireoglosso"
+      ],
+      "linhas": [
+        [
+          "O que é",
+          "Tecido tireoidiano que persistiu na porção inferior do trajeto",
+          "Restos epiteliais do ducto que acumulam secreção"
+        ],
+        [
+          "É doença?",
+          "Não — variação anatômica normal",
+          "Sim — falha de involução do ducto"
+        ],
+        [
+          "Onde aparece",
+          "Sobe do istmo em direção ao hioide",
+          "Massa na **linha média** do pescoço, perto do hioide"
+        ],
+        [
+          "Sinal clínico",
+          "Nenhum",
+          "**Sobe** quando o paciente põe a língua para fora ou deglute"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b26",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Peso deste trecho",
+      "md": "No resumo, a embriologia veio de uma explicação complementar; o professor só **citou os termos** em aula (ducto tireoglosso, atrofia fisiológica, lobo piramidal, cisto). Rendimento baixo: saiba reconhecer os nomes e o sinal do cisto. Dois detalhes práticos que ele falou: o **istmo** é o que une os dois lobos, e um nódulo só é notado ao exame se tiver **mais de 1 cm e crescer para a frente**."
+    },
+    {
+      "id": "b27",
+      "tipo": "quiz",
+      "pergunta": "Massa na linha média do pescoço, junto ao osso hioide, que sobe quando a paciente protrai a língua. O que é?",
+      "opcoes": [
+        "Lobo piramidal",
+        "Cisto do ducto tireoglosso",
+        "Bócio mergulhante",
+        "Linfonodo metastático"
+      ],
+      "correta": 1,
+      "explicacao": "A relação com a base da língua e o hioide explica o movimento à protrusão da língua e à deglutição. O lobo piramidal é variação normal e não forma massa cística."
+    },
+    {
+      "id": "b28",
+      "tipo": "titulo",
+      "texto": "6. Sinais e sintomas: hipo × hiper"
+    },
+    {
+      "id": "b29",
+      "tipo": "texto",
+      "md": "Em aula, o professor citou poucos sintomas — os dos cartões abaixo. A tabela completa do Bogliolo fica recolhida logo depois, \"só por desencargo de consciência\", como diz o resumo."
+    },
+    {
+      "id": "b30",
+      "tipo": "cartoes",
+      "titulo": "Hipertireoidismo: o que foi dito em aula",
+      "itens": [
+        {
+          "titulo": "Taquicardia",
+          "texto": "O sintoma cardiovascular citado.",
+          "emoji": "💓"
+        },
+        {
+          "titulo": "Diarreia",
+          "texto": "Hipermotilidade do trato gastrointestinal.",
+          "emoji": "🚽"
+        },
+        {
+          "titulo": "Exoftalmia",
+          "texto": "Reação cruzada com antígenos dos tecidos periorbitários.",
+          "emoji": "👁️"
+        },
+        {
+          "titulo": "Edema pré-tibial",
+          "texto": "Citado junto com a exoftalmia no quadro de Graves.",
+          "emoji": "🦵"
+        },
+        {
+          "titulo": "Aumento do pescoço",
+          "texto": "Bócio: a tireoide está aumentada.",
+          "emoji": "🧣"
+        },
+        {
+          "titulo": "Emagrecimento, insônia, irritabilidade, tremor fino",
+          "texto": "As queixas \"hormonais\" do paciente.",
+          "emoji": "⚡"
+        }
+      ]
+    },
+    {
+      "id": "b31",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: tabela completa de sinais e sintomas (Bogliolo)",
+      "blocos": [
+        {
+          "id": "b32",
+          "tipo": "destaque",
+          "estilo": "atencao",
+          "titulo": "Tabela reconstruída",
+          "md": "No resumo original esta tabela saiu quebrada na conversão; ela foi remontada aqui. Três trechos parecem erro de digitação da fonte: \"hiperexia\" (provável *hiperorexia*, aumento do apetite) e \"braquicardia\" (*bradicardia*) aparecem aqui já na forma corrigida; \"B1 hipofonética\" entre os sinais de hipercinesia do hipertireoidismo ficou de fora, porque em estado hipercinético o esperado seria B1 *hiperfonética* — confira no slide se precisar."
+        },
+        {
+          "id": "b33",
+          "tipo": "tabela",
+          "titulo": "Sinais e sintomas por sistema",
+          "colunas": [
+            "Sistema",
+            "Hipertireoidismo",
+            "Hipotireoidismo"
+          ],
+          "linhas": [
+            [
+              "Gerais",
+              "Emagrecimento com hiperorexia, fadiga, astenia, hipertermia, intolerância ao **calor**",
+              "Intolerância ao **frio**, hipotermia, astenia, edema duro, retenção hídrica, ganho de peso, fácies mixedematosa"
+            ],
+            [
+              "Pele e anexos",
+              "Pele quente e úmida, eritema palmar, dermatografismo, prurido, urticária, cabelo quebradiço e úmido, alopecia discreta, unhas quebradiças, onicólise (unhas de Plummer)",
+              "Pele seca, áspera, amarelada e fria; queda de cabelo; unhas frágeis e quebradiças; diminuição da transpiração"
+            ],
+            [
+              "Cardiovasculares",
+              "Taquicardia, palpitação, insuficiência cardíaca congestiva, hipertensão arterial **divergente**, precipitação de angina, arritmias atriais (fibrilação atrial, flutter, extrassístoles), sinais de hipercinesia cardíaca (sopro holossistólico na borda esternal esquerda, quarta bulha)",
+              "Hipertensão arterial **convergente**, insuficiência cardíaca congestiva, bradicardia, derrame pericárdico, congestão e edema pulmonares, dispneia"
+            ],
+            [
+              "Respiratórios",
+              "Taquidispneia, dispneia",
+              "—"
+            ],
+            [
+              "Gastrointestinais",
+              "Aumento do número de evacuações, elevação de enzimas hepáticas",
+              "Constipação, diminuição do peristaltismo, redução do apetite"
+            ],
+            [
+              "Neurológicos",
+              "Insônia, irritabilidade, agitação psicomotora, taquilalia, menor capacidade de concentração, tremor fino de extremidades, clônus, hiper-reflexia (principalmente do Aquileu), quadriparesia flácida arrefléxica",
+              "Depressão, fadiga, letargia, dificuldade de concentração, lentificação do raciocínio, problemas de memória, demência, hiporreflexia (reflexo do Aquileu lento)"
+            ],
+            [
+              "Musculares",
+              "Fraqueza muscular proximal, paralisia periódica hipocalêmica",
+              "Fraqueza muscular, parestesia, artralgia"
+            ],
+            [
+              "Esqueléticos",
+              "Redução da massa óssea: osteopenia e osteoporose",
+              "—"
+            ],
+            [
+              "Hematopoiéticos",
+              "Leucopenia discreta com relativa linfocitose, anemia normocítica",
+              "Anemia macrocítica"
+            ],
+            [
+              "Metabólicos",
+              "Diminuição de colesterol total, LDL e triglicerídeos",
+              "Hipertrigliceridemia, hipercolesterolemia, hiponatremia, bócio, galactorreia, baixa estatura em crianças"
+            ],
+            [
+              "Ginecológicos",
+              "Oligomenorreia, amenorreia, anovulação (infertilidade), aumento da síntese hepática da proteína carreadora de hormônios sexuais",
+              "Distúrbios menstruais, anovulação, infertilidade"
+            ]
+          ],
+          "comparacao": true
+        },
+        {
+          "id": "b34",
+          "tipo": "texto",
+          "md": "**Formas extremas.** No hiper: exoftalmo maligno (proptose acentuada, úlcera de córnea, neuropatia óptica) e encefalopatia tireotóxica, ligada à crise tireotóxica (delírio, convulsões, torpor, coma). No hipo: mixedema (acúmulo de glicosaminoglicanos hidrofílicos, sobretudo ácido hialurônico, na derme), cretinismo, retardamento mental e desarmonia do crescimento esquelético."
+        }
+      ]
+    },
+    {
+      "id": "b35",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: o segundo mecanismo de controle",
+      "blocos": [
+        {
+          "id": "b36",
+          "tipo": "texto",
+          "md": "Além do eixo com retroalimentação, o Bogliolo cita um segundo mecanismo, de **autorregulação**, que depende da reserva de iodo orgânico na própria tireoide. Não foi explorado em aula."
+        }
+      ]
+    },
+    {
+      "id": "b37",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "Macete: tudo acelera × tudo freia",
+      "md": "No hiper, o corpo está **acelerado e quente**: taquicardia, diarreia, insônia, emagrecimento, intolerância ao calor. No hipo, **lento e frio**: bradicardia, constipação, letargia, ganho de peso, intolerância ao frio. Se você esquecer um item da tabela, deduza pelo sentido."
+    },
+    {
+      "id": "b38",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo para o item do laboratório",
+      "md": "\"T3 e T4 baixos e TSH alto, caracterizando hipotireoidismo: a queda dos hormônios tireoidianos retira a retroalimentação negativa sobre a hipófise, e o TSH se eleva.\""
+    },
+    {
+      "id": "b39",
+      "tipo": "revelar",
+      "pergunta": "Sem olhar: qual a diferença entre hipertireoidismo e tireotoxicose? Dê um exemplo em que há uma sem a outra.",
+      "resposta": "**Hipertireoidismo** é hiperfunção da glândula; **tireotoxicose** é o conjunto de sinais e sintomas do excesso de hormônio circulante. Exemplo: no Hashimoto, a destruição dos folículos libera hormônio armazenado e pode dar um quadro transitório de excesso hormonal sem hiperfunção glandular."
+    },
+    {
+      "id": "b40",
+      "tipo": "resumo",
+      "itens": [
+        "**Célula folicular** → T3/T4, coloide, tireoglobulina. **Célula C** → calcitonina, carcinoma medular.",
+        "T4 e TSH são gangorra: **hipo = T3/T4 baixos + TSH alto**; **hiper = T3/T4 altos + TSH baixo**.",
+        "**Subclínico** = TSH alterado com T3/T4 normais (TSH alto isolado = fase inicial do Hashimoto).",
+        "Causa nº 1 de hipo: **Hashimoto** (destruição). Causa nº 1 de hiper: **Graves** (estimulação).",
+        "Hipertireoidismo = hiperfunção; tireotoxicose = sintomas do excesso de hormônio.",
+        "Cisto do ducto tireoglosso: linha média, perto do hioide, **sobe com a língua**."
+      ]
+    }
+  ]
+}

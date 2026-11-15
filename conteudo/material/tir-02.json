@@ -1,0 +1,507 @@
+{
+  "id": "tir-02",
+  "modulo": "tireoide",
+  "ordem": 2,
+  "titulo": "Bócios: Graves × bócio nodular atóxico",
+  "minutos": 14,
+  "prioridade": "alta",
+  "topicos": [
+    "tir-graves",
+    "tir-bocio-nodular"
+  ],
+  "resumo": "Você vai separar os dois únicos bócios da prova pelo mecanismo, pela microscopia e pelo tipo de queixa — e não vai mais cair no \"Graves por destruição\".",
+  "objetivos": [
+    "Definir bócio e usar corretamente tóxico/atóxico, difuso/nodular, endêmico/esporádico",
+    "Explicar a fisiopatologia do Graves (autoanticorpo que estimula) e a do bócio nodular atóxico (carência de iodo)",
+    "Diferenciar a microscopia dos dois: papilas simples, epitélio alto, pinocitose e coloide escasso × folículos distendidos sem pinocitose",
+    "Diferenciar queixa endócrina de queixa mecânica",
+    "Reconhecer bócio mergulhante (4 T), Plummer, multinodular tóxico e Hashitoxicose"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "**Prova 150, V ou F:** *\"Na Doença de Graves, a fisiopatologia dos sintomas é devida à destruição autoimune dos folículos com liberação de hormônios tireoidianos.\"* → **Falso**; o gabarito oficial corrige com uma palavra: \"autoanticorpos\". **Prova 148, questão 3:** característico de Graves = *\"hiperplasia difusa da glândula tireoide com aumento da pinocitose e produção excessiva de hormônios tireoidianos\"*. Os distratores eram anti-TPO \"em todos os casos\", nódulos adenomatosos frios sem hiperplasia do revestimento e TSH isoladamente alto."
+    },
+    {
+      "id": "b02",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "O recorte da prova",
+      "md": "\"Para o 5º período — ou seja, na sua prova **só vai cair isso** — teremos apenas dois bócios: **difuso tóxico** e **nodular atóxico**.\""
+    },
+    {
+      "id": "b03",
+      "tipo": "titulo",
+      "texto": "1. O vocabulário do bócio"
+    },
+    {
+      "id": "b04",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Bócio",
+      "md": "Aumento do tamanho da tireoide. No Brasil, a glândula precisa pesar **mais de 30 g** para ser chamada de bócio."
+    },
+    {
+      "id": "b05",
+      "tipo": "cartoes",
+      "titulo": "Seis adjetivos, três pares",
+      "itens": [
+        {
+          "titulo": "Tóxico",
+          "texto": "O bócio secreta: há excesso de hormônio.",
+          "emoji": "☢️"
+        },
+        {
+          "titulo": "Atóxico",
+          "texto": "Não secreta em excesso: hormônios normais (ou alteração subclínica).",
+          "emoji": "🚫"
+        },
+        {
+          "titulo": "Difuso",
+          "texto": "Glândula aumentada por inteiro, sem nódulos.",
+          "emoji": "🌫️"
+        },
+        {
+          "titulo": "Nodular / multinodular",
+          "texto": "Glândula aumentada com nódulos.",
+          "emoji": "🫧"
+        },
+        {
+          "titulo": "Endêmico",
+          "texto": "Regiões com carência de iodo (menos comum hoje, por causa do sal iodado).",
+          "emoji": "🗺️"
+        },
+        {
+          "titulo": "Esporádico",
+          "texto": "Fora de área de carência — como no Rio de Janeiro.",
+          "emoji": "📍"
+        }
+      ]
+    },
+    {
+      "id": "b06",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "Montando os dois nomes",
+      "md": "Graves = **difuso + tóxico**. O outro = **nodular + atóxico**. E uma frase do professor que vale para os dois: *\"Todos os bócios têm tanto hiperplasia quanto hipertrofia.\"*"
+    },
+    {
+      "id": "b07",
+      "tipo": "titulo",
+      "texto": "2. Graves: o bócio difuso tóxico"
+    },
+    {
+      "id": "b08",
+      "tipo": "texto",
+      "md": "É a **maior causa de hipertireoidismo**. Sinônimos que podem aparecer: doença de Basedow-Graves, bócio difuso tóxico, hiperplasia difusa. Para o 5º período, \"bócio tóxico difuso = hipertireoidismo\"."
+    },
+    {
+      "id": "b09",
+      "tipo": "fluxo",
+      "titulo": "Fisiopatologia do Graves",
+      "passos": [
+        {
+          "titulo": "Autoanticorpo",
+          "texto": "Formam-se imunoglobulinas dirigidas contra o receptor de TSH."
+        },
+        {
+          "titulo": "Estimulação",
+          "texto": "O anticorpo liga-se ao receptor e o ativa: estimula a proliferação do epitélio folicular."
+        },
+        {
+          "titulo": "Hiperplasia difusa",
+          "texto": "A glândula toda cresce e trabalha demais."
+        },
+        {
+          "titulo": "Excesso de hormônio",
+          "texto": "T3 e T4 altos; por retroalimentação, TSH baixo."
+        },
+        {
+          "titulo": "Clínica endócrina",
+          "texto": "Os sintomas vêm do excesso de hormônio, não do tamanho da glândula."
+        }
+      ]
+    },
+    {
+      "id": "b10",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Estimula, não destrói",
+      "md": "Esta é a pegadinha do V ou F da Prova 150. \"Destruição autoimune dos folículos com liberação de hormônio\" descreve o que pode acontecer **no Hashimoto** (fase transitória). No Graves, o autoanticorpo **estimula** o receptor de TSH e a glândula produz mais. Se a frase tiver \"destruição\" + \"Graves\", marque F e escreva: *autoanticorpos antirreceptor de TSH estimulam a glândula*."
+    },
+    {
+      "id": "b11",
+      "tipo": "subtitulo",
+      "texto": "Clínica: a queixa é endócrina"
+    },
+    {
+      "id": "b12",
+      "tipo": "lista",
+      "itens": [
+        "Diarreia, emagrecimento",
+        "Insônia, irritabilidade, tremor fino",
+        "Taquicardia",
+        "Exoftalmia e edema pré-tibial",
+        "Aumento do volume anterior do pescoço"
+      ]
+    },
+    {
+      "id": "b13",
+      "tipo": "subtitulo",
+      "texto": "Microscopia: uma glândula tentando secretar mais"
+    },
+    {
+      "id": "b14",
+      "tipo": "cartoes",
+      "titulo": "Os achados do Graves na lâmina",
+      "itens": [
+        {
+          "titulo": "Epitélio alto",
+          "texto": "O epitélio folicular passa a ser cilíndrico.",
+          "emoji": "📏"
+        },
+        {
+          "titulo": "Papilas simples",
+          "texto": "Não ramificadas, projetando-se na luz dos folículos.",
+          "emoji": "🌿"
+        },
+        {
+          "titulo": "Muita pinocitose",
+          "texto": "Vacuolização periférica do coloide: sinal de sua reabsorção acelerada.",
+          "emoji": "🫗"
+        },
+        {
+          "titulo": "Coloide escasso",
+          "texto": "Quanto mais longa e grave a doença, menos coloide — pode quase desaparecer.",
+          "emoji": "💧"
+        },
+        {
+          "titulo": "Núcleos",
+          "texto": "Alongados, com discreta hipercromasia; citoplasma eosinofílico.",
+          "emoji": "🔬"
+        }
+      ]
+    },
+    {
+      "id": "b15",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "Por que papilas?",
+      "md": "O professor explica como uma hiperplasia \"tentando criar vilosidades intestinais\" para **aumentar a superfície de contato** e secretar mais hormônio. E o coloide some porque a pinocitose intensa o retira do folículo e joga o hormônio no sangue — ele confirmou esse raciocínio em aula."
+    },
+    {
+      "id": "b16",
+      "tipo": "foto",
+      "ref": "foto_graves",
+      "legenda": "Graves: epitélio alto formando papilas simples e coloide escasso, com vacúolos periféricos de reabsorção."
+    },
+    {
+      "id": "b17",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Papila do Graves × papila do carcinoma papilífero",
+      "md": "Perguntaram a ele qual a diferença entre as duas papilas. Resposta: **não importa saber isso**, porque o que diferencia é o **núcleo**. Guarde para o capítulo dos carcinomas."
+    },
+    {
+      "id": "b18",
+      "tipo": "quiz",
+      "pergunta": "Qual achado é característico da doença de Graves? (formato da Prova 148)",
+      "opcoes": [
+        "Anticorpos anti-TPO elevados em todos os casos",
+        "Nódulos adenomatosos frios, sem hiperplasia do revestimento folicular",
+        "Aumento isolado do TSH com T3 e T4 normais",
+        "Hiperplasia difusa com aumento da pinocitose e produção excessiva de hormônios"
+      ],
+      "correta": 3,
+      "explicacao": "Graves é hiperplasia difusa hiperfuncionante: epitélio alto, papilas, pinocitose intensa. TSH alto isolado é hipotireoidismo subclínico; nódulos frios sem hiperplasia do revestimento apontam para o lado atóxico; \"em todos os casos\" é o exagero típico de alternativa errada."
+    },
+    {
+      "id": "b19",
+      "tipo": "titulo",
+      "texto": "3. Bócio nodular atóxico"
+    },
+    {
+      "id": "b20",
+      "tipo": "texto",
+      "md": "Outros nomes: **hiperplasia difusa nodular** e **doença nodular folicular da tireoide** (no catálogo de lâminas aparece como bócio coloide). A maior causa é a **carência de iodo**. É o bócio responsável pelo **bócio mergulhante**."
+    },
+    {
+      "id": "b21",
+      "tipo": "fluxo",
+      "titulo": "Fisiopatologia do bócio nodular atóxico",
+      "passos": [
+        {
+          "titulo": "Pouco iodo",
+          "texto": "Baixa disponibilidade de iodo — a tireoide \"sente falta\" dele."
+        },
+        {
+          "titulo": "Menos hormônio",
+          "texto": "A produção hormonal cai."
+        },
+        {
+          "titulo": "TSH sobe",
+          "texto": "Sem o freio, a hipófise aumenta o TSH."
+        },
+        {
+          "titulo": "A glândula cresce",
+          "texto": "Hipertrofia e hiperplasia para compensar."
+        },
+        {
+          "titulo": "Coloide acumula",
+          "texto": "Dilatação folicular por acúmulo de tireoglobulina → bócio."
+        }
+      ]
+    },
+    {
+      "id": "b22",
+      "tipo": "cartoes",
+      "titulo": "O bócio nodular atóxico na lâmina",
+      "itens": [
+        {
+          "titulo": "Folículos distendidos",
+          "texto": "Dilatados, cheios de coloide.",
+          "emoji": "🎈"
+        },
+        {
+          "titulo": "Sem pinocitose",
+          "texto": "O coloide não está sendo reabsorvido às pressas.",
+          "emoji": "🚫"
+        },
+        {
+          "titulo": "Sem hiperplasia do epitélio",
+          "texto": "Nada de epitélio alto nem de papilas.",
+          "emoji": "➖"
+        },
+        {
+          "titulo": "Mais folículos por área",
+          "texto": "Aumento do número de folículos.",
+          "emoji": "🔢"
+        }
+      ]
+    },
+    {
+      "id": "b23",
+      "tipo": "foto",
+      "ref": "foto_bocio_coloide",
+      "legenda": "Bócio nodular atóxico: folículos grandes, distendidos por coloide, com revestimento baixo e sem vacúolos de reabsorção."
+    },
+    {
+      "id": "b24",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Parece contradição nas anotações — não é",
+      "md": "O resumo diz que o bócio nodular atóxico \"não tem hiperplasia do epitélio\" e, linhas depois, que \"todos os bócios têm hiperplasia e hipertrofia\" (além de chamá-lo de hiperplasia difusa nodular). Como conciliar: a **glândula** é hiperplásica — há mais folículos por área —, mas o **epitélio de revestimento** não fica alto nem forma papilas, como acontece no Graves. Na dúvida, escreva na prova: *folículos distendidos por coloide, sem pinocitose e sem papilas*."
+    },
+    {
+      "id": "b25",
+      "tipo": "subtitulo",
+      "texto": "Clínica: a queixa é mecânica e local"
+    },
+    {
+      "id": "b26",
+      "tipo": "texto",
+      "md": "A paciente reclama de **dificuldade para respirar e para dormir** — sente-se abafada. **Não há queixas sistêmicas.** T3, T4 e TSH estão normais ou com alteração subclínica. Na fala do professor: bócio nodular atóxico **não é igual a hipertireoidismo**; se houver, é subclínico, sem sintomas."
+    },
+    {
+      "id": "b27",
+      "tipo": "titulo",
+      "texto": "4. Lado a lado"
+    },
+    {
+      "id": "b28",
+      "tipo": "figura",
+      "ref": "fig_foliculos_comparados",
+      "legenda": "Folículo normal × Graves (epitélio alto, papilas, coloide escasso e vacuolizado) × bócio nodular atóxico (folículo distendido, epitélio baixo)."
+    },
+    {
+      "id": "b29",
+      "tipo": "tabela",
+      "titulo": "Graves × bócio nodular atóxico",
+      "colunas": [
+        "Critério",
+        "Graves (difuso tóxico)",
+        "Nodular atóxico"
+      ],
+      "linhas": [
+        [
+          "Mecanismo",
+          "Autoanticorpo antirreceptor de TSH **estimula** a glândula",
+          "**Carência de iodo** → menos hormônio → TSH alto → glândula cresce"
+        ],
+        [
+          "Forma da glândula",
+          "Difusa, sem nódulos",
+          "Com nódulos"
+        ],
+        [
+          "T3 / T4 / TSH",
+          "T3 e T4 altos, TSH baixo",
+          "Normais ou subclínico"
+        ],
+        [
+          "Tipo de queixa",
+          "**Endócrina**: diarreia, emagrecimento, taquicardia, tremor, insônia",
+          "**Mecânica e local**: dificuldade para respirar e dormir"
+        ],
+        [
+          "Epitélio",
+          "Alto (cilíndrico), hiperplásico",
+          "Sem hiperplasia do epitélio"
+        ],
+        [
+          "Papilas",
+          "Simples, não ramificadas",
+          "Ausentes"
+        ],
+        [
+          "Pinocitose",
+          "**Muita**",
+          "**Ausente**"
+        ],
+        [
+          "Coloide",
+          "Escasso, com vacúolos periféricos",
+          "Abundante, distendendo os folículos"
+        ],
+        [
+          "Marca registrada",
+          "Exoftalmia e edema pré-tibial",
+          "Bócio mergulhante"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b30",
+      "tipo": "revelar",
+      "pergunta": "Sem olhar a tabela: cite três diferenças microscópicas entre Graves e bócio nodular atóxico.",
+      "resposta": "**Graves:** epitélio cilíndrico alto, papilas simples projetando-se na luz, pinocitose intensa e coloide escasso. **Nodular atóxico:** folículos distendidos por coloide, sem pinocitose e sem hiperplasia do epitélio (sem papilas), com mais folículos por área."
+    },
+    {
+      "id": "b31",
+      "tipo": "titulo",
+      "texto": "5. Bócio mergulhante e os 4 T"
+    },
+    {
+      "id": "b32",
+      "tipo": "texto",
+      "md": "O bócio nodular atóxico pode descer para o **mediastino anterior**. Mergulha mais em **homens**: a musculatura cervical mais desenvolvida oferece resistência à expansão lateral; sem espaço para os lados, o bócio desce."
+    },
+    {
+      "id": "b33",
+      "tipo": "destaque",
+      "estilo": "mnemonico",
+      "titulo": "Os 4 T do mediastino anterior",
+      "md": "Diagnósticos diferenciais de massa onde o bócio mergulha: **T**imo, **T**ireoide, \"**T**errível linfoma\" e **T**eratoma."
+    },
+    {
+      "id": "b34",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "A única indicação de tomografia na tireoide",
+      "md": "A tomografia só é indicada em um contexto: saber **até onde o bócio desceu**. Desceu muito → precisa de cirurgião torácico. Desceu pouco → sai por via cervical, mobilizando a porção intratorácica pela entrada do tórax, na região da fúrcula esternal."
+    },
+    {
+      "id": "b35",
+      "tipo": "titulo",
+      "texto": "6. Os três nomes que confundem"
+    },
+    {
+      "id": "b36",
+      "tipo": "tabela",
+      "titulo": "Plummer × multinodular tóxico × Hashitoxicose",
+      "colunas": [
+        "Critério",
+        "Doença de Plummer",
+        "Bócio multinodular tóxico",
+        "Hashitoxicose"
+      ],
+      "linhas": [
+        [
+          "O que é",
+          "Adenoma tóxico: **um único nódulo** produz hormônio",
+          "Um Graves \"velho\", \"maltratado\" (tratamento irregular)",
+          "Explosão de hormônios no contexto do Hashimoto"
+        ],
+        [
+          "Por que surge",
+          "O nódulo funciona sozinho",
+          "Com o tempo há fibrose e formação de **pseudonódulos**",
+          "Destruição dos folículos libera hormônio"
+        ],
+        [
+          "Hormônios",
+          "Quadro clínico de hipertireoidismo",
+          "Hipertireoidismo",
+          "Excesso transitório"
+        ],
+        [
+          "Pista",
+          "Cintilografia (captação de iodo): um **\"sol\" no meio da tireoide**",
+          "Era difuso e ficou nodular",
+          "Espera-se **4 a 6 meses** para ver se é Graves ou Hashimoto mesmo"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b37",
+      "tipo": "quiz",
+      "pergunta": "Mulher com pescoço aumentado e sensação de abafamento ao deitar. T3, T4 e TSH normais. Ao ultrassom, glândula aumentada com vários nódulos. Qual o diagnóstico mais provável?",
+      "opcoes": [
+        "Doença de Graves",
+        "Bócio nodular atóxico",
+        "Doença de Plummer",
+        "Hashitoxicose"
+      ],
+      "correta": 1,
+      "explicacao": "Queixa mecânica e local, sem sintomas sistêmicos e com hormônios normais: bócio nodular atóxico. Graves e Plummer dariam clínica de hipertireoidismo; a Hashitoxicose, excesso hormonal transitório."
+    },
+    {
+      "id": "b38",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo: Graves",
+      "md": "\"A doença de Graves é um bócio difuso tóxico, principal causa de hipertireoidismo. Autoanticorpos antirreceptor de TSH estimulam o epitélio folicular, que sofre hiperplasia: epitélio cilíndrico alto formando papilas simples, pinocitose intensa e coloide escasso. Há T3 e T4 elevados com TSH baixo.\""
+    },
+    {
+      "id": "b39",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo: bócio nodular atóxico",
+      "md": "\"No bócio nodular atóxico, a carência de iodo reduz a produção hormonal e eleva o TSH, levando a hipertrofia e hiperplasia da glândula, com folículos distendidos por coloide, sem pinocitose. A função é normal ou subclínica e a queixa é mecânica; pode mergulhar no mediastino anterior.\""
+    },
+    {
+      "id": "b40",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: exoftalmia e formas graves (Bogliolo)",
+      "blocos": [
+        {
+          "id": "b41",
+          "tipo": "texto",
+          "md": "**Exoftalmia:** reação cruzada com antígenos dos tecidos periorbitários, com infiltração de linfócitos, edema, acúmulo de glicosaminoglicanos e aumento de adipócitos. **Exoftalmo maligno:** proptose acentuada, ulceração da córnea, neuropatia óptica e redução da acuidade visual."
+        },
+        {
+          "id": "b42",
+          "tipo": "texto",
+          "md": "**Fígado:** depleção de glicogênio, esteatose moderada, focos de necrose hepatocitária. **Sistema nervoso:** encefalopatia tireotóxica, ligada à crise tireotóxica (delírio, convulsões, torpor e coma). Nada disso foi cobrado nas provas antigas."
+        }
+      ]
+    },
+    {
+      "id": "b43",
+      "tipo": "resumo",
+      "itens": [
+        "Só dois bócios caem: **difuso tóxico (Graves)** e **nodular atóxico**. Bócio = tireoide com mais de 30 g.",
+        "Graves: autoanticorpo antirreceptor de TSH **estimula** (não destrói). T3/T4 altos, TSH baixo.",
+        "Micro do Graves: **epitélio alto, papilas simples, muita pinocitose, coloide escasso**.",
+        "Nodular atóxico: carência de iodo → TSH alto → **folículos distendidos, sem pinocitose**; hormônios normais ou subclínico.",
+        "Queixa **endócrina** = Graves. Queixa **mecânica** = nodular atóxico (e pode mergulhar: 4 T).",
+        "Plummer = um nódulo, \"sol\" na cintilografia. Multinodular tóxico = Graves velho. Hashitoxicose = esperar 4–6 meses."
+      ]
+    }
+  ]
+}

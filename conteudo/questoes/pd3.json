@@ -1,0 +1,179 @@
+{
+  "prova": {
+    "id": "pd3",
+    "titulo": "Ano desconhecido 3",
+    "temas": "Linfomas",
+    "periodo": "desconhecido",
+    "gabarito_fonte": "oficial",
+    "paginas": [95, 98]
+  },
+  "questoes": [
+    {
+      "id": "pd3-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "linfadenopatias",
+      "topicos": ["lfa-padrao-sinusal"],
+      "enunciado": "Paciente de 29 anos, feminina com história nos últimos 30 dias de febre, emagrecimento e linfadenomegalia axilar à direita. Foi retirado linfonodo que mostrou expansão da zona cortical, infiltração maciça de histiócitos sem atipias e dilatação do seio periférico.",
+      "pontos": 2.5,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o provável diagnóstico neste caso? (0,5)",
+          "resposta_modelo": "**Histiocitose sinusal** (linfadenopatia reacional crônica inespecífica, de padrão sinusal).",
+          "checklist": [
+            "Histiocitose sinusal",
+            "Padrão sinusal / reação histiocitária"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Descreva o quadro morfológico de dois diagnósticos diferenciais. (2,0)",
+          "resposta_modelo": "**Doença de Rosai-Dorfman:** linfadenopatia cervical gigante, de corte dourado, com histiócitos de citoplasma amplo contendo linfócitos íntegros (emperipolese); histiócitos positivos para proteína S100, CD68 e CD163. **Doença de Whipple:** histiocitose sinusal com histiócitos contendo a bactéria *Tropheryma whipplei*, evidenciada pelo PAS, e gotículas de lipídeos. Outro diferencial aceito: **drenagem de lipídeos exógenos** (linfangiografias, próteses de silicone), com histiócitos sinusais carregados de lipídeos.",
+          "checklist": [
+            "Citar dois entre: doença de Rosai-Dorfman, doença de Whipple, drenagem de lipídeos exógenos",
+            "Rosai-Dorfman: histiócitos com linfócitos íntegros no citoplasma (emperipolese)",
+            "Whipple: histiócitos com bactérias PAS-positivas e gotículas de lipídeos",
+            "Lipídeos exógenos: linfangiografia / prótese de silicone"
+          ]
+        }
+      ],
+      "explicacao": "**Infiltração maciça de histiócitos sem atipias** com **dilatação do seio periférico** é o padrão sinusal: histiocitose sinusal, a reação histiocitária inespecífica (típica também de linfonodos na periferia de tumores). Os diferenciais são as outras doenças do mesmo padrão: Rosai-Dorfman (emperipolese), Whipple (bactéria no PAS) e drenagem de lipídeos exógenos. A pergunta vale 2,0 porque pede a **morfologia** de cada diferencial, não só o nome.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "O gabarito oficial (foto da pág. 98) lista apenas os nomes dos diferenciais — \"Doença de Whipple, Doença de Rosai-Dorfman, Drenagem de lipídeos exógenos\" — sem descrever a morfologia; as descrições foram tiradas do resumo das aulas."
+    },
+    {
+      "id": "pd3-q02",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "linfadenopatias",
+      "topicos": ["lfa-granulomatosas"],
+      "enunciado": "Paciente de 30 anos, masculino, com febre, linfadenomegalia mediastinal, a qual evidencia estruturas arredondadas, múltiplas e pequenas. Não há necrose. Descreva o quadro microscópico de 3 possíveis diagnósticos.",
+      "pontos": 1.8,
+      "resposta_modelo": "**Sarcoidose** (principal diagnóstico): granulomas produtivos, sem necrose, circundados por fibrose, com células gigantes multinucleadas e calcificações (corpos de Schaumann) ou inclusões estreladas (corpos asteroides). **Tuberculose produtiva:** granuloma com células gigantes de Langhans e histiócitos epitelioides e halo linfocitário (o granuloma típico tem centro de necrose caseosa, ausente nesta fase). **Paracoccidioidomicose:** granulomas com células gigantes e necrose supurativa, com o fungo em \"roda de leme\" ao PAS e Grocott. Também aceito: **micobacteriose atípica** — não forma granuloma; há proliferação macrofágica difusa com massas de bacilos dentro dos macrófagos ao Ziehl-Neelsen.",
+      "checklist": [
+        "Sarcoidose como diagnóstico principal",
+        "Sarcoidose: granulomas sem necrose, circundados por fibrose",
+        "Sarcoidose: células gigantes com calcificações (Schaumann) / corpos asteroides",
+        "Tuberculose (produtiva): células gigantes de Langhans, histiócitos, halo linfocitário",
+        "Paracoccidioidomicose: fungo em roda de leme (PAS/Grocott), células gigantes",
+        "Micobacteriose atípica: proliferação macrofágica difusa com bacilos (Ziehl-Neelsen)"
+      ],
+      "explicacao": "\"Estruturas arredondadas, múltiplas e pequenas\" são **granulomas**; mediastino mais **ausência de necrose** aponta para sarcoidose, que faz diferencial com tuberculose justamente por dar linfadenomegalia mediastinal. Todas as granulomatoses são diferenciais entre si, por isso o gabarito aceita tuberculose produtiva, micobacteriose atípica e paracoccidioidomicose. A nota depende de descrever a microscopia de cada uma, não só de citar os nomes.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "Gabarito oficial (foto da pág. 98), na íntegra: \"Sarcoidose (diagnóstico). Granulomas produtivos circundados por fibrose. Presença de células gigantes e calcificações. Tuberculose produtiva, Micobacteriose atípica, Paracoccidioidomicose.\" Só a sarcoidose vem descrita; os quadros microscópicos das demais foram completados com o resumo das aulas."
+    },
+    {
+      "id": "pd3-q03",
+      "numero": "3",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-lh-celularidade-mista", "lin-lh-deplecao", "lin-lh-geral"],
+      "enunciado": "Paciente masculino de 39 anos foi internado, em 2008, com linfadenomegalia cervical, supra-clavicular e mediastinal com febre e perda de peso. Foi retirado linfonodo cervical levemente aumentado de tamanho, tendo na microscopia células grandes com nucléolos eosinófilos e infiltrado inflamatório misto constituído por plasmócitos, linfócitos, eosinófilos e macrófagos. Após 10 anos, considerado em remissão, surge nova linfadenomegalia, sendo biopsiada mostrando células pleomórficas e escasso infiltrado inflamatório.",
+      "pontos": 3.0,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o diagnóstico de 2008? (0,5)",
+          "resposta_modelo": "**Linfoma de Hodgkin clássico, tipo celularidade mista.**",
+          "checklist": [
+            "Escrever \"Linfoma de Hodgkin\" antes do tipo",
+            "Tipo celularidade mista"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Qual é o perfil imuno-histoquímico da sua resposta na letra A? (0,5)",
+          "resposta_modelo": "**CD15 e CD30 positivos; CD20 e CD45 negativos** (marcação pesquisada nas células de Reed-Sternberg/Hodgkin).",
+          "checklist": [
+            "CD15 positivo e CD30 positivo",
+            "CD20 negativo e CD45 negativo"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Qual é o diagnóstico de 2018? (0,5)",
+          "resposta_modelo": "**Linfoma de Hodgkin clássico, tipo depleção linfocitária.**",
+          "checklist": [
+            "Escrever \"Linfoma de Hodgkin\" antes do tipo",
+            "Tipo depleção linfocitária"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "Qual é o perfil imuno-histoquímico de sua resposta na letra C? (0,5)",
+          "resposta_modelo": "O mesmo da letra B: **CD15 e CD30 positivos; CD20 e CD45 negativos** — todas as formas clássicas de LH compartilham o perfil.",
+          "checklist": [
+            "Idem letra B: CD15+ e CD30+",
+            "CD20− e CD45−"
+          ]
+        },
+        {
+          "letra": "e",
+          "pergunta": "Qual o prognóstico do paciente? Explique. (1,0)",
+          "resposta_modelo": "**Mau prognóstico**, por ser evolução para uma variante de maior agressividade: a celularidade mista progrediu para a depleção linfocitária, forma superagressiva do linfoma de Hodgkin.",
+          "checklist": [
+            "Mau prognóstico",
+            "Evolução/progressão da celularidade mista para depleção linfocitária",
+            "A depleção linfocitária é a variante de maior agressividade"
+          ]
+        }
+      ],
+      "explicacao": "Em 2008, células grandes com nucléolos eosinofílicos (Reed-Sternberg/Hodgkin) em fundo **misto** de plasmócitos, linfócitos, eosinófilos e macrófagos é celularidade mista. Em 2018, células **pleomórficas** com **escasso infiltrado** é depleção linfocitária — a celularidade mista tem progressão conhecida para essa forma. Como as duas são clássicas, o perfil não muda (CD15+/CD30+, CD20−/CD45−): por isso o gabarito responde \"idem B\". A evolução para a variante mais agressiva piora o prognóstico.",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "O gabarito oficial escreve \"Linfoma de Hodgkin tipo celularidade mista\" e \"Linfoma de Hodgkin depleção linfocitária\"; o termo \"clássico\" foi acrescentado seguindo o modelo de diagnóstico completo que o professor exige."
+    },
+    {
+      "id": "pd3-q04",
+      "numero": "4",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-malt", "lin-folicular", "lin-manto"],
+      "enunciado": "Paciente feminina de 65 anos com queixa de dor abdominal há 6 meses, associada a perda de peso, disfagia, náusea e vômitos, com relato de diagnóstico prévio de gastrite. Realizada endoscopia digestiva alta que revelou lesão infiltrativa em corpo gástrico. Realizada biópsia que evidenciou lesão linfoepitelial com linfócitos pequenos e plasmócitos, infiltrando os folículos linfoides e pesquisa de *Helicobacter pylori* positiva.",
+      "pontos": 2.7,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o diagnóstico (completo) mais provável da lesão? (0,6)",
+          "resposta_modelo": "**Linfoma não Hodgkin de células da zona marginal extranodal, tipo MALT, gástrico.**",
+          "checklist": [
+            "Escrever \"Linfoma não Hodgkin\"",
+            "Células da zona marginal extranodal",
+            "Tipo MALT (gástrico)"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Que marcadores imuno-histoquímicos devem ser utilizados para confirmação diagnóstica? (Cite 3) (0,9)",
+          "resposta_modelo": "**CD20, CD19 e BCL10 positivos; CD5, CD23, CD10 e ciclina D1 negativos.**",
+          "checklist": [
+            "CD20 e CD19 positivos (célula B)",
+            "BCL10 positivo",
+            "CD5, CD23, CD10 e ciclina D1 negativos",
+            "Indicar positividade/negatividade"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Cite 2 possíveis diagnósticos diferenciais com seus respectivos quadros microscópicos. (1,2)",
+          "resposta_modelo": "**Linfoma não Hodgkin folicular:** arranjo nodular (folículos de tamanho semelhante, sem coroa linfocitária), composto por mistura de centrócitos e centroblastos; BCL-2 e CD10 positivos. **Linfoma não Hodgkin de células do manto:** Complemento: proliferação monótona de linfócitos B pequenos a médios, com CD5 e ciclina D1 positivos. Outros diferenciais aceitos pelo gabarito: linfoma de zona marginal esplênica, linfoma linfoplasmocítico/macroglobulinemia de Waldenström e tricoleucemia.",
+          "checklist": [
+            "Dois entre: linfoma folicular, linfoma de células do manto, linfoma de zona marginal esplênica, linfoma linfoplasmocítico/Waldenström, tricoleucemia",
+            "Descrever a microscopia de cada um (ex.: folicular = arranjo nodular com centrócitos e centroblastos)",
+            "São todos linfomas B de células pequenas (indolentes)"
+          ]
+        }
+      ],
+      "explicacao": "Gastrite prévia por *H. pylori*, lesão infiltrativa gástrica e **lesão linfoepitelial** com linfócitos pequenos e plasmócitos formam o quadro do linfoma MALT gástrico: o estômago não tem linfócitos, a infecção crônica é que os leva para lá. O professor já ameaçou tirar ponto de quem não escreveu \"Linfoma **não Hodgkin**\" antes de MALT. Complemento: os negativos do painel servem para excluir os outros linfomas B de células pequenas — CD10 (folicular), CD5 e ciclina D1 (manto), CD5 e CD23 (linfocítico/LLC).",
+      "gabarito_fonte": "oficial",
+      "confianca": "alta",
+      "observacao": "O gabarito oficial (foto da pág. 98) traz \"Linfoma de células da zona marginal extranodal, tipo MALT\" — sem \"não Hodgkin\"; o resumo registra que o professor cogitou tirar ponto de quem não escreveu \"Linfoma Não Hodgkin MALT gástrico\", por isso a resposta-modelo inclui o termo. No item c o gabarito lista só os nomes dos diferenciais, sem a microscopia pedida; o linfoma MALT e os linfomas do manto, linfoplasmocítico, esplênico e a tricoleucemia não são descritos no resumo das aulas."
+    }
+  ]
+}

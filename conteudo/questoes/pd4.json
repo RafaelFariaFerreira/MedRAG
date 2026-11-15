@@ -1,0 +1,232 @@
+{
+  "prova": {
+    "id": "pd4",
+    "titulo": "Ano desconhecido 4",
+    "temas": "Linfomas",
+    "periodo": "desconhecido",
+    "gabarito_fonte": "chat",
+    "paginas": [99, 104]
+  },
+  "questoes": [
+    {
+      "id": "pd4-q01",
+      "numero": "1",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-lh-deplecao", "lin-lh-geral", "lin-dgcb"],
+      "enunciado": "Paciente do sexo feminino, 50 anos, apresenta linfonodomegalia mediastinal anterior, febrícula, sudorese noturna e perda ponderal nos últimos 8 meses. Realizada biópsia que evidenciou perda da arquitetura linfonodal contendo células grandes, com macronucléolos eosinofílicos e infiltrado inflamatório escasso.",
+      "pontos": 2.5,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o provável diagnóstico neste caso? (0,5)",
+          "resposta_modelo": "**Linfoma de Hodgkin clássico.**",
+          "checklist": [
+            "Linfoma de Hodgkin (clássico)",
+            "Base: células grandes com macronucléolos eosinofílicos (Reed-Sternberg/Hodgkin)"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite o subtipo da doença indicada acima. (0,5)",
+          "resposta_modelo": "**Tipo depleção linfocitária** (Linfoma de Hodgkin clássico, tipo depleção linfocitária): muitas células neoplásicas e infiltrado inflamatório escasso.",
+          "checklist": [
+            "Depleção linfocitária",
+            "Justificativa: infiltrado inflamatório escasso (poucos linfócitos)"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Indique o perfil imuno-histoquímico esperado. (0,5)",
+          "resposta_modelo": "**CD15 positivo e CD30 positivo; CD20 negativo e CD45 negativo** (PAX5 positivo fraco).",
+          "checklist": [
+            "CD15 positivo e CD30 positivo",
+            "CD20 negativo e CD45 negativo",
+            "Dizer positivo/negativo"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "No caso de grande quantidade de células grandes, atípicas, com nucléolos evidentes, CD20 difusamente positivo e alto índice de proliferação celular, qual seria o provável diagnóstico? Explique. (1,0)",
+          "resposta_modelo": "**Linfoma não Hodgkin, tipo difuso de grandes células B.** A grande quantidade de células grandes e atípicas com nucléolos evidentes (semelhantes a centroblastos/imunoblastos), o CD20 **difusamente** positivo — indicando que as células neoplásicas são linfócitos B e ocupam todo o tecido — e o alto índice de proliferação celular (Ki-67 alto) caracterizam esse linfoma agressivo. No linfoma de Hodgkin clássico as células neoplásicas são CD20 negativas.",
+          "checklist": [
+            "Linfoma não Hodgkin, tipo difuso de grandes células B",
+            "Células grandes, atípicas, com nucléolos evidentes em grande quantidade",
+            "CD20 difusamente positivo = neoplasia de células B",
+            "Alto índice de proliferação = linfoma agressivo"
+          ]
+        }
+      ],
+      "explicacao": "Células grandes com **macronucléolos eosinofílicos** e perda da arquitetura levam ao linfoma de Hodgkin. O subtipo sai do fundo: **infiltrado inflamatório escasso** é a marca da depleção linfocitária — o professor usa a mesma expressão na prova pd3 (\"células pleomórficas e escasso infiltrado inflamatório\" = depleção linfocitária). Como é forma clássica, CD15+/CD30+ e CD20−/CD45−. Se as células grandes forem numerosas e CD20 difusamente positivas, com proliferação alta, o diagnóstico muda para linfoma não Hodgkin difuso de grandes células B.",
+      "gabarito_fonte": "aluno",
+      "confianca": "media",
+      "observacao": "DIVERGÊNCIA no item b. O gabarito do chat responde \"esclerose nodular\" (pela localização mediastinal). O gabarito de aluno do \"Compilado de questões de Linfomas\" (questão 13, mesma questão) responde \"depleção linfocitária\". Adotada a depleção linfocitária: o caso não descreve traves/bandas de fibrose, nódulos nem células lacunares, e o \"infiltrado inflamatório escasso\" é como o professor descreve a depleção no gabarito oficial da pd3. O mediastino anterior é, de fato, mais típico da esclerose nodular — vale citar isso se sobrar espaço. Não há gabarito oficial desta prova."
+    },
+    {
+      "id": "pd4-q02",
+      "numero": "2",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-estadiamento", "lin-lh-geral"],
+      "enunciado": "Descreva o estadiamento dos linfomas de Hodgkin.",
+      "pontos": 1.0,
+      "resposta_modelo": "O estadiamento é feito pelos critérios de **Ann Arbor** (4 estádios) e avalia a extensão e o prognóstico da doença. **Estádio I:** comprometimento de um único linfonodo ou de uma única cadeia (grupo) linfonodal. **Estádio II:** duas ou mais cadeias linfonodais do mesmo lado do diafragma. **Estádio III:** cadeias linfonodais de ambos os lados do diafragma ou comprometimento do baço. **Estádio IV:** doença disseminada, com comprometimento difuso (multifocal) de um ou mais órgãos extralinfáticos (fígado, medula óssea). Acrescenta-se **A** (sem sintomas) ou **B** (febre acima de 38 °C, sudorese noturna, perda de mais de 10% do peso em menos de 6 meses); **E** para acometimento extranodal localizado (IE, IIE), **S** para o baço e **X** para tumor maior que 10 cm.",
+      "checklist": [
+        "Classificação de Ann Arbor, 4 estádios",
+        "I: uma única cadeia linfonodal",
+        "II: duas ou mais cadeias do mesmo lado do diafragma",
+        "III: ambos os lados do diafragma ou baço",
+        "IV: comprometimento difuso de órgãos extralinfáticos",
+        "Sufixos A/B (sintomas B: febre, sudorese noturna, perda de peso)"
+      ],
+      "explicacao": "A referência é o **diafragma**: um grupo (I), dois ou mais do mesmo lado (II), dos dois lados (III), órgão extralinfático de forma difusa (IV). Detalhe que o professor destaca: baço comprometido já leva para o estádio III. O estadiamento é indicador prognóstico e orienta o tratamento; o LH costuma ser diagnosticado nos estádios I ou II.",
+      "gabarito_fonte": "chat",
+      "confianca": "alta",
+      "observacao": "A resposta do chat confere com o resumo das aulas, com um ajuste: o chat põe o baço como \"±\" no estádio III; o resumo é explícito — comprometimento do baço = estádio III. Os sufixos E, S e X vêm do resumo."
+    },
+    {
+      "id": "pd4-q03",
+      "numero": "3",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-burkitt"],
+      "enunciado": "Criança do sexo masculino com tumor em região mandibular de crescimento rápido e linfoadenomegalia. A biópsia revela proliferação monoclonal linfocitária, alta taxa mitótica, e padrão \"em céu estrelado\" de macrófagos e figuras de apoptose.",
+      "pontos": 2.3,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o provável diagnóstico neste caso? (0,5)",
+          "resposta_modelo": "**Linfoma não Hodgkin, tipo de Burkitt** (forma endêmica, com comprometimento da mandíbula).",
+          "checklist": [
+            "Escrever \"Linfoma não Hodgkin\" antes do tipo",
+            "Tipo de Burkitt"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Cite três diagnósticos diferenciais. (0,9)",
+          "resposta_modelo": "**Linfoma linfoblástico / leucemia linfoide aguda** (outro LNH altamente agressivo da infância); **Linfoma não Hodgkin difuso de grandes células B** (agressivo, de crescimento rápido, pode ocorrer em qualquer idade); **hiperplasia folicular reacional** (os centros germinativos reacionais também têm macrófagos com restos celulares, em aspecto próximo ao de céu estrelado).",
+          "checklist": [
+            "Linfoma linfoblástico / leucemia linfoide aguda",
+            "Linfoma não Hodgkin difuso de grandes células B",
+            "Um terceiro diferencial plausível (ex.: hiperplasia folicular reacional)"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Indique o perfil imuno-histoquímico (mínimo de 3 marcadores). (0,9)",
+          "resposta_modelo": "**CD20 positivo, CD10 positivo, BCL-6 positivo e BCL-2 negativo** (também Pax5 positivo; CD5 e CD23 negativos). Índice de proliferação (Ki-67) próximo de 100%.",
+          "checklist": [
+            "CD20 (ou Pax5) positivo",
+            "CD10 e BCL-6 positivos",
+            "BCL-2 negativo",
+            "Ki-67 ≈ 100% citado como índice de proliferação, não como marcador"
+          ]
+        }
+      ],
+      "explicacao": "Criança, **mandíbula**, crescimento rápido, alta taxa mitótica e **céu estrelado** (macrófagos com corpos tingíveis fagocitando restos celulares) é linfoma de Burkitt, forma endêmica. É neoplasia de células B maduras do centro germinativo, altamente agressiva, com via do MYC alterada e proliferação de 100%. No painel, o destaque é o **BCL-2 negativo** ao lado de CD20, CD10 e BCL-6 positivos. O Ki-67 não conta como marcador: é índice de proliferação.",
+      "gabarito_fonte": "chat",
+      "confianca": "media",
+      "observacao": "Diagnóstico e imuno-histoquímica conferem com o resumo e com o gabarito oficial da pd1 (questão 5). Os DIFERENCIAIS (item b) não têm gabarito oficial e as fontes divergem: o chat cita leucemia/linfoma linfoblástico, LDGCB e sarcoma de Ewing/rabdomiossarcoma; o gabarito de aluno do Compilado (questão 15) cita \"Linfoma Hodgkin / LDGCB / Linfoma folicular\" e avisa que não se responsabiliza. A resposta-modelo usa os diferenciais sustentados pelo resumo das aulas; o chat incluiu Ki-67 entre os \"marcadores\", o que o professor não aceita."
+    },
+    {
+      "id": "pd4-q04",
+      "numero": "4",
+      "tipo": "discursiva",
+      "modulo": "linfomas",
+      "topicos": ["lin-folicular", "lin-estadiamento", "lin-dgcb"],
+      "enunciado": "Mulher, 60 anos, apresenta linfonodomegalia cervical e axilar, febre, sudorese e perda ponderal nos últimos 7 meses. Realizada biópsia que evidenciou perda da arquitetura linfonodal com células pequenas exibindo arranjo folicular, comprometimento da gordura perilinfonodal e invasão do seio periférico.",
+      "pontos": 3.2,
+      "resposta_modelo": "",
+      "subitens": [
+        {
+          "letra": "a",
+          "pergunta": "Qual é o provável diagnóstico? (0,5)",
+          "resposta_modelo": "**Linfoma não Hodgkin, tipo folicular.**",
+          "checklist": [
+            "Escrever \"Linfoma não Hodgkin\" antes do tipo",
+            "Tipo folicular"
+          ]
+        },
+        {
+          "letra": "b",
+          "pergunta": "Qual é o estadiamento? (0,5)",
+          "resposta_modelo": "**Estádio II** de Ann Arbor (II-B): duas cadeias linfonodais comprometidas — cervical e axilar — do mesmo lado do diafragma (ambas acima), com sintomas B (febre, sudorese e perda ponderal).",
+          "checklist": [
+            "Estádio II",
+            "Duas cadeias (cervical e axilar) do mesmo lado do diafragma",
+            "Sintomas B presentes (sufixo B)"
+          ]
+        },
+        {
+          "letra": "c",
+          "pergunta": "Qual é o perfil imuno-histoquímico (mínimo de 3 marcadores)? (0,9)",
+          "resposta_modelo": "**BCL-2 positivo** (no centro folicular — principal característica), **CD20 positivo, CD10 positivo**; também Pax5 e BCL-6 positivos; CD5 negativo e ciclina D1 negativa.",
+          "checklist": [
+            "BCL-2 positivo",
+            "CD20 (ou Pax5) positivo",
+            "CD10 e/ou BCL-6 positivos",
+            "CD5 e ciclina D1 negativos"
+          ]
+        },
+        {
+          "letra": "d",
+          "pergunta": "A medula óssea mostrou predomínio de células grandes CD20 (+), pós 5 anos de tratamento. Explique. (1,3)",
+          "resposta_modelo": "Houve **transformação (evolução) do linfoma folicular em linfoma não Hodgkin difuso de grandes células B**, o que ocorre em 25 a 50% dos casos: as células pequenas deram lugar a células grandes, CD20 positivas (linhagem B). A infiltração da **medula óssea** indica doença disseminada, **estádio IV** de Ann Arbor. O linfoma, antes indolente, passa a ter comportamento agressivo e pior prognóstico.",
+          "checklist": [
+            "Transformação/evolução para linfoma difuso de grandes células B",
+            "Ocorre em 25–50% dos linfomas foliculares",
+            "Células grandes CD20+ = linhagem B mantida",
+            "Infiltração da medula óssea = estádio IV, pior prognóstico"
+          ]
+        }
+      ],
+      "explicacao": "Células pequenas em **arranjo folicular** que invadem a **gordura perilinfonodal** e o seio periférico: linfoma não Hodgkin folicular, indolente, originado de células B do centro germinativo com hiperexpressão de BCL-2. Para estadiar, conte as cadeias e olhe o diafragma: cervical e axilar ficam ambas acima dele, portanto estádio II. A longo prazo, 25–50% dos foliculares evoluem para difuso de grandes células B — é isso que a medula com células grandes CD20+ está mostrando.",
+      "gabarito_fonte": "inferido",
+      "confianca": "media",
+      "observacao": "DIVERGÊNCIA no item b (estadiamento). O chat responde \"Estádio III\" alegando cadeias em lados diferentes do diafragma — erro: cervical e axilar estão do mesmo lado (acima). O gabarito de aluno do Compilado (questão 16) responde \"só uma cadeia, Estágio I\" — também não fecha, pois são duas cadeias. Adotado Estádio II, deduzido da definição de Ann Arbor do resumo (\"duas ou mais cadeias linfonodais do mesmo lado do diafragma\") e coerente com os gabaritos de outras questões (cervical isolada = I; axilar + cervical + inguinal = III). Item d: o chat fala em transformação para LDGCB; o aluno fala em evolução para estádio IV com medula acometida; a resposta-modelo junta as duas ideias. Não há gabarito oficial desta prova."
+    },
+    {
+      "id": "pd4-q05",
+      "numero": "5",
+      "tipo": "vf",
+      "modulo": "linfadenopatias",
+      "topicos": ["lfa-padrao-folicular", "lfa-padrao-paracortical", "lfa-padrao-sinusal", "lfa-necrosantes"],
+      "enunciado": "Assinale nas sentenças abaixo V ou F. Quando falso justifique a sua resposta.",
+      "pontos": 0.5,
+      "itens": [
+        {
+          "texto": "a) Na fase A da linfadenopatia do HIV encontra-se expansão da zona paracortical e lise celular.",
+          "resposta": false,
+          "justificativa": "A fase A (fase 1) é a linfadenite reativa folicular florida: muitos folículos, que podem coalescer, com hiperplasia do compartimento B. Hiperplasia paracortical com lise folicular é a fase B (fase 2)."
+        },
+        {
+          "texto": "b) A doença de Castleman é causada pelo herpesvírus 6, tendo na forma hialino-vascular: hialinização de paredes vasculares e formação de bulbo de cebola constituído por plasmócitos.",
+          "resposta": false,
+          "justificativa": "O agente é o herpesvírus 8 (o mesmo do sarcoma de Kaposi). Na forma hialino-vascular há vaso central hialinizado e o \"bulbo de cebola\" é formado por linfócitos da zona do manto dispostos concentricamente, não por plasmócitos."
+        },
+        {
+          "texto": "c) No linfonodo acometido por sarampo encontra-se: hiperplasia paracortical e a célula de Langhans.",
+          "resposta": false,
+          "justificativa": "O sarampo dá padrão paracortical, mas a célula de Langhans é do granuloma da tuberculose. Complemento: a célula gigante multinucleada típica do sarampo é a de Warthin-Finkeldey."
+        },
+        {
+          "texto": "d) A histiocitose sinusal é uma linfadenopatia crônica específica, de padrão folicular, presente em linfonodos peritumorais.",
+          "resposta": false,
+          "justificativa": "A histiocitose sinusal é linfadenopatia crônica INESPECÍFICA, de padrão SINUSAL (reação histiocitária), com seios cheios de macrófagos; a parte correta é que aparece em linfonodos na periferia de tumores malignos."
+        },
+        {
+          "texto": "e) Na linfadenite de Kikuchi encontra-se: proliferação histiocítica, acúmulos de imunoblastos, corpos hematoxilínicos e rara necrose.",
+          "resposta": false,
+          "justificativa": "A linfadenite de Kikuchi é uma linfadenite NECROSANTE: a necrose (zonal ou total, com cariorrexe) é o achado central, não é rara. Proliferação de macrófagos e imunoblastos na periferia da necrose estão corretos. Complemento: corpos hematoxilínicos são achado da linfadenite do lúpus, não de Kikuchi."
+        }
+      ],
+      "explicacao": "Gabarito adotado: F – F – F – F – F. Cada frase mistura um dado certo com um trocado: HIV fase A é **folicular** (paracortical é a fase B); Castleman é **HHV-8**; célula de Langhans é da **tuberculose**; histiocitose sinusal é **inespecífica e sinusal**; e Kikuchi é, por definição, **necrosante**. Vale revisar a tabela de linfadenopatias por compartimento (folicular, paracortical, sinusal) e por padrão arquitetural (necrosantes e granulomatosas).",
+      "gabarito_fonte": "foto",
+      "confianca": "media",
+      "observacao": "DIVERGÊNCIA no item e. O gabarito do chat dá F, F, F, F, V (Kikuchi verdadeiro). Na foto da prova (pág. 104) quem anotou a folha riscou um trecho em cada uma das cinco afirmativas — no item e, riscou \"corpos hematoxilínicos e rara\" —, ou seja, tratou todas como falsas. O resumo das aulas classifica Kikuchi entre as linfadenopatias necrosantes (\"necrose zonal ou total do linfonodo\"), o que contradiz \"rara necrose\". Adotado F para o item e. Itens a–d: chat, foto e resumo concordam. A marcação da foto é de aluno (não é correção do professor) e não há gabarito oficial. O valor impresso é \"(0,5)\"; não fica claro se é o total da questão ou por item."
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "modulo": "tireoide",
+  "cartoes": [
+    {
+      "id": "fc-tir-001",
+      "topico": "tir-fisiologia",
+      "capitulo": "tir-01",
+      "frente": "Quais células da tireoide produzem T3/T4 e quais produzem calcitonina?",
+      "verso": "**Células foliculares** (células A, tireócitos) → T3 e T4. **Células C** (parafoliculares) → calcitonina."
+    },
+    {
+      "id": "fc-tir-002",
+      "topico": "tir-fisiologia",
+      "capitulo": "tir-01",
+      "frente": "O que é o coloide?",
+      "verso": "A forma de **armazenamento do T3 e do T4** dentro do folículo. A tireoide é a única glândula endócrina que acumula material de secreção dentro dela. Na lâmina: \"material róseo\".",
+      "dica": "material róseo"
+    },
+    {
+      "id": "fc-tir-003",
+      "topico": "tir-fisiologia",
+      "capitulo": "tir-01",
+      "frente": "T4 baixou. O que acontece com o TSH, e por quê?",
+      "verso": "**Sobe.** T3/T4 inibem a secreção de TSH (retroalimentação negativa); sem o freio, a hipófise secreta mais.",
+      "dica": "gangorra"
+    },
+    {
+      "id": "fc-tir-004",
+      "topico": "tir-fisiologia",
+      "capitulo": "tir-01",
+      "frente": "Padrão laboratorial do hipotireoidismo franco?",
+      "verso": "**T3 e T4 baixos, TSH alto.** (Frase do gabarito oficial: \"T3 e T4 baixos e TSH alto, em hipotireoidismo\".)"
+    },
+    {
+      "id": "fc-tir-005",
+      "topico": "tir-fisiologia",
+      "capitulo": "tir-01",
+      "frente": "TSH aumentado com T3 e T4 normais. Como se chama, e em que doença aparece?",
+      "verso": "**Hipotireoidismo subclínico** — fase inicial da tireoidite de Hashimoto.",
+      "dica": "subclínico"
+    },
+    {
+      "id": "fc-tir-006",
+      "topico": "tir-fisiologia",
+      "capitulo": "tir-01",
+      "frente": "Qual a diferença entre hipertireoidismo e tireotoxicose?",
+      "verso": "**Hipertireoidismo** = hiperfunção da glândula. **Tireotoxicose** = sinais e sintomas do excesso de hormônio tireoidiano circulante."
+    },
+    {
+      "id": "fc-tir-007",
+      "topico": "tir-fisiologia",
+      "capitulo": "tir-01",
+      "frente": "Qual a relação entre calcitonina e PTH, e quem produz cada um?",
+      "verso": "A calcitonina (células C da tireoide) faz **oposição** ao PTH (paratireoides)."
+    },
+    {
+      "id": "fc-tir-008",
+      "topico": "tir-fisiologia",
+      "capitulo": "tir-01",
+      "frente": "Massa na linha média do pescoço, perto do hioide, que sobe ao protrair a língua. O que é?",
+      "verso": "**Cisto do ducto tireoglosso** — restos epiteliais do ducto, que não involuiu por completo, acumulando secreção.",
+      "dica": "embriologia"
+    },
+    {
+      "id": "fc-tir-009",
+      "topico": "tir-geral",
+      "capitulo": "tir-02",
+      "frente": "Quanto a tireoide precisa pesar para ser chamada de bócio (Brasil)?",
+      "verso": "Mais de **30 g**."
+    },
+    {
+      "id": "fc-tir-010",
+      "topico": "tir-graves",
+      "capitulo": "tir-02",
+      "frente": "Qual a maior causa de hipertireoidismo?",
+      "verso": "**Doença de (Basedow-)Graves** = bócio difuso tóxico."
+    },
+    {
+      "id": "fc-tir-011",
+      "topico": "tir-graves",
+      "capitulo": "tir-02",
+      "frente": "Qual o mecanismo da doença de Graves?",
+      "verso": "Autoanticorpos **antirreceptor de TSH** que **estimulam** o receptor: proliferação do epitélio folicular e produção excessiva de hormônio.",
+      "dica": "estimula, não destrói"
+    },
+    {
+      "id": "fc-tir-012",
+      "topico": "tir-graves",
+      "capitulo": "tir-02",
+      "frente": "V ou F: \"No Graves, os sintomas decorrem da destruição autoimune dos folículos com liberação de hormônios.\"",
+      "verso": "**Falso** (Prova 150). O mecanismo é por autoanticorpos que estimulam a glândula. Destruição com liberação de hormônio é do Hashimoto."
+    },
+    {
+      "id": "fc-tir-013",
+      "topico": "tir-graves",
+      "capitulo": "tir-02",
+      "frente": "Cite os 4 achados microscópicos do Graves.",
+      "verso": "**Epitélio cilíndrico alto**, **papilas simples** (não ramificadas) na luz, **muita pinocitose** (vacúolos periféricos no coloide) e **coloide escasso**."
+    },
+    {
+      "id": "fc-tir-014",
+      "topico": "tir-graves",
+      "capitulo": "tir-02",
+      "frente": "A queixa do paciente com Graves é endócrina ou mecânica? Cite 4 sintomas.",
+      "verso": "**Endócrina:** diarreia, emagrecimento, taquicardia, tremor fino, insônia, irritabilidade; além de exoftalmia e edema pré-tibial."
+    },
+    {
+      "id": "fc-tir-015",
+      "topico": "tir-bocio-nodular",
+      "capitulo": "tir-02",
+      "frente": "Qual a fisiopatologia do bócio nodular atóxico?",
+      "verso": "Carência de iodo → menos hormônio → **TSH sobe** → hipertrofia e hiperplasia → acúmulo de coloide e dilatação folicular → bócio.",
+      "dica": "iodo"
+    },
+    {
+      "id": "fc-tir-016",
+      "topico": "tir-bocio-nodular",
+      "capitulo": "tir-02",
+      "frente": "Como é a microscopia do bócio nodular atóxico?",
+      "verso": "Folículos **distendidos por coloide**, **sem pinocitose**, sem hiperplasia do epitélio (sem papilas), com mais folículos por área."
+    },
+    {
+      "id": "fc-tir-017",
+      "topico": "tir-bocio-nodular",
+      "capitulo": "tir-02",
+      "frente": "Qual a queixa e o laboratório no bócio nodular atóxico?",
+      "verso": "Queixa **mecânica e local** (dificuldade para respirar e dormir), sem sintomas sistêmicos. T3, T4 e TSH **normais ou subclínico**."
+    },
+    {
+      "id": "fc-tir-018",
+      "topico": "tir-bocio-nodular",
+      "capitulo": "tir-02",
+      "frente": "Pinocitose: Graves × bócio nodular atóxico?",
+      "verso": "Graves: **muita**. Nodular atóxico: **ausente**."
+    },
+    {
+      "id": "fc-tir-019",
+      "topico": "tir-bocio-nodular",
+      "capitulo": "tir-02",
+      "frente": "Quais são os 4 T do mediastino anterior?",
+      "verso": "**Timo, Tireoide** (bócio mergulhante), **\"Terrível linfoma\"** e **Teratoma**.",
+      "dica": "bócio mergulhante"
+    },
+    {
+      "id": "fc-tir-020",
+      "topico": "tir-geral",
+      "capitulo": "tir-02",
+      "frente": "Um único nódulo produtor de hormônio, com um \"sol\" na cintilografia. Que doença é?",
+      "verso": "**Doença de Plummer** (adenoma tóxico) — dá quadro clínico de hipertireoidismo.",
+      "dica": "sol"
+    },
+    {
+      "id": "fc-tir-021",
+      "topico": "tir-geral",
+      "capitulo": "tir-02",
+      "frente": "O que é a Hashitoxicose e quanto tempo se espera?",
+      "verso": "Explosão de hormônios no contexto do Hashimoto; espera-se **4 a 6 meses** para ver se é Graves ou Hashimoto mesmo."
+    },
+    {
+      "id": "fc-tir-022",
+      "topico": "tir-hashimoto",
+      "capitulo": "tir-03",
+      "frente": "Qual a causa mais comum de hipotireoidismo no mundo?",
+      "verso": "**Tireoidite de Hashimoto** — doença autoimune crônica que acomete toda a glândula."
+    },
+    {
+      "id": "fc-tir-023",
+      "topico": "tir-hashimoto",
+      "capitulo": "tir-03",
+      "frente": "Cite os 5 elementos microscópicos do Hashimoto.",
+      "verso": "Infiltrado **linfoplasmocitário**, **nódulos linfoides**, **fibrose** (traves), **atrofia** dos folículos e **célula oncocítica** (Hürthle).",
+      "dica": "4 + o quinto elemento"
+    },
+    {
+      "id": "fc-tir-024",
+      "topico": "tir-hashimoto",
+      "capitulo": "tir-03",
+      "frente": "\"Transformação oxifílica citoplasmática\" no enunciado significa o quê?",
+      "verso": "Presença de **células oncocíticas (de Hürthle)** — o quinto elemento do Hashimoto.",
+      "dica": "palavra-gatilho"
+    },
+    {
+      "id": "fc-tir-025",
+      "topico": "tir-hashimoto",
+      "capitulo": "tir-03",
+      "frente": "Quais os sinônimos da célula oncocítica da tireoide?",
+      "verso": "Célula de **Hürthle**, célula de **Askanazy**, célula tipo B, célula oxifílica."
+    },
+    {
+      "id": "fc-tir-026",
+      "topico": "tir-hashimoto",
+      "capitulo": "tir-03",
+      "frente": "Por que a célula de Hürthle tem citoplasma tão eosinofílico e granular?",
+      "verso": "Acúmulo de **mitocôndrias**: as células sobreviventes ao ataque imune tentam compensar as que foram destruídas."
+    },
+    {
+      "id": "fc-tir-027",
+      "topico": "tir-hashimoto",
+      "capitulo": "tir-03",
+      "frente": "A célula de Hürthle é patognomônica de Hashimoto?",
+      "verso": "**Não.** É obrigatória para o diagnóstico, mas existe o **adenoma de células de Hürthle** (oncocitoma)."
+    },
+    {
+      "id": "fc-tir-028",
+      "topico": "tir-hashimoto",
+      "capitulo": "tir-03",
+      "frente": "V ou F: \"Hashimoto em fase final tem infiltrado neutrofílico, extensa necrose e rara fibrose.\"",
+      "verso": "**Falso** (Prova 150). Correto: infiltrado **linfoide**, **sem necrose** e **muita fibrose**."
+    },
+    {
+      "id": "fc-tir-029",
+      "topico": "tir-hashimoto",
+      "capitulo": "tir-03",
+      "frente": "Macroscopia do Hashimoto?",
+      "verso": "Glândula **simetricamente aumentada**, lobulada, firme-elástica, de coloração variada; na fase avançada, **hipotrofia** acentuada."
+    },
+    {
+      "id": "fc-tir-030",
+      "topico": "tir-hashimoto",
+      "capitulo": "tir-03",
+      "frente": "Qual anticorpo apareceu na questão de Hashimoto da Prova 148?",
+      "verso": "**Anti-TPO** (antiperoxidase tireoidiana), junto com transformação oncocítica do epitélio folicular. Outro: antitireoglobulina."
+    },
+    {
+      "id": "fc-tir-031",
+      "topico": "tir-hashimoto",
+      "capitulo": "tir-03",
+      "frente": "Hashimoto aumenta o risco de qual neoplasia, e por quê?",
+      "verso": "**Linfoma** — pela intensidade e persistência do infiltrado linfoide."
+    },
+    {
+      "id": "fc-tir-032",
+      "topico": "tir-tireoidites-outras",
+      "capitulo": "tir-03",
+      "frente": "Tireoidite com dor e células gigantes fagocitando coloide. Qual é?",
+      "verso": "**De Quervain** (granulomatosa subaguda), de causa viral ou pós-viral.",
+      "dica": "dor"
+    },
+    {
+      "id": "fc-tir-033",
+      "topico": "tir-tireoidites-outras",
+      "capitulo": "tir-03",
+      "frente": "Tireoidite com fibrose extensa, glândula endurecida, assimétrica e indolor. Qual é, e qual o diferencial?",
+      "verso": "**Riedel.** De tão endurecida, o diagnóstico diferencial é **carcinoma**.",
+      "dica": "pedra"
+    },
+    {
+      "id": "fc-tir-034",
+      "topico": "tir-nodulo-paaf-bethesda",
+      "capitulo": "tir-04",
+      "frente": "TI-RADS: conduta no TR2, segundo o professor?",
+      "verso": "Não intervir. Novo ultrassom em **2 anos**; sem mudança, voltar em **4 anos**."
+    },
+    {
+      "id": "fc-tir-035",
+      "topico": "tir-nodulo-paaf-bethesda",
+      "capitulo": "tir-04",
+      "frente": "TI-RADS: a partir de que tamanho puncionar no TR3 e no TR5?",
+      "verso": "TR3: a partir de **2,5 cm**. TR5: a partir de **1 cm**."
+    },
+    {
+      "id": "fc-tir-036",
+      "topico": "tir-nodulo-paaf-bethesda",
+      "capitulo": "tir-04",
+      "frente": "Punção × biópsia: o que cada uma colhe e como se chama o exame?",
+      "verso": "Punção: **células** → citopatológico. Biópsia: **fragmento de tecido** → histopatológico."
+    },
+    {
+      "id": "fc-tir-037",
+      "topico": "tir-nodulo-paaf-bethesda",
+      "capitulo": "tir-04",
+      "frente": "Por que a PAAF é boa para diagnosticar carcinoma papilífero?",
+      "verso": "Porque o diagnóstico é **nuclear**: cromatina clara, ranhuras e pseudoinclusões são vistas na citologia.",
+      "dica": "Prova 150"
+    },
+    {
+      "id": "fc-tir-038",
+      "topico": "tir-nodulo-paaf-bethesda",
+      "capitulo": "tir-04",
+      "frente": "Por que a PAAF não distingue adenoma de carcinoma folicular?",
+      "verso": "As células são iguais; a diferença é a **invasão de cápsula e/ou vaso**, só visível no histopatológico da peça."
+    },
+    {
+      "id": "fc-tir-039",
+      "topico": "tir-nodulo-paaf-bethesda",
+      "capitulo": "tir-04",
+      "frente": "O que significa Bethesda 3 e qual a conduta?",
+      "verso": "**Atipia de significado indeterminado.** Repetir a punção em **3 a 4 semanas**; não é para operar."
+    },
+    {
+      "id": "fc-tir-040",
+      "topico": "tir-nodulo-paaf-bethesda",
+      "capitulo": "tir-04",
+      "frente": "Por que esperar 3 a 4 semanas para repetir a punção?",
+      "verso": "A punção causa inflamação → necrose → cicatrização. Células em reparo têm núcleo aumentado e podem gerar um **Bethesda 5 \"falso\"**."
+    },
+    {
+      "id": "fc-tir-041",
+      "topico": "tir-nodulo-paaf-bethesda",
+      "capitulo": "tir-04",
+      "frente": "No Bethesda 3 atualizado: atipia nuclear × atipia arquitetural apontam para quê?",
+      "verso": "**Nuclear** → mais perto de neoplasia **maligna**. **Arquitetural** → mais perto de neoplasia **benigna**."
+    },
+    {
+      "id": "fc-tir-042",
+      "topico": "tir-papilifero",
+      "capitulo": "tir-05",
+      "frente": "Qual o carcinoma de tireoide mais comum e sua via de disseminação?",
+      "verso": "**Papilífero**; via **linfática**, para linfonodos cervicais."
+    },
+    {
+      "id": "fc-tir-043",
+      "topico": "tir-papilifero",
+      "capitulo": "tir-05",
+      "frente": "Cite 3 características do núcleo do carcinoma papilífero.",
+      "verso": "**Cromatina clara**, contorno irregular com **ranhuras** (fendas) e **pseudoinclusões** (citoplasma dentro do núcleo)."
+    },
+    {
+      "id": "fc-tir-044",
+      "topico": "tir-papilifero",
+      "capitulo": "tir-05",
+      "frente": "O que é um corpo psamomatoso e em qual tumor aparece?",
+      "verso": "Microcalcificação arredondada em **camadas concêntricas** (\"cebola\"), basófila. Típica do **carcinoma papilífero**, inclusive nas metástases linfonodais.",
+      "dica": "cebola"
+    },
+    {
+      "id": "fc-tir-045",
+      "topico": "tir-papilifero",
+      "capitulo": "tir-05",
+      "frente": "Jovem com linfonodo cervical aumentado + nódulo tireoidiano sólido, irregular, com microcalcificações. Diagnóstico?",
+      "verso": "**Carcinoma papilífero** — disseminação linfática (Prova 150)."
+    },
+    {
+      "id": "fc-tir-046",
+      "topico": "tir-folicular",
+      "capitulo": "tir-05",
+      "frente": "O que diferencia carcinoma folicular de adenoma folicular?",
+      "verso": "**Invasão da cápsula e/ou dos vasos.** As células são semelhantes às da tireoide normal nos dois."
+    },
+    {
+      "id": "fc-tir-047",
+      "topico": "tir-folicular",
+      "capitulo": "tir-05",
+      "frente": "Via de disseminação e sítios de metástase do carcinoma folicular?",
+      "verso": "**Hematogênica**: osso, fígado, cérebro e pulmão. **Não** há metástase linfonodal."
+    },
+    {
+      "id": "fc-tir-048",
+      "topico": "tir-folicular",
+      "capitulo": "tir-05",
+      "frente": "Fratura de úmero; no osso, folículos com material róseo no interior. Diagnóstico?",
+      "verso": "**Metástase de carcinoma folicular** (hematogênica) → fratura patológica (Prova 150)."
+    },
+    {
+      "id": "fc-tir-049",
+      "topico": "tir-folicular",
+      "capitulo": "tir-05",
+      "frente": "O que era o \"bócio metastático\" dos livros antigos?",
+      "verso": "Um **carcinoma folicular** que invadiu cápsula e vaso e foi para o osso."
+    },
+    {
+      "id": "fc-tir-050",
+      "topico": "tir-papilifero",
+      "capitulo": "tir-05",
+      "frente": "IHQ do carcinoma papilífero: cite 4 marcadores positivos.",
+      "verso": "**TTF-1 +** (indica tireoide), **CK19 +**, **galectina-3 +**, **HBME-1 +**."
+    },
+    {
+      "id": "fc-tir-051",
+      "topico": "tir-folicular",
+      "capitulo": "tir-05",
+      "frente": "IHQ do carcinoma folicular: qual marcador define a linhagem?",
+      "verso": "**Tireoglobulina +**. Também TTF-1 + e PAX8 +."
+    },
+    {
+      "id": "fc-tir-052",
+      "topico": "tir-medular",
+      "capitulo": "tir-06",
+      "frente": "De qual célula se origina o carcinoma medular e o que ela produz?",
+      "verso": "Da **célula C** (parafolicular), produtora de **calcitonina** — é um tumor neuroendócrino."
+    },
+    {
+      "id": "fc-tir-053",
+      "topico": "tir-medular",
+      "capitulo": "tir-06",
+      "frente": "Material amorfo e eosinofílico entre ninhos de células tumorais na tireoide. O que é, e qual o tumor?",
+      "verso": "**Amiloide** → **carcinoma medular**.",
+      "dica": "amiloide"
+    },
+    {
+      "id": "fc-tir-054",
+      "topico": "tir-medular",
+      "capitulo": "tir-06",
+      "frente": "IHQ do carcinoma medular?",
+      "verso": "**Calcitonina +**, **CEA +**, **sinaptofisina +**, **cromogranina +** (marcação neuroendócrina)."
+    },
+    {
+      "id": "fc-tir-055",
+      "topico": "tir-medular",
+      "capitulo": "tir-06",
+      "frente": "A que o carcinoma medular familial pode estar associado?",
+      "verso": "**Neoplasia endócrina múltipla (NEM)**: feocromocitoma, hiperplasia/adenoma de paratireoide e neuromas de mucosas. Afeta mais jovens; pode ser múltiplo e bilateral."
+    },
+    {
+      "id": "fc-tir-056",
+      "topico": "tir-anaplasico",
+      "capitulo": "tir-06",
+      "frente": "Tríade microscópica do carcinoma anaplásico (gabarito oficial)?",
+      "verso": "**Extensa necrose, acentuado pleomorfismo celular e alto índice mitótico.**"
+    },
+    {
+      "id": "fc-tir-057",
+      "topico": "tir-anaplasico",
+      "capitulo": "tir-06",
+      "frente": "Qual a história clínica típica do carcinoma anaplásico?",
+      "verso": "Idoso com **cirurgias prévias** de tireoide (carcinoma diferenciado mal ressecado) e **aumento abrupto** do volume cervical; morte por insuficiência respiratória."
+    },
+    {
+      "id": "fc-tir-058",
+      "topico": "tir-anaplasico",
+      "capitulo": "tir-06",
+      "frente": "Qual a relação entre papilífero/folicular e o carcinoma anaplásico no caso da prova?",
+      "verso": "\"O carcinoma anaplásico originou-se das neoplasias anteriores, que eram diferenciadas e **se indiferenciaram**.\"",
+      "dica": "frase-modelo"
+    },
+    {
+      "id": "fc-tir-059",
+      "topico": "tir-anaplasico",
+      "capitulo": "tir-06",
+      "frente": "IHQ do carcinoma anaplásico?",
+      "verso": "**PAX8 +** em cerca de 75% dos casos; ceratinas (CK7, CAM, panceratina) fracas e focais."
+    },
+    {
+      "id": "fc-tir-060",
+      "topico": "tir-geral",
+      "capitulo": "tir-06",
+      "frente": "TTF-1 positivo indica o quê?",
+      "verso": "Que o tumor é de **tireoide** — útil para identificar metástase de origem tireoidiana."
+    },
+    {
+      "id": "fc-tir-061",
+      "topico": "tir-geral",
+      "capitulo": "tir-06",
+      "frente": "Ki-67 é marcador de tireoide?",
+      "verso": "**Não.** É **índice de proliferação celular**; o professor disse que não entra. É baixo no papilífero e no folicular bem diferenciados."
+    },
+    {
+      "id": "fc-tir-062",
+      "topico": "tir-geral",
+      "capitulo": "tir-06",
+      "frente": "Na questão \"neoplasias epiteliais diferenciadas da tireoide\", quais tumores citar e qual evitar?",
+      "verso": "Citar **papilífero, folicular e medular**. **Não** citar o anaplásico (indiferenciado) — perdia a questão inteira.",
+      "dica": "Prova 151"
+    },
+    {
+      "id": "fc-tir-063",
+      "topico": "tir-geral",
+      "capitulo": "tir-06",
+      "frente": "Disseminação: papilífero × folicular × medular × anaplásico?",
+      "verso": "Papilífero: **linfática**. Folicular: **hematogênica**. Medular: linfática ou hematogênica tardia. Anaplásico: linfática e hematogênica."
+    },
+    {
+      "id": "fc-tir-064",
+      "topico": "tir-geral",
+      "capitulo": "tir-06",
+      "frente": "Caso longitudinal da prova: quais os diagnósticos de 1987, 2000 e atual?",
+      "verso": "1987: **papilífero + Hashimoto**. 2000: **folicular** (invasão de cápsula e vasos). Atual: **anaplásico**."
+    }
+  ]
+}

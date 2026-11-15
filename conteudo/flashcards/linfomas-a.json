@@ -1,0 +1,472 @@
+{
+  "modulo": "linfomas",
+  "cartoes": [
+    {
+      "id": "fc-lin-001",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Defina linfoma em uma frase.",
+      "verso": "Proliferação **clonal e atípica de células linfoides** (B, T ou NK).",
+      "dica": "clonal + atípica"
+    },
+    {
+      "id": "fc-lin-002",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "No linfonodo, o que é neoplasia primária e o que é secundária?",
+      "verso": "Primária = **linfoma**. Secundária = **metástase**."
+    },
+    {
+      "id": "fc-lin-003",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Quais linfomas predominam em crianças e adolescentes?",
+      "verso": "Os **não Hodgkin**: Burkitt, linfoma linfoblástico e leucemia linfoide aguda."
+    },
+    {
+      "id": "fc-lin-004",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Por que o linfoma agressivo responde melhor à quimioterapia que o indolente?",
+      "verso": "Porque tem **maior proliferação**, o que o torna mais sensível aos quimioterápicos. O indolente prolifera pouco e é mais difícil de tratar.",
+      "dica": "paradoxo do tratamento"
+    },
+    {
+      "id": "fc-lin-005",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Por que um linfoma extranodal exige uma “condição prévia”?",
+      "verso": "Porque cérebro, estômago e tireoide **não têm linfócitos**; algo precisa levar linfócitos ao órgão antes."
+    },
+    {
+      "id": "fc-lin-006",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Condição prévia do linfoma primário de tireoide?",
+      "verso": "**Tireoidite de Hashimoto.**"
+    },
+    {
+      "id": "fc-lin-007",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Para um linfoma “leucemizar”, que órgão precisa estar infiltrado?",
+      "verso": "A **medula óssea** (e/ou o baço): não têm vasos linfáticos, e as células caem direto no sangue.",
+      "dica": "palavras cruzadas"
+    },
+    {
+      "id": "fc-lin-008",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Qual é o marcador imuno-histoquímico do EBV?",
+      "verso": "**LMP-1** (proteína latente de membrana 1)."
+    },
+    {
+      "id": "fc-lin-009",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Qual é a frase do professor sobre imuno-histoquímica em linfoma?",
+      "verso": "“**Não existe linfoma sem imuno-histoquímica.**” Ela é obrigatória; fecha-se o diagnóstico com 5 a 10 marcadores."
+    },
+    {
+      "id": "fc-lin-010",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Ki-67 conta como marcador imuno-histoquímico na prova?",
+      "verso": "**Não.** É **índice de proliferação celular** — nem em tireoide, nem em linfoma."
+    },
+    {
+      "id": "fc-lin-011",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Quantos marcadores citar na prova, e de que jeito?",
+      "verso": "**Pelo menos dois**, dizendo se cada um é **positivo ou negativo**."
+    },
+    {
+      "id": "fc-lin-012",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "O enunciado diz “linfonodos reacionais”. O que isso significa para o professor?",
+      "verso": "Linfonodos **livres de neoplasia** (N0).",
+      "dica": "pegadinha da P1"
+    },
+    {
+      "id": "fc-lin-013",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Qual achado separa Linfoma de Hodgkin de linfoma não Hodgkin?",
+      "verso": "A **célula de Reed-Sternberg** (célula de Hodgkin): presente no Hodgkin, ausente no não Hodgkin."
+    },
+    {
+      "id": "fc-lin-014",
+      "topico": "lin-lh-esclerose-nodular",
+      "capitulo": "lin-01",
+      "frente": "Escreva o diagnóstico completo de “esclerose nodular”.",
+      "verso": "**Linfoma de Hodgkin clássico, tipo esclerose nodular.** Só “esclerose” perde ponto ou zera.",
+      "dica": "3 partes"
+    },
+    {
+      "id": "fc-lin-015",
+      "topico": "lin-geral",
+      "capitulo": "lin-01",
+      "frente": "Escreva o diagnóstico completo de “Burkitt”.",
+      "verso": "**Linfoma não Hodgkin, tipo de Burkitt.**"
+    },
+    {
+      "id": "fc-lin-016",
+      "topico": "lin-lh-pln",
+      "capitulo": "lin-01",
+      "frente": "Escreva o diagnóstico completo da PLN.",
+      "verso": "**Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular.**"
+    },
+    {
+      "id": "fc-lin-017",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Ann Arbor: o que é estádio I?",
+      "verso": "Comprometimento de **uma única cadeia linfonodal** (um linfonodo ou um grupo)."
+    },
+    {
+      "id": "fc-lin-018",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Ann Arbor: o que é estádio II?",
+      "verso": "**Duas ou mais cadeias** linfonodais do **mesmo lado do diafragma**."
+    },
+    {
+      "id": "fc-lin-019",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Ann Arbor: o que é estádio III?",
+      "verso": "Cadeias de **ambos os lados do diafragma** ou comprometimento do **baço**."
+    },
+    {
+      "id": "fc-lin-020",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Ann Arbor: o que é estádio IV?",
+      "verso": "Comprometimento **difuso (multifocal) de órgão(s) extralinfático(s)**: doença disseminada e infiltrativa."
+    },
+    {
+      "id": "fc-lin-021",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Baço comprometido leva direto a que estádio?",
+      "verso": "**Estádio III**, mesmo com linfonodos de um lado só do diafragma."
+    },
+    {
+      "id": "fc-lin-022",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Três linfonodos da cadeia cervical esquerda, nível II. Estádio?",
+      "verso": "**I** — três linfonodos, mas uma cadeia só. Conte cadeias, não linfonodos.",
+      "dica": "gabarito oficial"
+    },
+    {
+      "id": "fc-lin-023",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Linfonodos axilares, cervicais e inguinais. Estádio?",
+      "verso": "**III** — cadeias acima e abaixo do diafragma."
+    },
+    {
+      "id": "fc-lin-024",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Linfonodos cervicais e axilares. Estádio?",
+      "verso": "**II** — duas cadeias, ambas acima do diafragma."
+    },
+    {
+      "id": "fc-lin-025",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Quando usar o sufixo E no estadiamento?",
+      "verso": "No acometimento **extranodal** (ex.: lesão única na parede do pulmão = IE). **Não se usa IIIE nem IVE.**"
+    },
+    {
+      "id": "fc-lin-026",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "O que indica o sufixo X?",
+      "verso": "Tumor com **mais de 10 cm** no maior diâmetro."
+    },
+    {
+      "id": "fc-lin-027",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Quando a massa mediastinal é *bulky disease*?",
+      "verso": "Quando é **maior que 1/3 do tórax** na radiografia."
+    },
+    {
+      "id": "fc-lin-028",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Quais são os três sintomas B, com os números?",
+      "verso": "**Febre > 38 °C**, **sudorese noturna** abundante e **perda > 10% do peso em < 6 meses**.",
+      "dica": "38 · 10 · 6"
+    },
+    {
+      "id": "fc-lin-029",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "V ou F: “O estágio III do Linfoma de Hodgkin cursa com leucemização.”",
+      "verso": "**F.** Estádio III é linfonodos dos dois lados do diafragma (ou baço). Leucemização exige medula óssea."
+    },
+    {
+      "id": "fc-lin-030",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Linfonodo cervical + febre + sudorese + perda de peso: qual diferencial clínico não pode faltar?",
+      "verso": "**Tuberculose.**"
+    },
+    {
+      "id": "fc-lin-031",
+      "topico": "lin-estadiamento",
+      "capitulo": "lin-02",
+      "frente": "Para que serve o estadiamento?",
+      "verso": "É **indicador prognóstico** e **orienta o tratamento**. Não é definido só pela biópsia."
+    },
+    {
+      "id": "fc-lin-032",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "De que é feita a massa tumoral do Linfoma de Hodgkin?",
+      "verso": "**Poucas células de Reed-Sternberg** (menos de 1%) em um **fundo inflamatório reativo**, não neoplásico."
+    },
+    {
+      "id": "fc-lin-033",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "No Hodgkin, em quais células a imuno-histoquímica deve marcar?",
+      "verso": "**Só nas células de Reed-Sternberg** — não em toda a massa tumoral.",
+      "dica": "V/F clássico"
+    },
+    {
+      "id": "fc-lin-034",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "Como é a célula de Reed-Sternberg diagnóstica?",
+      "verso": "Grande, com **dois núcleos em espelho** (especular) e **nucléolos grandes e eosinofílicos** — “olho de coruja”."
+    },
+    {
+      "id": "fc-lin-035",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "O nucléolo da célula de Reed-Sternberg é eosinofílico ou basofílico?",
+      "verso": "**Eosinofílico.** “Macronucléolo basofílico” foi a alternativa errada da Prova 140."
+    },
+    {
+      "id": "fc-lin-036",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "Para a prova, célula de Reed-Sternberg e célula de Hodgkin são diferentes?",
+      "verso": "**Não.** O livro separa, mas para o professor são a mesma célula."
+    },
+    {
+      "id": "fc-lin-037",
+      "topico": "lin-lh-esclerose-nodular",
+      "capitulo": "lin-03",
+      "frente": "Célula lacunar (“citoplasma claro e retraído”) → qual tipo?",
+      "verso": "**Linfoma de Hodgkin clássico, tipo esclerose nodular.**"
+    },
+    {
+      "id": "fc-lin-038",
+      "topico": "lin-lh-pln",
+      "capitulo": "lin-03",
+      "frente": "Célula em pipoca (linfo-histiocitária) → qual tipo?",
+      "verso": "**Linfoma de Hodgkin não clássico, tipo predominância linfocítica nodular.**"
+    },
+    {
+      "id": "fc-lin-039",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "Quais variantes da célula RS predominam em celularidade mista, rico em linfócitos e depleção?",
+      "verso": "As variantes **diagnóstica e mononuclear**."
+    },
+    {
+      "id": "fc-lin-040",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "De que célula deriva a célula de Reed-Sternberg?",
+      "verso": "Das **células B do centro germinativo**."
+    },
+    {
+      "id": "fc-lin-041",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "Como o Linfoma de Hodgkin se dissemina?",
+      "verso": "Por **contiguidade**, para cadeias linfonodais adjacentes (no gabarito das palavras cruzadas: “continuidade”)."
+    },
+    {
+      "id": "fc-lin-042",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "Qual é a distribuição etária do Linfoma de Hodgkin?",
+      "verso": "**Bimodal**: picos entre 15–35 e 50–70 anos."
+    },
+    {
+      "id": "fc-lin-043",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "Perfil imuno-histoquímico do Hodgkin clássico?",
+      "verso": "**CD15 + e CD30 +** (PAX-5 + fraco); **CD20 − e CD45 −**.",
+      "dica": "15 + 30 = 45"
+    },
+    {
+      "id": "fc-lin-044",
+      "topico": "lin-lh-pln",
+      "capitulo": "lin-03",
+      "frente": "Perfil imuno-histoquímico do Hodgkin não clássico (PLN)?",
+      "verso": "**CD20 + e CD45 +** (PAX-5 +); **CD15 − e CD30 −**. O contrário do clássico."
+    },
+    {
+      "id": "fc-lin-045",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "Qual marcador de células B é positivo no Hodgkin clássico e no não clássico?",
+      "verso": "**PAX-5** (fraco no clássico).",
+      "dica": "palavras cruzadas"
+    },
+    {
+      "id": "fc-lin-046",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "V ou F: “Cada subtipo de Linfoma de Hodgkin tem um perfil imuno-histoquímico específico.”",
+      "verso": "**F.** Os 4 clássicos têm o mesmo perfil; só o não clássico é diferente."
+    },
+    {
+      "id": "fc-lin-047",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "Cite dois diferenciais morfológicos da célula de Reed-Sternberg (gabarito oficial).",
+      "verso": "**Mononucleose infecciosa** e **linfoma não Hodgkin, tipo difuso de grandes células B**."
+    },
+    {
+      "id": "fc-lin-048",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "Que achado imuno-histoquímico separa o difuso de grandes células B do Hodgkin clássico?",
+      "verso": "**CD20 difusamente positivo** (com alto índice de proliferação). No Hodgkin clássico, CD20 é negativo."
+    },
+    {
+      "id": "fc-lin-049",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-03",
+      "frente": "O EBV está presente em todos os Linfomas de Hodgkin?",
+      "verso": "**Não** — em alguns casos. O tipo mais associado é a celularidade mista."
+    },
+    {
+      "id": "fc-lin-050",
+      "topico": "lin-lh-geral",
+      "capitulo": "lin-04",
+      "frente": "Classificação da OMS: quais são os 4 tipos clássicos de Hodgkin?",
+      "verso": "Esclerose nodular, celularidade mista, rico em linfócitos e depleção linfocitária."
+    },
+    {
+      "id": "fc-lin-051",
+      "topico": "lin-lh-pln",
+      "capitulo": "lin-04",
+      "frente": "Qual é o único tipo não clássico de Linfoma de Hodgkin?",
+      "verso": "**Predominância linfocítica nodular.**"
+    },
+    {
+      "id": "fc-lin-052",
+      "topico": "lin-lh-esclerose-nodular",
+      "capitulo": "lin-04",
+      "frente": "“Traves de colágeno delimitando nódulos” → diagnóstico completo?",
+      "verso": "**Linfoma de Hodgkin clássico, tipo esclerose nodular.**"
+    },
+    {
+      "id": "fc-lin-053",
+      "topico": "lin-lh-esclerose-nodular",
+      "capitulo": "lin-04",
+      "frente": "Qual tipo de Hodgkin é o mais comum e de melhor prognóstico?",
+      "verso": "**Esclerose nodular** — também o típico do mediastino."
+    },
+    {
+      "id": "fc-lin-054",
+      "topico": "lin-lh-esclerose-nodular",
+      "capitulo": "lin-04",
+      "frente": "Como é o fundo inflamatório da esclerose nodular?",
+      "verso": "Abundante e **misto**: linfócitos, eosinófilos, plasmócitos e macrófagos. **Não** é predominantemente linfocitário.",
+      "dica": "V/F oficial"
+    },
+    {
+      "id": "fc-lin-055",
+      "topico": "lin-lh-celularidade-mista",
+      "capitulo": "lin-04",
+      "frente": "Qual tipo de Hodgkin é o mais associado ao EBV?",
+      "verso": "**Celularidade mista** (o segundo mais comum)."
+    },
+    {
+      "id": "fc-lin-056",
+      "topico": "lin-lh-deplecao",
+      "capitulo": "lin-04",
+      "frente": "“Inúmeras células grandes, linfócitos espaçados entre si e fibrose reticular” → diagnóstico completo?",
+      "verso": "**Linfoma de Hodgkin clássico, tipo depleção linfocitária.**"
+    },
+    {
+      "id": "fc-lin-057",
+      "topico": "lin-lh-deplecao",
+      "capitulo": "lin-04",
+      "frente": "Qual é o tipo mais agressivo de Linfoma de Hodgkin?",
+      "verso": "**Depleção linfocitária** (“super agressivo”), com células RS pleomórficas."
+    },
+    {
+      "id": "fc-lin-058",
+      "topico": "lin-lh-deplecao",
+      "capitulo": "lin-04",
+      "frente": "Quais tipos de Hodgkin podem progredir para depleção linfocitária?",
+      "verso": "**Celularidade mista** e **rico em linfócitos**."
+    },
+    {
+      "id": "fc-lin-059",
+      "topico": "lin-lh-deplecao",
+      "capitulo": "lin-04",
+      "frente": "Celularidade mista que evolui para depleção linfocitária: a imuno-histoquímica muda? E o prognóstico?",
+      "verso": "A IHQ **não muda** (CD15 + e CD30 +; CD20 − e CD45 −). O prognóstico é **mau**: variante de maior agressividade."
+    },
+    {
+      "id": "fc-lin-060",
+      "topico": "lin-lh-rico-linfocitos",
+      "capitulo": "lin-04",
+      "frente": "O que diferencia o rico em linfócitos da predominância linfocítica nodular?",
+      "verso": "Rico em linfócitos: **difuso**, RS diagnóstica/mononuclear, CD15 + e CD30 +. PLN: **nodular**, célula em pipoca, CD20 + e CD45 +."
+    },
+    {
+      "id": "fc-lin-061",
+      "topico": "lin-lh-esclerose-nodular",
+      "capitulo": "lin-04",
+      "frente": "O que diferencia esclerose nodular de celularidade mista, se as duas têm fundo misto?",
+      "verso": "Esclerose nodular: **traves de colágeno + nódulos + célula lacunar**. Celularidade mista: sem traves, RS diagnóstica e mononuclear."
+    },
+    {
+      "id": "fc-lin-062",
+      "topico": "lin-lh-deplecao",
+      "capitulo": "lin-04",
+      "frente": "Fibrose na esclerose nodular × na depleção linfocitária?",
+      "verso": "Esclerose nodular: **bandas densas** delimitando nódulos, fundo abundante. Depleção: fibrose **reticular**, difusa, com linfócitos escassos."
+    },
+    {
+      "id": "fc-lin-063",
+      "topico": "lin-lh-pln",
+      "capitulo": "lin-04",
+      "frente": "Qual dado de evolução da PLN foi cobrado em prova?",
+      "verso": "**Maior chance de recorrências.** A pesquisa de EBV é negativa.",
+      "dica": "Prova 150"
+    },
+    {
+      "id": "fc-lin-064",
+      "topico": "lin-lh-esclerose-nodular",
+      "capitulo": "lin-04",
+      "frente": "Frase-modelo da imuno-histoquímica no caso de esclerose nodular?",
+      "verso": "“Nas células de Reed-Sternberg: **CD15 positivo e CD30 positivo; CD20 negativo e CD45 negativo**.”"
+    },
+    {
+      "id": "fc-lin-065",
+      "topico": "lin-lnh-geral",
+      "capitulo": "lin-04",
+      "frente": "Hodgkin × não Hodgkin: como é o acometimento extranodal primário?",
+      "verso": "Hodgkin: quase sempre nodal. Não Hodgkin: **40%** com sítio primário extranodal — estômago, anel de Waldeyer e pele."
+    }
+  ]
+}

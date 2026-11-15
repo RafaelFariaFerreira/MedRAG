@@ -1,0 +1,256 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 640" width="1600" height="640">
+  <title>MedRAG — Um copiloto de estudos com RAG para a prova de Anatomia Patológica</title>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#1C1B1A" fill-opacity="0.07"/>
+    </pattern>
+    <linearGradient id="iconbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B7F79"/>
+      <stop offset="0.5" stop-color="#1F4E6E"/>
+      <stop offset="1" stop-color="#5B4BC4"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F6F4EF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#F6F4EF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#1C1B1A" flood-opacity="0.10"/>
+    </filter>
+    <filter id="shadowSm" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1C1B1A" flood-opacity="0.10"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1 L8 5 L1 9" fill="none" stroke="#9A958C" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- paper -->
+  <rect width="1600" height="640" fill="#F6F4EF"/>
+  <rect x="600" width="1000" height="640" fill="url(#dots)"/>
+  <rect x="600" width="140" height="640" fill="url(#fade)"/>
+
+  <!-- journal rules -->
+  <line x1="80" y1="56" x2="1520" y2="56" stroke="#1C1B1A" stroke-width="1.5"/>
+  <line x1="80" y1="61" x2="1520" y2="61" stroke="#1C1B1A" stroke-width="0.6"/>
+  <line x1="80" y1="584" x2="1520" y2="584" stroke="#E4E0D6" stroke-width="1"/>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#5F5B55">
+    <text x="80" y="42" font-weight="600">ANATOMIA PATOLÓGICA II · P2</text>
+    <text x="1520" y="42" text-anchor="end">VOL. 1 · ESTUDO ASSISTIDO POR RAG</text>
+  </g>
+
+  <!-- ============ left: title block ============ -->
+  <g transform="translate(80 128)">
+    <rect width="64" height="64" rx="15" fill="url(#iconbg)"/>
+    <g transform="scale(0.0625)">
+      <g transform="rotate(-10 380 360)">
+        <rect x="196" y="168" width="372" height="452" rx="52" fill="#FFFFFF" fill-opacity="0.24"/>
+      </g>
+      <line x1="618" y1="618" x2="782" y2="782" stroke="#FFFFFF" stroke-width="108" stroke-linecap="round"/>
+      <circle cx="488" cy="488" r="196" fill="#18304F" stroke="#FFFFFF" stroke-width="74"/>
+      <circle cx="488" cy="488" r="94" fill="#FFFFFF"/>
+      <circle cx="518" cy="458" r="31" fill="#E07A45"/>
+    </g>
+  </g>
+  <text x="76" y="300" font-family="'DM Serif Display', Georgia, 'Times New Roman', serif" font-size="112" fill="#1C1B1A" letter-spacing="-1">Med<tspan fill="#1F4E46">RAG</tspan></text>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#5F5B55">
+    <text x="80" y="350">Um copiloto de estudos com RAG</text>
+    <text x="80" y="383">para a prova de <tspan font-family="'DM Serif Display', Georgia, 'Times New Roman', serif" font-style="italic" font-size="26" fill="#1C1B1A">Anatomia Patológica</tspan></text>
+  </g>
+
+  <!-- module chips -->
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500">
+    <g transform="translate(80 424)">
+      <rect width="104" height="32" rx="16" fill="#C2571A" fill-opacity="0.10"/>
+      <circle cx="18" cy="16" r="5" fill="#C2571A"/>
+      <text x="30" y="21" fill="#9A4415">Tireoide</text>
+    </g>
+    <g transform="translate(194 424)">
+      <rect width="228" height="32" rx="16" fill="#1B7F79" fill-opacity="0.10"/>
+      <circle cx="18" cy="16" r="5" fill="#1B7F79"/>
+      <text x="30" y="21" fill="#14605B">Linfadenopatias reacionais</text>
+    </g>
+    <g transform="translate(432 424)">
+      <rect width="104" height="32" rx="16" fill="#5B4BC4" fill-opacity="0.10"/>
+      <circle cx="18" cy="16" r="5" fill="#5B4BC4"/>
+      <text x="30" y="21" fill="#4638A0">Linfomas</text>
+    </g>
+  </g>
+
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9A958C">
+    <text x="80" y="612">Flutter · busca BM25 no aparelho · Claude API · respostas com citações das fontes</text>
+  </g>
+
+  <!-- ============ right: pipeline ============ -->
+  <!-- connectors -->
+  <g stroke="#9A958C" stroke-width="1.6" stroke-dasharray="2 6" stroke-linecap="round" fill="none">
+    <path d="M736 290 L762 290" marker-end="url(#arrow)"/>
+    <path d="M871 290 L897 290" marker-end="url(#arrow)"/>
+    <path d="M1006 290 L1032 290" marker-end="url(#arrow)"/>
+    <path d="M1141 290 L1167 290" marker-end="url(#arrow)"/>
+    <path d="M1272 290 L1316 290" marker-end="url(#arrow)"/>
+  </g>
+
+  <!-- step numbers + labels -->
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g font-size="11" font-weight="600" letter-spacing="1.5" fill="#9A958C">
+      <text x="685" y="208">01</text>
+      <text x="820" y="208">02</text>
+      <text x="955" y="208">03</text>
+      <text x="1090" y="208">04</text>
+      <text x="1222" y="208">05</text>
+    </g>
+    <g font-size="15" font-weight="600" fill="#1C1B1A">
+      <text x="685" y="378">Fontes</text>
+      <text x="820" y="378">Markdown</text>
+      <text x="955" y="378">Chunks</text>
+      <text x="1090" y="378">BM25</text>
+      <text x="1222" y="378">Claude</text>
+    </g>
+    <g font-size="12.5" fill="#5F5B55">
+      <text x="685" y="398">PDFs e fotos</text>
+      <text x="685" y="415">de provas</text>
+      <text x="820" y="398">markitdown</text>
+      <text x="820" y="415">+ OCR</text>
+      <text x="955" y="398">trechos por</text>
+      <text x="955" y="415">tópico</text>
+      <text x="1090" y="398">busca local,</text>
+      <text x="1090" y="415">no aparelho</text>
+      <text x="1222" y="398">redige com</text>
+      <text x="1222" y="415">base nos trechos</text>
+    </g>
+  </g>
+
+  <!-- 01 sources: exam photo + PDF -->
+  <g transform="translate(685 290)">
+    <g transform="rotate(-9)" filter="url(#shadowSm)">
+      <rect x="-40" y="-50" width="64" height="82" rx="6" fill="#EFECE5" stroke="#E4E0D6"/>
+      <g stroke="#5F5B55" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.7">
+        <path d="M-34 -36 v-8 h8"/><path d="M18 -36 v-8 h-8"/><path d="M-34 18 v8 h8"/><path d="M18 18 v8 h-8"/>
+      </g>
+      <g fill="#9A958C">
+        <rect x="-28" y="-28" width="36" height="3" rx="1.5"/>
+        <rect x="-28" y="-20" width="40" height="3" rx="1.5"/>
+        <rect x="-28" y="-12" width="30" height="3" rx="1.5"/>
+        <rect x="-28" y="-4" width="38" height="3" rx="1.5"/>
+      </g>
+    </g>
+    <g transform="rotate(5)" filter="url(#shadowSm)">
+      <path d="M-14 -36 h36 l14 14 v62 a5 5 0 0 1 -5 5 h-45 a5 5 0 0 1 -5 -5 v-71 a5 5 0 0 1 5 -5 z" fill="#FFFFFF" stroke="#E4E0D6"/>
+      <path d="M22 -36 v10 a4 4 0 0 0 4 4 h10" fill="#EFECE5" stroke="#E4E0D6"/>
+      <rect x="-12" y="-14" width="30" height="15" rx="3" fill="#C2571A"/>
+      <text x="3" y="-3" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" fill="#FFFFFF">PDF</text>
+      <g fill="#E4E0D6">
+        <rect x="-12" y="8" width="40" height="3" rx="1.5"/>
+        <rect x="-12" y="16" width="34" height="3" rx="1.5"/>
+        <rect x="-12" y="24" width="38" height="3" rx="1.5"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- 02 markdown -->
+  <g transform="translate(820 290)" filter="url(#shadowSm)">
+    <rect x="-38" y="-48" width="76" height="96" rx="8" fill="#FFFFFF" stroke="#E4E0D6"/>
+    <text x="-26" y="-18" font-family="'DM Serif Display', Georgia, serif" font-size="24" fill="#1F4E46">#</text>
+    <rect x="-8" y="-30" width="34" height="5" rx="2.5" fill="#1C1B1A"/>
+    <g fill="#9A958C">
+      <rect x="-26" y="-6" width="52" height="3" rx="1.5"/>
+      <rect x="-26" y="2" width="44" height="3" rx="1.5"/>
+      <rect x="-26" y="10" width="50" height="3" rx="1.5"/>
+    </g>
+    <rect x="-26" y="21" width="5" height="5" rx="1" fill="#1B7F79"/>
+    <rect x="-16" y="22" width="36" height="3" rx="1.5" fill="#9A958C"/>
+    <rect x="-26" y="32" width="5" height="5" rx="1" fill="#1B7F79"/>
+    <rect x="-16" y="33" width="28" height="3" rx="1.5" fill="#9A958C"/>
+    <text x="38" y="-38" text-anchor="end" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#9A958C">.md</text>
+  </g>
+
+  <!-- 03 chunks -->
+  <g transform="translate(955 290)">
+    <g filter="url(#shadowSm)">
+      <rect x="-40" y="-46" width="80" height="20" rx="4" fill="#FFFFFF" stroke="#E4E0D6"/>
+      <rect x="-40" y="-46" width="5" height="20" rx="2" fill="#C2571A"/>
+      <rect x="-40" y="-20" width="80" height="20" rx="4" fill="#FFFFFF" stroke="#E4E0D6"/>
+      <rect x="-40" y="-20" width="5" height="20" rx="2" fill="#1B7F79"/>
+      <rect x="-40" y="6" width="80" height="20" rx="4" fill="#FFFFFF" stroke="#E4E0D6"/>
+      <rect x="-40" y="6" width="5" height="20" rx="2" fill="#5B4BC4"/>
+      <rect x="-40" y="32" width="80" height="20" rx="4" fill="#FFFFFF" stroke="#E4E0D6"/>
+      <rect x="-40" y="32" width="5" height="20" rx="2" fill="#C2571A"/>
+    </g>
+    <g fill="#E4E0D6">
+      <rect x="-28" y="-38" width="50" height="4" rx="2"/>
+      <rect x="-28" y="-12" width="42" height="4" rx="2"/>
+      <rect x="-28" y="14" width="54" height="4" rx="2"/>
+      <rect x="-28" y="40" width="38" height="4" rx="2"/>
+    </g>
+  </g>
+
+  <!-- 04 BM25: ranked bars + lens -->
+  <g transform="translate(1090 290)">
+    <rect x="-42" y="-48" width="84" height="96" rx="8" fill="#FFFFFF" stroke="#E4E0D6" filter="url(#shadowSm)"/>
+    <g>
+      <rect x="-30" y="-34" width="56" height="10" rx="3" fill="#1F4E46"/>
+      <rect x="-30" y="-18" width="40" height="10" rx="3" fill="#1F4E46" fill-opacity="0.55"/>
+      <rect x="-30" y="-2" width="28" height="10" rx="3" fill="#1F4E46" fill-opacity="0.3"/>
+      <rect x="-30" y="14" width="16" height="10" rx="3" fill="#1F4E46" fill-opacity="0.15"/>
+    </g>
+    <g transform="translate(18 26)">
+      <line x1="10" y1="10" x2="22" y2="22" stroke="#1C1B1A" stroke-width="6" stroke-linecap="round"/>
+      <circle r="14" fill="#F6F4EF" fill-opacity="0.85" stroke="#1C1B1A" stroke-width="4.5"/>
+    </g>
+  </g>
+
+  <!-- 05 Claude -->
+  <g transform="translate(1222 290)">
+    <circle r="44" fill="#1C1B1A" filter="url(#shadow)"/>
+    <circle r="44" fill="none" stroke="#C2571A" stroke-opacity="0.35" stroke-width="1" transform="scale(1.22)"/>
+    <path d="M0 -22 C3 -6 6 -3 22 0 C6 3 3 6 0 22 C-3 6 -6 3 -22 0 C-6 -3 -3 -6 0 -22 Z" fill="#F0A070"/>
+    <circle cx="16" cy="-16" r="3" fill="#F0A070" fill-opacity="0.7"/>
+  </g>
+
+  <!-- 06 phone -->
+  <g transform="translate(1324 96)">
+    <rect x="0" y="0" width="208" height="430" rx="34" fill="#1C1B1A" filter="url(#shadow)"/>
+    <rect x="8" y="8" width="192" height="414" rx="27" fill="#FFFFFF"/>
+    <rect x="80" y="16" width="48" height="12" rx="6" fill="#1C1B1A"/>
+    <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <!-- app bar -->
+      <text x="22" y="56" font-family="'DM Serif Display', Georgia, serif" font-size="17" fill="#1C1B1A">Copiloto</text>
+      <circle cx="182" cy="51" r="5" fill="#1B7F79"/>
+      <line x1="8" y1="68" x2="200" y2="68" stroke="#E4E0D6"/>
+      <!-- question -->
+      <rect x="50" y="80" width="140" height="46" rx="14" fill="#1F4E46"/>
+      <text x="62" y="99" font-size="10.5" fill="#FFFFFF">Achados do carcinoma</text>
+      <text x="62" y="115" font-size="10.5" fill="#FFFFFF">papilífero?</text>
+      <!-- answer -->
+      <rect x="18" y="138" width="172" height="196" rx="14" fill="#F6F4EF"/>
+      <rect x="18" y="138" width="3.5" height="196" rx="1.75" fill="#C2571A"/>
+      <text x="32" y="160" font-size="10.5" font-weight="600" fill="#1C1B1A">Núcleos em “vidro fosco”,</text>
+      <text x="32" y="176" font-size="10.5" fill="#1C1B1A">sulcos nucleares e</text>
+      <text x="32" y="192" font-size="10.5" fill="#1C1B1A">pseudoinclusões <tspan fill="#C2571A" font-weight="600">[1]</tspan>;</text>
+      <text x="32" y="208" font-size="10.5" fill="#1C1B1A">corpos psamomatosos <tspan fill="#C2571A" font-weight="600">[2]</tspan>.</text>
+      <g fill="#E4E0D6">
+        <rect x="32" y="222" width="142" height="5" rx="2.5"/>
+        <rect x="32" y="234" width="120" height="5" rx="2.5"/>
+        <rect x="32" y="246" width="134" height="5" rx="2.5"/>
+      </g>
+      <text x="32" y="276" font-size="8.5" font-weight="600" letter-spacing="1.2" fill="#9A958C">FONTES</text>
+      <g font-size="9.5">
+        <rect x="32" y="284" width="142" height="20" rx="6" fill="#FFFFFF" stroke="#E4E0D6"/>
+        <text x="40" y="298" fill="#C2571A" font-weight="600">1</text>
+        <text x="52" y="298" fill="#5F5B55">Tireoide · Neoplasias</text>
+        <rect x="32" y="308" width="142" height="20" rx="6" fill="#FFFFFF" stroke="#E4E0D6"/>
+        <text x="40" y="322" fill="#C2571A" font-weight="600">2</text>
+        <text x="52" y="322" fill="#5F5B55">Prova 2023 · Q7</text>
+      </g>
+      <!-- input -->
+      <rect x="18" y="380" width="172" height="30" rx="15" fill="#FFFFFF" stroke="#E4E0D6"/>
+      <text x="32" y="399" font-size="10" fill="#9A958C">Pergunte ao material…</text>
+      <circle cx="175" cy="395" r="10" fill="#1F4E46"/>
+      <path d="M171 395 h8 M176 391.5 l3.5 3.5 l-3.5 3.5" stroke="#FFFFFF" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="1428" y="552" font-size="15" font-weight="600" fill="#1C1B1A">Resposta com citações</text>
+    <text x="1428" y="570" font-size="12.5" fill="#5F5B55">06 · no app Flutter</text>
+  </g>
+</svg>

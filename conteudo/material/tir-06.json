@@ -1,0 +1,595 @@
+{
+  "id": "tir-06",
+  "modulo": "tireoide",
+  "ordem": 6,
+  "titulo": "Medular e anaplásico + integração dos quatro carcinomas",
+  "minutos": 18,
+  "prioridade": "alta",
+  "topicos": [
+    "tir-medular",
+    "tir-anaplasico",
+    "tir-geral"
+  ],
+  "resumo": "Você vai fechar as duas gavetas que faltam (medular e anaplásico), montar o painel de imuno-histoquímica e resolver o caso longitudinal que o professor repete há anos.",
+  "objetivos": [
+    "Caracterizar o carcinoma medular: célula C, calcitonina, amiloide, natureza neuroendócrina, NEM",
+    "Caracterizar o carcinoma anaplásico: história típica, pleomorfismo, alto índice mitótico, necrose, evolução",
+    "Saber o que não cai (tumor de colisão, tumor misto) e que Ki-67 é índice, não marcador",
+    "Montar o painel de IHQ da tireoide dizendo positivo ou negativo",
+    "Resolver o caso longitudinal papilífero + Hashimoto → folicular → anaplásico"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "**Caso longitudinal (Provas 145, 147 e duas sem ano):** \"extensa necrose, acentuado pleomorfismo celular e alto índice mitótico\" em massa endurecida aderida a planos profundos → **carcinoma anaplásico**; e a pergunta final: *\"Existe relação entre as lesões?\"* **Prova 150, V ou F:** \"o carcinoma anaplásico mostra acentuado pleomorfismo e **baixo** índice mitótico\" → **F** (alto). **Prova 136:** a lesão do meio tinha \"células poliédricas, fusiformes\" e depois apareceu nódulo semelhante no fígado → **carcinoma medular** com metástase hematogênica. **Prova 151:** na questão de 4 pontos sobre as neoplasias diferenciadas, tinha que entrar o medular — e o anaplásico zerava."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "1. Carcinoma medular"
+    },
+    {
+      "id": "b03",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Carcinoma medular",
+      "md": "Origina-se das **células C (parafoliculares)**, produtoras de **calcitonina**. É, portanto, um **tumor neuroendócrino**. Tem malignidade intermediária: evolui de modo lento e permite sobrevida longa."
+    },
+    {
+      "id": "b04",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "O status deste tema",
+      "md": "No resumo, o medular está marcado como \"**estudar sozinho**\": não foi detalhado em aula. Mesmo assim, a anotação da Prova 151 diz que ele precisava aparecer na discursiva. Não pule."
+    },
+    {
+      "id": "b05",
+      "tipo": "cartoes",
+      "titulo": "As cinco palavras do medular",
+      "itens": [
+        {
+          "titulo": "Célula C",
+          "texto": "Parafolicular; não é célula folicular.",
+          "emoji": "🅲"
+        },
+        {
+          "titulo": "Calcitonina",
+          "texto": "No sangue (o exemplo da aula: 2.000) e na imuno-histoquímica.",
+          "emoji": "🧪"
+        },
+        {
+          "titulo": "Amiloide",
+          "texto": "No HE, material amorfo e eosinofílico entre as células.",
+          "emoji": "🩷"
+        },
+        {
+          "titulo": "Neuroendócrino",
+          "texto": "Marca sinaptofisina e cromogranina.",
+          "emoji": "🧠"
+        },
+        {
+          "titulo": "NEM",
+          "texto": "A forma familial pode vir com neoplasia endócrina múltipla.",
+          "emoji": "🧬"
+        }
+      ]
+    },
+    {
+      "id": "b06",
+      "tipo": "foto",
+      "ref": "foto_medular_amiloide",
+      "legenda": "Carcinoma medular: ninhos de células entremeados por amiloide — material amorfo e eosinofílico."
+    },
+    {
+      "id": "b07",
+      "tipo": "texto",
+      "md": "**Microscopia.** Grupos de células **redondas, poliédricas ou fusiformes**, em massas, ilhotas ou trabéculas, **entremeadas por substância amiloide**. Núcleos pequenos, redondos, **hipercromáticos** e uniformes; mitoses raras. Citoplasma escasso, eosinofílico e granular. Estroma fibroso denso, com corpos calcários frequentes."
+    },
+    {
+      "id": "b08",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Dois disfarces do medular",
+      "md": "Os **corpos calcários** do estroma podem simular corpos psamomatosos, e em certas áreas as células formam arranjos que **simulam folículos**. O que o separa: núcleo **escuro** (o do papilífero é claro), **amiloide** e **calcitonina positiva**. Na Prova 148, \"estruturas em ninho com produção de amiloide\" era o distrator-medular na questão do papilífero."
+    },
+    {
+      "id": "b09",
+      "tipo": "tabela",
+      "titulo": "Medular esporádico × familial",
+      "colunas": [
+        "Critério",
+        "Esporádico",
+        "Familial"
+      ],
+      "linhas": [
+        [
+          "Idade",
+          "Não destacada na fonte",
+          "Indivíduos **mais jovens**"
+        ],
+        [
+          "Número de lesões",
+          "Costuma ser **solitário**",
+          "Pode ser **múltiplo**"
+        ],
+        [
+          "Lobos",
+          "Ocupa um lobo",
+          "Pode comprometer ambos os lobos"
+        ],
+        [
+          "Associações",
+          "—",
+          "**NEM**: feocromocitoma, hiperplasia ou adenoma de paratireoide, neuromas múltiplos de mucosas"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b10",
+      "tipo": "texto",
+      "md": "**Disseminação:** metástase em **linfonodos cervicais** ou **hematogênica** — esta mais tardia e menos frequente, para pulmão, fígado e ossos. Foi o que caiu na Prova 136: nódulo no fígado, anos depois, com as mesmas características da lesão tireoidiana."
+    },
+    {
+      "id": "b11",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: macroscopia, secreções e prognóstico do medular",
+      "blocos": [
+        {
+          "id": "b12",
+          "tipo": "lista",
+          "itens": [
+            "**Macro:** massa única, firme, branco-acinzentada (às vezes acastanhada), de milímetros a centímetros",
+            "Circunscrita, mas **não encapsulada**",
+            "Pode ter calcificação, hemorragia ou fibrose, mas sem a cicatrização central típica dos demais carcinomas",
+            "**Microcarcinoma medular (oculto):** já pode dar metástase linfonodal, inclusive com amiloide"
+          ]
+        },
+        {
+          "id": "b13",
+          "tipo": "texto",
+          "md": "**Outras secreções:** prostaglandinas, ACTH (síndrome de Cushing), VIP e serotonina (síndrome carcinoide). **Identificação da célula C:** falsa metacromasia, argirofilia e grânulos de secreção à microscopia eletrônica, além da imuno-histoquímica."
+        },
+        {
+          "id": "b14",
+          "tipo": "texto",
+          "md": "**Prognóstico pela morfologia:** células poliédricas, com calcificação e amiloide → mais favorável. Células fusiformes, muitas mitoses e numerosas áreas de necrose → alta malignidade (o resumo chama de \"variante anaplásica\" do medular — não confunda com o carcinoma anaplásico)."
+        }
+      ]
+    },
+    {
+      "id": "b15",
+      "tipo": "quiz",
+      "pergunta": "Tumor de tireoide formado por ninhos de células poliédricas e fusiformes, com material amorfo eosinofílico entre elas. Anos depois, nódulo hepático com o mesmo aspecto. Qual marcador você espera positivo?",
+      "opcoes": [
+        "Tireoglobulina",
+        "Calcitonina",
+        "CD20",
+        "Galectina-3"
+      ],
+      "correta": 1,
+      "explicacao": "Células poliédricas/fusiformes + amiloide = carcinoma medular, tumor de células C: calcitonina positiva (além de sinaptofisina e cromogranina). O nódulo hepático é metástase hematogênica."
+    },
+    {
+      "id": "b16",
+      "tipo": "titulo",
+      "texto": "2. Carcinoma anaplásico (indiferenciado)"
+    },
+    {
+      "id": "b17",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "A história é sempre a mesma",
+      "md": "\"**Homem com múltiplas cirurgias de tireoide.**\" Na década de 80, tirava-se só o nódulo, não o lobo; sem margem livre, a neoplasia ficava lá e **ia se indiferenciando**. Exemplo dele: havia um papilífero e um folicular — neoplasias diferenciadas — que foram se indiferenciando."
+    },
+    {
+      "id": "b18",
+      "tipo": "fluxo",
+      "titulo": "A história natural que o professor conta",
+      "passos": [
+        {
+          "titulo": "Carcinoma diferenciado",
+          "texto": "Papilífero e/ou folicular, operado de forma incompleta."
+        },
+        {
+          "titulo": "Tumor residual",
+          "texto": "Sem margem livre, a neoplasia permanece."
+        },
+        {
+          "titulo": "Indiferenciação",
+          "texto": "Ao longo dos anos, perde a diferenciação."
+        },
+        {
+          "titulo": "Crescimento abrupto",
+          "texto": "Aumento do volume cervical em 3 a 4 dias; massa endurecida, aderida a planos profundos."
+        },
+        {
+          "titulo": "Desfecho",
+          "texto": "Morte por insuficiência respiratória."
+        }
+      ]
+    },
+    {
+      "id": "b19",
+      "tipo": "cartoes",
+      "titulo": "O anaplásico na lâmina",
+      "itens": [
+        {
+          "titulo": "Acentuado pleomorfismo",
+          "texto": "Células muito diferentes entre si; nada lembra tireoide.",
+          "emoji": "🎭"
+        },
+        {
+          "titulo": "ALTO índice mitótico",
+          "texto": "Alto índice de proliferação — daí a agressividade.",
+          "emoji": "📈"
+        },
+        {
+          "titulo": "Extensa necrose",
+          "texto": "Aparece no enunciado e no gabarito oficial do caso.",
+          "emoji": "🕳️"
+        }
+      ]
+    },
+    {
+      "id": "b20",
+      "tipo": "foto",
+      "ref": "foto_anaplasico",
+      "legenda": "Carcinoma anaplásico: células pleomórficas, bizarras, com mitoses numerosas."
+    },
+    {
+      "id": "b21",
+      "tipo": "texto",
+      "md": "É o **menos comum** e o mais agressivo. Se for operado, **cresce de novo em uma semana**. Não responde a quimioterapia, a iodo nem a radioterapia. Dissemina-se por via **linfática e hematogênica**."
+    },
+    {
+      "id": "b22",
+      "tipo": "quiz",
+      "pergunta": "Qual das afirmativas sobre o carcinoma anaplásico é FALSA? (base: V ou F da Prova 150)",
+      "opcoes": [
+        "É o carcinoma de tireoide menos comum",
+        "Pode surgir da indiferenciação de um papilífero ou folicular prévio",
+        "Mostra acentuado pleomorfismo e baixo índice mitótico",
+        "Não responde a quimioterapia, iodo ou radioterapia"
+      ],
+      "correta": 2,
+      "explicacao": "O gabarito oficial corrige com uma palavra: \"alto\". A frase mistura um achado certo (pleomorfismo) com um errado (baixo índice mitótico) para você deixar passar. Anaplásico = pleomorfismo acentuado, alto índice mitótico e extensa necrose."
+    },
+    {
+      "id": "b23",
+      "tipo": "titulo",
+      "texto": "3. Medular × anaplásico"
+    },
+    {
+      "id": "b24",
+      "tipo": "tabela",
+      "titulo": "Medular × anaplásico",
+      "colunas": [
+        "Critério",
+        "Medular",
+        "Anaplásico"
+      ],
+      "linhas": [
+        [
+          "Célula de origem",
+          "Célula C (parafolicular)",
+          "Vem da indiferenciação de carcinomas da célula folicular"
+        ],
+        [
+          "Frequência",
+          "3º",
+          "O menos comum"
+        ],
+        [
+          "Paciente típico",
+          "Esporádico ou familial (jovem, NEM)",
+          "Idoso, homem, com cirurgias prévias de tireoide"
+        ],
+        [
+          "Células",
+          "Redondas, poliédricas ou fusiformes; núcleos **uniformes**",
+          "**Acentuado pleomorfismo**"
+        ],
+        [
+          "Mitoses",
+          "Raras",
+          "**Muitas** (alto índice mitótico)"
+        ],
+        [
+          "Achado-assinatura",
+          "**Amiloide**",
+          "**Extensa necrose**"
+        ],
+        [
+          "Marcador",
+          "Calcitonina, sinaptofisina, cromogranina",
+          "PAX8 em cerca de 75%; ceratinas fracas e focais"
+        ],
+        [
+          "Evolução",
+          "Lenta, sobrevida longa",
+          "Fulminante; morte por insuficiência respiratória"
+        ],
+        [
+          "Na questão das \"diferenciadas\"",
+          "**Entra**",
+          "**Zera**"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b25",
+      "tipo": "titulo",
+      "texto": "4. O que não cai"
+    },
+    {
+      "id": "b26",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Tumores misturados não caem",
+      "md": "\"**TUMORES MISTURADOS NÃO CAEM** — ignore tumor de colisão e tumor misto!\" Só para reconhecer os nomes: **tumor de colisão** = medular + folicular ou medular + papilífero em massa única; **tumor misto** = mistura de células foliculares e parafoliculares, produzindo tireoglobulina e calcitonina. Também não caem os subtipos do papilífero: só o clássico."
+    },
+    {
+      "id": "b27",
+      "tipo": "titulo",
+      "texto": "5. O painel de imuno-histoquímica"
+    },
+    {
+      "id": "b28",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "O painel como uma sequência de perguntas",
+      "md": "**1) É de tireoide?** TTF-1 (e PAX8). **2) É de célula folicular?** Tireoglobulina. **3) É de célula C?** Calcitonina + marcadores neuroendócrinos. **4) Perdeu quase tudo?** Anaplásico: sobra PAX8 em parte dos casos e ceratina fraca."
+    },
+    {
+      "id": "b29",
+      "tipo": "tabela",
+      "titulo": "Painel de IHQ da tireoide",
+      "colunas": [
+        "Marcador",
+        "Papilífero",
+        "Folicular",
+        "Medular",
+        "Anaplásico"
+      ],
+      "linhas": [
+        [
+          "TTF-1",
+          "**+**",
+          "**+**",
+          "Complemento: + na maioria",
+          "Complemento: − em geral"
+        ],
+        [
+          "Tireoglobulina",
+          "Complemento: +",
+          "**+** (define linhagem)",
+          "Complemento: −",
+          "Complemento: − em geral"
+        ],
+        [
+          "PAX8",
+          "Complemento: +",
+          "**+**",
+          "Complemento: − em geral",
+          "**+** em cerca de 75%"
+        ],
+        [
+          "Calcitonina",
+          "Complemento: −",
+          "Complemento: −",
+          "**+**",
+          "Complemento: −"
+        ],
+        [
+          "Sinaptofisina, cromogranina",
+          "Complemento: −",
+          "Complemento: −",
+          "**+**",
+          "Complemento: −"
+        ],
+        [
+          "CEA",
+          "Não citado",
+          "Não citado",
+          "**+**",
+          "Não citado"
+        ],
+        [
+          "CK19, galectina-3, HBME-1",
+          "**+**",
+          "Não citados",
+          "Não citados",
+          "Não citados"
+        ],
+        [
+          "Ceratinas (panceratina, CK7, CAM)",
+          "Não citadas",
+          "**+**",
+          "Não citadas",
+          "Fracas e focais"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b30",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Como ler esta tabela",
+      "md": "Em **negrito** está o que consta no resumo de aula; \"Complemento\" é conhecimento geral consolidado, acrescentado para a tabela não ficar com buracos. Se o tempo apertar, decore só o negrito. O medular também marca somatostatina, ACTH e 5-HT."
+    },
+    {
+      "id": "b31",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Ki-67 não é marcador",
+      "md": "Quando perguntaram de imuno-histoquímica, ele falou de TTF-1 e Ki-67; dias depois, corrigiu: **Ki-67 é índice de proliferação celular, então não entra**. Melhor decorar TTF-1 + (indica tireoide) e os demais, sempre dizendo se é positivo ou negativo. No anaplásico, ele deu ênfase ao **PAX8**."
+    },
+    {
+      "id": "b32",
+      "tipo": "titulo",
+      "texto": "6. A tabela-mestra"
+    },
+    {
+      "id": "b33",
+      "tipo": "tabela",
+      "titulo": "Os quatro carcinomas da tireoide",
+      "colunas": [
+        "Critério",
+        "Papilífero",
+        "Folicular",
+        "Medular",
+        "Anaplásico"
+      ],
+      "linhas": [
+        [
+          "Frequência",
+          "1º",
+          "2º",
+          "3º",
+          "4º (menos comum)"
+        ],
+        [
+          "Célula de origem",
+          "Folicular",
+          "Folicular",
+          "Célula C",
+          "Indiferenciação de tumor de célula folicular"
+        ],
+        [
+          "Morfologia-chave",
+          "Papilas; núcleo claro, ranhuras, pseudoinclusões",
+          "Folículos de aspecto normal + invasão de cápsula e vasos",
+          "Ninhos de células poliédricas/fusiformes + amiloide",
+          "Pleomorfismo, alto índice mitótico, necrose"
+        ],
+        [
+          "Palavra-gatilho",
+          "Psamoma, microcalcificação",
+          "Fratura patológica, \"bócio metastático\"",
+          "Calcitonina, amiloide, NEM",
+          "Idoso operado antes; cresceu em dias"
+        ],
+        [
+          "Disseminação",
+          "**Linfática**",
+          "**Hematogênica**",
+          "Linfática ou hematogênica (mais tardia)",
+          "Linfática e hematogênica"
+        ],
+        [
+          "Metástases",
+          "Linfonodos cervicais",
+          "Osso, fígado, cérebro, pulmão",
+          "Linfonodos cervicais; pulmão, fígado, ossos",
+          "Não detalhadas; o que mata é a invasão local (insuficiência respiratória)"
+        ],
+        [
+          "Prognóstico",
+          "Favorável",
+          "Diferenciado; depende das metástases",
+          "Intermediário; sobrevida longa",
+          "Péssimo; não responde a nada"
+        ],
+        [
+          "PAAF",
+          "Fecha",
+          "Não fecha",
+          "Fecha",
+          "Não discutido em aula"
+        ],
+        [
+          "IHQ",
+          "TTF-1 +, CK19 +, galectina-3 +, HBME-1 +",
+          "TTF-1 +, tireoglobulina +, PAX8 +",
+          "Calcitonina +, CEA +, sinaptofisina +, cromogranina +",
+          "PAX8 + (~75%), ceratinas fracas"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b34",
+      "tipo": "revelar",
+      "pergunta": "Questão de 4 pontos (Prova 151): \"Discutir as principais neoplasias primárias epiteliais diferenciadas da tireoide quanto à morfologia, disseminação e prognóstico.\" Quais tumores entram e o que dizer de cada um?",
+      "resposta": "**Papilífero:** papilas, núcleo claro com ranhuras e pseudoinclusões, psamomas; via linfática para linfonodos cervicais; prognóstico favorável. **Folicular:** folículos semelhantes ao normal, com invasão capsular e vascular; via hematogênica para osso, fígado, cérebro e pulmão; sem linfonodo. **Medular:** células C, ninhos de células poliédricas/fusiformes com amiloide, calcitonina; linfonodos cervicais ou hematogênica tardia; malignidade intermediária. **Anaplásico não entra** — é indiferenciado."
+    },
+    {
+      "id": "b35",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "De onde vem a regra \"medular entra, anaplásico zera\"",
+      "md": "Não é de gabarito oficial: é **anotação dos alunos** sobre a correção da Prova 151 (o gabarito disponível, gerado por IA, citou só papilífero e folicular). Vale a ressalva conceitual — o medular vem da célula C e é neuroendócrino —, mas a estratégia segura é clara: escreva os **três** e deixe o anaplásico de fora."
+    },
+    {
+      "id": "b36",
+      "tipo": "titulo",
+      "texto": "7. Caso integrador"
+    },
+    {
+      "id": "b37",
+      "tipo": "texto",
+      "md": "*Homem, 80 anos, chega à emergência com abaulamento cervical anterior e insuficiência respiratória. Massa endurecida, aderida a planos profundos, em topografia da tireoide. Biópsia: extensa necrose, acentuado pleomorfismo celular e alto índice mitótico.*"
+    },
+    {
+      "id": "b38",
+      "tipo": "texto",
+      "md": "*Operado em 1987 por lesão nodular de células com cromatina clara, ranhuras nucleares e pseudo-inclusões; o restante do parênquima tinha moderado infiltrado linfoplasmocitário, atrofia acinar, traves fibrosas e transformação oxifílica citoplasmática; um linfonodo cervical aumentado tinha o mesmo aspecto do nódulo. Em 2000, nova lesão: núcleos hipercromáticos, comprometendo a cápsula e infiltrando vasos sanguíneos.*"
+    },
+    {
+      "id": "b39",
+      "tipo": "revelar",
+      "pergunta": "a) e b) Quais os prováveis diagnósticos da cirurgia de 1987? Explique com as características do texto.",
+      "resposta": "**Carcinoma papilífero e tireoidite de Hashimoto.** Papilífero: células com cromatina clara, ranhuras nucleares e pseudo-inclusões. Hashimoto (o \"restante do parênquima\"): moderado infiltrado linfoplasmocitário, atrofia acinar, traves fibrosas e transformação oxifílica citoplasmática. São **dois** diagnósticos — quem responde só papilífero perde metade."
+    },
+    {
+      "id": "b40",
+      "tipo": "revelar",
+      "pergunta": "c) e d) Explique o achado do linfonodo cervical. E qual era o laboratório (T3, T4, TSH) em 1987?",
+      "resposta": "**Linfonodo:** o carcinoma papilífero apresenta disseminação linfática e, portanto, acomete os linfonodos cervicais — é metástase. **Laboratório:** T3 e T4 baixos e TSH alto, em hipotireoidismo (pelo Hashimoto)."
+    },
+    {
+      "id": "b41",
+      "tipo": "revelar",
+      "pergunta": "e), f) e g) Qual o diagnóstico da cirurgia de 2000? Explique. Cite dois sítios principais de metástase.",
+      "resposta": "**Carcinoma folicular.** Células com núcleos hipercromáticos; a lesão comprometia a cápsula da glândula e infiltrava os vasos sanguíneos — invasão capsular e vascular é o que caracteriza o folicular. **Metástases:** osso, fígado, cérebro (gabarito oficial), por via hematogênica."
+    },
+    {
+      "id": "b42",
+      "tipo": "revelar",
+      "pergunta": "h), i) e j) Qual o diagnóstico da lesão atual? Justifique. Existe relação entre as lesões?",
+      "resposta": "**Carcinoma anaplásico (indiferenciado).** Massa endurecida, aderida a planos profundos, com extensa necrose, acentuado pleomorfismo celular e alto índice mitótico. **Relação: sim** — o carcinoma anaplásico originou-se das neoplasias anteriores, que eram diferenciadas e se indiferenciaram."
+    },
+    {
+      "id": "b43",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "A variante da Prova 136: leia os adjetivos",
+      "md": "Lá, a lesão de 2000 tinha \"células poliédricas, fusiformes\" e em 2008 surgiu nódulo hepático semelhante → **carcinoma medular** com **metástase hematogênica** para o fígado. Mesma moldura, tumor do meio diferente. \"Hipercromáticos + cápsula e vasos\" = folicular; \"poliédricas, fusiformes\" = medular. A relação final, nas duas versões: o diferenciado evoluiu para anaplásico."
+    },
+    {
+      "id": "b44",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo: relação entre as lesões",
+      "md": "\"Sim. O carcinoma anaplásico originou-se das neoplasias anteriores, que eram diferenciadas e, com o tempo, se indiferenciaram.\""
+    },
+    {
+      "id": "b45",
+      "tipo": "resumo",
+      "itens": [
+        "**Medular:** célula C, calcitonina, amiloide, neuroendócrino (sinaptofisina, cromogranina), NEM na forma familial.",
+        "**Anaplásico:** idoso já operado, crescimento em dias; pleomorfismo, **alto** índice mitótico, necrose; não responde a nada.",
+        "Não caem: tumor de colisão, tumor misto, subtipos do papilífero. **Ki-67 é índice, não marcador.**",
+        "Painel: **TTF-1** (é tireoide), **tireoglobulina** (célula folicular), **calcitonina** (célula C), **PAX8** (o que sobra no anaplásico).",
+        "Caso da prova: 1987 = **papilífero + Hashimoto**; 2000 = **folicular** (ou medular, na Prova 136); atual = **anaplásico**, por indiferenciação.",
+        "\"Diferenciadas\" = papilífero, folicular e medular. Citar anaplásico zera."
+      ]
+    }
+  ]
+}

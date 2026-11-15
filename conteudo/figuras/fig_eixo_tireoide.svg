@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 788" font-family="Inter, 'Noto Sans', 'DejaVu Sans', Arial, sans-serif">
+  <rect width="600" height="788" fill="#FFFFFF"/>
+
+  <!-- ===== hipotálamo + haste hipofisária ===== -->
+  <path d="M156,48 C156,29 190,20 230,20 C270,20 304,29 304,48 C304,68 284,82 262,88 C252,91 246,96 245,106 L245,184 L215,184 L215,106 C214,96 208,91 198,88 C176,82 156,68 156,48 Z" fill="#F6C1CE" stroke="#E07A93" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M158,52 C162,70 180,82 199,87 C209,90 214,96 215,106 L215,183 L224,183 L224,108 C224,94 216,84 204,80 C184,74 164,66 158,52 Z" fill="#EFA3B5" opacity="0.65"/>
+  <path d="M176,36 C196,27 226,25 250,27" fill="none" stroke="#FCE4EA" stroke-width="4" stroke-linecap="round"/>
+  <!-- neurônios neurossecretores -->
+  <g fill="none" stroke="#C98AA6" stroke-width="1.4" stroke-linecap="round">
+    <path d="M186,52 C200,66 216,78 224,100"/>
+    <path d="M210,42 C218,60 224,78 227,100"/>
+    <path d="M238,40 C236,60 232,80 231,100"/>
+    <path d="M264,46 C252,62 240,80 235,100"/>
+    <path d="M282,58 C264,68 246,82 239,100"/>
+  </g>
+  <g fill="#4A2F7A">
+    <circle cx="186" cy="52" r="4.2"/><circle cx="210" cy="42" r="4.2"/><circle cx="238" cy="40" r="4.2"/><circle cx="264" cy="46" r="4.2"/><circle cx="282" cy="58" r="4.2"/>
+  </g>
+
+  <!-- ===== hipófise na sela túrcica ===== -->
+  <path d="M192,236 C206,252 228,258 250,258 C272,258 294,252 308,236 C312,232 320,236 318,242 C304,264 278,274 250,274 C222,274 196,264 182,242 C180,236 188,232 192,236 Z" fill="#EFE6D5" stroke="#CBBE9F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- neuro-hipófise (posterior) -->
+  <path d="M215,176 C202,176 190,186 190,200 C190,212 198,220 210,220 C220,220 226,210 226,198 Z" fill="#F9DDE4" stroke="#E07A93" stroke-width="2" stroke-linejoin="round"/>
+  <!-- adeno-hipófise (anterior) -->
+  <path d="M224,188 C240,176 280,180 289,206 C294,228 274,244 250,244 C228,244 213,236 211,223 C217,216 222,202 224,188 Z" fill="#EFA3B5" stroke="#D96C88" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M236,194 C250,188 268,192 276,202" fill="none" stroke="#F9CDD7" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#D96C88" opacity="0.8">
+    <circle cx="240" cy="214" r="2.6"/><circle cx="254" cy="226" r="2.6"/><circle cx="266" cy="212" r="2.6"/><circle cx="274" cy="224" r="2.6"/><circle cx="232" cy="230" r="2.6"/><circle cx="252" cy="206" r="2.6"/>
+  </g>
+
+  <!-- ===== tireoide ===== -->
+  <path d="M230,372 C240,372 246,368 250,358 C254,346 262,336 272,338 C286,340 298,364 300,390 C302,412 292,432 278,432 C264,432 256,418 250,410 C244,398 238,398 230,398 C222,398 216,398 210,410 C204,418 196,432 182,432 C168,432 158,412 160,390 C162,364 174,340 188,338 C198,336 206,346 210,358 C214,368 220,372 230,372 Z" fill="#C4573B" stroke="#9E3F29" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M299,384 C302,408 293,430 279,431 C288,424 292,410 292,396 Z" fill="#9E3F29" opacity="0.45"/>
+  <path d="M161,384 C158,408 167,430 181,431 C172,424 168,410 168,396 Z" fill="#9E3F29" opacity="0.45"/>
+  <path d="M272,348 C280,354 284,372 284,388" fill="none" stroke="#DB7A60" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+  <path d="M188,348 C180,354 176,372 176,388" fill="none" stroke="#DB7A60" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+
+  <!-- ===== setas de estímulo (+) ===== -->
+  <line x1="230" y1="108" x2="230" y2="178" stroke="#1B7F79" stroke-width="5" stroke-linecap="round"/>
+  <polygon points="220,175 240,175 230,190" fill="#1B7F79"/>
+  <line x1="230" y1="282" x2="230" y2="356" stroke="#1B7F79" stroke-width="5" stroke-linecap="round"/>
+  <polygon points="220,353 240,353 230,368" fill="#1B7F79"/>
+  <line x1="230" y1="410" x2="230" y2="456" stroke="#1B7F79" stroke-width="5" stroke-linecap="round"/>
+  <polygon points="220,453 240,453 230,468" fill="#1B7F79"/>
+  <rect x="194.0" y="124.0" width="72" height="36" rx="18.0" fill="#FFFFFF" stroke="#1B7F79" stroke-width="2"/>
+  <text x="230" y="149.2" font-size="20" font-weight="700" fill="#1C1B1A" text-anchor="middle">TRH</text>
+  <rect x="194.0" y="304.0" width="72" height="36" rx="18.0" fill="#FFFFFF" stroke="#1B7F79" stroke-width="2"/>
+  <text x="230" y="329.2" font-size="20" font-weight="700" fill="#1C1B1A" text-anchor="middle">TSH</text>
+  <circle cx="288" cy="142" r="13" fill="#1B7F79"/>
+  <rect x="281" y="140.25" width="14" height="3.5" rx="1" fill="#FFFFFF"/>
+  <rect x="286.25" y="135" width="3.5" height="14" rx="1" fill="#FFFFFF"/>
+  <circle cx="288" cy="322" r="13" fill="#1B7F79"/>
+  <rect x="281" y="320.25" width="14" height="3.5" rx="1" fill="#FFFFFF"/>
+  <rect x="286.25" y="315" width="3.5" height="14" rx="1" fill="#FFFFFF"/>
+  <rect x="150" y="472" width="160" height="50" rx="25" fill="#C2571A"/>
+  <text x="230" y="505.5" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">T3 e T4</text>
+  <!-- ===== retroalimentação negativa (−) ===== -->
+  <path d="M312,497 L398,497 L398,60" fill="none" stroke="#C0392B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+  <line x1="398" y1="60" x2="326" y2="60" stroke="#C0392B" stroke-width="4" stroke-linecap="round" stroke-dasharray="9 7"/>
+  <polygon points="326,50 326,70 311,60" fill="#C0392B"/>
+  <line x1="398" y1="210" x2="312" y2="210" stroke="#C0392B" stroke-width="4" stroke-linecap="round" stroke-dasharray="9 7"/>
+  <polygon points="312,200 312,220 297,210" fill="#C0392B"/>
+  <circle cx="366" cy="60" r="13" fill="#C0392B"/>
+  <rect x="359" y="58.25" width="14" height="3.5" rx="1" fill="#FFFFFF"/>
+  <circle cx="360" cy="210" r="13" fill="#C0392B"/>
+  <rect x="353" y="208.25" width="14" height="3.5" rx="1" fill="#FFFFFF"/>
+  <g stroke="#5F5B55" stroke-width="1.5"><line x1="140" y1="55" x2="170" y2="55"/><line x1="166" y1="228" x2="222" y2="228"/><line x1="140" y1="386" x2="172" y2="386"/></g>
+  <g fill="#5F5B55"><circle cx="170" cy="55" r="3"/><circle cx="222" cy="228" r="3"/><circle cx="172" cy="386" r="3"/></g>
+  <g font-size="20" fill="#1C1B1A">
+    <text x="134" y="62" text-anchor="end">Hipotálamo</text>
+    <text x="160" y="235" text-anchor="end">Adeno-hipófise</text>
+    <text x="134" y="393" text-anchor="end">Tireoide</text>
+    <text x="410" y="338">Retroalimentação</text>
+    <text x="410" y="362">negativa</text>
+  </g>
+  <!-- ===== quadros-resumo ===== -->
+  <rect x="16" y="548" width="568" height="68" rx="14" fill="#FCF3EB" stroke="#E9C7AE" stroke-width="1.5"/>
+  <text x="34" y="577" font-size="20" font-weight="700" fill="#1C1B1A">Hipotireoidismo</text>
+  <text x="34" y="601" font-size="20" font-weight="700" fill="#1C1B1A">primário</text>
+  <rect x="238" y="562" width="97.7" height="40" rx="20" fill="#FFFFFF" stroke="#E9C7AE" stroke-width="1.5"/>
+  <text x="254" y="590" font-size="22" font-weight="700" fill="#1C1B1A">TSH</text>
+  <polygon points="312.7,570 321.7,581 316.2,581 316.2,594 309.2,594 309.2,581 303.7,581" fill="#C2571A"/>
+  <rect x="347.7" y="562" width="81.3" height="40" rx="20" fill="#FFFFFF" stroke="#E9C7AE" stroke-width="1.5"/>
+  <text x="363.7" y="590" font-size="22" font-weight="700" fill="#1C1B1A">T4</text>
+  <polygon points="406.0,594 415.0,583 409.5,583 409.5,570 402.5,570 402.5,583 397.0,583" fill="#5B4BC4"/>
+  <rect x="16" y="626" width="568" height="68" rx="14" fill="#FCF3EB" stroke="#E9C7AE" stroke-width="1.5"/>
+  <text x="34" y="655" font-size="20" font-weight="700" fill="#1C1B1A">Hipertireoidismo</text>
+  <text x="34" y="679" font-size="20" fill="#5F5B55">(Graves)</text>
+  <rect x="238" y="640" width="97.7" height="40" rx="20" fill="#FFFFFF" stroke="#E9C7AE" stroke-width="1.5"/>
+  <text x="254" y="668" font-size="22" font-weight="700" fill="#1C1B1A">TSH</text>
+  <polygon points="312.7,672 321.7,661 316.2,661 316.2,648 309.2,648 309.2,661 303.7,661" fill="#5B4BC4"/>
+  <rect x="347.7" y="640" width="115.7" height="40" rx="20" fill="#FFFFFF" stroke="#E9C7AE" stroke-width="1.5"/>
+  <text x="363.7" y="668" font-size="22" font-weight="700" fill="#1C1B1A">T3/T4</text>
+  <polygon points="440.4,648 449.4,659 443.9,659 443.9,672 436.9,672 436.9,659 431.4,659" fill="#C2571A"/>
+  <rect x="16" y="704" width="568" height="68" rx="14" fill="#FCF3EB" stroke="#E9C7AE" stroke-width="1.5"/>
+  <text x="34" y="733" font-size="20" font-weight="700" fill="#1C1B1A">Hipotireoidismo</text>
+  <text x="34" y="757" font-size="20" font-weight="700" fill="#1C1B1A">subclínico</text>
+  <rect x="238" y="718" width="97.7" height="40" rx="20" fill="#FFFFFF" stroke="#E9C7AE" stroke-width="1.5"/>
+  <text x="254" y="746" font-size="22" font-weight="700" fill="#1C1B1A">TSH</text>
+  <polygon points="312.7,726 321.7,737 316.2,737 316.2,750 309.2,750 309.2,737 303.7,737" fill="#C2571A"/>
+  <rect x="347.7" y="718" width="177.1" height="40" rx="20" fill="#FFFFFF" stroke="#E9C7AE" stroke-width="1.5"/>
+  <text x="363.7" y="746" font-size="22" font-weight="700" fill="#1C1B1A">T3/T4</text>
+  <text x="431.4" y="745" font-size="20" fill="#5F5B55">normais</text>
+</svg>

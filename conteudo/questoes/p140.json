@@ -1,0 +1,406 @@
+{
+  "prova": {
+    "id": "p140",
+    "titulo": "Prova 140 (20.1)",
+    "temas": "Linfomas",
+    "periodo": "2020.1",
+    "gabarito_fonte": "foto",
+    "paginas": [
+      57,
+      72
+    ]
+  },
+  "questoes": [
+    {
+      "id": "p140-q01",
+      "numero": "1",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lnh-geral",
+        "lin-burkitt"
+      ],
+      "enunciado": "São características dos Linfomas não-Hodgkin:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Representam 80% dos tumores malignos das crianças"
+        },
+        {
+          "letra": "B",
+          "texto": "O Linfoma de Burkitt é uma neoplasia de células B maduras altamente agressiva, sendo endêmico nas regiões centrais da África"
+        },
+        {
+          "letra": "C",
+          "texto": "A grande maioria dos linfomas não Hodgkin extranodal nasal de células T/NK têm origem em células T citotóxicas"
+        },
+        {
+          "letra": "D",
+          "texto": "As células neoplásicas são a minoria (<1%) em microambiente reativo (linfócitos, plasmócitos, eosinófilos), na maioria dos casos"
+        }
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "O **Burkitt** é uma neoplasia de linfócitos **B maduros** do centro germinativo, **altamente agressiva**, e sua forma **endêmica** é a da África equatorial (mandíbula, 100% de relação com EBV). A (D) descreve o linfoma de **Hodgkin**, em que a célula neoplásica é minoria num fundo reativo; no LNH o tecido é tomado pelas células neoplásicas. A (A) exagera: em crianças e adolescentes predominam os LNH entre os linfomas (Burkitt, linfoblástico), mas isso não faz deles 80% dos tumores malignos infantis. Complemento: os linfomas são uma fração bem menor dos cânceres da infância, em que as leucemias são as mais comuns. Complemento: na (C), o linfoma extranodal nasal T/NK origina-se, na grande maioria, de células **NK**, e não de células T citotóxicas.",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 62), marcação manuscrita da aluna (pág. 58) e gabarito do chat concordam: B. Erro de digitação do original corrigido na alternativa C (\"têm origem em de células\").",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p140-q02",
+      "numero": "2",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-esclerose-nodular"
+      ],
+      "enunciado": "Paciente de 25 anos com linfonodomegalia cervical, febre, sudorese noturna e história de perda ponderal importante nos últimos meses foi submetido à biópsia excisional de um dos linfonodos. Laudo descritivo anatomopatológico: Destruição da arquitetura linfonodal pela presença de múltiplas traves de fibrose que delimitam estruturas nodulares. Tais nódulos são compostos por população heterogênea de células inflamatórias e algumas células grandes com atipias acentuadas, positivas para os marcadores imuno-histoquímicos CD15 e CD30. Considerando-se o diagnóstico desse caso, assinale a alternativa que contém a célula mais característica desta condição:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Célula gigante multinucleada do tipo Langhans"
+        },
+        {
+          "letra": "B",
+          "texto": "Células de Reed-Sternberg, variante linfo-histiocitária"
+        },
+        {
+          "letra": "C",
+          "texto": "Centrócito"
+        },
+        {
+          "letra": "D",
+          "texto": "Célula de Reed-Sternberg, variante lacunar"
+        }
+      ],
+      "correta": "D",
+      "pede": "correta",
+      "explicacao": "Jovem com sintomas B, **traves de fibrose delimitando nódulos** e células grandes **CD15+/CD30+**: é o **linfoma de Hodgkin clássico, tipo esclerose nodular** (nódulo + esclerose), cuja célula característica é a variante **lacunar** da célula de Reed-Sternberg. A variante linfo-histiocitária (pipoca) (B) é a do **PLN**, que é CD15−/CD30− — a aluna anotou \"PLN\" ao lado dessa alternativa. A célula de Langhans (A) é do granuloma da tuberculose. O centrócito (C) é célula do centro germinativo, componente do linfoma folicular.",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 63), marcação manuscrita da aluna (pág. 58) e gabarito do chat concordam: D.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p140-q03",
+      "numero": "3",
+      "tipo": "multipla",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-padrao-folicular",
+        "lfa-padrao-paracortical",
+        "lfa-granulomatosas"
+      ],
+      "enunciado": "Assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A linfadenopatia do HIV apresenta a seguinte evolução: hiperplasia paracortical - hiperplasia folicular e depleção linfocitária"
+        },
+        {
+          "letra": "B",
+          "texto": "A sífilis mostra hiperplasia folicular e endarterite obliterante"
+        },
+        {
+          "letra": "C",
+          "texto": "O citomegalovírus apresenta hiperplasia paracortical e forte associação com Epstein Barr"
+        },
+        {
+          "letra": "D",
+          "texto": "Na doença da arranhadura do gato encontram-se necrose caseosa e granulomas produtivos"
+        }
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "Na **sífilis** há hiperplasia folicular com ataque aos vasos da cápsula (vasculite) e proliferação da íntima e da média, resultando em **endarterite obliterante**. A (A) inverte a ordem do HIV: fase A = hiperplasia **folicular** florida; fase B = hiperplasia paracortical com lise folicular; fase C = depleção linfocitária. Na (C), o CMV tem padrão **misto** (paracortical + folicular) com inclusão em olho de coruja; quem se liga ao Epstein-Barr é a mononucleose. Na (D), a arranhadura do gato tem necrose **supurativa** central (microabscessos) com células epitelioides em paliçada — necrose caseosa é da tuberculose. Recado do resumo: o professor disse que sífilis \"não cai\", mas ela já foi a resposta desta questão.",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 64), marcação manuscrita da aluna (pág. 58) e gabarito do chat concordam: B. Na pág. 58 a aluna riscou \"paracortical\" na alternativa a) e \"necrose caseosa\" na d), indicando os erros dessas afirmativas.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p140-q04",
+      "numero": "4",
+      "tipo": "multipla",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-granulomatosas"
+      ],
+      "enunciado": "Paciente masculino com aumento linfonodal. Submetido à biópsia verifica-se linfonodo com necrose, células gigantes e áreas arredondadas constituídas por células histiocitárias. Foi solicitada coloração especial, onde foram evidenciadas estruturas com aspecto em \"roda de leme\". Qual a principal hipótese diagnóstica?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tuberculose"
+        },
+        {
+          "letra": "B",
+          "texto": "Sífilis"
+        },
+        {
+          "letra": "C",
+          "texto": "Paracoccidioidomicose"
+        },
+        {
+          "letra": "D",
+          "texto": "Sarcoidose"
+        }
+      ],
+      "correta": "C",
+      "pede": "correta",
+      "explicacao": "**\"Roda de leme\"** é a palavra-gatilho do fungo da **paracoccidioidomicose** (blastomicose sul-americana), visto nas colorações especiais **PAS e Grocott**; o quadro é de linfadenite granulomatosa com necrose supurativa e células gigantes. Na tuberculose (A) o granuloma tem necrose caseosa central, células de Langhans e halo linfocitário, e o agente é um bacilo visto no Ziehl-Neelsen. A sarcoidose (D) tem granulomas **sem necrose**. A sífilis (B) é padrão folicular com endarterite obliterante, não granulomatose com fungo.",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 65), marcação manuscrita da aluna (pág. 58) e gabarito do chat concordam: C.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p140-q05",
+      "numero": "5",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral"
+      ],
+      "enunciado": "Considerando-se um paciente com manifestações clínicas e exame histopatológico compatíveis com Linfoma de Hodgkin, tais marcadores imuno-histoquímicos são importantes para corroborar o diagnóstico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "CD19, CD20, CD10, BCl-2, BCl-6"
+        },
+        {
+          "letra": "B",
+          "texto": "CD15, CD20, CD30, CD45, PAX-5"
+        },
+        {
+          "letra": "C",
+          "texto": "CD3, CD4, CD7"
+        },
+        {
+          "letra": "D",
+          "texto": "CD5, CD19, CD20, CD23"
+        }
+      ],
+      "correta": "B",
+      "pede": "correta",
+      "explicacao": "O painel do LH é lido em cima da célula de Hodgkin: nos tipos **clássicos**, **CD15+ e CD30+** com **CD20− e CD45−**; no PLN é o inverso (CD20+/CD45+, CD15−/CD30−). Por isso os quatro marcadores entram juntos no painel — os negativos também \"corroboram\". Complemento: o PAX-5 é marcador de linhagem B, com positividade fraca na célula de Reed-Sternberg. A (A) é painel de linfoma B do centro germinativo (folicular: CD20, CD10, BCL-2, BCL-6); a (C) reúne marcadores de células T. Complemento: a (D), CD5/CD19/CD20/CD23, é o painel da LLC/linfoma linfocítico.",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 66), marcação manuscrita da aluna (pág. 59) e gabarito do chat concordam: B.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p140-q06",
+      "numero": "6",
+      "tipo": "multipla",
+      "modulo": "linfadenopatias",
+      "topicos": [
+        "lfa-necrosantes",
+        "lfa-granulomatosas"
+      ],
+      "enunciado": "Assinale a alternativa incorreta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O infarto linfonodal é classificado como linfadenopatia necrosante"
+        },
+        {
+          "letra": "B",
+          "texto": "A linfadenopatia por Lúpus Eritematoso Sistêmico mostra corpos hematoxilínicos"
+        },
+        {
+          "letra": "C",
+          "texto": "Na micobacteriose, através da coloração de Ziehl Neelsen, encontram-se numerosos bacilos"
+        },
+        {
+          "letra": "D",
+          "texto": "A coloração de Ziehl Neelsen é utilizada para fungos"
+        }
+      ],
+      "correta": "D",
+      "pede": "incorreta",
+      "explicacao": "O **Ziehl-Neelsen** cora **bacilos álcool-ácido resistentes** (micobactérias); fungos são vistos com **PAS e Grocott** — por isso a (D) é a incorreta. As demais são verdadeiras: infarto linfonodal, linfadenite de Kikuchi e lúpus formam o grupo das linfadenopatias **necrosantes** (A); na micobacteriose atípica vê-se uma \"massaroca\" de bacilos dentro dos macrófagos ao Ziehl-Neelsen (C). Complemento: os corpos hematoxilínicos (restos nucleares basofílicos) são o achado típico da linfadenopatia do lúpus (B) — o resumo só registra que o lúpus é necrosante e de morfologia idêntica à do Kikuchi.",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 67), marcação manuscrita da aluna (pág. 59) e gabarito do chat concordam: D.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p140-q07",
+      "numero": "7",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-estadiamento"
+      ],
+      "enunciado": "Assinale a alternativa correta sobre o estadiamento do Linfoma de Hodgkin:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É um indicador prognóstico e utilizado para orientação terapêutica"
+        },
+        {
+          "letra": "B",
+          "texto": "O Estágio I compreende o acometimento pelo menos duas cadeias linfonodais ipsilaterais"
+        },
+        {
+          "letra": "C",
+          "texto": "É determinado exclusivamente por dados histopatológicos identificados na biópsia do linfonodo"
+        },
+        {
+          "letra": "D",
+          "texto": "O Estágio III compreende a doença disseminada com ou sem acometimento linfonodal"
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "O estadiamento de **Ann Arbor** avalia a **extensão** da doença e, com isso, o **prognóstico** e a conduta. A (B) é falsa: estádio I é **uma** única cadeia; duas ou mais do mesmo lado do diafragma já é estádio II. A (D) é falsa: estádio III é o acometimento dos **dois lados do diafragma** (ou do baço); doença disseminada em órgãos extralinfáticos é estádio **IV**. A (C) é falsa: a biópsia dá o diagnóstico e o tipo; o estádio depende de saber quais cadeias e órgãos estão comprometidos (o resumo cita, por exemplo, biópsia de medula óssea e RX de tórax). Complemento: isso é feito com exame clínico e de imagem.",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 68), marcação manuscrita da aluna (pág. 59, com X nas alternativas b e d) e gabarito do chat concordam: A.",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p140-q08",
+      "numero": "8",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-folicular",
+        "lin-micose-fungoide"
+      ],
+      "enunciado": "Sobre os Linfomas não-Hodgkin assinale a afirmativa errada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A maioria dos casos de micose fungoide tem Immunophenotype: CD3(+), CD5(+), TCR-αβ/βF1(+)"
+        },
+        {
+          "letra": "B",
+          "texto": "Linfomas foliculares de baixo grau apresentam 50% de centroblastos"
+        },
+        {
+          "letra": "C",
+          "texto": "Nos linfomas de células foliculares a superexpressão da proteína de membrana mitocondrial Bcl-2 torna a célula resistente a morte programada"
+        },
+        {
+          "letra": "D",
+          "texto": "Epidermotropismo marcado e microabscesso de Pautrier na micose fungoide"
+        }
+      ],
+      "correta": "B",
+      "pede": "incorreta",
+      "explicacao": "O linfoma folicular é uma mistura de **centrócitos** (células pequenas/médias) e **centroblastos** (células grandes, blásticas). Complemento: o grau é dado pela quantidade de centroblastos — no **baixo grau predominam os centrócitos** e os centroblastos são poucos; 50% de centroblastos seria alto grau. As demais são verdadeiras: a micose fungoide é linfoma cutâneo de células T (CD3+, CD4+, CD5+), com **epidermotropismo** e **microabscessos de Pautrier** (A e D); e o folicular nasce da hiperexpressão de **BCL-2**, proteína antiapoptótica que impede a morte programada dos linfócitos B do centro germinativo (C).",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 69), marcação manuscrita da aluna (pág. 59) e gabarito do chat concordam: B. Na alternativa A o texto foi tomado do formulário (\"TCR-αβ/βF1(+)\"; a transcrição digitada traz \"TCR-aB/BF1(+)\").",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p140-q09",
+      "numero": "9",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lh-geral"
+      ],
+      "enunciado": "São parâmetros utilizados para o diagnóstico do Linfoma de Hodgkin, exceto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Contexto (fundo) inflamatório de células inflamatórias não neoplásicas"
+        },
+        {
+          "letra": "B",
+          "texto": "Presença de células de Reed-Sternberg"
+        },
+        {
+          "letra": "C",
+          "texto": "Presença de macronucléolo basofílico"
+        },
+        {
+          "letra": "D",
+          "texto": "Perfil imuno-histoquímico compatível"
+        }
+      ],
+      "correta": "C",
+      "pede": "incorreta",
+      "explicacao": "O diagnóstico do LH se apoia em três coisas: a **célula de Reed-Sternberg/Hodgkin** (B), o **fundo inflamatório reativo** não neoplásico em que ela está imersa (A) e o **perfil imuno-histoquímico** compatível (D) — CD15+/CD30+ nos clássicos. A pegadinha da (C) está em uma palavra: o nucléolo da célula de RS é grande e **eosinofílico** (vermelho), não basofílico.",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 70) e gabarito do chat concordam: C. Sem marcação manuscrita da aluna. Texto da alternativa C conforme o formulário (\"macronucléolo\").",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p140-q10",
+      "numero": "10",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-lnh-geral",
+        "lin-burkitt"
+      ],
+      "enunciado": "Sobre os Linfomas não-Hodgkin assinale a afirmativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quando altamente agressivos, respondem com platô de cura 50% e transplante de medula óssea é opção terapêutica"
+        },
+        {
+          "letra": "B",
+          "texto": "Frequentemente acomete linfonodos cervicais, progredindo topograficamente no organismo por contiguidade"
+        },
+        {
+          "letra": "C",
+          "texto": "Linfoma ou leucemia linfoblástica B ou T e linfoma de Burkitt são considerados indolentes"
+        },
+        {
+          "letra": "D",
+          "texto": "Quando indolentes têm boa resposta terapêutica pela baixa taxa de proliferação celular"
+        }
+      ],
+      "correta": "A",
+      "pede": "correta",
+      "explicacao": "Os LNH **altamente agressivos** (ex.: Burkitt) respondem à terapêutica altamente agressiva, com sobrevida em torno de **50%** — é o que diz a (A). Complemento: o transplante de medula óssea é opção terapêutica nesses casos. A (B) descreve o linfoma de **Hodgkin** (início cervical e progressão por contiguidade). A (C) inverte: linfoblástico e Burkitt são **altamente agressivos**; indolentes são o folicular e a LLC/linfocítico. A (D) inverte a lógica: justamente pela **baixa** taxa de proliferação os indolentes **não** respondem bem — os agressivos, que proliferam muito, é que são mais sensíveis à quimioterapia.",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 71) e gabarito do chat concordam: A. Atenção: na pág. 60 a aluna circulou a letra b), que é característica do linfoma de Hodgkin e não do LNH (a marcação pode ter sido só um destaque). Mantida a A, coerente com o resumo. Erro de digitação do original corrigido conforme o formulário (\"Quanto\" → \"Quando\").",
+      "fora_do_escopo": false
+    },
+    {
+      "id": "p140-q11",
+      "numero": "11",
+      "tipo": "multipla",
+      "modulo": "linfomas",
+      "topicos": [
+        "lin-malt"
+      ],
+      "enunciado": "São características dos Linfomas MALT (não Hodgkin associado à mucosa), exceto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Regride após a erradicação do H. pylori por antibióticos em ~75% dos casos"
+        },
+        {
+          "letra": "B",
+          "texto": "Padrão sinusoidal de acometimento da medula óssea é geralmente encontrado"
+        },
+        {
+          "letra": "C",
+          "texto": "Doenças autoimunes estão implicadas na patogênese do linfoma MALT"
+        },
+        {
+          "letra": "D",
+          "texto": "Padrão de zona marginal, população de células heterogêneas e lesões linfoepiteliais"
+        }
+      ],
+      "correta": "B",
+      "pede": "incorreta",
+      "explicacao": "O linfoma MALT nasce em mucosa que **ganhou** tecido linfoide por um estímulo crônico: infecção (*H. pylori* no estômago) ou doença autoimune (tireoidite de Hashimoto na tireoide) — por isso (A) e (C) são características dele. Complemento: histologicamente é um linfoma da **zona marginal**, com população celular heterogênea e **lesões linfoepiteliais** (invasão do epitélio pelas células neoplásicas) (D), e o gástrico costuma regredir com a erradicação do *H. pylori*. Complemento: é doença que tende a ficar **localizada** por muito tempo; infiltração da medula óssea não é o habitual, e o padrão sinusoidal é descrito no linfoma da zona marginal **esplênico** — a (B) é a exceção. Na discursiva, escreva sempre \"linfoma **não Hodgkin** MALT gástrico\".",
+      "gabarito_fonte": "foto",
+      "confianca": "alta",
+      "observacao": "Formulário (pág. 72) e gabarito do chat concordam: B. Sem marcação manuscrita da aluna. O resumo das aulas quase não detalha o linfoma MALT (só a relação com H. pylori/Hashimoto e o recado de escrever \"não Hodgkin\"); por isso boa parte da explicação está marcada como complemento.",
+      "fora_do_escopo": false
+    }
+  ]
+}

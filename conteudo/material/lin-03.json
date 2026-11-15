@@ -1,0 +1,576 @@
+{
+  "id": "lin-03",
+  "modulo": "linfomas",
+  "ordem": 3,
+  "titulo": "Linfoma de Hodgkin: a célula e a lógica",
+  "minutos": 15,
+  "prioridade": "alta",
+  "topicos": [
+    "lin-lh-geral"
+  ],
+  "resumo": "Você vai entender o Hodgkin como um tumor de poucas células neoplásicas em um fundo inflamatório, reconhecer a célula de Reed-Sternberg e suas variantes, e dominar a imuno-histoquímica do clássico e do não clássico.",
+  "objetivos": [
+    "Explicar a composição da massa tumoral do Linfoma de Hodgkin e onde a imuno-histoquímica deve marcar",
+    "Reconhecer a célula de Reed-Sternberg diagnóstica e as variantes lacunar, mononuclear e linfo-histiocitária",
+    "Descrever o comportamento do Hodgkin: bimodal, contiguidade, efeito de massa",
+    "Comparar o perfil imuno-histoquímico do clássico e do não clássico",
+    "Citar os diferenciais morfológicos da célula de Reed-Sternberg com a imuno-histoquímica que os separa"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "O bloco de **V ou F sobre Linfoma de Hodgkin** se repete quase igual nas Provas 145, 147 e 148: distribuição bimodal, origem da célula de Reed-Sternberg, mediastino, EBV, tuberculose como diferencial e onde a imuno-histoquímica marca. A Prova 150 pediu, em discursiva, **dois diagnósticos diferenciais da célula de Reed-Sternberg**; a 148 perguntou qual doença **não** entra nesse diferencial; a 140, quais marcadores corroboram o diagnóstico."
+    },
+    {
+      "id": "b02",
+      "tipo": "titulo",
+      "texto": "A lógica do Hodgkin: pouca célula maligna, muito fundo"
+    },
+    {
+      "id": "b03",
+      "tipo": "destaque",
+      "estilo": "definicao",
+      "titulo": "Linfoma de Hodgkin",
+      "md": "Linfoma em que as células neoplásicas — as **células de Reed-Sternberg (RS)** — são **minoria**, espalhadas em um **fundo inflamatório reativo, não neoplásico**: linfócitos, plasmócitos, eosinófilos e macrófagos."
+    },
+    {
+      "id": "b04",
+      "tipo": "cartoes",
+      "titulo": "O tripé do diagnóstico",
+      "itens": [
+        {
+          "titulo": "Célula de Reed-Sternberg",
+          "texto": "A célula neoplásica, em pequeno número.",
+          "emoji": "🔬"
+        },
+        {
+          "titulo": "Fundo inflamatório",
+          "texto": "Células inflamatórias **não neoplásicas** ao redor.",
+          "emoji": "🌫️"
+        },
+        {
+          "titulo": "IHQ compatível",
+          "texto": "Perfil imuno-histoquímico confirmado **na célula RS**.",
+          "emoji": "🧪"
+        }
+      ]
+    },
+    {
+      "id": "b05",
+      "tipo": "tabela",
+      "titulo": "De que é feita a massa tumoral",
+      "colunas": [
+        "Critério",
+        "Linfoma de Hodgkin",
+        "Linfoma não Hodgkin"
+      ],
+      "linhas": [
+        [
+          "Células neoplásicas",
+          "**Minoria** (menos de 1%)",
+          "Distribuem-se por **todo** o tecido acometido"
+        ],
+        [
+          "Células inflamatórias reativas",
+          "Muitas — formam quase toda a massa",
+          "Poucas, na maioria dos casos"
+        ],
+        [
+          "Onde a IHQ deve marcar",
+          "Só nas células RS",
+          "Na população neoplásica, que domina a lâmina"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b06",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Dois falsos que se repetem",
+      "md": "“A positividade imuno-histoquímica dos marcadores deve ser observada em **todas as células** que compõem a massa tumoral.” → **F** (oficial, Prova 147): a marcação é procurada **em cima da célula de Hodgkin**; o resto é inflamação reativa. “O diagnóstico dos linfomas de Hodgkin é fundamentado nas características histopatológicas que determinam os seus subtipos histológicos.” → **F** (oficial; a justificativa anotada pelo aluno é que a **IHQ também é necessária**)."
+    },
+    {
+      "id": "b07",
+      "tipo": "quiz",
+      "pergunta": "(Prova 143) Sobre os linfomas de Hodgkin, assinale a alternativa correta:",
+      "opcoes": [
+        "A infecção pelo vírus Epstein-Barr está presente em todos os casos",
+        "A disseminação para outras cadeias linfonodais acontece de forma aleatória",
+        "A formação tumoral é exclusivamente constituída por células neoplásicas, chamadas de células de Reed-Sternberg",
+        "São divididos em formas clássicas e não clássica de acordo com o perfil imuno-histoquímico das células neoplásicas"
+      ],
+      "correta": 3,
+      "explicacao": "O EBV está em alguns casos, não em todos. A disseminação é por contiguidade, não aleatória. A massa é feita de poucas células RS e muito fundo reativo. Resta a divisão em clássico e não clássico, que é feita pelo perfil imuno-histoquímico."
+    },
+    {
+      "id": "b08",
+      "tipo": "titulo",
+      "texto": "A célula de Reed-Sternberg"
+    },
+    {
+      "id": "b09",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "RS = célula de Hodgkin",
+      "md": "O livro trata célula de Reed-Sternberg e célula de Hodgkin como células diferentes. **Para a prova do professor, são a mesma célula.** Pode escrever “célula de Reed-Sternberg (ou de Hodgkin)”."
+    },
+    {
+      "id": "b10",
+      "tipo": "cartoes",
+      "titulo": "Como reconhecer a RS diagnóstica",
+      "itens": [
+        {
+          "titulo": "Grande",
+          "texto": "Célula grande, de citoplasma amplo e abundante.",
+          "emoji": "🔎"
+        },
+        {
+          "titulo": "Especular",
+          "texto": "Dois núcleos (ou núcleo bilobado), um de frente para o outro, como em um **espelho**.",
+          "emoji": "🪞"
+        },
+        {
+          "titulo": "Nucléolo",
+          "texto": "Grande, evidente e **eosinofílico** (vermelho) — o aspecto de “**olho de coruja**”.",
+          "emoji": "🔴"
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "tipo": "figura",
+      "ref": "fig_reed_sternberg",
+      "legenda": "As variantes da célula de Reed-Sternberg: diagnóstica (especular, “olho de coruja”), lacunar, mononuclear e linfo-histiocitária (pipoca). Cada variante aponta para um tipo de Hodgkin."
+    },
+    {
+      "id": "b12",
+      "tipo": "foto",
+      "ref": "foto_reed_sternberg",
+      "legenda": "Célula de Reed-Sternberg diagnóstica: grande, binucleada, com nucléolos eosinofílicos evidentes, cercada por células inflamatórias pequenas."
+    },
+    {
+      "id": "b13",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Eosinofílico, não basofílico",
+      "md": "Prova 140: “São parâmetros utilizados para o diagnóstico do Linfoma de Hodgkin, **exceto**…” — a resposta foi “presença de **macronucléolo basofílico**” (gabaritos não oficiais, concordantes). As outras três eram verdadeiras: fundo de células inflamatórias não neoplásicas, presença de células de Reed-Sternberg e perfil imuno-histoquímico compatível. O nucléolo da RS é **eosinofílico**."
+    },
+    {
+      "id": "b14",
+      "tipo": "subtitulo",
+      "texto": "As variantes — cada uma aponta para um tipo"
+    },
+    {
+      "id": "b15",
+      "tipo": "tabela",
+      "titulo": "Variantes da célula de Reed-Sternberg",
+      "colunas": [
+        "Critério",
+        "Diagnóstica (especular)",
+        "Lacunar",
+        "Mononuclear",
+        "Linfo-histiocitária (pipoca)"
+      ],
+      "linhas": [
+        [
+          "Aparência",
+          "Dois núcleos em espelho, nucléolos eosinofílicos grandes",
+          "Citoplasma claro e retraído; o núcleo fica dentro de uma “lacuna”",
+          "Um núcleo só, com nucléolo evidente (resumo: “aspecto mumificado”)",
+          "Núcleo lobulado, convoluto — lembra **pipoca**"
+        ],
+        [
+          "Como o enunciado escreve",
+          "“Um ou dois núcleos grandes, atípicos, com nucléolos eosinofílicos evidentes”",
+          "“Citoplasma claro e retraído”; “halo claro periférico”",
+          "“Células grandes, mono ou binucleadas”",
+          "“Núcleos atípicos e de contornos lobulados/convolutos”"
+        ],
+        [
+          "Aponta para",
+          "Celularidade mista, rico em linfócitos, depleção linfocitária",
+          "**Esclerose nodular**",
+          "Celularidade mista, rico em linfócitos, depleção linfocitária",
+          "**Predominância linfocítica nodular** (não clássico)"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b16",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "A especular nunca some",
+      "md": "Cada variante encaixa em um tipo, mas o resumo avisa: **sempre teremos a especular**. A variante é a pista para o tipo; a RS diagnóstica é o que sustenta que é Hodgkin."
+    },
+    {
+      "id": "b17",
+      "tipo": "revelar",
+      "pergunta": "O enunciado descreve “células grandes, com citoplasma claro e retraído e nucléolo evidente”. Que variante é essa e para qual tipo ela aponta?",
+      "resposta": "**Variante lacunar** → **Linfoma de Hodgkin clássico, tipo esclerose nodular**. O citoplasma retrai no processamento da lâmina e o núcleo fica dentro de um espaço claro, a lacuna. É a descrição literal da Prova 151."
+    },
+    {
+      "id": "b18",
+      "tipo": "quiz",
+      "pergunta": "(Prova 140) Paciente de 25 anos, linfonodomegalia cervical, febre, sudorese noturna e perda ponderal. Biópsia: múltiplas traves de fibrose delimitando estruturas nodulares, com população heterogênea de células inflamatórias e algumas células grandes, com atipias acentuadas, positivas para CD15 e CD30. Qual é a célula mais característica?",
+      "opcoes": [
+        "Célula gigante multinucleada do tipo Langhans",
+        "Célula de Reed-Sternberg, variante linfo-histiocitária",
+        "Centrócito",
+        "Célula de Reed-Sternberg, variante lacunar"
+      ],
+      "correta": 3,
+      "explicacao": "Traves de fibrose delimitando nódulos + CD15 e CD30 positivos = Linfoma de Hodgkin clássico, tipo esclerose nodular, cuja célula é a lacunar. A linfo-histiocitária é do não clássico (CD15 e CD30 negativos); Langhans é de granuloma; centrócito é do centro germinativo e do linfoma folicular."
+    },
+    {
+      "id": "b19",
+      "tipo": "titulo",
+      "texto": "De onde vem a célula RS"
+    },
+    {
+      "id": "b20",
+      "tipo": "texto",
+      "md": "A célula de Reed-Sternberg é **derivada das células B do centro germinativo** — verdadeiro em gabarito oficial (Prova 147). Parece brigar com o CD20 negativo do Hodgkin clássico, mas o rastro B está lá: o **PAX-5**. Nas palavras cruzadas da Prova 150, ele foi o “marcador de células B positivo em formas clássicas e não clássicas”."
+    },
+    {
+      "id": "b21",
+      "tipo": "titulo",
+      "texto": "Como o Hodgkin se comporta"
+    },
+    {
+      "id": "b22",
+      "tipo": "cartoes",
+      "titulo": "Seis marcas clínicas",
+      "itens": [
+        {
+          "titulo": "Bimodal",
+          "texto": "Picos entre **15–35** e **50–70 anos** (provas). O resumo guarda: surge por volta dos 10 anos, pico aos 30.",
+          "emoji": "📊"
+        },
+        {
+          "titulo": "Contiguidade",
+          "texto": "Avança para a cadeia vizinha: cervical → supraclavicular → mediastinal → aórtica.",
+          "emoji": "🔗"
+        },
+        {
+          "titulo": "Nodal",
+          "texto": "Quase sempre nos linfonodos, com início frequente nos cervicais. Acometimento extranodal significa tumor secundário.",
+          "emoji": "📍"
+        },
+        {
+          "titulo": "Efeito de massa",
+          "texto": "*Bulking* tumoral: cresce, ocupa espaço e comprime estruturas vizinhas. O mediastino é sede frequente.",
+          "emoji": "🫁"
+        },
+        {
+          "titulo": "Estádio baixo",
+          "texto": "Costuma ser diagnosticado em estádio **I ou II**.",
+          "emoji": "📉"
+        },
+        {
+          "titulo": "Resposta",
+          "texto": "Dependendo do subtipo, responde bem à quimioterapia.",
+          "emoji": "💊"
+        }
+      ]
+    },
+    {
+      "id": "b23",
+      "tipo": "fluxo",
+      "titulo": "Disseminação estereotipada (verdadeiro em gabarito oficial)",
+      "passos": [
+        {
+          "titulo": "Doença nodal",
+          "texto": "Começa em linfonodos, em geral cervicais, e passa às cadeias adjacentes por contiguidade."
+        },
+        {
+          "titulo": "Baço",
+          "texto": "Doença esplênica."
+        },
+        {
+          "titulo": "Fígado",
+          "texto": "Doença hepática."
+        },
+        {
+          "titulo": "Medula óssea e outros tecidos",
+          "texto": "Só no fim da sequência."
+        }
+      ]
+    },
+    {
+      "id": "b24",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Contiguidade ou continuidade?",
+      "md": "O resumo fala em disseminação por **contiguidade**; o gabarito oficial das palavras cruzadas da Prova 150 traz **CONTINUIDADE**. Na prova, é o mesmo conceito — reconheça as duas palavras. E guarde a frase do professor: “nem tudo o que não salta é Hodgkin”."
+    },
+    {
+      "id": "b25",
+      "tipo": "revelar",
+      "pergunta": "Por que o estádio III do Hodgkin não significa leucemização?",
+      "resposta": "Porque estádio III é só **linfonodos dos dois lados do diafragma (ou baço)**. Leucemização exige infiltração da medula óssea, que na sequência estereotipada do Hodgkin é o **último** passo. O item “o estágio III cursa com leucemização” é falso no gabarito oficial da Prova 145."
+    },
+    {
+      "id": "b26",
+      "tipo": "expansivel",
+      "titulo": "Aprofundar: depois do tratamento",
+      "blocos": [
+        {
+          "id": "b27",
+          "tipo": "texto",
+          "md": "Sobreviventes de longa duração da quimioterapia e da radioterapia têm **maior risco de neoplasias malignas secundárias**: leucemia mieloide aguda, câncer de mama, de pulmão, gástrico, sarcoma e melanoma — verdadeiro em gabarito oficial. Nas palavras cruzadas da Prova 150, a neoplasia relatada após radioterapia para Hodgkin era **MELANOMA**."
+        }
+      ]
+    },
+    {
+      "id": "b28",
+      "tipo": "titulo",
+      "texto": "Clássico × não clássico: a IHQ “ao contrário”"
+    },
+    {
+      "id": "b29",
+      "tipo": "texto",
+      "md": "São 5 tipos. Quatro são **clássicos** e dividem o mesmo perfil imuno-histoquímico. Um é **não clássico** — a predominância linfocítica nodular (PLN) — e tem os marcadores **invertidos**. A divisão em clássico e não clássico é feita justamente pelo perfil imuno-histoquímico das células neoplásicas."
+    },
+    {
+      "id": "b30",
+      "tipo": "tabela",
+      "titulo": "Hodgkin clássico × não clássico",
+      "colunas": [
+        "Critério",
+        "Clássico",
+        "Não clássico (PLN)"
+      ],
+      "linhas": [
+        [
+          "Tipos",
+          "Esclerose nodular, celularidade mista, rico em linfócitos, depleção linfocitária",
+          "Predominância linfocítica nodular"
+        ],
+        [
+          "Célula",
+          "RS diagnóstica e variantes lacunar e mononuclear",
+          "RS linfo-histiocitária (pipoca)"
+        ],
+        [
+          "CD15",
+          "**Positivo**",
+          "Negativo"
+        ],
+        [
+          "CD30",
+          "**Positivo**",
+          "Negativo"
+        ],
+        [
+          "CD20",
+          "Negativo",
+          "**Positivo**"
+        ],
+        [
+          "CD45",
+          "Negativo",
+          "**Positivo**"
+        ],
+        [
+          "PAX-5",
+          "Positivo **fraco**",
+          "Positivo"
+        ],
+        [
+          "EBV",
+          "Alguns casos",
+          "Negativo nos enunciados das provas"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b31",
+      "tipo": "destaque",
+      "estilo": "mnemonico",
+      "titulo": "15 + 30 = 45",
+      "md": "No **clássico**, CD**15** e CD**30** são positivos — e a soma, CD**45**, é negativa (junto com o CD20). No **não clássico**, o da pipoca, vira tudo: CD20 e CD45 positivos, CD15 e CD30 negativos. O PAX-5 é positivo nos dois."
+    },
+    {
+      "id": "b32",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Perfil próprio para cada subtipo? Não",
+      "md": "“Cada subtipo de Linfoma de Hodgkin apresenta um perfil imuno-histoquímico específico.” → **F** (gabarito oficial). Os quatro clássicos têm o **mesmo** perfil; só o não clássico é diferente. Consequência prática: a IHQ separa clássico de PLN, mas **quem separa os quatro clássicos entre si é a morfologia**."
+    },
+    {
+      "id": "b33",
+      "tipo": "quiz",
+      "pergunta": "(Prova 140) Paciente com clínica e histopatológico compatíveis com Linfoma de Hodgkin. Quais marcadores imuno-histoquímicos são importantes para corroborar o diagnóstico?",
+      "opcoes": [
+        "CD19, CD20, CD10, BCL-2, BCL-6",
+        "CD15, CD20, CD30, CD45, PAX-5",
+        "CD3, CD4, CD7",
+        "CD5, CD19, CD20, CD23"
+      ],
+      "correta": 1,
+      "explicacao": "O painel do Hodgkin junta os que devem dar positivo (CD15, CD30, PAX-5 fraco) e os que devem dar negativo (CD20, CD45) no clássico. Um painel serve tanto pelo que marca quanto pelo que não marca. As outras opções são painéis de linfomas B (folicular, LLC) e de linfomas T."
+    },
+    {
+      "id": "b34",
+      "tipo": "titulo",
+      "texto": "EBV e Hodgkin"
+    },
+    {
+      "id": "b35",
+      "tipo": "texto",
+      "md": "**Alguns** casos de Hodgkin são associados ao EBV — verdadeiro em gabarito oficial. “Todos os casos” é alternativa errada (Prova 143). O tipo mais associado é a **celularidade mista**. Na lâmina, o EBV aparece pela IHQ para **LMP-1**. Nos casos de PLN das provas, a pesquisa de EBV vem **negativa**."
+    },
+    {
+      "id": "b36",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Um item que o próprio professor desconsiderou",
+      "md": "“Em casos de positividade imuno-histoquímica para o vírus Epstein-Barr deve-se descartar a possibilidade de mononucleose infecciosa, principalmente em adolescentes.” No gabarito oficial da Prova 145, o item foi **desconsiderado**; no gabarito de aluno do compilado, aparece como V. Raciocínio seguro: a mononucleose **é** diferencial da célula RS, e EBV positivo sozinho não fecha Hodgkin."
+    },
+    {
+      "id": "b37",
+      "tipo": "titulo",
+      "texto": "Quem imita a célula RS"
+    },
+    {
+      "id": "b38",
+      "tipo": "tabela",
+      "titulo": "Diferenciais morfológicos da célula de Reed-Sternberg",
+      "colunas": [
+        "Critério",
+        "Hodgkin clássico",
+        "Mononucleose infecciosa",
+        "LNH difuso de grandes células B",
+        "Citomegalovírus"
+      ],
+      "linhas": [
+        [
+          "Natureza",
+          "Neoplasia",
+          "Reacional (EBV)",
+          "Neoplasia de células B",
+          "Infecção viral"
+        ],
+        [
+          "O que confunde",
+          "A própria célula RS",
+          "Linfócitos atípicos que simulam a RS",
+          "Células grandes, atípicas, com nucléolos evidentes",
+          "Inclusão em “olho de coruja”"
+        ],
+        [
+          "IHQ que separa",
+          "CD15 + e CD30 +; CD20 − e CD45 −",
+          "CD45 +; sem a coexpressão de CD15 e CD30",
+          "**CD20 difusamente positivo**; alto índice de proliferação",
+          "Pesquisa do próprio vírus"
+        ],
+        [
+          "De onde vem",
+          "Gabarito oficial (Prova 145)",
+          "Diferencial: oficial (Prova 150). IHQ: gabarito não oficial",
+          "Diferencial: oficial (Prova 150). IHQ: enunciado de prova sem ano",
+          "Gabarito não oficial (Prova 151)"
+        ]
+      ],
+      "comparacao": true
+    },
+    {
+      "id": "b39",
+      "tipo": "foto",
+      "ref": "foto_cmv_olho_coruja",
+      "legenda": "Citomegalovírus: célula aumentada, com inclusão nuclear em “olho de coruja”. Lembra a RS diagnóstica, mas é infecção — a pesquisa do vírus resolve."
+    },
+    {
+      "id": "b40",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Quem NÃO entra na lista",
+      "md": "O **linfoma de Burkitt não imita a célula RS** — foi a resposta do “exceto” da Prova 148 (gabarito de aluno): suas células são médias, de núcleo único e citoplasma basofílico. E a **tuberculose** é diferencial **clínico** (linfonodo cervical + febre + sudorese + perda de peso), não da célula."
+    },
+    {
+      "id": "b41",
+      "tipo": "revelar",
+      "pergunta": "(Prova 150, discursiva, 1 ponto) “Considerando os aspectos morfológicos das células de Reed-Sternberg, cite dois diagnósticos diferenciais que devem ser excluídos.”",
+      "resposta": "Gabarito oficial: **mononucleose infecciosa** e **linfoma difuso de grandes células B**. Para não arriscar ponto, escreva completo: “linfoma não Hodgkin, tipo difuso de grandes células B”. Outra V/F oficial acrescenta à lista “certas neoplasias de tecidos sólidos”."
+    },
+    {
+      "id": "b42",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo: diferenciais com imuno-histoquímica",
+      "md": "“Os principais diagnósticos diferenciais são a **mononucleose infecciosa**, condição reacional em que linfócitos atípicos simulam a célula de Reed-Sternberg, e o **linfoma não Hodgkin, tipo difuso de grandes células B**, que apresenta CD20 difusamente positivo e alto índice de proliferação celular — ao contrário do Linfoma de Hodgkin clássico, em que as células de Reed-Sternberg são CD15 e CD30 positivas e CD20 e CD45 negativas.”"
+    },
+    {
+      "id": "b43",
+      "tipo": "tabela",
+      "titulo": "V ou F em 30 segundos",
+      "colunas": [
+        "Afirmativa",
+        "Resposta",
+        "Gabarito"
+      ],
+      "linhas": [
+        [
+          "Distribuição bimodal, com picos entre 15–35 e 50–70 anos",
+          "**V**",
+          "Oficial (Prova 147)"
+        ],
+        [
+          "A célula RS é derivada das células B do centro germinativo",
+          "**V**",
+          "Oficial (Prova 147)"
+        ],
+        [
+          "A localização mediastinal é típica do subtipo esclerose nodular",
+          "**V**",
+          "Oficial (Prova 147)"
+        ],
+        [
+          "Alguns casos são associados ao vírus Epstein-Barr",
+          "**V**",
+          "Oficial (Prova 147)"
+        ],
+        [
+          "Tuberculose é um dos principais diferenciais na linfonodomegalia cervical com sudorese, febre e perda de peso",
+          "**V**",
+          "Oficial (Prova 145)"
+        ],
+        [
+          "Os marcadores devem ser positivos em todas as células da massa tumoral",
+          "**F**",
+          "Oficial (Prova 147)"
+        ],
+        [
+          "O estágio III da doença cursa com leucemização",
+          "**F**",
+          "Oficial (Prova 145)"
+        ],
+        [
+          "Cada subtipo apresenta um perfil imuno-histoquímico específico",
+          "**F**",
+          "Oficial (prova sem ano)"
+        ]
+      ],
+      "comparacao": false
+    },
+    {
+      "id": "b44",
+      "tipo": "resumo",
+      "itens": [
+        "Hodgkin = **poucas células de Reed-Sternberg** (menos de 1%) em **fundo inflamatório reativo**. A IHQ é lida **só na célula RS**.",
+        "RS diagnóstica: grande, **dois núcleos em espelho**, **nucléolo eosinofílico** (“olho de coruja”). Para a prova, RS = célula de Hodgkin.",
+        "Variantes: **lacunar** → esclerose nodular; **pipoca** (linfo-histiocitária) → PLN; **diagnóstica e mononuclear** → celularidade mista, rico em linfócitos, depleção.",
+        "Comportamento: **bimodal**, dissemina por **contiguidade**, quase sempre nodal, efeito de massa (mediastino), estádio I–II ao diagnóstico.",
+        "IHQ: **clássico** CD15 +, CD30 +, PAX-5 + fraco, CD20 −, CD45 −. **Não clássico (PLN)** ao contrário: CD20 +, CD45 +, CD15 −, CD30 −.",
+        "Diferenciais da célula RS: **mononucleose infecciosa** e **LNH difuso de grandes células B** (CD20 difuso +). Burkitt não entra."
+      ]
+    }
+  ]
+}

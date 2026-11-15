@@ -1,0 +1,400 @@
+{
+  "id": "lin-05",
+  "modulo": "linfomas",
+  "ordem": 5,
+  "titulo": "LNH indolentes: folicular e companhia",
+  "minutos": 20,
+  "prioridade": "alta",
+  "topicos": ["lin-lnh-geral", "lin-folicular", "lfa-hiperplasia-vs-linfoma-folicular", "lin-malt", "lin-manto", "lin-llc"],
+  "resumo": "Você vai colocar cada LNH em uma das três gavetas de comportamento e dominar o linfoma folicular — do BCL-2 à resposta-modelo do caso que mais se repete nas provas — além de MALT, manto e LLC.",
+  "objetivos": [
+    "Separar os LNH em indolentes, agressivos e altamente agressivos por idade, medula óssea e resposta ao tratamento",
+    "Explicar por que o linfoma folicular cresce devagar (BCL-2, menos apoptose)",
+    "Diferenciar linfoma folicular de hiperplasia folicular com os mesmos critérios, lado a lado",
+    "Escrever a resposta-modelo do caso do homem HIV positivo com seis gatos",
+    "Reconhecer MALT, células do manto e LLC pelas assinaturas que já caíram"
+  ],
+  "blocos": [
+    {
+      "id": "b01",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Como isso cai",
+      "md": "O caso do **homem de 60 anos, HIV positivo, com seis gatos**, folículos sem coroa e gordura invadida caiu na Prova 145 (22.2), em outra prova sem data, no compilado e de novo na **Prova 151 (25.2)**. Pedem sempre: **diagnóstico completo**, duas características morfológicas, dois marcadores com + ou − e um diferencial. Também já caiu a discursiva *“Qual é a diferença entre a hiperplasia folicular e o linfoma folicular?”* e múltipla escolha de MALT, manto e BCL-2."
+    },
+    {
+      "id": "b02",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Recado do professor: diagnóstico completo",
+      "md": "Escreva sempre **“Linfoma não Hodgkin”** antes do tipo: *Linfoma não Hodgkin, tipo folicular*; *Linfoma não Hodgkin, tipo de Burkitt*; *Linfoma não Hodgkin MALT gástrico*. Diagnóstico incompleto perde ponto — e ele já avisou que pode zerar a questão."
+    },
+    {
+      "id": "b03",
+      "tipo": "titulo",
+      "texto": "As três gavetas de comportamento"
+    },
+    {
+      "id": "b04",
+      "tipo": "texto",
+      "md": "O professor divide os LNH em **indolentes, agressivos e altamente agressivos**. A lógica é uma só: quanto mais a célula prolifera, mais rápido o tumor cresce — e mais sensível ele fica à quimioterapia. Antes de decorar qualquer linfoma, coloque-o em uma dessas três gavetas."
+    },
+    {
+      "id": "b05",
+      "tipo": "tabela",
+      "titulo": "Os três grupos de LNH",
+      "comparacao": true,
+      "colunas": ["Critério", "Indolentes", "Agressivos", "Altamente agressivos"],
+      "linhas": [
+        ["Exemplo da aula", "**Folicular**; linfocítico/LLC", "**Difuso de grandes células B**", "**Burkitt**"],
+        ["Idade", "Idosos; raros em jovens, praticamente inexistentes em crianças", "Adultos, mas podem incidir em qualquer idade", "Principalmente faixa pediátrica"],
+        ["Curso clínico", "Arrastado", "Agressivo; pode levar a óbito em pouco tempo", "Extremamente rápido; morte em semanas ou meses"],
+        ["Medula óssea ao diagnóstico", "**Frequentemente acometida** (já disseminado)", "**Não é comum**", "**Frequentemente positiva**"],
+        ["Estádio ao diagnóstico", "III e IV", "I, II ou III", "III e IV"],
+        ["Resposta ao tratamento", "**Ruim**: baixa taxa de proliferação", "Responde à quimioterapia agressiva; sobrevida de 40 a 50%", "Responde à terapêutica altamente agressiva; sobrevida em torno de 50%"],
+        ["Leucemização ao diagnóstico (já caiu, gabarito oficial)", "Por vezes", "—", "Frequentemente"]
+      ]
+    },
+    {
+      "id": "b06",
+      "tipo": "destaque",
+      "estilo": "dica",
+      "titulo": "O paradoxo que a prova adora",
+      "md": "**Indolente não quer dizer fácil de tratar.** Ele cresce devagar, mas responde mal, porque o quimioterápico pega a célula que está se dividindo. O agressivo assusta, mas é mais sensível à quimioterapia. Na Prova 140, a alternativa *“quando indolentes têm boa resposta terapêutica pela baixa taxa de proliferação celular”* estava **errada**."
+    },
+    {
+      "id": "b07",
+      "tipo": "quiz",
+      "pergunta": "Qual conjunto descreve um LNH **indolente**?",
+      "opcoes": [
+        "Faixa pediátrica, medula frequentemente positiva, boa resposta à terapêutica altamente agressiva",
+        "Idosos, medula óssea frequentemente acometida ao diagnóstico, resposta ruim ao tratamento",
+        "Adultos, medula geralmente livre, sobrevida de 40 a 50% após quimioterapia agressiva",
+        "Qualquer idade, progressão por contiguidade, estádio I ou II ao diagnóstico"
+      ],
+      "correta": 1,
+      "explicacao": "Indolente = idoso, curso arrastado, já disseminado (medula óssea) e pouco sensível à quimioterapia. A primeira opção é o altamente agressivo (Burkitt), a terceira é o agressivo (difuso de grandes células B) e a última descreve o linfoma de Hodgkin. Na Prova 140, a correta era: altamente agressivos respondem com platô de cura de 50% e o transplante de medula é opção (gabarito do chat e de aluno, coerente com o resumo)."
+    },
+    {
+      "id": "b08",
+      "tipo": "titulo",
+      "texto": "Linfoma folicular: a gaveta completa"
+    },
+    {
+      "id": "b09",
+      "tipo": "cartoes",
+      "titulo": "Ficha do linfoma folicular",
+      "itens": [
+        {"titulo": "Comportamento", "texto": "Indolente: curso arrastado, mais de 60 anos, resposta ruim à quimioterapia.", "emoji": "🐢"},
+        {"titulo": "Célula de origem", "texto": "Linfócito B do centro germinativo.", "emoji": "🎯"},
+        {"titulo": "Palavra-gatilho", "texto": "Folículos numerosos e parecidos, sem coroa linfocitária, invadindo a gordura perilinfonodal.", "emoji": "🔬"},
+        {"titulo": "Imuno-histoquímica", "texto": "BCL-2+ e CD10+ (além de CD20 e BCL-6). Negativos: CD5 e ciclina D1.", "emoji": "🧪"},
+        {"titulo": "Genética", "texto": "Hiperexpressão do gene BCL-2; t(14;18) (já caiu).", "emoji": "🧬"},
+        {"titulo": "Evolução", "texto": "Medula óssea acometida, estádio III–IV; 25 a 50% viram difuso de grandes células B.", "emoji": "📈"}
+      ]
+    },
+    {
+      "id": "b10",
+      "tipo": "fluxo",
+      "titulo": "Por que ele cresce devagar",
+      "passos": [
+        {"titulo": "t(14;18)", "texto": "Translocação ligada ao BCL-2. O resumo fala só em hiperexpressão do gene; a translocação aparece nas respostas da Prova 151 (já caiu)."},
+        {"titulo": "Mais proteína BCL-2", "texto": "Proteína antiapoptótica, da membrana mitocondrial."},
+        {"titulo": "Menos apoptose", "texto": "Os linfócitos B do centro germinativo, que deveriam morrer, sobrevivem."},
+        {"titulo": "Acúmulo lento", "texto": "O tumor nasce de célula que não morre, não de célula que se divide mais."},
+        {"titulo": "Linfoma indolente", "texto": "Crescimento menos rápido que o de outros linfomas, baixa proliferação e resposta ruim à quimioterapia."}
+      ]
+    },
+    {
+      "id": "b11",
+      "tipo": "subtitulo",
+      "texto": "Morfologia: o que procurar na lâmina"
+    },
+    {
+      "id": "b12",
+      "tipo": "lista",
+      "itens": [
+        "**Arranjo nodular**: muitas nodulações, que são os folículos; pode haver áreas difusas (“mar de células”).",
+        "Folículos **mais ou menos do mesmo tamanho**.",
+        "A **coroa linfocitária desaparece** ao redor do centro germinativo.",
+        "**Invade a gordura perilinfonodal** (e o seio periférico, segundo um gabarito oficial).",
+        "Composição mista de **centrócitos e centroblastos**."
+      ]
+    },
+    {
+      "id": "b13",
+      "tipo": "tabela",
+      "titulo": "Centrócito × centroblasto",
+      "comparacao": true,
+      "colunas": ["Critério", "Centrócito", "Centroblasto"],
+      "linhas": [
+        ["Tamanho", "Pequeno a médio", "Grande, blástico"],
+        ["Zona do centro germinativo", "Parte **clara**", "Parte **escura**"],
+        ["No folicular de baixo grau (já caiu)", "**Predomina**", "Minoria — “50% de centroblastos” foi a alternativa **errada** da Prova 140"],
+        ["Detalhe (resposta da Prova 151, NotebookLM)", "Cromatina condensada, núcleo de contorno irregular ou clivado", "—"]
+      ]
+    },
+    {
+      "id": "b14",
+      "tipo": "foto",
+      "ref": "foto_linfoma_folicular",
+      "legenda": "Linfoma folicular: folículos neoplásicos numerosos, de tamanho parecido, sem coroa linfocitária nítida."
+    },
+    {
+      "id": "b15",
+      "tipo": "destaque",
+      "estilo": "professor",
+      "titulo": "Recado do professor",
+      "md": "**Não basta invadir a gordura para ser linfoma folicular.** Precisa do conjunto de características — e, principalmente, do **BCL-2 positivo**."
+    },
+    {
+      "id": "b16",
+      "tipo": "subtitulo",
+      "texto": "Imuno-histoquímica: positivos e negativos"
+    },
+    {
+      "id": "b17",
+      "tipo": "tabela",
+      "titulo": "Imuno-histoquímica do linfoma folicular",
+      "comparacao": false,
+      "colunas": ["Grupo", "Marcadores", "Leitura"],
+      "linhas": [
+        ["Marcadores B — positivos", "CD20, CD19, CD22, CD79a, PAX-5", "Linhagem B (o CD20 costuma vir no enunciado)"],
+        ["Centro germinativo — positivos", "**CD10** e BCL-6", "Origem no centro germinativo"],
+        ["O decisivo — positivo", "**BCL-2**", "Positivo no centro folicular: separa da hiperplasia folicular"],
+        ["Negativos", "**CD5** e **ciclina D1**; CD3 (e CD2, CD4, CD7)", "Afasta células do manto e linhagem T"]
+      ]
+    },
+    {
+      "id": "b18",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo: dois marcadores com sinal",
+      "md": "Positivos: **BCL-2 e CD10**. Negativos: **CD5 e ciclina D1**. (Ki-67 não entra aqui: é índice de proliferação, não marcador — e no folicular a proliferação é baixa.)"
+    },
+    {
+      "id": "b19",
+      "tipo": "revelar",
+      "pergunta": "De memória: duas características morfológicas que sustentam linfoma folicular e o motivo biológico do BCL-2 positivo.",
+      "resposta": "**Morfologia:** desaparecimento da coroa linfocitária e invasão da gordura perilinfonodal (folículos numerosos e de tamanho parecido também vale). **BCL-2:** proteína antiapoptótica hiperexpressa — os linfócitos B do centro germinativo deixam de morrer e se acumulam. Por isso o BCL-2 marca o centro folicular no linfoma e não marca na hiperplasia."
+    },
+    {
+      "id": "b20",
+      "tipo": "titulo",
+      "texto": "Folicular × hiperplasia folicular, lado a lado"
+    },
+    {
+      "id": "b21",
+      "tipo": "texto",
+      "md": "Das linfadenopatias inespecíficas (hiperplasia folicular, hiperplasia paracortical e histiocitose sinusal), a que faz diagnóstico diferencial com o linfoma folicular é a **hiperplasia folicular**. As duas enchem o linfonodo de folículos. O que muda é como esses folículos se comportam."
+    },
+    {
+      "id": "b22",
+      "tipo": "figura",
+      "ref": "fig_hiperplasia_vs_linfoma_folicular",
+      "legenda": "À esquerda, hiperplasia: folículos de tamanhos variados, com coroa, dentro da cápsula. À direita, linfoma folicular: folículos parecidos, sem coroa, invadindo a gordura."
+    },
+    {
+      "id": "b23",
+      "tipo": "tabela",
+      "titulo": "Hiperplasia folicular × linfoma folicular",
+      "comparacao": true,
+      "colunas": ["Critério", "Hiperplasia folicular (reacional)", "Linfoma não Hodgkin, tipo folicular"],
+      "linhas": [
+        ["BCL-2 no centro germinativo", "**Negativo**", "**Positivo** (principal característica)"],
+        ["Coroa linfocitária", "Presente, bem visível", "Desaparece (reduzida, praticamente extinta)"],
+        ["Tamanho dos folículos", "Bem diferentes entre si", "Mais ou menos iguais"],
+        ["Gordura perilinfonodal e seio periférico", "Não invade", "**Invade**"],
+        ["Arquitetura do linfonodo", "Preservada", "Perdida"],
+        ["Mitoses e macrófagos nos folículos", "Frequentes", "Raros ou ausentes"],
+        ["Zonas clara e escura do centro germinativo", "Detectáveis", "Não detectáveis"]
+      ]
+    },
+    {
+      "id": "b24",
+      "tipo": "quiz",
+      "pergunta": "Mulher, 65 anos, linfonodo aumentado, firme e doloroso. Cortical espessada por numerosos folículos com centros germinativos proeminentes: células pequenas hipercromáticas, **células grandes e claras com restos nucleares fagocitados** e figuras de mitose. Medular e cápsula preservadas. Diagnóstico?",
+      "opcoes": [
+        "Linfoma não Hodgkin, tipo folicular",
+        "Linfoma não Hodgkin, tipo de Burkitt",
+        "Hiperplasia linfoide folicular",
+        "Linfoma de Hodgkin, tipo rico em linfócitos"
+      ],
+      "correta": 2,
+      "explicacao": "Prova 148 (gabarito de aluno, coerente com o resumo e com o gabarito oficial de outra prova). Mitoses, macrófagos com restos fagocitados, mistura de células e **cápsula preservada** são sinais de folículo reacional. No linfoma folicular a lesão sai do linfonodo e invade a gordura. E macrófago com restos fagocitados não é sinônimo de Burkitt: aqui ele está dentro de um centro germinativo benigno."
+    },
+    {
+      "id": "b25",
+      "tipo": "destaque",
+      "estilo": "frase",
+      "titulo": "Frase-modelo: “qual é a diferença entre hiperplasia e linfoma folicular?”",
+      "md": "No **linfoma folicular**, a coroa linfocitária está reduzida, praticamente extinta, os folículos têm tamanho semelhante e a lesão sai do linfonodo, invadindo a gordura e o seio periférico; o BCL-2 é positivo. Na **hiperplasia folicular**, a coroa é bem visível, não há invasão, a arquitetura do linfonodo está preservada, há mitoses frequentes, macrófagos e zonas clara e escura detectáveis; o BCL-2 é negativo."
+    },
+    {
+      "id": "b26",
+      "tipo": "titulo",
+      "texto": "Clínica, estadiamento e evolução"
+    },
+    {
+      "id": "b27",
+      "tipo": "lista",
+      "itens": [
+        "**Quem:** mais de 60 anos, homens e mulheres igualmente. É o segundo LNH mais comum do Brasil.",
+        "**Como chega:** aumento progressivo de linfonodos periféricos e centrais (abdominais e torácicos), às vezes com esplenomegalia.",
+        "**Estadiamento:** biópsia de **medula óssea na crista ilíaca** — e a medula estará acometida. Estádio III ou IV ao diagnóstico é comum.",
+        "**Transformação:** 25 a 50% dos casos evoluem para **linfoma difuso de grandes células B**.",
+        "**Tratamento:** resposta ruim, pela baixa proliferação. Já caiu (resposta da Prova 151, NotebookLM): considerado incurável; a conduta pode ser só vigilância."
+      ]
+    },
+    {
+      "id": "b28",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Estadiamento: os gabaritos se contradizem",
+      "md": "Caso que já caiu: mulher de 60 anos, linfonodomegalia **cervical e axilar**, linfoma folicular. O gabarito do chat responde estádio III; o de um aluno, estádio I. Pelo Ann Arbor do resumo, são **duas cadeias do mesmo lado do diafragma (as duas acima) = estádio II**. Nenhum desses gabaritos é oficial: aplique a regra do capítulo de estadiamento em vez de decorar a resposta."
+    },
+    {
+      "id": "b29",
+      "tipo": "revelar",
+      "pergunta": "Cinco anos depois de tratar um linfoma folicular, a medula óssea mostra predomínio de **células grandes CD20+**. Explique.",
+      "resposta": "**Transformação em linfoma não Hodgkin difuso de grandes células B**, que acontece em 25 a 50% dos foliculares: as células pequenas deram lugar a células grandes de linhagem B (CD20+). Medula óssea acometida significa doença disseminada (estádio IV) e pior prognóstico. *Sem gabarito oficial: o chat responde transformação; um aluno respondeu estádio IV com medula acometida. A resposta completa junta as duas ideias.*"
+    },
+    {
+      "id": "b30",
+      "tipo": "titulo",
+      "texto": "Caso-modelo: o homem HIV positivo com seis gatos"
+    },
+    {
+      "id": "b31",
+      "tipo": "texto",
+      "md": "Homem, 60 anos, **HIV positivo**, febre, perda de peso, linfadenomegalia axilar e inguinal; convive com seis gatos e três cachorros. Biópsia: numerosas estruturas foliculares, **desaparecimento da coroa linfocitária** e **comprometimento do tecido adiposo perilinfonodal**. CD20 positivo, CD3 negativo. HIV e gatos puxam para doença reacional. A morfologia decide: é linfoma."
+    },
+    {
+      "id": "b32",
+      "tipo": "tabela",
+      "titulo": "Resposta-modelo (gabarito oficial, Prova 145)",
+      "comparacao": false,
+      "colunas": ["O que ele pergunta", "O que escrever"],
+      "linhas": [
+        ["a) Diagnóstico morfológico (COMPLETO)", "**Linfoma não Hodgkin, tipo folicular**"],
+        ["b) Duas características morfológicas", "Desaparecimento da coroa linfocitária e comprometimento da gordura perilinfonodal (também vale: numerosas estruturas foliculares)"],
+        ["c) Outros dois marcadores, com + ou −", "Positivos: **CD10, BCL-2, BCL-6**, CD79a, CD19, CD22. Negativos: CD2, CD3, CD4, CD5, CD7, **ciclina D1**. O CD20 já está no enunciado: cite *outros*."],
+        ["d) Um diagnóstico diferencial (COMPLETO), inespecífico", "**Hiperplasia linfoide (folicular) reacional**. Uma transcrição do gabarito traz “hiperplasia folicular hormonal”, com a nota “não deu pra ler direito”: o correto é *reacional*."]
+      ]
+    },
+    {
+      "id": "b33",
+      "tipo": "fluxo",
+      "titulo": "Versão Prova 151: discutir em cinco passos",
+      "passos": [
+        {"titulo": "1. Diagnóstico", "texto": "Linfoma não Hodgkin, tipo folicular. CD20+ e CD3− confirmam a linhagem B."},
+        {"titulo": "2. Morfologia", "texto": "Folículos numerosos e de tamanho parecido, sem coroa linfocitária, invadindo a gordura perilinfonodal. Mistura de centrócitos (predominam) e centroblastos."},
+        {"titulo": "3. Perfil imuno-histoquímico", "texto": "Positivos: BCL-2, CD10 e BCL-6 (além de CD20, CD79a e PAX-5). Negativos: CD3, CD5 e ciclina D1."},
+        {"titulo": "4. Evolução", "texto": "Indolente e já disseminado: axilar + inguinal são os dois lados do diafragma (estádio III), com medula óssea frequentemente acometida. Resposta ruim à quimioterapia. Transforma em difuso de grandes células B em 25 a 50%."},
+        {"titulo": "5. Diferenciais com IHQ", "texto": "Hiperplasia folicular reacional: BCL-2 negativo no centro germinativo, coroa presente. Burkitt: CD10+, mas BCL-2 negativo. Células do manto: ciclina D1+ e CD5+, com CD10 negativo."}
+      ]
+    },
+    {
+      "id": "b34",
+      "tipo": "titulo",
+      "texto": "A companhia: MALT, manto e LLC"
+    },
+    {
+      "id": "b35",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "O resumo só cita. As provas cobram.",
+      "md": "*“Nos linfomas tem que estudar tudo o que foi dito e não dito em aula.”* O resumo quase não fala de MALT, manto e LLC, mas eles caíram: **MALT** nas Provas 150, 143 e 140 e em um caso discursivo com gabarito oficial; **manto** como diferencial e na pegadinha da ciclina D1; **LLC** pela síndrome de Richter. Tudo o que vem daqui até o fim do capítulo saiu das provas."
+    },
+    {
+      "id": "b36",
+      "tipo": "fluxo",
+      "titulo": "Já caiu — MALT gástrico: da gastrite ao linfoma",
+      "passos": [
+        {"titulo": "Estômago não tem linfócito", "texto": "Para haver linfoma ali, é preciso uma condição prévia que leve linfócitos ao local (isto está no resumo)."},
+        {"titulo": "H. pylori", "texto": "Infecção bacteriana crônica, que leva tecido linfoide para a mucosa (MALT)."},
+        {"titulo": "Proliferação clonal de células B", "texto": "Linfócitos pequenos e plasmócitos, em padrão de zona marginal. População heterogênea."},
+        {"titulo": "Lesão linfoepitelial", "texto": "As células neoplásicas infiltram o epitélio."},
+        {"titulo": "Erradicação do H. pylori", "texto": "Regressão em cerca de 75% dos casos após antibióticos (Prova 140)."}
+      ]
+    },
+    {
+      "id": "b37",
+      "tipo": "lista",
+      "itens": [
+        "**Nome completo (gabarito oficial):** linfoma de células da zona marginal extranodal, tipo MALT. Para o professor: *Linfoma não Hodgkin MALT gástrico*.",
+        "**Palavra-gatilho:** lesão linfoepitelial — infiltração do epitélio por células neoplásicas (resposta oficial da Prova 150).",
+        "**IHQ (gabarito oficial):** CD20, CD19 e BCL10 **positivos**; CD5, CD23, CD10 e ciclina D1 **negativos**.",
+        "**Outros sítios:** pulmões, glândulas salivares e tireoide (aqui a condição prévia é a tireoidite de Hashimoto). Doenças autoimunes participam da patogênese.",
+        "**Diferenciais do gabarito oficial:** folicular, células do manto, zona marginal esplênica, linfoplasmocítico/Waldenström e tricoleucemia."
+      ]
+    },
+    {
+      "id": "b38",
+      "tipo": "foto",
+      "ref": "foto_malt_lesao_linfoepitelial",
+      "legenda": "Lesão linfoepitelial do linfoma MALT: linfócitos neoplásicos infiltrando o epitélio glandular."
+    },
+    {
+      "id": "b39",
+      "tipo": "destaque",
+      "estilo": "atencao",
+      "titulo": "Pegadinhas de MALT — e uma inconsistência",
+      "md": "Já foram alternativas **erradas**: idade mediana de 17 anos (o caso da prova tinha 65); infiltrado *monomórfico* (é heterogêneo); superexpressão de **ciclina D1** (isso é manto); padrão sinusoidal na medula óssea (gabarito do chat). Cuidado: na Prova 150, *“a erradicação do H. pylori é o tratamento inicial e dependente do estadiamento”* **não** era a resposta oficial, embora a Prova 140 trate a regressão após a erradicação como verdadeira. Entre as duas, marque a lesão linfoepitelial."
+    },
+    {
+      "id": "b40",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Já caiu — linfoma de células do manto",
+      "md": "Linfoma de células B maduras, que pode ter evolução agressiva. Assinatura: **ciclina D1 positiva e CD5 positivo, com CD10 negativo** — o inverso do folicular (respostas da Prova 151, NotebookLM, não oficiais). A ciclina D1 é a proteína da transição de G1 para S; na Prova 150, atribuí-la ao MALT estava errado. Complemento: a translocação do manto é a t(11;14)."
+    },
+    {
+      "id": "b41",
+      "tipo": "destaque",
+      "estilo": "prova",
+      "titulo": "Já caiu — linfocítico/LLC e síndrome de Richter",
+      "md": "O linfoma linfocítico/LLC é o outro indolente citado no resumo: a mesma doença pode ser tumor (linfoma) ou células circulantes (leucemia). **Síndrome de Richter** = transformação da LLC em linfoma difuso de grandes células B. Na Prova 143, *“rara complicação dos linfomas de alto grau”* estava errado: ela parte de um linfoma indolente (explicação do chat, não oficial). Complemento: a LLC é CD5+ e CD23+."
+    },
+    {
+      "id": "b42",
+      "tipo": "tabela",
+      "titulo": "Já caiu — os linfomas B de células pequenas, lado a lado",
+      "comparacao": true,
+      "colunas": ["Critério", "Folicular", "Células do manto", "MALT", "Linfocítico/LLC"],
+      "linhas": [
+        ["Assinatura na IHQ", "**BCL-2+ e CD10+**", "**Ciclina D1+ e CD5+**", "**BCL10+**", "CD5+ e CD23+ (Complemento)"],
+        ["CD10", "+", "−", "−", "− (Complemento)"],
+        ["CD5", "−", "+", "−", "+ (Complemento)"],
+        ["Ciclina D1", "−", "+", "−", "− (Complemento)"],
+        ["Pista no caso", "Folículos sem coroa, gordura invadida", "Entra como diferencial do folicular e do Burkitt", "Estômago, H. pylori, lesão linfoepitelial", "Forma leucêmica; pode virar grandes células (Richter)"],
+        ["Genética", "t(14;18), BCL-2", "BCL-1/ciclina D1", "—", "—"]
+      ]
+    },
+    {
+      "id": "b43",
+      "tipo": "quiz",
+      "pergunta": "A superexpressão de **ciclina D1**, proteína responsável pela transição de G1 para S, caracteriza qual linfoma?",
+      "opcoes": [
+        "Linfoma MALT",
+        "Linfoma folicular",
+        "Linfoma de células do manto",
+        "Linfoma de Burkitt"
+      ],
+      "correta": 2,
+      "explicacao": "Na Prova 150, a alternativa que atribuía a ciclina D1 ao MALT estava errada. Ciclina D1 positiva (com CD5+) é a assinatura do manto. No MALT, no folicular e no difuso de grandes células B, o gabarito lista a ciclina D1 como **negativa** — é justamente o marcador que afasta o manto."
+    },
+    {
+      "id": "b44",
+      "tipo": "resumo",
+      "itens": [
+        "**Três gavetas:** indolente (idoso, medula acometida, resposta ruim), agressivo (adulto, medula livre, responde) e altamente agressivo (criança, medula positiva, responde).",
+        "**Folicular:** célula B do centro germinativo; BCL-2 hiperexpresso → menos apoptose → acúmulo lento.",
+        "**Na lâmina:** folículos parecidos, sem coroa, invadindo gordura. Mas não basta a gordura: precisa do conjunto e do **BCL-2+**.",
+        "**IHQ:** BCL-2+, CD10+ (CD20, BCL-6); CD5− e ciclina D1−. Diferencial inespecífico: hiperplasia folicular reacional (BCL-2−, coroa presente).",
+        "**Evolução:** medula óssea, estádio III–IV; 25 a 50% transformam em difuso de grandes células B.",
+        "**Já caiu:** MALT (H. pylori, lesão linfoepitelial, BCL10+), manto (ciclina D1+, CD5+), LLC (síndrome de Richter)."
+      ]
+    }
+  ]
+}

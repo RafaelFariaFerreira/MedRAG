@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <radialGradient id="lens" cx="0.42" cy="0.38" r="0.7">
+      <stop offset="0" stop-color="#1D5A6A"/>
+      <stop offset="1" stop-color="#18304F"/>
+    </radialGradient>
+  </defs>
+  <!-- Android adaptive-icon foreground: transparent, glyph inside the central 66% safe zone -->
+  <g id="glyph" transform="translate(512 512) scale(0.62) translate(-508 -483)">
+    <!-- knowledge page behind the lens (retrieval cue) -->
+    <g transform="rotate(-10 380 360)">
+      <rect x="196" y="168" width="372" height="452" rx="52" fill="#FFFFFF" fill-opacity="0.24"/>
+      <rect x="254" y="244" width="214" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.7"/>
+      <rect x="254" y="314" width="150" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.5"/>
+    </g>
+    <!-- lens = cell membrane -->
+    <line x1="618" y1="618" x2="782" y2="782" stroke="#FFFFFF" stroke-width="108" stroke-linecap="round"/>
+    <circle cx="488" cy="488" r="196" fill="url(#lens)" stroke="#FFFFFF" stroke-width="74"/>
+    <!-- nucleus + nucleolus (microscopy cue) -->
+    <circle cx="488" cy="488" r="94" fill="#FFFFFF"/>
+    <circle cx="518" cy="458" r="31" fill="#E07A45"/>
+  </g>
+</svg>
