@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="docs/img/cover.png" alt="MedRAG: do PDF da aula à resposta com fonte, no celular" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/img/cover-dark.png">
+    <img src="docs/img/cover.png" alt="MedRAG: do PDF da aula à resposta com fonte, no celular" width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -37,32 +40,12 @@ figuras didáticas e um plano de estudo.
 
 ## Visão geral da arquitetura
 
-```mermaid
-flowchart LR
-    subgraph OFF["Offline, no computador (Python)"]
-        direction TB
-        A1["📄 Resumo das aulas<br/>PDF, 40 p."] --> B1["markitdown<br/>texto por página"]
-        A2["📄 Provas antigas<br/>PDF, 119 p."] --> B1
-        A2 --> B2["pdfimages / pdftoppm<br/>imagens e páginas"]
-        B2 --> B3["OCR multimodal<br/>1 .md por página"]
-        B1 --> C1["Fusão texto + OCR<br/>resumo.md · provas.md"]
-        B3 --> C1
-        C1 --> D1["Chunking estrutural<br/>~700–1300 caracteres"]
-        C1 --> D2["Curadoria em JSON<br/>capítulos · questões · flashcards"]
-        D2 --> V["validar.py<br/>esquema + regras"]
-    end
-
-    subgraph APP["No celular (Flutter)"]
-        direction TB
-        E1[("SQLite<br/>rag_chunks + progresso")] --> E2["BM25<br/>índice em memória"]
-        E2 --> E3["Montagem do prompt<br/>tela + trechos + pergunta"]
-        E3 --> E4["Claude API<br/>streaming SSE"]
-        E4 --> E5["💬 Resposta com<br/>fontes citadas"]
-    end
-
-    D1 -- "rag.json" --> E1
-    V -- "material.json<br/>questoes.json …" --> E1
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/img/arquitetura-dark.png">
+    <img src="docs/img/arquitetura.png" alt="Arquitetura: no computador, os PDFs passam por markitdown e OCR, são fundidos em Markdown, cortados em chunks e curados em JSON; no celular, SQLite, BM25, montagem do prompt, Claude API e resposta com fontes citadas" width="100%">
+  </picture>
+</p>
 
 | Camada | Onde | Arquivos principais |
 |---|---|---|
@@ -85,16 +68,12 @@ Este foi o problema mais trabalhoso. Os dois PDFs têm naturezas bem diferentes:
 
 A solução foi tratar texto e imagem por caminhos separados e juntá-los página a página.
 
-```mermaid
-flowchart TB
-    PDF["PDF original"] --> T["<b>Camada de texto</b><br/>markitdown (pdfminer)<br/>pdfseparate → 1 PDF por página"]
-    PDF --> I["<b>Camada de imagem</b><br/>pdfimages -png -p → img-PPP-NNN.png<br/>pdftoppm → pag-PPP.png (página inteira)"]
-    T --> TP["Texto por página<br/>(\f separa as páginas)"]
-    I --> O["OCR multimodal, página a página<br/>ocr/notes/pag-PPP.md"]
-    TP --> M{{"montar_md()<br/>une página N com o OCR da página N"}}
-    O --> M
-    M --> R["resumo.md / provas.md<br/>&lt;!-- página N --&gt;<br/>texto…<br/>### Imagens e anotações da página N (OCR)"]
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/img/ingestao-dark.png">
+    <img src="docs/img/ingestao.png" alt="Ingestão: o PDF original se divide em camada de texto (markitdown) e camada de imagem (OCR por página), que montar_md() une página a página em resumo.md e provas.md" width="100%">
+  </picture>
+</p>
 
 ### 1.1 Texto com markitdown
 
@@ -168,16 +147,12 @@ Um bom RAG depende mais de **como o texto é cortado** do que do algoritmo de bu
 caber no prompt e fazer sentido sozinho. Por isso o corte de `empacotar()` respeita a estrutura do documento
 em vez de contar caracteres às cegas:
 
-```mermaid
-flowchart LR
-    MD["resumo.md / provas.md"] --> U["Unidades<br/>título · parágrafo · lista ·<br/>questão · bloco de OCR"]
-    U --> P{"empacotar()"}
-    P -->|"cabe? (≤ 1300)"| ADD["acrescenta ao chunk atual"]
-    P -->|"chegou em ≥ 700 e vem título"| CUT["fecha o chunk<br/>(título nunca fica no fim)"]
-    P -->|"unidade grande demais"| SPLIT["corta por frases,<br/>sobrepõe 1 frase"]
-    ADD & CUT & SPLIT --> C["chunk = {fonte, seção, texto}"]
-    C --> J["rag.json · 325 chunks"]
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/img/chunking-dark.png">
+    <img src="docs/img/chunking.png" alt="Chunking: o Markdown vira unidades que empacotar() acrescenta ao chunk atual, fecha antes de um título ou corta por frases, gerando rag.json com 325 chunks" width="100%">
+  </picture>
+</p>
 
 Regras principais:
 
@@ -238,26 +213,12 @@ $$
 
 ### 3.3 Do clique à resposta
 
-```mermaid
-sequenceDiagram
-    autonumber
-    actor U as Estudante
-    participant T as Tela atual<br/>(capítulo / questão)
-    participant C as Copiloto
-    participant R as BM25 (local)
-    participant DB as SQLite
-    participant API as Claude API
-
-    U->>C: "Qual a diferença entre hiperplasia folicular e linfoma folicular?"
-    T-->>C: contexto da tela (TelaCtx: rótulo + texto visível)
-    C->>R: buscar(pergunta, reforço = contexto da tela)
-    R-->>C: até 7 chunks + fontes
-    C->>DB: salva a mensagem
-    C->>API: system (em cache) + últimas 12 trocas +<br/><contexto_da_tela> <trechos_recuperados> <pergunta>
-    API-->>C: streaming SSE (text_delta…)
-    C-->>U: resposta em tempo real, com [Resumo · Linfomas] [Prova 150]
-    C->>DB: salva a resposta + fontes
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/img/sequencia-dark.png">
+    <img src="docs/img/sequencia.png" alt="Sequência do clique à resposta: pergunta, contexto da tela, busca BM25 local, até 7 chunks, chamada à Claude API com streaming e resposta com as fontes citadas, salva no SQLite" width="100%">
+  </picture>
+</p>
 
 O prompt de cada turno separa as partes com tags XML:
 
@@ -373,8 +334,8 @@ MedRAG/
 │   ├── material/ questoes/ flashcards/   # conteúdo curado (JSON)
 │   ├── figuras/ fotos/        # ilustrações SVG/PNG e micrografias com crédito
 │   └── ESPECIFICACAO.md       # esquema do conteúdo + regras de fidelidade e de OCR
-├── tools/                     # build_content.py · validar.py · svg2png.sh · shot.sh
-└── docs/img/                  # capa e ícone deste README
+├── tools/                     # build_content.py · validar.py · gerar_arte.py · svg2png.sh · shot.sh
+└── docs/img/                  # capa, ícone e diagramas deste README (claro e escuro)
 ```
 
 ---
